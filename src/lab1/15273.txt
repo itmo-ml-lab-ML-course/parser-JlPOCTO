@@ -1,0 +1,7 @@
+Name: Oow: Zhihui Baodian
+Type: video.tv_show
+Episodes: 100
+Episode length: 480
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Dongwu Kuanghuan Jie
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: Комедия, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

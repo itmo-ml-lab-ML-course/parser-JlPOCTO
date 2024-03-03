@@ -1,0 +1,9 @@
+Name: Tiger &amp; Bunny Movie 1: The Beginning
+Type: video.movie
+Episodes: 1
+Episode length: 5580
+Genres: Экшен, Комедия, Детектив, Супер сила, 
+Rating limit: PG-13
+Rating: 7.36
+Rating numbers: 3225
+Description: Фильм основан на событиях первых двух эпизодов с новыми дополнительными сценами.

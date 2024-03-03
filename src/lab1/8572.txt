@@ -1,0 +1,8 @@
+Name: Geomjeong-gomusin 2nd Season
+Type: video.tv_show
+Episodes: 6
+Episode length: 1440
+Last episode date release: 2001-03-16
+Genres: Комедия, Детское, 
+Rating limit: PG
+Description: Нет описания

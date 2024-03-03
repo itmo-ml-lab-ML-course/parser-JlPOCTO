@@ -1,0 +1,8 @@
+Name: Punirunes
+Type: video.tv_show
+Episodes: 25
+Episode length: 720
+Last episode date release: 2023-03-26
+Genres: Фэнтези, Повседневность, Детское, 
+Rating limit: PG
+Description: Нет описания

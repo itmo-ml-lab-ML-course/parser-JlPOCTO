@@ -1,0 +1,8 @@
+Name: Cha A Er Zhong 2nd Season
+Type: video.tv_show
+Episodes: 10
+Episode length: 480
+Last episode date release: 2015-10-19
+Genres: Детское, Школа, Комедия, 
+Rating limit: G
+Description: Нет описания

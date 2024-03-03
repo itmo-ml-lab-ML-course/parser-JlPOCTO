@@ -1,0 +1,10 @@
+Name: Robot Girls Z Plus
+Type: video.tv_show
+Episodes: 6
+Episode length: 480
+Last episode date release: 2015-10-02
+Genres: Комедия, Меха, Пародия, 
+Rating limit: PG-13
+Rating: 6.32
+Rating numbers: 753
+Description: Нет описания

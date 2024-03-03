@@ -1,0 +1,9 @@
+Name: Himitsu no Akko-chan (Movie)
+Type: video.movie
+Episodes: 1
+Episode length: 1500
+Genres: Сёдзё, Школа, 
+Rating limit: G
+Rating: 5.99
+Rating numbers: 248
+Description: Нет описания

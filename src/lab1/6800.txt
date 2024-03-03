@@ -1,0 +1,7 @@
+Name: Xiao Shu He Da Xiang De Chuangyi TV
+Type: video.tv_show
+Episodes: 90
+Episode length: 780
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Xing Da Xing Donghua Xilie: Taikong Chuan
+Type: video.tv_show
+Episodes: 26
+Episode length: 780
+Genres: Детское, Приключения, Фантастика, Космос, 
+Rating limit: PG
+Description: Нет описания

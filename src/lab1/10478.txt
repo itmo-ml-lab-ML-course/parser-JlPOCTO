@@ -1,0 +1,10 @@
+Name: Tamayura: More Aggressive
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2013-09-18
+Genres: Повседневность, 
+Rating limit: G
+Rating: 7.58
+Rating numbers: 2550
+Description: Новые приключения, новые знакомства и новые друзья. Этот сезон еще больше насыщен переменами в жизни нашей героини Фу Саватари. Она узнает много нового о своем отце и непременно создаст в школе свой клуб фотографии. Но удастся ли ей это?

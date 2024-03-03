@@ -1,0 +1,9 @@
+Name: Shakugan no Shana-tan Movie
+Type: video.other
+Episodes: 1
+Episode length: 300
+Genres: Приключения, Комедия, Фэнтези, Пародия, 
+Rating limit: PG-13
+Rating: 7.11
+Rating numbers: 3427
+Description: Несколько эпизодов, невошедших в фильм «Пламенный взор Шаны», выполненные в чиби-стиле и выпущенные только на BD и DVD.

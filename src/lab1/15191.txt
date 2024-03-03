@@ -1,0 +1,8 @@
+Name: Odoriko Clinoppe
+Type: video.tv_show
+Episodes: 26
+Episode length: 120
+Last episode date release: 2013-11-28
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Description: Нет описания

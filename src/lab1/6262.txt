@@ -1,0 +1,7 @@
+Name: Tu Xia Chuanqi Xuewu Pian
+Type: video.tv_show
+Episodes: 52
+Episode length: 660
+Genres: Приключения, Фэнтези, Боевые искусства, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Mini-Chara Macross
+Type: video.other
+Episodes: 1
+Episode length: 60
+Genres: Комедия, Меха, Пародия, 
+Rating limit: G
+Rating: 5.29
+Rating numbers: 873
+Description: Дополнительный тиби-эпизод по сериалу «Макросс», включённый в 20-ю юбилейную премиум-коллекцию DVD.

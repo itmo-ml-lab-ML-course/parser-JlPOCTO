@@ -1,0 +1,10 @@
+Name: Alice SOS
+Type: video.tv_show
+Episodes: 28
+Episode length: 1140
+Last episode date release: 1999-01-28
+Genres: Приключения, 
+Rating limit: G
+Rating: 6.08
+Rating numbers: 340
+Description: Нет описания

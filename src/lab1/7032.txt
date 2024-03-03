@@ -1,0 +1,7 @@
+Name: Xingji Tegong Dui
+Type: video.tv_show
+Episodes: 52
+Episode length: 840
+Genres: Детское, Фантастика, Меха, 
+Rating limit: PG
+Description: Нет описания

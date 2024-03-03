@@ -1,0 +1,10 @@
+Name: Astroganger
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Last episode date release: 1973-03-28
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: G
+Rating: 6.28
+Rating numbers: 288
+Description: Нет описания

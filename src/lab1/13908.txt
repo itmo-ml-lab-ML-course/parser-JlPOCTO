@@ -1,0 +1,9 @@
+Name: Mimizu Monogatari
+Type: video.movie
+Episodes: 1
+Episode length: 840
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.96
+Rating numbers: 260
+Description: Нет описания

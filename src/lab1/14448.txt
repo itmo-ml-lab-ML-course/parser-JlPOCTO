@@ -1,0 +1,7 @@
+Name: Mao Er Shan de Guizi Bing
+Type: video.tv_show
+Episodes: 36
+Episode length: 900
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

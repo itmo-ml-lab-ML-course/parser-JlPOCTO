@@ -1,0 +1,7 @@
+Name: The Planet of Stray Cats
+Type: video.other
+Episodes: 13
+Episode length: 300
+Genres: Фантастика, Пародия, 
+Rating limit: PG-13
+Description: Нет описания

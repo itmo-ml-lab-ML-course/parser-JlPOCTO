@@ -1,0 +1,10 @@
+Name: Cinderella Girls Gekijou: Kayou Cinderella Theater
+Type: video.tv_show
+Episodes: 13
+Episode length: 60
+Last episode date release: 2017-06-27
+Genres: Комедия, Повседневность, 
+Rating limit: PG-13
+Rating: 6.43
+Rating numbers: 1337
+Description: Нет описания

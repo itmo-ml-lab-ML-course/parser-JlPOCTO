@@ -1,0 +1,10 @@
+Name: Chinpui
+Type: video.tv_show
+Episodes: 56
+Episode length: 1500
+Last episode date release: 1991-04-18
+Genres: Комедия, 
+Rating limit: G
+Rating: 6.57
+Rating numbers: 237
+Description: Нет описания

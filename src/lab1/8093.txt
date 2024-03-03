@@ -1,0 +1,8 @@
+Name: DinoCore Evolution Part 2
+Type: video.tv_show
+Episodes: 13
+Episode length: 660
+Last episode date release: 2019-01-05
+Genres: Экшен, Меха, Детское, 
+Rating limit: PG
+Description: Нет описания

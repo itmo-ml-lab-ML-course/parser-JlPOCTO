@@ -1,0 +1,9 @@
+Name: Omae Umasou da na
+Type: video.movie
+Episodes: 1
+Episode length: 5400
+Genres: Детское, Экшен, Приключения, Фэнтези, 
+Rating limit: G
+Rating: 8.01
+Rating numbers: 1589
+Description: Нет описания

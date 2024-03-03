@@ -1,0 +1,7 @@
+Name: Da Shipu
+Type: video.tv_show
+Episodes: 24
+Episode length: 240
+Genres: Фэнтези, 
+Rating limit: G
+Description: Нет описания

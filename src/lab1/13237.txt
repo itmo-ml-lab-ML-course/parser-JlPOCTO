@@ -1,0 +1,10 @@
+Name: AWOL
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 1998-04-01
+Genres: Экшен, Фантастика, Военное, Космос, 
+Rating limit: PG-13
+Rating: 5.33
+Rating numbers: 322
+Description: Нет описания

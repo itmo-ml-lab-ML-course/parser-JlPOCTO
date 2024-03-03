@@ -1,0 +1,8 @@
+Name: Yancharu Moncha
+Type: video.tv_show
+Episodes: 80
+Episode length: 60
+Last episode date release: 2002-03-30
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

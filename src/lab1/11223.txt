@@ -1,0 +1,10 @@
+Name: Mahoutsukai Sally 2
+Type: video.tv_show
+Episodes: 88
+Episode length: 1200
+Last episode date release: 1990-12-22
+Genres: Сёдзё, Комедия, 
+Rating limit: G
+Rating: 6.59
+Rating numbers: 428
+Description: Нет описания

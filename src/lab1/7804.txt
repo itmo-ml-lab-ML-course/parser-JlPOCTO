@@ -1,0 +1,7 @@
+Name: Chuanyue Yunnan Sanqiannian: Yun Xiao Zhi Man Youji
+Type: video.tv_show
+Episodes: 10
+Episode length: 900
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

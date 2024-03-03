@@ -1,0 +1,9 @@
+Name: Yanesenondo
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Музыка, 
+Rating limit: G
+Rating: 5.05
+Rating numbers: 249
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Chibikko Kamu no Bouken
+Type: video.movie
+Episodes: 1
+Episode length: 3900
+Genres: Детское, Приключения, 
+Rating limit: PG
+Description: Нет описания

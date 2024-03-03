@@ -1,0 +1,8 @@
+Name: Infini-T Force Movie: Gatchaman - Saraba Tomo yo
+Type: video.movie
+Episodes: 1
+Episode length: 5400
+Genres: Сэйнэн, Экшен, Фантастика, Супер сила, 
+Rating: 6.21
+Rating numbers: 1113
+Description: Нет описания

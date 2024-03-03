@@ -1,0 +1,9 @@
+Name: Pa-Pa-Pa the ★ Movie: Perman - Tako de Pon! Ashi wa Pon!
+Type: video.movie
+Episodes: 1
+Episode length: 1920
+Genres: Детское, Приключения, Комедия, Супер сила, 
+Rating limit: PG
+Rating: 6.4
+Rating numbers: 249
+Description: Нет описания

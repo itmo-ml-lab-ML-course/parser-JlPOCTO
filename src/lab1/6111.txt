@@ -1,0 +1,7 @@
+Name: Tiantian Kuaile
+Type: video.tv_show
+Episodes: 400
+Episode length: 600
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

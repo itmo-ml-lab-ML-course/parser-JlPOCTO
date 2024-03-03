@@ -1,0 +1,7 @@
+Name: Gei Dou Dou Hu De Xin
+Type: video.tv_show
+Episodes: 52
+Episode length: 600
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

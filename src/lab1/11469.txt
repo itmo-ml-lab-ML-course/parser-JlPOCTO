@@ -1,0 +1,9 @@
+Name: Nanatsu no Taizai: Ensa no Edinburgh Part 2
+Type: video.tv_show
+Episodes: 1
+Episode length: 3240
+Genres: Экшен, Приключения, Фэнтези, Сверхъестественное, 
+Rating limit: PG-13
+Rating: 6.55
+Rating numbers: 3934
+Description: Нет описания

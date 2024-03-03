@@ -1,0 +1,7 @@
+Name: Sai Er Hao Movie 5: Leishen Jue Qi
+Type: video.movie
+Episodes: 1
+Episode length: 6060
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

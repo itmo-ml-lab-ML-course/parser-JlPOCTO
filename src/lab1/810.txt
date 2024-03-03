@@ -1,0 +1,9 @@
+Name: Mahou Shoujo Lyrical Nanoha: The Movie 1st
+Type: video.movie
+Episodes: 1
+Episode length: 7800
+Genres: Экшен, Комедия, Драма, Фантастика, 
+Rating limit: R+
+Rating: 7.87
+Rating numbers: 3047
+Description: Тихий городок Умирани внезапно был втянут в водоворот интриг и политических игр неведомых, но явно высших сил. Что же решит делать девятилетняя Наноха Такамати - конечно драться! А что дальше?.. А дальше бой покажет!

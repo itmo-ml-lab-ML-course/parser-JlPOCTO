@@ -1,0 +1,9 @@
+Name: Pulsar
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 5.27
+Rating numbers: 322
+Description: Нет описания

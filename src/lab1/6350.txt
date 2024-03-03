@@ -1,0 +1,7 @@
+Name: Ujusonyeon Kaesi
+Type: video.movie
+Episodes: 1
+Episode length: 5760
+Genres: Сёнен, Экшен, Приключения, Фантастика, 
+Rating limit: G
+Description: Нет описания

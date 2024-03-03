@@ -1,0 +1,10 @@
+Name: Live On Cardliver Kakeru
+Type: video.tv_show
+Episodes: 51
+Episode length: 1380
+Last episode date release: 2009-09-27
+Genres: Фэнтези, Игры, 
+Rating limit: PG
+Rating: 6.25
+Rating numbers: 311
+Description: Нет описания

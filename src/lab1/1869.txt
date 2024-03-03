@@ -1,0 +1,10 @@
+Name: Nanatsu no Umi no Tico
+Type: video.tv_show
+Episodes: 39
+Episode length: 1380
+Last episode date release: 1994-12-18
+Genres: Приключения, Повседневность, 
+Rating limit: G
+Rating: 7.39
+Rating numbers: 774
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Yeastken.
+Type: video.tv_show
+Episodes: 5
+Last episode date release: 2019-08-20
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

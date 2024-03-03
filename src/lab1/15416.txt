@@ -1,0 +1,8 @@
+Name: Penpe to Pinpi
+Type: video.tv_show
+Episodes: 12
+Episode length: 60
+Last episode date release: 2023-03-26
+Genres: Повседневность, 
+Rating limit: G
+Description: Нет описания

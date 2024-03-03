@@ -1,0 +1,9 @@
+Name: Junk Head 1
+Type: video.movie
+Episodes: 1
+Episode length: 1800
+Genres: Фантастика, 
+Rating limit: R-17
+Rating: 6.44
+Rating numbers: 187
+Description: Нет описания

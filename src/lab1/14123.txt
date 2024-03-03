@@ -1,0 +1,9 @@
+Name: Warau Kumo
+Type: video.movie
+Episodes: 1
+Episode length: 420
+Genres: Безумие, 
+Rating limit: R+
+Rating: 4.95
+Rating numbers: 214
+Description: Нет описания

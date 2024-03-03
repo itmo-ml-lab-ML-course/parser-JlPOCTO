@@ -1,0 +1,9 @@
+Name: Suna no Akari
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Фэнтези, Музыка, 
+Rating limit: G
+Rating: 5.53
+Rating numbers: 147
+Description: Нет описания

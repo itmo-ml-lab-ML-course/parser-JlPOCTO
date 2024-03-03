@@ -1,0 +1,10 @@
+Name: Nanaka 6/17
+Type: video.tv_show
+Episodes: 12
+Episode length: 1500
+Last episode date release: 2003-03-27
+Genres: Комедия, Драма, Романтика, Сёнен, 
+Rating limit: PG-13
+Rating: 6.6
+Rating numbers: 819
+Description: Нет описания

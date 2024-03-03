@@ -1,0 +1,8 @@
+Name: McDull: Niu Hua Chen
+Type: video.tv_show
+Episodes: 11
+Episode length: 420
+Last episode date release: 2014-01-01
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

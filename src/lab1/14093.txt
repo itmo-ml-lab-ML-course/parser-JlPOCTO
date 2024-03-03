@@ -1,0 +1,9 @@
+Name: Numa no Taishou
+Type: video.movie
+Episodes: 1
+Episode length: 420
+Genres: Приключения, Комедия, 
+Rating limit: G
+Rating: 4.79
+Rating numbers: 292
+Description: Нет описания

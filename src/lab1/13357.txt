@@ -1,0 +1,9 @@
+Name: Teddy
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Повседневность, 
+Rating limit: G
+Rating: 5.27
+Rating numbers: 158
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Mogura no Adventure
+Type: video.other
+Episodes: 1
+Episode length: 480
+Genres: Детское, Приключения, 
+Rating limit: G
+Rating: 4.53
+Rating numbers: 239
+Description: Юмористическая история о кроте по имени Куро, который во сне отправился в космическое путешествие.

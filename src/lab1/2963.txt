@@ -1,0 +1,10 @@
+Name: Xue Ying Ling Zhu
+Type: video.tv_show
+Episodes: 26
+Episode length: 1140
+Last episode date release: 2019-06-06
+Genres: Экшен, Приключения, Фэнтези, Романтика, Исторический, Боевые искусства, 
+Rating limit: PG-13
+Rating: 7.17
+Rating numbers: 3021
+Description: Нет описания

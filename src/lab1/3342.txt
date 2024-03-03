@@ -1,0 +1,9 @@
+Name: Toriko Movie: Bishokushin no Special Menu
+Type: video.movie
+Episodes: 1
+Episode length: 4860
+Genres: Сёнен, Экшен, Приключения, Комедия, Фэнтези, 
+Rating limit: PG-13
+Rating: 7.09
+Rating numbers: 1852
+Description: Нет описания

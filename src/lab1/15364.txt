@@ -1,0 +1,7 @@
+Name: Panpaka Pants Movie: Bananan Oukoku no Hihou
+Type: video.movie
+Episodes: 1
+Episode length: 3780
+Genres: Детское, Приключения, 
+Rating limit: G
+Description: Нет описания

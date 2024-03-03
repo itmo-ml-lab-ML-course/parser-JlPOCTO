@@ -1,0 +1,9 @@
+Name: Ningen Doubutsuen
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Безумие, 
+Rating limit: PG-13
+Rating: 2.74
+Rating numbers: 644
+Description: Эта работа создана на основе поэмы Сюнтаро Таникавы (яп. 谷川 俊太郎; род. 1931) и рассказывает о жизни человеческого зоопарка.

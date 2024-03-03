@@ -1,0 +1,9 @@
+Name: Kekkaku Yobou
+Type: video.movie
+Episodes: 1
+Episode length: 1740
+Genres: Драма, Исторический, 
+Rating limit: G
+Rating: 5.32
+Rating numbers: 238
+Description: Нет описания

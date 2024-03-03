@@ -1,0 +1,8 @@
+Name: Chara to Otamajakushi Shima
+Type: video.tv_show
+Episodes: 40
+Episode length: 300
+Last episode date release: 2019-01-28
+Genres: Детское, Приключения, Фэнтези, 
+Rating limit: G
+Description: Нет описания

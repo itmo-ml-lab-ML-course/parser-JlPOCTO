@@ -1,0 +1,9 @@
+Name: Kamiusagi Rope Movie Episode 0
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Rating: 5.28
+Rating numbers: 227
+Description: Нет описания

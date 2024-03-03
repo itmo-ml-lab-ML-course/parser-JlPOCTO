@@ -1,0 +1,9 @@
+Name: Umi no Momotarou
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Самураи, 
+Rating limit: G
+Rating: 4.67
+Rating numbers: 336
+Description: Нет описания

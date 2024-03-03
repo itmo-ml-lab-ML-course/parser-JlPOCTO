@@ -1,0 +1,9 @@
+Name: Bonobono (TV 2016)
+Type: video.tv_show
+Episodes: 192 / ?
+Episode length: 300
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Rating: 6.38
+Rating numbers: 485
+Description: Нет описания

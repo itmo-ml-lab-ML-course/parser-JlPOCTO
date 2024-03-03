@@ -1,0 +1,7 @@
+Name: Senlin Hao Huoban: Kuaile Shenghuo
+Type: video.tv_show
+Episodes: 58
+Episode length: 600
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

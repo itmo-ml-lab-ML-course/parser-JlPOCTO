@@ -1,0 +1,7 @@
+Name: Chikool Baobei Jihua: Da Ai Wujiang
+Type: video.tv_show
+Episodes: 5
+Episode length: 540
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

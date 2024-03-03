@@ -1,0 +1,9 @@
+Name: Ni-hiki no Sanma
+Type: video.movie
+Episodes: 1
+Episode length: 1320
+Genres: Комедия, 
+Rating limit: G
+Rating: 4.75
+Rating numbers: 294
+Description: Двое путешественников находят остров, на котором никто не живёт, и решают на нём обосноваться. Однако оказывается, что интерес к острову проявили не только они.

@@ -1,0 +1,8 @@
+Name: Todag Todag Kkomo
+Type: video.tv_show
+Episodes: 18
+Episode length: 420
+Last episode date release: 2015-12-15
+Genres: Комедия, Детское, 
+Rating limit: PG
+Description: Нет описания

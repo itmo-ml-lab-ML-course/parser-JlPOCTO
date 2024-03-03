@@ -1,0 +1,9 @@
+Name: Modern No.2
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, 
+Rating limit: G
+Rating: 5.31
+Rating numbers: 336
+Description: Нет описания

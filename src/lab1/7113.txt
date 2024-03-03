@@ -1,0 +1,8 @@
+Name: Xiongmao Shouzha
+Type: video.tv_show
+Episodes: 10
+Episode length: 360
+Last episode date release: 2014-12-10
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

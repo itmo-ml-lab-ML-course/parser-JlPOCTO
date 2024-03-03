@@ -1,0 +1,7 @@
+Name: Wakuwaku Koma-chan
+Type: video.tv_show
+Episodes: 1
+Episode length: 660
+Genres: Детское, Приключения, 
+Rating limit: G
+Description: Нет описания

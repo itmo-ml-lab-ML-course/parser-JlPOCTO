@@ -1,0 +1,7 @@
+Name: Pili Yongshi: Yuanqi Yongzhe
+Type: video.tv_show
+Episodes: 52
+Episode length: 1440
+Genres: Фантастика, Меха, Детское, 
+Rating limit: PG
+Description: Нет описания

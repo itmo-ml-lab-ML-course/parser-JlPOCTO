@@ -1,0 +1,9 @@
+Name: A Ripple in Time
+Type: video.tv_show
+Episodes: 1
+Episode length: 360
+Genres: Детское, Приключения, Игры, 
+Rating limit: PG
+Rating: 6.12
+Rating numbers: 650
+Description: Нет описания

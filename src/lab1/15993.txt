@@ -1,0 +1,8 @@
+Name: Sasurai-kun
+Type: video.tv_show
+Episodes: 13
+Episode length: 1500
+Last episode date release: 1992-06-30
+Genres: Комедия, Повседневность, 
+Rating limit: PG-13
+Description: Нет описания

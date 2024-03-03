@@ -1,0 +1,10 @@
+Name: Tian Mei De Yao Hen
+Type: video.tv_show
+Episodes: 12
+Episode length: 600
+Last episode date release: 2022-11-03
+Genres: Драма, Романтика, Сверхъестественное, Вампиры, 
+Rating limit: PG-13
+Rating: 6.54
+Rating numbers: 5146
+Description: Нет описания

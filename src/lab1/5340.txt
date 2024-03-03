@@ -1,0 +1,9 @@
+Name: Tekkamen wo Oe: &quot;d&#39;Artagnan Monogatari&quot; yori
+Type: video.other
+Episodes: 1
+Episode length: 1500
+Genres: Экшен, Исторический, 
+Rating limit: G
+Rating: 5.98
+Rating numbers: 306
+Description: Нет описания

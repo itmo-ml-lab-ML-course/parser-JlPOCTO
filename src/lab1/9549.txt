@@ -1,0 +1,9 @@
+Name: BanG Dream! Movie: Episode of Roselia - II: Song I Am.
+Type: video.movie
+Episodes: 1
+Episode length: 4200
+Genres: Музыка, 
+Rating limit: PG-13
+Rating: 8.05
+Rating numbers: 1634
+Description: Нет описания

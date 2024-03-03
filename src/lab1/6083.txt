@@ -1,0 +1,7 @@
+Name: Tian Tian Hao Xiguan
+Type: video.tv_show
+Episodes: 57
+Episode length: 480
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

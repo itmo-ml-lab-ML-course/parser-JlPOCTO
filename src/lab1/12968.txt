@@ -1,0 +1,10 @@
+Name: Oyako Club
+Type: video.tv_show
+Episodes: 1818
+Episode length: 300
+Last episode date release: 2013-03-30
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Rating: 5.42
+Rating numbers: 212
+Description: Нет описания

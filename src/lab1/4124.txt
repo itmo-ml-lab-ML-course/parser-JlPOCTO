@@ -1,0 +1,9 @@
+Name: Eiga de Toujou! Tamagotchi Dokidoki! Uchuu no Maigotchi!?
+Type: video.movie
+Episodes: 1
+Episode length: 5220
+Genres: Детское, 
+Rating limit: G
+Rating: 6.23
+Rating numbers: 184
+Description: Нет описания

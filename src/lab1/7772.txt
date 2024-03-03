@@ -1,0 +1,7 @@
+Name: Chong Chongwu Yu
+Type: video.tv_show
+Episodes: 25
+Episode length: 300
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

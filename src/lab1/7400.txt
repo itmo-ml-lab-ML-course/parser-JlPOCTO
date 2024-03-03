@@ -1,0 +1,7 @@
+Name: BeyWarriors: Cyborg
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Genres: Экшен, Фантастика, 
+Rating limit: PG
+Description: Нет описания

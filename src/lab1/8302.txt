@@ -1,0 +1,8 @@
+Name: Ekimemo!
+Type: video.tv_show
+Episodes: 3
+Episode length: 180
+Last episode date release: 2018-02-14
+Genres: 
+Rating limit: G
+Description: Нет описания

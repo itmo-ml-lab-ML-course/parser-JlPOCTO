@@ -1,0 +1,10 @@
+Name: Usavich V
+Type: video.tv_show
+Episodes: 13
+Episode length: 60
+Last episode date release: 2013-07-12
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.26
+Rating numbers: 929
+Description: После очередного побега от милиции, знакомые нам зайцы решают укрыться в лесу. Там они встречают злоумышленника, который хочет похитить их сокровища. Удастся ли нашим зайцами дать отпор злоумышленнику и сохранить свои сокровища?

@@ -1,0 +1,6 @@
+Name: Dr. Stone: Science Future
+Type: video.tv_show
+Episodes: 1
+Genres: Приключения, Комедия, Фантастика, Сёнен, 
+Rating limit: PG-13
+Description: Нет описания

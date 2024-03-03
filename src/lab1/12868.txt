@@ -1,0 +1,9 @@
+Name: Suiren no Hito
+Type: video.movie
+Episodes: 1
+Episode length: 960
+Genres: Драма, 
+Rating limit: PG
+Rating: 5.45
+Rating numbers: 208
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Ajimu: Kaigan Monogatari
+Type: video.tv_show
+Episodes: 4
+Episode length: 1680
+Last episode date release: 2002-02-24
+Genres: Комедия, Драма, Романтика, Музыка, Школа, 
+Rating limit: PG-13
+Rating: 6.32
+Rating numbers: 1135
+Description: Нет описания

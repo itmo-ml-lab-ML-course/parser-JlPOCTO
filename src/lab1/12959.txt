@@ -1,0 +1,9 @@
+Name: Kumo no Ue wa Itsumo, Hare
+Type: video.tv_show
+Episodes: 1
+Episode length: 1080
+Genres: Драма, Повседневность, 
+Rating limit: PG-13
+Rating: 5.42
+Rating numbers: 556
+Description: Нет описания

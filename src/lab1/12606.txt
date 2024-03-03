@@ -1,0 +1,9 @@
+Name: Tatakae!! Ramenman (Movie)
+Type: video.movie
+Episodes: 1
+Episode length: 1500
+Genres: Сёнен, Экшен, Приключения, Боевые искусства, 
+Rating limit: PG-13
+Rating: 5.55
+Rating numbers: 305
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Geisters Movie: Inochi no Shou
+Type: video.movie
+Episodes: 1
+Episode length: 6000
+Genres: Экшен, Фантастика, Военное, 
+Rating limit: PG-13
+Description: Краткий пересказ второй половины аниме-сериала «Гейстеры».

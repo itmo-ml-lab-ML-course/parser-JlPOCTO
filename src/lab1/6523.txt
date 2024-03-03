@@ -1,0 +1,8 @@
+Name: Washimo
+Type: video.tv_show
+Episodes: 10
+Episode length: 600
+Last episode date release: 2014-03-21
+Genres: Детское, Комедия, Фантастика, Повседневность, Школа, 
+Rating limit: G
+Description: Нет описания

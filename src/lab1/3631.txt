@@ -1,0 +1,10 @@
+Name: Akadou Suzunosuke
+Type: video.tv_show
+Episodes: 52
+Episode length: 1440
+Last episode date release: 1973-03-28
+Genres: Приключения, Исторический, 
+Rating limit: PG-13
+Rating: 6.32
+Rating numbers: 292
+Description: Нет описания

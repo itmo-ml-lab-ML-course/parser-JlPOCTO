@@ -1,0 +1,8 @@
+Name: Canimals
+Type: video.tv_show
+Episodes: 26
+Episode length: 420
+Last episode date release: 2011-08-25
+Genres: Детское, Комедия, 
+Rating limit: PG
+Description: Нет описания

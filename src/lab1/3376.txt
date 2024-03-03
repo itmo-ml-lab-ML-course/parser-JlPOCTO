@@ -1,0 +1,10 @@
+Name: Anime Himitsu no Hanazono
+Type: video.tv_show
+Episodes: 39
+Episode length: 1500
+Last episode date release: 1992-03-27
+Genres: Драма, Исторический, 
+Rating limit: G
+Rating: 7.08
+Rating numbers: 605
+Description: Нет описания

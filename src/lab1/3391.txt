@@ -1,0 +1,9 @@
+Name: Gundam: G no Reconguista Movie IV - Gekitou ni Sakebu Ai
+Type: video.movie
+Episodes: 1
+Episode length: 6060
+Genres: Экшен, Фантастика, Меха, Космос, 
+Rating limit: PG-13
+Rating: 7.08
+Rating numbers: 666
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Meng Cai Jiadao
+Type: video.tv_show
+Episodes: 78
+Episode length: 180
+Genres: Детское, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

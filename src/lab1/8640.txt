@@ -1,0 +1,8 @@
+Name: Gra-P &amp; Rodeo
+Type: video.tv_show
+Episodes: 61
+Episode length: 120
+Last episode date release: 2015-12-29
+Genres: Комедия, Музыка, 
+Rating limit: PG-13
+Description: Родео — простой старшеклассник, который хочет собрать музыкальную группу «GRANRODEO». ГураПи, называющий себя музыкальным продюсером из будущего, стремится помочь ему в этом.

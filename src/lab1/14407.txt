@@ -1,0 +1,9 @@
+Name: Uju Heukgisa
+Type: video.movie
+Episodes: 1
+Episode length: 4800
+Genres: Экшен, Фантастика, Космос, 
+Rating limit: PG
+Rating: 4.28
+Rating numbers: 224
+Description: Нет описания

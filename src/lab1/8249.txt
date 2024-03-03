@@ -1,0 +1,8 @@
+Name: Duel Masters King!
+Type: video.tv_show
+Episodes: 43
+Episode length: 1440
+Last episode date release: 2022-03-27
+Genres: Детское, Экшен, Приключения, Комедия, Фэнтези, 
+Rating limit: G
+Description: Нет описания

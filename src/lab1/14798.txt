@@ -1,0 +1,7 @@
+Name: Mojimusi Shanhai Man You Ji
+Type: video.tv_show
+Episodes: 13
+Episode length: 240
+Genres: Детское, Приключения, 
+Rating limit: PG
+Description: Нет описания

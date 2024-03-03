@@ -1,0 +1,8 @@
+Name: Xiao Pang Niu
+Type: video.movie
+Episodes: 10
+Episode length: 540
+Last episode date release: 2013-01-01
+Genres: Фэнтези, 
+Rating limit: G
+Description: Нет описания

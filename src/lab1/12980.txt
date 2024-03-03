@@ -1,0 +1,9 @@
+Name: Gaza: Changing the World
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Драма, Сверхъестественное, 
+Rating limit: PG-13
+Rating: 5.42
+Rating numbers: 334
+Description: Нет описания

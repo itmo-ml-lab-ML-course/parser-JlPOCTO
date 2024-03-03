@@ -1,0 +1,9 @@
+Name: Ohayou! Spank (Movie)
+Type: video.movie
+Episodes: 1
+Episode length: 5940
+Genres: Комедия, Романтика, Повседневность, 
+Rating limit: G
+Rating: 6.01
+Rating numbers: 207
+Description: Нет описания

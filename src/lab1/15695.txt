@@ -1,0 +1,8 @@
+Name: Quwei San Shi Liu Ji
+Type: video.tv_show
+Episodes: 36
+Episode length: 840
+Last episode date release: 2010-12-01
+Genres: Приключения, 
+Rating limit: PG
+Description: Нет описания

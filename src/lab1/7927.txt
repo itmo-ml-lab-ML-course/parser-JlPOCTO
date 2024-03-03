@@ -1,0 +1,7 @@
+Name: Da Nao Xiyou
+Type: video.movie
+Episodes: 1
+Episode length: 5520
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

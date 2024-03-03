@@ -1,0 +1,7 @@
+Name: Tobacco Kumo
+Type: video.movie
+Episodes: 1
+Episode length: 660
+Genres: Драма, 
+Rating limit: G
+Description: Нет описания

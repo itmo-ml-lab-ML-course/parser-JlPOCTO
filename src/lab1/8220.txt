@@ -1,0 +1,8 @@
+Name: Dragon Egg
+Type: video.tv_show
+Episodes: 52
+Episode length: 1440
+Last episode date release: 2019-04-25
+Genres: Детское, Экшен, Фантастика, 
+Rating limit: G
+Description: Нет описания

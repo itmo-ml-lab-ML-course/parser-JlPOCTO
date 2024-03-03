@@ -1,0 +1,8 @@
+Name: Chilingchiling Sikeulis Jyujyu
+Type: video.tv_show
+Episodes: 182
+Episode length: 360
+Last episode date release: 2018-01-01
+Genres: Детское, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

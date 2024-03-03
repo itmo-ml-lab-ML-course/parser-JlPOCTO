@@ -1,0 +1,9 @@
+Name: Doraemon Movie 19: Nobita no Nankai Daibouken
+Type: video.movie
+Episodes: 1
+Episode length: 5460
+Genres: Приключения, Комедия, Фэнтези, Фантастика, 
+Rating limit: PG
+Rating: 7.24
+Rating numbers: 589
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Hello Carbot: Baegaggi Sidae
+Type: video.movie
+Episodes: 1
+Episode length: 5040
+Genres: Экшен, Приключения, Меха, Детское, 
+Rating limit: PG
+Description: Нет описания

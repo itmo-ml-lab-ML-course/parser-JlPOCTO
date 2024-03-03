@@ -1,0 +1,8 @@
+Name: Treasure Gaust
+Type: video.tv_show
+Episodes: 5
+Episode length: 300
+Last episode date release: 2007-06-15
+Genres: Игры, 
+Rating limit: PG-13
+Description: Нет описания

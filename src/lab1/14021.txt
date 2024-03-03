@@ -1,0 +1,9 @@
+Name: Oyoge ya Oyoge
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Спорт, 
+Rating limit: G
+Rating: 4.85
+Rating numbers: 292
+Description: Нет описания

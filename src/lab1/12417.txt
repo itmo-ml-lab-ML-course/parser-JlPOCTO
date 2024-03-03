@@ -1,0 +1,9 @@
+Name: Freedom Previsited
+Type: video.other
+Episodes: 1
+Episode length: 360
+Genres: Экшен, Приключения, Фантастика, 
+Rating limit: PG-13
+Rating: 6.37
+Rating numbers: 736
+Description: Специальное DVD-издание, выпущенное ограниченным тиражом. Оно включает в себя шестиминутный пролог к аниме-сериалу «Свобода», а также несколько интервью с командой создателей.

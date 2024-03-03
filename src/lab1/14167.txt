@@ -1,0 +1,10 @@
+Name: Navia Dratp
+Type: video.tv_show
+Episodes: 5
+Episode length: 120
+Last episode date release: 2005-10-27
+Genres: Фэнтези, 
+Rating limit: PG-13
+Rating: 4.72
+Rating numbers: 229
+Description: Нет описания

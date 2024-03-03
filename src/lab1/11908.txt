@@ -1,0 +1,10 @@
+Name: Shounen Hollywood: Holly Stage for 50
+Type: video.tv_show
+Episodes: 13
+Episode length: 1380
+Last episode date release: 2015-04-04
+Genres: Музыка, 
+Rating limit: PG-13
+Rating: 6.47
+Rating numbers: 1281
+Description: Прошёл почти год после первого концерта, работа в театре и ежедневные выступления стали повседневностью для «голливудских» парней. Но ребятам предстоит понять,что в шоу-бизнесе нельзя топтаться на месте, иначе можно запросто потерять всё, что принимал как должное.

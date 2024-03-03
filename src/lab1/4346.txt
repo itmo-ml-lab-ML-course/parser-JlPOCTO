@@ -1,0 +1,10 @@
+Name: Megalo Box Specials
+Type: video.other
+Episodes: 3
+Episode length: 480
+Last episode date release: 2018-11-22
+Genres: Фантастика, Спорт, 
+Rating limit: R-17
+Rating: 6.18
+Rating numbers: 3278
+Description: Дополнительные эпизоды сериала «Мегалобокс», вышедшие вместе с первыми BD/DVD-дисками.

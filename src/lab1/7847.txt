@@ -1,0 +1,8 @@
+Name: Cocomong 3
+Type: video.tv_show
+Episodes: 26
+Episode length: 660
+Last episode date release: 2015-05-28
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

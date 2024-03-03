@@ -1,0 +1,7 @@
+Name: Baitou Ye Hou: Jia Hou Zhuang Zhuang
+Type: video.tv_show
+Episodes: 26
+Episode length: 780
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

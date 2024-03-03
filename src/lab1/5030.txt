@@ -1,0 +1,9 @@
+Name: Jishu Seisaku Movie Binchou-tan
+Type: video.other
+Episodes: 1
+Episode length: 240
+Genres: Повседневность, Музыка, 
+Rating limit: G
+Rating: 6.05
+Rating numbers: 423
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Pastel Life
+Type: video.tv_show
+Episodes: 6
+Episode length: 180
+Last episode date release: 2018-06-21
+Genres: Повседневность, Музыка, 
+Rating limit: PG-13
+Rating: 6.54
+Rating numbers: 1348
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Xiaolong Qiu Qiu
+Type: video.tv_show
+Episodes: 52
+Episode length: 660
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Nine
+Type: video.other
+Episodes: 1
+Episode length: 4260
+Genres: Сёнен, Экшен, Спорт, Школа, 
+Rating limit: PG-13
+Rating: 6.06
+Rating numbers: 225
+Description: Нет описания

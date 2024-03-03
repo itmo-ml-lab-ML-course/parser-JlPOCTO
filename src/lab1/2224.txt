@@ -1,0 +1,9 @@
+Name: Precure All Stars Movie New Stage 3: Eien no Tomodachi
+Type: video.movie
+Episodes: 1
+Episode length: 4260
+Genres: 
+Rating limit: G
+Rating: 7.31
+Rating numbers: 957
+Description: Нет описания

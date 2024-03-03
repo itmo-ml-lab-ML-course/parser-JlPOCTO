@@ -1,0 +1,7 @@
+Name: Bai Ge Dao
+Type: video.tv_show
+Episodes: 52
+Episode length: 1320
+Genres: Приключения, Фантастика, 
+Rating limit: PG-13
+Description: Нет описания

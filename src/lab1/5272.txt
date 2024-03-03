@@ -1,0 +1,10 @@
+Name: Show By Rock!!: Legend of Shingan Crimsonz
+Type: video.tv_show
+Episodes: 3
+Episode length: 60
+Last episode date release: 2013-06-12
+Genres: Комедия, Музыка, 
+Rating limit: G
+Rating: 6.0
+Rating numbers: 1266
+Description: Нет описания

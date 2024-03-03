@@ -1,0 +1,9 @@
+Name: Promedicus
+Type: video.tv_show
+Episodes: 4
+Last episode date release: 2018-02-10
+Genres: Школа, 
+Rating limit: G
+Rating: 5.53
+Rating numbers: 210
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Heya
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, Комедия, 
+Rating limit: R+
+Rating: 3.89
+Rating numbers: 358
+Description: Нет описания

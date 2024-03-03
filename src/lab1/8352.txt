@@ -1,0 +1,8 @@
+Name: Fei Ren Zai 2nd Season
+Type: video.tv_show
+Episodes: 12
+Episode length: 360
+Last episode date release: 2022-10-12
+Genres: Комедия, Сверхъестественное, 
+Rating limit: PG-13
+Description: Нет описания

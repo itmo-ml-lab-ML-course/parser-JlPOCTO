@@ -1,0 +1,8 @@
+Name: Otenki Boys
+Type: video.tv_show
+Episodes: 30
+Episode length: 240
+Last episode date release: 1991-09-27
+Genres: Детское, Супер сила, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Xiaolu Xingren Er: Nuan Meng Xiao Juchang
+Type: video.tv_show
+Episodes: 109
+Episode length: 60
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

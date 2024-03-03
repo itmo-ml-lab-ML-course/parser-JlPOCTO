@@ -1,0 +1,10 @@
+Name: Kagejitsu!
+Type: video.tv_show
+Episodes: 17
+Episode length: 120
+Last episode date release: 2023-02-15
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 7.1
+Rating numbers: 3888
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Aos
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Безумие, Фэнтези, 
+Rating limit: R+
+Rating: 3.6
+Rating numbers: 486
+Description: Нет описания

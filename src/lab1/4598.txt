@@ -1,0 +1,9 @@
+Name: Star Fox Zero: The Battle Begins
+Type: video.tv_show
+Episodes: 1
+Episode length: 840
+Genres: Экшен, Фантастика, Космос, 
+Rating limit: G
+Rating: 6.13
+Rating numbers: 496
+Description: Нет описания

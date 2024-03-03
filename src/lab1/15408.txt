@@ -1,0 +1,7 @@
+Name: Pen &amp; Magic
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Фэнтези, 
+Rating limit: G
+Description: Нет описания

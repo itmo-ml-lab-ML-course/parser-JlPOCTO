@@ -1,0 +1,9 @@
+Name: Doubutsu Tonarigumi
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Детское, Комедия, Исторический, 
+Rating limit: G
+Rating: 5.1
+Rating numbers: 226
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Doraemon Movie 39: Nobita no Getsumen Tansaki
+Type: video.movie
+Episodes: 1
+Episode length: 6660
+Genres: Детское, Приключения, Фэнтези, Фантастика, Космос, 
+Rating limit: PG
+Rating: 7.29
+Rating numbers: 717
+Description: Нет описания

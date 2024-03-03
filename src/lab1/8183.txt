@@ -1,0 +1,7 @@
+Name: Dou Dou Hu Zheng Shi Tianxia
+Type: video.tv_show
+Episodes: 52
+Episode length: 840
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

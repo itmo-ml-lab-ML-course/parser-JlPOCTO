@@ -1,0 +1,5 @@
+Name: One Room, Hiatari Futsuu, Tenshi-tsuki.
+Type: video.tv_show
+Episodes: 1
+Genres: Комедия, Романтика, Сверхъестественное, Сёнен, 
+Description: Нет описания

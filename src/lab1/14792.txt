@@ -1,0 +1,7 @@
+Name: Mogui Xinpian
+Type: video.tv_show
+Episodes: 26
+Episode length: 1320
+Genres: Приключения, Фэнтези, Фантастика, Детское, 
+Rating limit: PG
+Description: Нет описания

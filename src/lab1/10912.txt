@@ -1,0 +1,10 @@
+Name: Wangu Xian Qiong II
+Type: video.tv_show
+Episodes: 12
+Episode length: 900
+Last episode date release: 2018-05-31
+Genres: Приключения, Комедия, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.66
+Rating numbers: 2085
+Description: Нет описания

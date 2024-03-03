@@ -1,0 +1,9 @@
+Name: Jungle Taitei Movie
+Type: video.movie
+Episodes: 1
+Episode length: 4440
+Genres: Сёнен, Приключения, 
+Rating limit: G
+Rating: 6.44
+Rating numbers: 444
+Description: Нет описания

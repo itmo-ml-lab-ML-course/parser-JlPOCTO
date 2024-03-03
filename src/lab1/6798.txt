@@ -1,0 +1,7 @@
+Name: Xiao Shiye Ketang: Yangsheng Pian
+Type: video.tv_show
+Episodes: 26
+Episode length: 60
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

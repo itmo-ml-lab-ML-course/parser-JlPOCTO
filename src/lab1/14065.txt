@@ -1,0 +1,9 @@
+Name: Taku Boda
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.81
+Rating numbers: 204
+Description: Нет описания

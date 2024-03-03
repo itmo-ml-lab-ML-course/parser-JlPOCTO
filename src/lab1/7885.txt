@@ -1,0 +1,7 @@
+Name: Coyote no Kubikazari
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Фэнтези, 
+Rating limit: R-17
+Description: Нет описания

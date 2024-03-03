@@ -1,0 +1,10 @@
+Name: Kaidan Restaurant
+Type: video.tv_show
+Episodes: 23
+Episode length: 1140
+Last episode date release: 2010-06-08
+Genres: Детское, Ужасы, Детектив, Сверхъестественное, 
+Rating limit: PG
+Rating: 7.24
+Rating numbers: 5873
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Yans! Gans! Meat or Die
+Type: video.tv_show
+Episodes: 12
+Episode length: 60
+Last episode date release: 2010-01-01
+Genres: Приключения, Комедия, 
+Rating limit: PG
+Rating: 5.2
+Rating numbers: 159
+Description: Нет описания

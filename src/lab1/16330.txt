@@ -1,0 +1,5 @@
+Name: Gimai Seikatsu
+Type: video.tv_show
+Episodes: 1
+Genres: Романтика, 
+Description: Нет описания

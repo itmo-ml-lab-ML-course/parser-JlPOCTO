@@ -1,0 +1,9 @@
+Name: Notation of Rotating Earth
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Музыка, 
+Rating limit: G
+Rating: 5.24
+Rating numbers: 164
+Description: Выпускной фильм Такаси Охаси, который состоит из 360-градусной покадровой съёмки района Дайба в Токио в сопровождении классической музыки.

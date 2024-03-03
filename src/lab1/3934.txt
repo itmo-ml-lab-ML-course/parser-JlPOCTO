@@ -1,0 +1,10 @@
+Name: Wo Zai Xianjie Zheng Jifen
+Type: video.tv_show
+Episodes: 40
+Episode length: 540
+Last episode date release: 2023-03-18
+Genres: Экшен, Фэнтези, Боевые искусства, 
+Rating limit: PG-13
+Rating: 6.26
+Rating numbers: 1147
+Description: Нет описания

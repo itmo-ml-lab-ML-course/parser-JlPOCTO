@@ -1,0 +1,7 @@
+Name: Wanhuatong Li De Shijie
+Type: video.tv_show
+Episodes: 20
+Episode length: 600
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

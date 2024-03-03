@@ -1,0 +1,7 @@
+Name: Sylvanian Families Movie: Freya kara no Okurimono
+Type: video.movie
+Episodes: 1
+Episode length: 3900
+Genres: Комедия, Фэнтези, Детское, 
+Rating limit: G
+Description: Нет описания

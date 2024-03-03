@@ -1,0 +1,7 @@
+Name: Mu Qi Ling 2: Sheng Tian Ling Zhong
+Type: video.tv_show
+Episodes: 52
+Episode length: 600
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

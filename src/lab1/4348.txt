@@ -1,0 +1,10 @@
+Name: Obake no... Holly
+Type: video.tv_show
+Episodes: 200
+Episode length: 600
+Last episode date release: 1993-04-12
+Genres: Детское, Комедия, Фэнтези, 
+Rating limit: G
+Rating: 6.18
+Rating numbers: 209
+Description: Нет описания

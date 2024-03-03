@@ -1,0 +1,9 @@
+Name: Ikedaya Soudou
+Type: video.movie
+Episodes: 1
+Episode length: 420
+Genres: Драма, Исторический, Самураи, 
+Rating limit: G
+Rating: 4.89
+Rating numbers: 240
+Description: Нет описания

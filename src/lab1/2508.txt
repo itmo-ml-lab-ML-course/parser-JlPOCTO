@@ -1,0 +1,9 @@
+Name: Love Live! School Idol Festival All Stars
+Type: video.tv_show
+Episodes: 1
+Episode length: 240
+Genres: Музыка, 
+Rating limit: PG-13
+Rating: 7.25
+Rating numbers: 1652
+Description: Специальный клип, посвященный выпуску игры «Love Live! School Idol Festival All Stars» на  iOS и Android.

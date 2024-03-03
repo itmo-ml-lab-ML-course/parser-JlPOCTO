@@ -1,0 +1,9 @@
+Name: Lupin Shanshei
+Type: video.other
+Episodes: 10
+Episode length: 180
+Genres: Комедия, Пародия, 
+Rating limit: PG-13
+Rating: 5.48
+Rating numbers: 1233
+Description: Нет описания

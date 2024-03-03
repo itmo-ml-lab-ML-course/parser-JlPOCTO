@@ -1,0 +1,7 @@
+Name: Xiao Xiao Huajia Xiong Xiaomi Dongwu Pian
+Type: video.tv_show
+Episodes: 250
+Episode length: 300
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

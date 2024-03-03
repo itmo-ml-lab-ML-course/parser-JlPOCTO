@@ -1,0 +1,9 @@
+Name: God Eater Resonant Ops
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Фэнтези, Фантастика, Игры, Военное, Музыка, 
+Rating limit: PG-13
+Rating: 6.07
+Rating numbers: 1820
+Description: Нет описания

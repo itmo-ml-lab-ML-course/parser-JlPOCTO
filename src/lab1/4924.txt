@@ -1,0 +1,9 @@
+Name: Touhokutou, Juunana no Sora
+Type: video.tv_show
+Episodes: 1
+Episode length: 900
+Genres: Повседневность, 
+Rating limit: G
+Rating: 6.07
+Rating numbers: 82
+Description: Нет описания

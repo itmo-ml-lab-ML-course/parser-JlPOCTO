@@ -1,0 +1,7 @@
+Name: Shaolin Hai Bao
+Type: video.tv_show
+Episodes: 51
+Episode length: 840
+Genres: Экшен, Приключения, Боевые искусства, Детское, 
+Rating limit: PG
+Description: Нет описания

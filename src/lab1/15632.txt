@@ -1,0 +1,7 @@
+Name: Qiguai de Qiusai
+Type: video.movie
+Episodes: 1
+Episode length: 1740
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

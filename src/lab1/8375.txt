@@ -1,0 +1,7 @@
+Name: Feng Shen Bang Chuanqi
+Type: video.tv_show
+Episodes: 100
+Episode length: 660
+Last episode date release: 2000-01-01
+Genres: Экшен, Фэнтези, 
+Description: Нет описания

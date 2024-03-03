@@ -1,0 +1,8 @@
+Name: Gonfu Tu Yu Cai Bao Gou
+Type: video.tv_show
+Episodes: 12
+Episode length: 480
+Last episode date release: 2014-09-04
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

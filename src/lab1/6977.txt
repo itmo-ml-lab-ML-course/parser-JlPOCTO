@@ -1,0 +1,7 @@
+Name: Xing Mao Lixian Ji Zhi Shu Fa Pian
+Type: video.tv_show
+Episodes: 26
+Episode length: 720
+Genres: Детское, Приключения, 
+Rating limit: PG
+Description: Нет описания

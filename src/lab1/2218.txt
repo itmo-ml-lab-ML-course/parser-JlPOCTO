@@ -1,0 +1,9 @@
+Name: One Piece Movie 08: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi
+Type: video.movie
+Episodes: 1
+Episode length: 5400
+Genres: Сёнен, Экшен, Приключения, Фэнтези, 
+Rating limit: PG-13
+Rating: 7.31
+Rating numbers: 9962
+Description: Фильм, кратко пересказывающий события аниме-сериала «Ван-Пис» с 92-го по 129-й эпизоды.

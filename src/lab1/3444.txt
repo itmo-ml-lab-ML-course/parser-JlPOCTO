@@ -1,0 +1,9 @@
+Name: Doraemon Movie 09: Nobita no Parallel Saiyuuki
+Type: video.movie
+Episodes: 1
+Episode length: 5400
+Genres: Приключения, Фэнтези, Фантастика, 
+Rating limit: PG
+Rating: 7.07
+Rating numbers: 588
+Description: Нет описания

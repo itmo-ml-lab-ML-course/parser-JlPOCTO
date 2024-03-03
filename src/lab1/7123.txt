@@ -1,0 +1,7 @@
+Name: Xiqu Dongman
+Type: video.tv_show
+Episodes: 97
+Episode length: 660
+Genres: Исторический, Детское, 
+Rating limit: G
+Description: Нет описания

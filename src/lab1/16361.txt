@@ -1,0 +1,6 @@
+Name: Love Live! Superstar!! 3rd Season
+Type: video.tv_show
+Episodes: 1
+Genres: Повседневность, Музыка, Школа, 
+Rating limit: PG-13
+Description: Нет описания

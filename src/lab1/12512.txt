@@ -1,0 +1,8 @@
+Name: Granblue Fantasy
+Type: video.tv_show
+Episodes: 2 / ?
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 6.36
+Rating numbers: 3020
+Description: Анимационные ролики, рекламирующие ролевую игру для смартфонов под названием Granblue Fantasy.

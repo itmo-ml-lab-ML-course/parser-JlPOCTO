@@ -1,0 +1,7 @@
+Name: Taiko no Tatsujin Anime Ba-Jon!
+Type: video.tv_show
+Episodes: 1
+Episode length: 660
+Genres: Детское, Комедия, Музыка, 
+Rating limit: G
+Description: Нет описания

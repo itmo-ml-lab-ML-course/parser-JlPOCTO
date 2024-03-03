@@ -1,0 +1,9 @@
+Name: Akuma-kun (Movie)
+Type: video.movie
+Episodes: 1
+Episode length: 2400
+Genres: Приключения, Фэнтези, Ужасы, Сверхъестественное, 
+Rating limit: G
+Rating: 5.97
+Rating numbers: 308
+Description: Нет описания

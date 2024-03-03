@@ -1,0 +1,7 @@
+Name: Tunshu Buluo
+Type: video.tv_show
+Episodes: 52
+Episode length: 600
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

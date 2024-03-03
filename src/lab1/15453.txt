@@ -1,0 +1,8 @@
+Name: Pinkfong Wonderstar
+Type: video.tv_show
+Episodes: 26
+Episode length: 660
+Last episode date release: 2020-01-09
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

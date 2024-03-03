@@ -1,0 +1,10 @@
+Name: Genei Toushi Bastof Lemon
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Last episode date release: 2001-11-15
+Genres: Приключения, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.05
+Rating numbers: 220
+Description: Нет описания

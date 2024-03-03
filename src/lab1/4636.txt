@@ -1,0 +1,9 @@
+Name: 15-fun de Wakaru Inazuma Eleven: Ares no Tenbin
+Type: video.tv_show
+Episodes: 1
+Episode length: 900
+Genres: Спорт, 
+Rating limit: G
+Rating: 6.12
+Rating numbers: 130
+Description: Нет описания

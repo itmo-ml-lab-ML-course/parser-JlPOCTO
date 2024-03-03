@@ -1,0 +1,9 @@
+Name: Kyoukai no Kanata Movie 2: I&#39;ll Be Here - Mirai-hen
+Type: video.movie
+Episodes: 1
+Episode length: 5400
+Genres: Экшен, Фэнтези, Романтика, Школа, 
+Rating limit: PG-13
+Rating: 8.15
+Rating numbers: 62073
+Description: Действие фильма берет начало спустя год после событий аниме-сериала. Акихито предстоит встретиться лицом к лицу с новой угрозой, которая намеревается добраться до Мирай, и защитить своих близких друзей.

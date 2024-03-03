@@ -1,0 +1,10 @@
+Name: Puraore! Pride of Orange
+Type: video.tv_show
+Episodes: 12
+Episode length: 1380
+Last episode date release: 2021-12-22
+Genres: Спорт, 
+Rating limit: PG-13
+Rating: 6.27
+Rating numbers: 2724
+Description: Нет описания

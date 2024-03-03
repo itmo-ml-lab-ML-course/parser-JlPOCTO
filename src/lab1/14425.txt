@@ -1,0 +1,9 @@
+Name: Fashion
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, Комедия, 
+Rating limit: G
+Rating: 4.15
+Rating numbers: 330
+Description: Экспериментальная анимационная работа за авторством Ёдзи Кури.

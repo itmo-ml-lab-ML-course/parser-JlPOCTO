@@ -1,0 +1,9 @@
+Name: Socket
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Детское, 
+Rating limit: G
+Rating: 6.03
+Rating numbers: 150
+Description: Нет описания

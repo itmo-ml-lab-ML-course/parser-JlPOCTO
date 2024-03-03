@@ -1,0 +1,10 @@
+Name: Kidou Shinsengumi Moeyo Ken TV
+Type: video.tv_show
+Episodes: 13
+Episode length: 1500
+Last episode date release: 2005-09-24
+Genres: Приключения, Комедия, Фэнтези, Исторический, 
+Rating limit: PG-13
+Rating: 6.11
+Rating numbers: 569
+Description: Нет описания

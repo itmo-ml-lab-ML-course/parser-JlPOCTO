@@ -1,0 +1,9 @@
+Name: Ultraman Graffiti
+Type: video.other
+Episodes: 6
+Episode length: 480
+Genres: Экшен, Комедия, Пародия, Супер сила, 
+Rating limit: G
+Rating: 5.49
+Rating numbers: 309
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Zoids Genesis
+Type: video.tv_show
+Episodes: 50
+Episode length: 1500
+Last episode date release: 2006-03-26
+Genres: Экшен, Приключения, Комедия, Меха, Военное, 
+Rating limit: PG-13
+Rating: 7.18
+Rating numbers: 713
+Description: Нет описания

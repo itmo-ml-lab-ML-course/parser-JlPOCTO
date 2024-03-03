@@ -1,0 +1,9 @@
+Name: Tsukiyo &amp; Opal
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, 
+Rating limit: G
+Rating: 5.15
+Rating numbers: 256
+Description: Нет описания

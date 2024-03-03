@@ -1,0 +1,10 @@
+Name: Pokemon Best Wishes!
+Type: video.tv_show
+Episodes: 84
+Episode length: 1320
+Last episode date release: 2012-06-14
+Genres: Детское, Экшен, Приключения, Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 6.42
+Rating numbers: 4839
+Description: Четвёртая серия анимационных сериалов «Покемон», основанная на видеоиграх «Pokemon Black and White» (рус. «Покемон: Чёрное и белое»).После того, как Брок и Доун покинули сериал, Эш отправляется в новое место — регион Юнова. В этом путешествии к нему присоединяется два новых тренера, Ирис и Дент.

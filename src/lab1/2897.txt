@@ -1,0 +1,10 @@
+Name: Manga Sarutobi Sasuke
+Type: video.tv_show
+Episodes: 24
+Episode length: 1200
+Last episode date release: 1980-04-15
+Genres: Приключения, Комедия, Сверхъестественное, Исторический, 
+Rating limit: PG
+Rating: 7.18
+Rating numbers: 273
+Description: Нет описания

@@ -1,0 +1,5 @@
+Name: Blue Archive the Animation
+Type: video.tv_show
+Episodes: 1
+Genres: Экшен, Фантастика, 
+Description: Нет описания

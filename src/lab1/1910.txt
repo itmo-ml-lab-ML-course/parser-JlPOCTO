@@ -1,0 +1,10 @@
+Name: Juuni Senshi Bakuretsu Eto Ranger
+Type: video.tv_show
+Episodes: 39
+Episode length: 1500
+Last episode date release: 1996-01-26
+Genres: Экшен, Комедия, Фэнтези, 
+Rating limit: PG-13
+Rating: 7.38
+Rating numbers: 290
+Description: Нет описания

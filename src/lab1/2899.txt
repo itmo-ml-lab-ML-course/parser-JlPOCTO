@@ -1,0 +1,10 @@
+Name: Mirai Keisatsu Urashiman
+Type: video.tv_show
+Episodes: 50
+Episode length: 1380
+Last episode date release: 1983-12-24
+Genres: Экшен, Комедия, Фантастика, Полиция, 
+Rating limit: PG-13
+Rating: 7.18
+Rating numbers: 434
+Description: Нет описания

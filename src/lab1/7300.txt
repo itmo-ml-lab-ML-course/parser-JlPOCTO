@@ -1,0 +1,7 @@
+Name: Bao Ji Qiangshou: AK Xiyou
+Type: video.tv_show
+Episodes: 12
+Episode length: 360
+Genres: Комедия, Пародия, 
+Rating limit: PG-13
+Description: Нет описания

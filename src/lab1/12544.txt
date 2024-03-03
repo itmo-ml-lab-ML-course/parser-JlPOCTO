@@ -1,0 +1,10 @@
+Name: Assault Lily: Fruits
+Type: video.tv_show
+Episodes: 13
+Episode length: 120
+Last episode date release: 2022-01-04
+Genres: Комедия, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.35
+Rating numbers: 674
+Description: Нет описания

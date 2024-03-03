@@ -1,0 +1,9 @@
+Name: Voy@ger
+Type: video.tv_show
+Episodes: 1
+Episode length: 480
+Genres: Фантастика, Музыка, 
+Rating limit: G
+Rating: 7.52
+Rating numbers: 967
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Beluga
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Безумие, Ужасы, 
+Rating limit: R+
+Rating: 4.49
+Rating numbers: 606
+Description: Нет описания

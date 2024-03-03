@@ -1,0 +1,8 @@
+Name: Neko Neko Gong Show
+Type: video.tv_show
+Episodes: 6
+Episode length: 60
+Last episode date release: 2015-11-16
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

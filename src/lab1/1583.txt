@@ -1,0 +1,9 @@
+Name: Doraemon Movie 26: Nobita no Kyouryuu 2006
+Type: video.movie
+Episodes: 1
+Episode length: 6420
+Genres: Детское, Приключения, Комедия, 
+Rating limit: PG
+Rating: 7.55
+Rating numbers: 847
+Description: Нет описания

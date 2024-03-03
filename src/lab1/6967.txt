@@ -1,0 +1,7 @@
+Name: Xindongfang Shen Wa (Movie)
+Type: video.movie
+Episodes: 1
+Episode length: 4800
+Genres: Приключения, Детское, 
+Rating limit: G
+Description: Нет описания

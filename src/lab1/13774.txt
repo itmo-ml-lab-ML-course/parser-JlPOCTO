@@ -1,0 +1,9 @@
+Name: Bouningen Weekend
+Type: video.tv_show
+Episodes: 20
+Last episode date release: 2016-04-27
+Genres: Повседневность, 
+Rating limit: G
+Rating: 5.05
+Rating numbers: 270
+Description: Коротенькие зарисовки повседневной жизни котика и человека, который обнаружил пушистого друга в одной из коробок на складе и решил сего найдёныша приютить, сделав тем самым счастливыми их обоих.

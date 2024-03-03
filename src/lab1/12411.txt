@@ -1,0 +1,9 @@
+Name: Atama Yama
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Безумие, Комедия, Фэнтези, Триллер, Психологическое, 
+Rating limit: PG
+Rating: 6.37
+Rating numbers: 1589
+Description: Один скупой человек проглатывает косточки вишни, пожалев их выбросить. Вишня прорастает в его голове, доставляя массу неприятностей.

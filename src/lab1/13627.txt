@@ -1,0 +1,9 @@
+Name: Kirin the Noop
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Приключения, 
+Rating limit: G
+Rating: 5.15
+Rating numbers: 260
+Description: Нет описания

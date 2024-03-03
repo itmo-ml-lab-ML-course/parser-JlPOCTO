@@ -1,0 +1,7 @@
+Name: Ganbare!! Tabuchi-kun!! (ONA)
+Type: video.tv_show
+Episodes: 10
+Episode length: 60
+Genres: Сэйнэн, Комедия, Спорт, 
+Rating limit: G
+Description: Нет описания

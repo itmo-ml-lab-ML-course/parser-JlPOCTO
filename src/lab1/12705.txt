@@ -1,0 +1,9 @@
+Name: Through the Windows
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Детское, 
+Rating limit: G
+Rating: 5.51
+Rating numbers: 239
+Description: Нет описания

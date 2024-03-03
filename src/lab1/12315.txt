@@ -1,0 +1,9 @@
+Name: Kingyo Chuuihou! (Movie)
+Type: video.movie
+Episodes: 1
+Episode length: 1260
+Genres: Экшен, Комедия, 
+Rating limit: G
+Rating: 6.39
+Rating numbers: 270
+Description: Нет описания

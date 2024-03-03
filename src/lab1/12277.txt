@@ -1,0 +1,10 @@
+Name: Gatchaman
+Type: video.other
+Episodes: 3
+Episode length: 2820
+Last episode date release: 1995-04-01
+Genres: Сёнен, Экшен, Приключения, Фантастика, Боевые искусства, Супер сила, 
+Rating limit: PG-13
+Rating: 6.4
+Rating numbers: 842
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Jagainu-kun
+Type: video.tv_show
+Episodes: 26
+Episode length: 180
+Last episode date release: 2004-07-18
+Genres: Приключения, Фэнтези, Повседневность, Детское, 
+Rating limit: G
+Rating: 6.38
+Rating numbers: 302
+Description: Нет описания

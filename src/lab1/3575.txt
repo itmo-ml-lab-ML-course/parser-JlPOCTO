@@ -1,0 +1,10 @@
+Name: Astro Boy: Tetsuwan Atom
+Type: video.tv_show
+Episodes: 50
+Episode length: 1440
+Last episode date release: 2004-03-28
+Genres: Экшен, Приключения, Фантастика, Меха, Супер сила, 
+Rating limit: G
+Rating: 7.04
+Rating numbers: 1000
+Description: Нет описания

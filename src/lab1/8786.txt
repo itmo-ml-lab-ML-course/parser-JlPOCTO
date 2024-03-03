@@ -1,0 +1,7 @@
+Name: Han Niu Yu Mu Tong
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

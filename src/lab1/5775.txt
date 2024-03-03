@@ -1,0 +1,8 @@
+Name: SOS! Chao Wei Zhichang Ren
+Type: video.tv_show
+Episodes: 7
+Episode length: 180
+Last episode date release: 2021-12-31
+Genres: Комедия, Работа, 
+Rating limit: PG-13
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Tuzi Moli
+Type: video.tv_show
+Episodes: 34
+Episode length: 600
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

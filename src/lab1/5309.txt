@@ -1,0 +1,9 @@
+Name: Elsword: Ain-ui Gieog Animation
+Type: video.tv_show
+Episodes: 1
+Episode length: 240
+Genres: Экшен, Фэнтези, 
+Rating limit: PG-13
+Rating: 5.99
+Rating numbers: 883
+Description: Нет описания

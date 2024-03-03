@@ -1,0 +1,9 @@
+Name: Zawazawa
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: 
+Rating limit: PG-13
+Rating: 4.36
+Rating numbers: 177
+Description: Нет описания

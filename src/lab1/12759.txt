@@ -1,0 +1,9 @@
+Name: Pochama Sweets
+Type: video.other
+Episodes: 1
+Episode length: 120
+Genres: Детское, Комедия, 
+Rating limit: G
+Rating: 5.5
+Rating numbers: 341
+Description: Нет описания

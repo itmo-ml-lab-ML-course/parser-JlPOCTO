@@ -1,0 +1,10 @@
+Name: Shuumatsu no Walküre II Mini Anime
+Type: video.tv_show
+Episodes: 18
+Episode length: 120
+Last episode date release: 2023-11-23
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 5.98
+Rating numbers: 1166
+Description: Нет описания

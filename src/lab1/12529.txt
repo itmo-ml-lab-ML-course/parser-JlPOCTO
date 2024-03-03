@@ -1,0 +1,10 @@
+Name: Moldiver
+Type: video.other
+Episodes: 6
+Episode length: 1740
+Last episode date release: 1993-11-25
+Genres: Экшен, Романтика, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.35
+Rating numbers: 463
+Description: Нет описания

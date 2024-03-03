@@ -1,0 +1,9 @@
+Name: Hello Kitty no Stump Village
+Type: video.tv_show
+Episodes: 26
+Episode length: 540
+Genres: Детское, Фэнтези, 
+Rating limit: G
+Rating: 6.29
+Rating numbers: 276
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Yousei Florence
+Type: video.movie
+Episodes: 1
+Episode length: 5460
+Genres: Приключения, Фэнтези, Музыка, 
+Rating limit: G
+Rating: 6.42
+Rating numbers: 426
+Description: Нет описания

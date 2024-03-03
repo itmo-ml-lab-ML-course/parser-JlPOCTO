@@ -1,0 +1,9 @@
+Name: Samero
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, 
+Rating limit: R+
+Rating: 4.39
+Rating numbers: 312
+Description: Нет описания

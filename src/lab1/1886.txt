@@ -1,0 +1,10 @@
+Name: Plawres Sanshirou
+Type: video.tv_show
+Episodes: 37
+Episode length: 1500
+Last episode date release: 1984-02-26
+Genres: Сёнен, Приключения, Фантастика, Спорт, Меха, Школа, 
+Rating limit: PG-13
+Rating: 7.38
+Rating numbers: 549
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Penpe to Pinpi Season 2
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Повседневность, 
+Rating limit: G
+Description: Нет описания

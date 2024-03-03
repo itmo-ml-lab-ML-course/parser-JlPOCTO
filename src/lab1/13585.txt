@@ -1,0 +1,9 @@
+Name: Yellow Fish
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, 
+Rating limit: R+
+Rating: 5.24
+Rating numbers: 175
+Description: Нет описания

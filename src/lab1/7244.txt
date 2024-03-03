@@ -1,0 +1,7 @@
+Name: Baihua Gongzhu
+Type: video.tv_show
+Episodes: 30
+Episode length: 660
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

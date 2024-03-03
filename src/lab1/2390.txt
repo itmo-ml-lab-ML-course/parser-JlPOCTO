@@ -1,0 +1,10 @@
+Name: Genki Bakuhatsu Ganbaruger
+Type: video.tv_show
+Episodes: 47
+Episode length: 1440
+Last episode date release: 1993-02-24
+Genres: Сёнен, Меха, 
+Rating limit: PG
+Rating: 7.28
+Rating numbers: 272
+Description: Нет описания

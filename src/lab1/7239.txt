@@ -1,0 +1,7 @@
+Name: Bai Shou Zong Dong Yuan
+Type: video.tv_show
+Episodes: 65
+Episode length: 900
+Genres: Детское, Меха, 
+Rating limit: PG
+Description: Нет описания

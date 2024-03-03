@@ -1,0 +1,9 @@
+Name: 15 Sonyeon Uju Pyoryugi
+Type: video.movie
+Episodes: 1
+Episode length: 4680
+Genres: Экшен, Фантастика, Космос, 
+Rating limit: PG-13
+Rating: 5.33
+Rating numbers: 220
+Description: Фильм корейского производства, рассказывающий о группе детей, которые пытаются сохранить галактику.

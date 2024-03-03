@@ -1,0 +1,9 @@
+Name: Hakuouki OVA
+Type: video.other
+Episodes: 2
+Episode length: 480
+Genres: Экшен, Драма, Сверхъестественное, Исторический, Самураи, 
+Rating limit: PG-13
+Rating: 7.4
+Rating numbers: 6171
+Description: Короткие истории, получаемые за приобретение всех 6 DVD-дисков сериала «Сказание о демонах сакуры: Сказание о Синсэнгуми».

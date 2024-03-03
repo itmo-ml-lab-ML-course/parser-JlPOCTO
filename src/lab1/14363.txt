@@ -1,0 +1,9 @@
+Name: Zombie Ehon
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 4.72
+Rating numbers: 204
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Canary
+Type: video.other
+Episodes: 1
+Episode length: 1560
+Genres: Фэнтези, Романтика, Музыка, Школа, 
+Rating limit: PG-13
+Rating: 4.54
+Rating numbers: 363
+Description: Нет описания

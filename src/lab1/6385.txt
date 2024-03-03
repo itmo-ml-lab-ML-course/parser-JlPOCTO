@@ -1,0 +1,7 @@
+Name: Uracon II Opening Animation
+Type: video.other
+Episodes: 1
+Episode length: 600
+Genres: Экшен, Фантастика, 
+Rating limit: PG-13
+Description: Нет описания

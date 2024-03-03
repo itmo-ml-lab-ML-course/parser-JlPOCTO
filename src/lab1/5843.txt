@@ -1,0 +1,7 @@
+Name: Sumiko
+Type: video.other
+Episodes: 2
+Episode length: 300
+Genres: Детское, Комедия, Повседневность, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: FLCL: Grunge
+Type: video.tv_show
+Episodes: 3
+Episode length: 1440
+Last episode date release: 2023-09-24
+Genres: Экшен, Безумие, Комедия, Фантастика, Меха, Пародия, 
+Rating limit: PG-13
+Rating: 4.71
+Rating numbers: 4263
+Description: Нет описания

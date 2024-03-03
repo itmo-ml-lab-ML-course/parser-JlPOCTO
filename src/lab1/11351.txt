@@ -1,0 +1,10 @@
+Name: Gregory Horror Show
+Type: video.tv_show
+Episodes: 25
+Episode length: 120
+Last episode date release: 2001-06-01
+Genres: Комедия, Ужасы, Детектив, Сверхъестественное, Демоны, 
+Rating limit: PG-13
+Rating: 6.57
+Rating numbers: 479
+Description: Нет описания

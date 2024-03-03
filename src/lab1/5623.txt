@@ -1,0 +1,7 @@
+Name: Shuo Yue Yingxiong Chuan
+Type: video.tv_show
+Episodes: 100
+Episode length: 720
+Genres: Исторический, 
+Rating limit: G
+Description: Нет описания

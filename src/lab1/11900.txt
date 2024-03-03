@@ -1,0 +1,10 @@
+Name: Artiswitch Picture Drama
+Type: video.tv_show
+Episodes: 5
+Episode length: 300
+Last episode date release: 2022-02-04
+Genres: Повседневность, Сверхъестественное, 
+Rating limit: PG-13
+Rating: 6.47
+Rating numbers: 489
+Description: Нет описания

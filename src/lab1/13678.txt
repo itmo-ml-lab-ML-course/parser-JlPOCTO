@@ -1,0 +1,10 @@
+Name: Charady no Joke na Mainichi
+Type: video.tv_show
+Episodes: 365
+Episode length: 180
+Last episode date release: 2010-03-31
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 5.11
+Rating numbers: 339
+Description: Нет описания

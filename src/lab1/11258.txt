@@ -1,0 +1,9 @@
+Name: Chiikawa
+Type: video.tv_show
+Episodes: 73 / ?
+Episode length: 60
+Genres: Сэйнэн, Комедия, 
+Rating limit: G
+Rating: 6.61
+Rating numbers: 474
+Description: Нет описания

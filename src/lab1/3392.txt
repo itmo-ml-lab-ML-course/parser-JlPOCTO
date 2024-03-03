@@ -1,0 +1,9 @@
+Name: Gundam: G no Reconguista Movie V - Shisen wo Koete
+Type: video.movie
+Episodes: 1
+Episode length: 5700
+Genres: Экшен, Фантастика, Меха, Космос, 
+Rating limit: PG-13
+Rating: 7.08
+Rating numbers: 651
+Description: Нет описания

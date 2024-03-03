@@ -1,0 +1,8 @@
+Name: Gokiburi-chan
+Type: video.tv_show
+Episodes: 20
+Episode length: 240
+Last episode date release: 2005-04-15
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

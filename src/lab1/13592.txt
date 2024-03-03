@@ -1,0 +1,9 @@
+Name: Chanda Gou
+Type: video.movie
+Episodes: 1
+Episode length: 420
+Genres: 
+Rating limit: G
+Rating: 5.16
+Rating numbers: 224
+Description: Нет описания

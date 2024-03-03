@@ -1,0 +1,10 @@
+Name: eX-Driver
+Type: video.other
+Episodes: 6
+Episode length: 1500
+Last episode date release: 2001-09-25
+Genres: Сёнен, Экшен, Приключения, Комедия, Фантастика, Машины, 
+Rating limit: PG-13
+Rating: 6.67
+Rating numbers: 1323
+Description: Нет описания

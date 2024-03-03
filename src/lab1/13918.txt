@@ -1,0 +1,9 @@
+Name: Saru Kani Gassen
+Type: video.movie
+Episodes: 1
+Episode length: 420
+Genres: Драма, 
+Rating limit: G
+Rating: 4.95
+Rating numbers: 235
+Description: Нет описания

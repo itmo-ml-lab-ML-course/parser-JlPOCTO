@@ -1,0 +1,8 @@
+Name: Ulineun Myeong-tam-jeong
+Type: video.tv_show
+Episodes: 52
+Episode length: 1440
+Last episode date release: 2010-02-01
+Genres: Детское, Детектив, Школа, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Rekkoku Rikugun
+Type: video.movie
+Episodes: 1
+Episode length: 1680
+Genres: Военное, 
+Rating limit: G
+Rating: 4.76
+Rating numbers: 247
+Description: Нет описания

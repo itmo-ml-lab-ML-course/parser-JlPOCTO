@@ -1,0 +1,7 @@
+Name: Wo Jiao Bi Yun Tao
+Type: video.tv_show
+Episodes: 12
+Episode length: 60
+Genres: Детское, Комедия, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Singles
+Type: video.other
+Episodes: 1
+Episode length: 1800
+Genres: Сёдзё, Романтика, 
+Rating limit: PG-13
+Rating: 5.25
+Rating numbers: 416
+Description: Нет описания

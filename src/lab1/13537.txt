@@ -1,0 +1,9 @@
+Name: Taberu Hito-tachi
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Повседневность, 
+Rating limit: G
+Rating: 5.19
+Rating numbers: 133
+Description: Нет описания

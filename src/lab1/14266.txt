@@ -1,0 +1,9 @@
+Name: Wakaranai Buta
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Безумие, Драма, 
+Rating limit: PG-13
+Rating: 4.59
+Rating numbers: 339
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Ushi Atama
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.47
+Rating numbers: 245
+Description: Нет описания

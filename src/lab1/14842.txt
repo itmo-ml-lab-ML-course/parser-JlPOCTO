@@ -1,0 +1,8 @@
+Name: Moshi Juexing: Ruqin
+Type: video.tv_show
+Episodes: 13
+Episode length: 900
+Last episode date release: 2018-08-09
+Genres: Экшен, Фантастика, Меха, Военное, 
+Rating limit: PG-13
+Description: Нет описания

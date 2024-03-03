@@ -1,0 +1,9 @@
+Name: Monster Strike: Rain of Memories
+Type: video.tv_show
+Episodes: 1
+Episode length: 2760
+Genres: Экшен, Фэнтези, Игры, 
+Rating limit: PG-13
+Rating: 6.37
+Rating numbers: 1232
+Description: Нет описания

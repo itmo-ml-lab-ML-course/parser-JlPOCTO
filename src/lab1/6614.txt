@@ -1,0 +1,7 @@
+Name: Xiao Hua Xian Specials
+Type: video.other
+Episodes: 3
+Episode length: 2700
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

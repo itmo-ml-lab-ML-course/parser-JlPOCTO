@@ -1,0 +1,7 @@
+Name: Chao Xian Lie Bing-kai Neng 2nd Season
+Type: video.tv_show
+Episodes: 26
+Episode length: 1560
+Genres: Экшен, Приключения, Меха, Военное, 
+Rating limit: PG-13
+Description: Нет описания

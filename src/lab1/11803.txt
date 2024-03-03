@@ -1,0 +1,9 @@
+Name: Shu
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Экшен, Фэнтези, 
+Rating limit: PG
+Rating: 6.49
+Rating numbers: 298
+Description: Нет описания

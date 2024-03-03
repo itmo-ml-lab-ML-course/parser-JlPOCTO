@@ -1,0 +1,9 @@
+Name: Rhythm
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.45
+Rating numbers: 276
+Description: Нет описания

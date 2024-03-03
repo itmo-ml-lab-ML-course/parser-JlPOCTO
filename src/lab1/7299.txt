@@ -1,0 +1,7 @@
+Name: Bao Ji Qiangshou
+Type: video.tv_show
+Episodes: 13
+Episode length: 600
+Genres: Комедия, Пародия, 
+Rating limit: PG-13
+Description: Нет описания

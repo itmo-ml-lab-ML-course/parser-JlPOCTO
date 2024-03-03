@@ -1,0 +1,9 @@
+Name: One Room Special
+Type: video.other
+Episodes: 1
+Episode length: 240
+Genres: Повседневность, 
+Rating limit: PG-13
+Rating: 5.48
+Rating numbers: 2967
+Description: Дополнительный эпизод, в котором героини показаны в купальниках.

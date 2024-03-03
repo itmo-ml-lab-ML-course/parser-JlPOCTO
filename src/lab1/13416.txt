@@ -1,0 +1,9 @@
+Name: Sweet Spot
+Type: video.other
+Episodes: 1
+Episode length: 2640
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 5.25
+Rating numbers: 229
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Roco Wangguo Guangming Kaixuan
+Type: video.tv_show
+Episodes: 10
+Episode length: 540
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

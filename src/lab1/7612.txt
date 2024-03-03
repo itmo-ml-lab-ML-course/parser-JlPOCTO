@@ -1,0 +1,8 @@
+Name: Chaechaepong Kimchi Pong
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Last episode date release: 2003-02-28
+Genres: Детское, Приключения, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Kurokan
+Type: video.tv_show
+Episodes: 33
+Episode length: 720
+Last episode date release: 2014-01-01
+Genres: Спорт, 
+Rating limit: PG-13
+Rating: 6.03
+Rating numbers: 227
+Description: Нет описания

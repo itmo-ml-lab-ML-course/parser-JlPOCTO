@@ -1,0 +1,7 @@
+Name: Ojing-eoui Nwiuchim
+Type: video.movie
+Episodes: 1
+Episode length: 1080
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

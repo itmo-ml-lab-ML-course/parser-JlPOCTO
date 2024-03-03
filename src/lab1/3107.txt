@@ -1,0 +1,9 @@
+Name: Doraemon Movie 13: Nobita to Kumo no Oukoku
+Type: video.movie
+Episodes: 1
+Episode length: 6000
+Genres: Приключения, Комедия, 
+Rating limit: PG
+Rating: 7.14
+Rating numbers: 575
+Description: Нет описания

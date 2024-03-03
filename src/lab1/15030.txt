@@ -1,0 +1,8 @@
+Name: Neko no Dayan: Nihon e Iku
+Type: video.tv_show
+Episodes: 12
+Episode length: 180
+Last episode date release: 2016-01-09
+Genres: Фэнтези, Детское, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,6 @@
+Name: Riseman
+Type: video.tv_show
+Episodes: 0 / 26
+Genres: Экшен, Супер сила, 
+Rating limit: G
+Description: Нет описания

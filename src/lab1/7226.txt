@@ -1,0 +1,8 @@
+Name: Bai Bian Zhu Zhu Xia
+Type: video.tv_show
+Episodes: 80
+Episode length: 420
+Last episode date release: 2009-10-03
+Genres: Детское, Фэнтези, Фантастика, Супер сила, 
+Rating limit: G
+Description: Нет описания

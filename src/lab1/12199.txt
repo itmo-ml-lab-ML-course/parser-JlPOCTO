@@ -1,0 +1,10 @@
+Name: Hare Tokidoki Buta (TV)
+Type: video.tv_show
+Episodes: 61
+Episode length: 1380
+Last episode date release: 1998-09-29
+Genres: Комедия, Пародия, 
+Rating limit: PG
+Rating: 6.42
+Rating numbers: 241
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Xin Datou Er Zi He Xiao Tou Baba 4th Season
+Type: video.tv_show
+Episodes: 100
+Episode length: 720
+Genres: Повседневность, Детское, 
+Rating limit: G
+Description: Нет описания

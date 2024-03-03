@@ -1,0 +1,9 @@
+Name: Sumikko Gurashi Movie 1: Tobidasu Ehon to Himitsu no Ko
+Type: video.movie
+Episodes: 1
+Episode length: 3900
+Genres: Комедия, 
+Rating limit: G
+Rating: 7.04
+Rating numbers: 525
+Description: Нет описания

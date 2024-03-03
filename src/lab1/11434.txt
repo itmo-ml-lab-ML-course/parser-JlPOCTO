@@ -1,0 +1,9 @@
+Name: eX-Driver the Movie
+Type: video.movie
+Episodes: 1
+Episode length: 3720
+Genres: Сёнен, Экшен, Приключения, Комедия, Фантастика, Машины, 
+Rating limit: PG-13
+Rating: 6.55
+Rating numbers: 678
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Oshin
+Type: video.movie
+Episodes: 1
+Episode length: 7260
+Genres: Драма, Исторический, 
+Rating limit: G
+Rating: 6.27
+Rating numbers: 281
+Description: Нет описания

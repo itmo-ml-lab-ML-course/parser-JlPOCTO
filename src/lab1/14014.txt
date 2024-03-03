@@ -1,0 +1,9 @@
+Name: Shiri Play
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.86
+Rating numbers: 161
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Urikupen Kyuujo-tai
+Type: video.tv_show
+Episodes: 156
+Episode length: 300
+Last episode date release: 1975-03-29
+Genres: Детское, Приключения, Комедия, 
+Rating limit: G
+Description: Нет описания

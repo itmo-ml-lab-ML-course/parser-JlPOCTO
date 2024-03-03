@@ -1,0 +1,7 @@
+Name: Bao Shou Lieren
+Type: video.tv_show
+Episodes: 52
+Episode length: 1440
+Genres: Приключения, Фэнтези, Фантастика, Детское, 
+Rating limit: PG
+Description: Нет описания

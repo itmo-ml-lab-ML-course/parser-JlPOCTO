@@ -1,0 +1,9 @@
+Name: Han Solo/Star Wars Story
+Type: video.tv_show
+Episodes: 2
+Episode length: 60
+Genres: Фантастика, 
+Rating limit: G
+Rating: 4.71
+Rating numbers: 356
+Description: Нет описания

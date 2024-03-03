@@ -1,0 +1,10 @@
+Name: Yatogame-chan Kansatsu Nikki Yonsatsume
+Type: video.tv_show
+Episodes: 10
+Episode length: 180
+Last episode date release: 2022-06-11
+Genres: Комедия, Школа, Сёнен, 
+Rating limit: PG-13
+Rating: 6.29
+Rating numbers: 1250
+Description: Нет описания

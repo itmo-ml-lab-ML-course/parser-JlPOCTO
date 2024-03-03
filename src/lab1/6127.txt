@@ -1,0 +1,7 @@
+Name: Tico Jiang Gushi
+Type: video.tv_show
+Episodes: 77
+Episode length: 720
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

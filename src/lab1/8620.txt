@@ -1,0 +1,8 @@
+Name: Gon de Hanta 2nd Season
+Type: video.tv_show
+Episodes: 20
+Episode length: 60
+Last episode date release: 2018-09-04
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

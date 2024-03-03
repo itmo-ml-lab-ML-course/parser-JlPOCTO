@@ -1,0 +1,9 @@
+Name: I Love Sky
+Type: video.other
+Episodes: 1
+Episode length: 240
+Genres: Детское, Комедия, 
+Rating limit: G
+Rating: 5.44
+Rating numbers: 502
+Description: Нет описания

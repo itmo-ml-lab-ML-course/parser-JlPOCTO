@@ -1,0 +1,10 @@
+Name: Tongari Boushi no Memole
+Type: video.tv_show
+Episodes: 50
+Episode length: 1440
+Last episode date release: 1985-03-03
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 7.12
+Rating numbers: 504
+Description: Нет описания

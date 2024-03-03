@@ -1,0 +1,8 @@
+Name: Fuwa Aoyun Manyouji
+Type: video.tv_show
+Episodes: 100
+Episode length: 660
+Last episode date release: 2008-01-01
+Genres: Комедия, Спорт, 
+Rating limit: PG
+Description: Нет описания

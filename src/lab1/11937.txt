@@ -1,0 +1,9 @@
+Name: Haha wo Tazunete Sanzenri (Movie)
+Type: video.movie
+Episodes: 1
+Episode length: 6420
+Genres: Приключения, Драма, Повседневность, Исторический, 
+Rating limit: G
+Rating: 6.46
+Rating numbers: 366
+Description: Нет описания

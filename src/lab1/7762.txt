@@ -1,0 +1,8 @@
+Name: Choegang Top Plate Part 2
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2014-11-13
+Genres: Экшен, Спорт, Детское, 
+Rating limit: PG
+Description: Нет описания

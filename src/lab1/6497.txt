@@ -1,0 +1,7 @@
+Name: Wanghu Sim Cheong
+Type: video.movie
+Episodes: 1
+Episode length: 5700
+Genres: Фэнтези, 
+Rating limit: G
+Description: Нет описания

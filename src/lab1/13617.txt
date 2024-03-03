@@ -1,0 +1,9 @@
+Name: Windows Tablet no Uta
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Комедия, Музыка, 
+Rating limit: G
+Rating: 5.23
+Rating numbers: 143
+Description: Нет описания

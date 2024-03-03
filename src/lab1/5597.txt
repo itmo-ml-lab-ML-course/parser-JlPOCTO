@@ -1,0 +1,8 @@
+Name: Shuimu Juchang Xi You Ji
+Type: video.tv_show
+Episodes: 108
+Episode length: 720
+Last episode date release: 2010-12-01
+Genres: Детское, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

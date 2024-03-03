@@ -1,0 +1,9 @@
+Name: Kidou Keisatsu Patlabor: Reboot
+Type: video.movie
+Episodes: 1
+Episode length: 420
+Genres: Комедия, Фантастика, Меха, Полиция, 
+Rating limit: PG-13
+Rating: 6.48
+Rating numbers: 2202
+Description: Нет описания

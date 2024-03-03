@@ -1,0 +1,10 @@
+Name: Bermuda Triangle: Colorful Pastrale
+Type: video.tv_show
+Episodes: 12
+Episode length: 1500
+Last episode date release: 2019-03-30
+Genres: Фэнтези, Музыка, 
+Rating limit: PG-13
+Rating: 5.51
+Rating numbers: 1996
+Description: Аниме расскажет про повседневную жизнь девушек-русалок — Сонаты, Серены, Кяро, Канон и Фины — которые отчаянно ищут приключения в подводной деревне Паррел.

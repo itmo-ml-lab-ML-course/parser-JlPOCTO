@@ -1,0 +1,9 @@
+Name: Kuiba: Shiwanhuoji
+Type: video.movie
+Episodes: 1
+Episode length: 5400
+Genres: Детское, Экшен, Приключения, Фэнтези, 
+Rating limit: G
+Rating: 6.42
+Rating numbers: 434
+Description: Нет описания

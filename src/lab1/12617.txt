@@ -1,0 +1,10 @@
+Name: Pokemon Moncolle Story
+Type: video.tv_show
+Episodes: 8
+Episode length: 60
+Last episode date release: 2018-06-15
+Genres: Комедия, Детское, 
+Rating limit: PG
+Rating: 5.54
+Rating numbers: 413
+Description: Нет описания

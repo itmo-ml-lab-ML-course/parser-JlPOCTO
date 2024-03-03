@@ -1,0 +1,9 @@
+Name: Planzet
+Type: video.movie
+Episodes: 1
+Episode length: 3180
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 5.51
+Rating numbers: 616
+Description: Нет описания

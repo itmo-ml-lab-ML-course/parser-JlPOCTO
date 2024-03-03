@@ -1,0 +1,9 @@
+Name: Buddy Daddies Intermission: Cherry-Pick
+Type: video.other
+Episodes: 1
+Episode length: 1440
+Genres: Экшен, Комедия, 
+Rating limit: PG-13
+Rating: 6.64
+Rating numbers: 1919
+Description: Краткий пересказ событий первых восьми эпизодов аниме-сериала «Папаши-дружбаны».

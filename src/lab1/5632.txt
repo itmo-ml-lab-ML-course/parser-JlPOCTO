@@ -1,0 +1,8 @@
+Name: Shuumatsu no Walküre Mini Anime (Cartoon Network Nite)
+Type: video.tv_show
+Episodes: 12
+Episode length: 120
+Last episode date release: 2021-12-19
+Genres: Экшен, Комедия, Сэйнэн, 
+Rating limit: PG-13
+Description: Нет описания

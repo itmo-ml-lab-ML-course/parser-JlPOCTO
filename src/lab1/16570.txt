@@ -1,0 +1,6 @@
+Name: Yami Shibai 12
+Type: video.tv_show
+Episodes: 1
+Genres: Безумие, Ужасы, Сверхъестественное, 
+Rating limit: PG-13
+Description: Нет описания

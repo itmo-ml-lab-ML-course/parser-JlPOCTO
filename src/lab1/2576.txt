@@ -1,0 +1,10 @@
+Name: Toushou Daimos
+Type: video.tv_show
+Episodes: 44
+Episode length: 1440
+Last episode date release: 1979-01-27
+Genres: Сёнен, Приключения, Драма, Романтика, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 7.24
+Rating numbers: 476
+Description: Нет описания

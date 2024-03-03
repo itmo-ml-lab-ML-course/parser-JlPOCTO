@@ -1,0 +1,9 @@
+Name: .hack//Gift
+Type: video.other
+Episodes: 1
+Episode length: 1560
+Genres: Комедия, Фэнтези, 
+Rating limit: R+
+Rating: 6.09
+Rating numbers: 1633
+Description: Нет описания

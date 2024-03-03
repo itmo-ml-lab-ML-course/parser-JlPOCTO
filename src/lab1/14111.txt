@@ -1,0 +1,8 @@
+Name: Gingirl
+Type: video.tv_show
+Episodes: 1
+Genres: Космос, 
+Rating limit: G
+Rating: 4.77
+Rating numbers: 280
+Description: Нет описания

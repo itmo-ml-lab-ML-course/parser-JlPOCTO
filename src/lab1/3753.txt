@@ -1,0 +1,9 @@
+Name: Beyond Creation
+Type: video.tv_show
+Episodes: 1
+Episode length: 240
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 6.3
+Rating numbers: 1694
+Description: Нет описания

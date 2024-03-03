@@ -1,0 +1,10 @@
+Name: Bungou Stray Dogs 5th Season
+Type: video.tv_show
+Episodes: 11
+Episode length: 1380
+Last episode date release: 2023-09-20
+Genres: Экшен, Детектив, Сверхъестественное, Супер сила, Вампиры, Сэйнэн, 
+Rating limit: R-17
+Rating: 8.66
+Rating numbers: 20536
+Description: Нет описания

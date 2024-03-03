@@ -1,0 +1,9 @@
+Name: Odin: Koushi Hansen Starlight
+Type: video.movie
+Episodes: 1
+Episode length: 8340
+Genres: Экшен, Приключения, Драма, Фантастика, Космос, 
+Rating limit: PG-13
+Rating: 5.18
+Rating numbers: 639
+Description: Нет описания

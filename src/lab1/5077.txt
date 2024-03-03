@@ -1,0 +1,9 @@
+Name: Rakka-sei
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Сверхъестественное, Музыка, 
+Rating limit: PG-13
+Rating: 6.07
+Rating numbers: 178
+Description: Нет описания

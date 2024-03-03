@@ -1,0 +1,7 @@
+Name: Qihuan Long Bao
+Type: video.tv_show
+Episodes: 52
+Episode length: 720
+Genres: Детское, Экшен, Приключения, Фантастика, Боевые искусства, 
+Rating limit: PG
+Description: Нет описания

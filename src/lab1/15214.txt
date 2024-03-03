@@ -1,0 +1,7 @@
+Name: Oji Zou-san
+Type: video.tv_show
+Episodes: 38
+Last episode date release: 2016-03-14
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Shanchuan Zhuangli
+Type: video.movie
+Episodes: 1
+Episode length: 1080
+Genres: Драма, 
+Rating limit: PG-13
+Description: Нет описания

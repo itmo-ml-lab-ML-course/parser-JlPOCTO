@@ -1,0 +1,9 @@
+Name: Kujakuou: Sengoku Tensei
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Экшен, Сверхъестественное, Исторический, 
+Rating limit: PG-13
+Rating: 5.04
+Rating numbers: 351
+Description: Нет описания

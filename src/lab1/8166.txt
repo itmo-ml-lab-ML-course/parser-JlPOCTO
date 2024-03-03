@@ -1,0 +1,8 @@
+Name: Dotanba no Manners
+Type: video.tv_show
+Episodes: 283
+Episode length: 300
+Last episode date release: 1987-04-09
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Description: Нет описания

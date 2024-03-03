@@ -1,0 +1,7 @@
+Name: Shua Bing Nan De Gaoxiao Juchang
+Type: video.tv_show
+Episodes: 10
+Episode length: 300
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

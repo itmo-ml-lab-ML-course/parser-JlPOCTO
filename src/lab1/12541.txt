@@ -1,0 +1,9 @@
+Name: Sanctuary
+Type: video.other
+Episodes: 1
+Episode length: 4020
+Genres: Сэйнэн, Экшен, Драма, Триллер, Полиция, 
+Rating limit: R+
+Rating: 6.35
+Rating numbers: 1010
+Description: Нет описания

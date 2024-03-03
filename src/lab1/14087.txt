@@ -1,0 +1,10 @@
+Name: Lemon Home Animation Gekijou
+Type: video.tv_show
+Episodes: 3
+Episode length: 120
+Last episode date release: 2017-10-31
+Genres: Комедия, 
+Rating limit: G
+Rating: 4.79
+Rating numbers: 431
+Description: Нет описания

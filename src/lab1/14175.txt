@@ -1,0 +1,8 @@
+Name: Nakanaori
+Type: video.tv_show
+Episodes: 1
+Genres: Экшен, Самураи, 
+Rating limit: PG
+Rating: 4.71
+Rating numbers: 183
+Description: Нет описания

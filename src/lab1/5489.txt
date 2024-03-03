@@ -1,0 +1,9 @@
+Name: ◯
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Безумие, Музыка, 
+Rating limit: R+
+Rating: 3.8
+Rating numbers: 1024
+Description: Нарисованная от руки анимация за авторством Савако Кабуки.

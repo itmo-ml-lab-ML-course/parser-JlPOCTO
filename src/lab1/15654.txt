@@ -1,0 +1,8 @@
+Name: Qing Chi Hong Xiaodou Ba! Season 0.5
+Type: video.tv_show
+Episodes: 16
+Episode length: 120
+Last episode date release: 2022-08-18
+Genres: Повседневность, 
+Rating limit: G
+Description: Нет описания

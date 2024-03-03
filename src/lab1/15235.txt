@@ -1,0 +1,8 @@
+Name: Omakase! Miracle Cat-dan
+Type: video.tv_show
+Episodes: 32
+Episode length: 600
+Last episode date release: 2016-02-23
+Genres: Детское, Комедия, Супер сила, 
+Rating limit: G
+Description: Нет описания

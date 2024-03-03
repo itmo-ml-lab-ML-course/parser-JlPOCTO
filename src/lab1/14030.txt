@@ -1,0 +1,9 @@
+Name: Kitte no Gensou
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Комедия, 
+Rating limit: G
+Rating: 4.84
+Rating numbers: 346
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Stone Age
+Type: video.tv_show
+Episodes: 26
+Episode length: 600
+Last episode date release: 2018-05-02
+Genres: Детское, Фэнтези, 
+Rating limit: G
+Description: Нет описания

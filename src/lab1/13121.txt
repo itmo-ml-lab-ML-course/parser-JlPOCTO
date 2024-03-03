@@ -1,0 +1,9 @@
+Name: Saiyuuki: Son Gokuu Monogatari
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Приключения, 
+Rating limit: G
+Rating: 5.37
+Rating numbers: 445
+Description: Нет описания

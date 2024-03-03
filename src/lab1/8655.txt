@@ -1,0 +1,7 @@
+Name: Gu-Gu Ganmo (Movie)
+Type: video.movie
+Episodes: 1
+Episode length: 2700
+Genres: Комедия, 
+Rating limit: PG
+Description: Нет описания

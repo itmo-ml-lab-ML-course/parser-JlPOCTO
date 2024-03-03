@@ -1,0 +1,8 @@
+Name: Xiao Zhu Waiwai
+Type: video.tv_show
+Episodes: 52
+Episode length: 900
+Last episode date release: 2013-01-01
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

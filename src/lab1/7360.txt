@@ -1,0 +1,8 @@
+Name: Beads no Mori no Rabi
+Type: video.tv_show
+Episodes: 4
+Episode length: 300
+Last episode date release: 2019-12-19
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

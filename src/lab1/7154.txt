@@ -1,0 +1,10 @@
+Name: You Shou Yan
+Type: video.tv_show
+Episodes: 12
+Episode length: 360
+Last episode date release: 2023-06-23
+Genres: Комедия, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.59
+Rating numbers: 802
+Description: Нет описания

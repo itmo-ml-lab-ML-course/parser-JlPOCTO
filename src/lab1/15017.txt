@@ -1,0 +1,8 @@
+Name: Neko Enikki
+Type: video.tv_show
+Episodes: 13
+Episode length: 60
+Last episode date release: 2015-09-24
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Description: Нет описания

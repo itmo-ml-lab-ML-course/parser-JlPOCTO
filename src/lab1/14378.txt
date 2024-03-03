@@ -1,0 +1,9 @@
+Name: Motion Lumine
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.35
+Rating numbers: 246
+Description: Нет описания

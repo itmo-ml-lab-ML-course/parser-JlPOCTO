@@ -1,0 +1,9 @@
+Name: Wares: Beyond
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Меха, 
+Rating limit: PG-13
+Rating: 5.54
+Rating numbers: 407
+Description: Рекламный ролик, посвящённый одноимённой новелле.

@@ -1,0 +1,7 @@
+Name: Donbe Monogatari
+Type: video.other
+Episodes: 1
+Episode length: 4260
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

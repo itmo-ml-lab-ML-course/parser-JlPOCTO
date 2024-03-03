@@ -1,0 +1,10 @@
+Name: Hoozuki no Reitetsu
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2014-04-04
+Genres: Комедия, Фэнтези, Сэйнэн, 
+Rating limit: PG-13
+Rating: 7.77
+Rating numbers: 33389
+Description: Сюрреалистическая чёрная комедия расскажет о жестоком и безжалостном помощнике царя преисподней Энмы, Хозуки. Этот хладнокровный садист фактически ведёт все дела в аду, мастерски решая постоянно возникающие проблемы.

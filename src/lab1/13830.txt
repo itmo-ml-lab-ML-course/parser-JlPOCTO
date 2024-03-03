@@ -1,0 +1,9 @@
+Name: Utsukushii Hoshi
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, 
+Rating limit: G
+Rating: 5.02
+Rating numbers: 280
+Description: Нет описания

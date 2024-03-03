@@ -1,0 +1,7 @@
+Name: Nobara
+Type: video.movie
+Episodes: 1
+Episode length: 1140
+Genres: Драма, 
+Rating limit: G
+Description: Нет описания

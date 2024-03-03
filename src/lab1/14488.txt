@@ -1,0 +1,7 @@
+Name: Matouqin De Gushi
+Type: video.movie
+Episodes: 1
+Episode length: 1020
+Genres: Фэнтези, Детское, 
+Rating limit: G
+Description: Нет описания

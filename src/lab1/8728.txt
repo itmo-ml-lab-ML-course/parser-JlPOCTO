@@ -1,0 +1,7 @@
+Name: Ha Li Xinsuan Koujue Tiantian Lian
+Type: video.tv_show
+Episodes: 48
+Episode length: 420
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

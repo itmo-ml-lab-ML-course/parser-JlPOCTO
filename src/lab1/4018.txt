@@ -1,0 +1,9 @@
+Name: Kinnikuman: Haresugata! Seigi Choujin
+Type: video.movie
+Episodes: 1
+Episode length: 3600
+Genres: Сёнен, Экшен, Комедия, Спорт, 
+Rating limit: PG-13
+Rating: 6.25
+Rating numbers: 277
+Description: Нет описания

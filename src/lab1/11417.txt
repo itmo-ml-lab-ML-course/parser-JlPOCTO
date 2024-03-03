@@ -1,0 +1,10 @@
+Name: Android Ana Maico 2010
+Type: video.tv_show
+Episodes: 24
+Episode length: 840
+Last episode date release: 1998-09-28
+Genres: Сэйнэн, Комедия, Драма, Фантастика, 
+Rating limit: PG-13
+Rating: 6.55
+Rating numbers: 401
+Description: Нет описания

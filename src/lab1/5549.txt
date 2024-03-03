@@ -1,0 +1,9 @@
+Name: Love Bites
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Ужасы, 
+Rating limit: R-17
+Rating: 2.61
+Rating numbers: 1010
+Description: Короткое анимационное видео за авторством Такэны Нагао.

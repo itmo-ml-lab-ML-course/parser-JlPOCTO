@@ -1,0 +1,7 @@
+Name: Chi-Sui Maru Specials
+Type: video.other
+Episodes: 2
+Episode length: 300
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

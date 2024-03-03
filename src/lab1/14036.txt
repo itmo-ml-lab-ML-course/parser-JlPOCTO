@@ -1,0 +1,9 @@
+Name: 1/100 Rice Planting
+Type: video.tv_show
+Episodes: 1
+Episode length: 540
+Genres: Повседневность, 
+Rating limit: G
+Rating: 4.83
+Rating numbers: 254
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Nae Chingu Haechi
+Type: video.tv_show
+Episodes: 26
+Episode length: 1320
+Last episode date release: 2011-01-30
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

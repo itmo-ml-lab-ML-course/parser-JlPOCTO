@@ -1,0 +1,9 @@
+Name: Hana to Chou
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 4.9
+Rating numbers: 288
+Description: Нет описания

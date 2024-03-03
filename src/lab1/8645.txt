@@ -1,0 +1,7 @@
+Name: Green Red
+Type: video.movie
+Episodes: 1
+Episode length: 720
+Genres: Безумие, 
+Rating limit: R+
+Description: Нет описания

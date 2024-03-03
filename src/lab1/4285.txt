@@ -1,0 +1,10 @@
+Name: Huckleberry no Bouken
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 1976-06-25
+Genres: Приключения, Драма, Исторический, 
+Rating limit: G
+Rating: 6.2
+Rating numbers: 421
+Description: Нет описания

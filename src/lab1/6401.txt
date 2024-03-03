@@ -1,0 +1,8 @@
+Name: Valis the Animation
+Type: video.tv_show
+Episodes: 10
+Episode length: 120
+Last episode date release: 2022-06-09
+Genres: Музыка, 
+Rating limit: PG-13
+Description: Нет описания

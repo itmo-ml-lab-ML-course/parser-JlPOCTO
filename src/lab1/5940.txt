@@ -1,0 +1,8 @@
+Name: Takarakuji x Rope
+Type: video.tv_show
+Episodes: 5
+Episode length: 120
+Last episode date release: 2013-05-20
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Description: Нет описания

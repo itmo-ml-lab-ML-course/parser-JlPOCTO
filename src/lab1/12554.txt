@@ -1,0 +1,9 @@
+Name: Comic Party Specials
+Type: video.other
+Episodes: 4
+Episode length: 420
+Genres: Комедия, Драма, 
+Rating limit: PG-13
+Rating: 6.35
+Rating numbers: 331
+Description: Нет описания

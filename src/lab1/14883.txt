@@ -1,0 +1,8 @@
+Name: Mujigae Yojeong Tongtong
+Type: video.tv_show
+Episodes: 19
+Episode length: 1500
+Last episode date release: 2002-06-01
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

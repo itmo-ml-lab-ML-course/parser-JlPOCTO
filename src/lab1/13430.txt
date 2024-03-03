@@ -1,0 +1,10 @@
+Name: Oshiri Kajiri Mushi (TV) 2nd Season
+Type: video.tv_show
+Episodes: 32
+Episode length: 300
+Last episode date release: 2014-03-27
+Genres: Детское, Комедия, 
+Rating limit: G
+Rating: 5.24
+Rating numbers: 234
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: McDull: Fan Bao Qibing
+Type: video.movie
+Episodes: 1
+Episode length: 4980
+Genres: Детское, Экшен, Фантастика, 
+Rating limit: G
+Description: Нет описания

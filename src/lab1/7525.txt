@@ -1,0 +1,7 @@
+Name: Buluwa Supsog Chingudeul
+Type: video.tv_show
+Episodes: 26
+Episode length: 1320
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

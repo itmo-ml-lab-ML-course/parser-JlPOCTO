@@ -1,0 +1,9 @@
+Name: Si Ling Bianma: Shijie Caozong Zhe Recap
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: 
+Rating limit: R-17
+Rating: 5.41
+Rating numbers: 306
+Description: Краткий пересказ событий первых десяти серий аниме «Приказ создателя».

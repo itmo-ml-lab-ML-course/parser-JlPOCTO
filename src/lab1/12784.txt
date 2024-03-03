@@ -1,0 +1,9 @@
+Name: Space Gundam V
+Type: video.movie
+Episodes: 1
+Episode length: 4920
+Genres: Экшен, Комедия, Меха, 
+Rating limit: PG-13
+Rating: 5.48
+Rating numbers: 208
+Description: Нет описания

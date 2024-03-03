@@ -1,0 +1,7 @@
+Name: Wudi Xiaolu 3rd Season
+Type: video.tv_show
+Episodes: 24
+Episode length: 180
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Wu Geng Ji Zhi Tianqi
+Type: video.tv_show
+Episodes: 42
+Episode length: 960
+Last episode date release: 2018-10-05
+Genres: Экшен, Фэнтези, Сверхъестественное, Исторический, Боевые искусства, 
+Rating limit: PG-13
+Rating: 7.3
+Rating numbers: 2473
+Description: Нет описания

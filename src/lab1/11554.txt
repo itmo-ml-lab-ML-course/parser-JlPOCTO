@@ -1,0 +1,10 @@
+Name: Shuffle! Memories
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2007-03-26
+Genres: Сэйнэн, Комедия, Драма, Фэнтези, Романтика, Этти, Гарем, Школа, 
+Rating limit: PG-13
+Rating: 6.53
+Rating numbers: 5112
+Description: Нет описания

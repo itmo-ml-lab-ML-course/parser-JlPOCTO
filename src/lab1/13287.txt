@@ -1,0 +1,10 @@
+Name: Hentatsu
+Type: video.tv_show
+Episodes: 9
+Episode length: 60
+Last episode date release: 2019-09-13
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.31
+Rating numbers: 702
+Description: История о двух девушках, изучающих заброшенную версию Накано Бродвея — токийского торгового центра, известного своими Мандаракэ, и других магазинов, созданных для любителей аниме и различных форм поп-культуры.

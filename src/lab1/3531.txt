@@ -1,0 +1,9 @@
+Name: Doraemon Movie 35: Nobita no Space Heroes
+Type: video.movie
+Episodes: 1
+Episode length: 6000
+Genres: Комедия, Космос, 
+Rating limit: PG
+Rating: 7.05
+Rating numbers: 594
+Description: Нет описания

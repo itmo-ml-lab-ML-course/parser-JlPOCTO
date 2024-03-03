@@ -1,0 +1,9 @@
+Name: Digimon Adventure 02: Diablomon no Gyakushuu
+Type: video.movie
+Episodes: 1
+Episode length: 1800
+Genres: Детское, Приключения, Комедия, Драма, Фантастика, 
+Rating limit: PG
+Rating: 7.26
+Rating numbers: 1119
+Description: Нет описания

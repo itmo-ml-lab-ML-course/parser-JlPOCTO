@@ -1,0 +1,9 @@
+Name: Tales of Crestoria Off Shot Movie
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Комедия, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.02
+Rating numbers: 367
+Description: Каната Хьюгер, Мизелла и Вишез сидят вокруг котацу, когда неожиданно появляется Клесс Алвейн, пришедший во временном сдвиге из 1995 года!

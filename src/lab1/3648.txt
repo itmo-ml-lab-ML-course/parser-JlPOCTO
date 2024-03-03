@@ -1,0 +1,9 @@
+Name: Cowboy Bebop: Ein no Natsuyasumi
+Type: video.other
+Episodes: 1
+Episode length: 60
+Genres: Комедия, 
+Rating limit: G
+Rating: 6.32
+Rating numbers: 7608
+Description: Небольшой дополнительный эпизод об Эйне.

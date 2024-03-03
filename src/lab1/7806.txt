@@ -1,0 +1,7 @@
+Name: Chueog-ui Geomjeong-gomusin
+Type: video.movie
+Episodes: 1
+Episode length: 4800
+Genres: Детское, Комедия, Повседневность, 
+Rating limit: PG
+Description: Нет описания

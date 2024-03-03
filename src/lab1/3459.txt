@@ -1,0 +1,9 @@
+Name: Doubutsu no Mori
+Type: video.movie
+Episodes: 1
+Episode length: 5220
+Genres: Детское, Повседневность, 
+Rating limit: G
+Rating: 7.06
+Rating numbers: 773
+Description: Нет описания

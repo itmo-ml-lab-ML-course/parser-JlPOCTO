@@ -1,0 +1,9 @@
+Name: Agigongryong Doolie
+Type: video.tv_show
+Episodes: 6
+Episode length: 900
+Genres: Детское, Приключения, 
+Rating limit: PG
+Rating: 6.03
+Rating numbers: 184
+Description: Нет описания

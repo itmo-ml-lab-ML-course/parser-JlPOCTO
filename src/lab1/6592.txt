@@ -1,0 +1,7 @@
+Name: Wo Yao Da Guizi
+Type: video.tv_show
+Episodes: 99
+Episode length: 540
+Genres: Исторический, Военное, 
+Rating limit: PG
+Description: Нет описания

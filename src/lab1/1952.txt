@@ -1,0 +1,9 @@
+Name: Shakugan no Shana Movie
+Type: video.movie
+Episodes: 1
+Episode length: 5160
+Genres: Экшен, Фэнтези, Романтика, Школа, 
+Rating limit: PG-13
+Rating: 7.37
+Rating numbers: 6179
+Description: Фильм является адаптацией всех событий первого тома романа и содержит события не вошёдшие в аниме сериал.

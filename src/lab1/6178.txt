@@ -1,0 +1,8 @@
+Name: Tomica Hyper Series: Next Stage
+Type: video.tv_show
+Episodes: 4
+Episode length: 300
+Last episode date release: 2016-10-07
+Genres: Детское, Фантастика, Меха, 
+Rating limit: PG
+Description: Нет описания

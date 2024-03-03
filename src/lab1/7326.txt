@@ -1,0 +1,7 @@
+Name: Baolie Feiche II: Xing Neng Juexing
+Type: video.tv_show
+Episodes: 26
+Episode length: 1380
+Genres: Экшен, Приключения, Машины, 
+Rating limit: PG
+Description: Нет описания

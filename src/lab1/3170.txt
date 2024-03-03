@@ -1,0 +1,9 @@
+Name: Doraemon Movie 41: Nobita no Little Star Wars
+Type: video.movie
+Episodes: 1
+Episode length: 6480
+Genres: Приключения, Комедия, Фантастика, Космос, Детское, Сёнен, 
+Rating limit: PG
+Rating: 7.13
+Rating numbers: 430
+Description: Нет описания

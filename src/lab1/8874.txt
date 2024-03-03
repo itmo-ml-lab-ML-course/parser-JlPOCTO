@@ -1,0 +1,6 @@
+Name: Heisei Inu Monogatari Bow Movie
+Type: video.movie
+Episodes: 1
+Episode length: 1320
+Genres: Приключения, Комедия, 
+Description: Нет описания

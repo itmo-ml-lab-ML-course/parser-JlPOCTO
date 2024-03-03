@@ -1,0 +1,7 @@
+Name: Salangi Ona Bom
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Романтика, Музыка, 
+Rating limit: G
+Description: Нет описания

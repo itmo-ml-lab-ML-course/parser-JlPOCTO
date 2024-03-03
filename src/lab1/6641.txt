@@ -1,0 +1,7 @@
+Name: Wuzhuang Jingling
+Type: video.tv_show
+Episodes: 40
+Episode length: 1380
+Genres: Детское, Меха, 
+Rating limit: PG
+Description: Нет описания

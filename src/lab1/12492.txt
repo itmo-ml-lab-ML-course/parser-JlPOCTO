@@ -1,0 +1,9 @@
+Name: Blue Seed 1.5
+Type: video.other
+Episodes: 2
+Episode length: 1320
+Genres: Комедия, Романтика, Фантастика, 
+Rating limit: R-17
+Rating: 6.36
+Rating numbers: 417
+Description: Нет описания

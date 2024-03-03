@@ -1,0 +1,7 @@
+Name: Xiong Chumo: Xiongxiong Leyuan 2
+Type: video.tv_show
+Episodes: 52
+Episode length: 780
+Genres: Приключения, Комедия, Детское, 
+Rating limit: PG
+Description: Нет описания

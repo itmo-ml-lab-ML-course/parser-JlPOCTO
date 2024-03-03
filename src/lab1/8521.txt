@@ -1,0 +1,6 @@
+Name: Gang to Odoriko
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: 
+Description: Нет описания

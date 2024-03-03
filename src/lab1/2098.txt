@@ -1,0 +1,10 @@
+Name: Kaginado Season 2
+Type: video.tv_show
+Episodes: 12
+Episode length: 240
+Last episode date release: 2022-06-29
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 7.34
+Rating numbers: 1392
+Description: Нет описания

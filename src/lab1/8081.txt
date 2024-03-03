@@ -1,0 +1,7 @@
+Name: Ding Laotou He Jiong GG
+Type: video.tv_show
+Episodes: 18
+Episode length: 480
+Genres: Детское, Комедия, Пародия, 
+Rating limit: PG
+Description: Нет описания

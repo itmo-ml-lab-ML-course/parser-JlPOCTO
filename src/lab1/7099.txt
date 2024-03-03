@@ -1,0 +1,7 @@
+Name: Ying Shi
+Type: video.movie
+Episodes: 1
+Episode length: 1380
+Genres: Драма, Сверхъестественное, 
+Rating limit: PG
+Description: Нет описания

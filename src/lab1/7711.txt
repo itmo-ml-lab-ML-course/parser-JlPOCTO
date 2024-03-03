@@ -1,0 +1,7 @@
+Name: Chibi Maruko-chan Pilot Film
+Type: video.other
+Episodes: 1
+Episode length: 60
+Genres: Повседневность, Сёдзё, 
+Rating limit: G
+Description: Короткий пилотный эпизод семейного аниме-сериала «Малышка Маруко-тян».

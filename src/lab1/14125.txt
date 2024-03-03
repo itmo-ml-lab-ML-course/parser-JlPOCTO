@@ -1,0 +1,10 @@
+Name: Ame-iro Cocoa in Hawaii
+Type: video.tv_show
+Episodes: 12
+Episode length: 120
+Last episode date release: 2016-12-18
+Genres: Комедия, Повседневность, Работа, 
+Rating limit: PG-13
+Rating: 4.75
+Rating numbers: 1586
+Description: Кафе «Какао цвета дождя» открывает филиал на Гавайях, и Кодзи Амами назначает Нодзому Токуру его менеджером. Нодзому встречает новых друзей, а также усердно работает для успешного процветания этого заведения.

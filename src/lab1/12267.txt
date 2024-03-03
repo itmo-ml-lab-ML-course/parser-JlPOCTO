@@ -1,0 +1,9 @@
+Name: Anemone
+Type: video.other
+Episodes: 1
+Episode length: 300
+Genres: Драма, Сверхъестественное, 
+Rating limit: PG-13
+Rating: 6.4
+Rating numbers: 841
+Description: История о девушке, которая заблудилась в мире чудес. Она углубляется в свой внутренний мир — свое сердце — и, в конце концов, извлекает из него важную вещь, о которой она забыла.

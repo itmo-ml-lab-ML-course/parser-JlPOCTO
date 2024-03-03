@@ -1,0 +1,10 @@
+Name: Anime Sanjuushi
+Type: video.tv_show
+Episodes: 52
+Episode length: 1500
+Last episode date release: 1989-02-17
+Genres: Приключения, Драма, Романтика, Исторический, 
+Rating limit: G
+Rating: 7.1
+Rating numbers: 715
+Description: Нет описания

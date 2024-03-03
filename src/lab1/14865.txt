@@ -1,0 +1,7 @@
+Name: Mr. Shape and Number Man
+Type: video.tv_show
+Episodes: 1
+Episode length: 360
+Genres: Детское, Комедия, 
+Rating limit: G
+Description: Нет описания

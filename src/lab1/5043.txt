@@ -1,0 +1,10 @@
+Name: DD Hokuto no Ken
+Type: video.tv_show
+Episodes: 12
+Episode length: 180
+Last episode date release: 2011-04-06
+Genres: Сэйнэн, Пародия, 
+Rating limit: PG-13
+Rating: 6.04
+Rating numbers: 1194
+Description: Нет описания

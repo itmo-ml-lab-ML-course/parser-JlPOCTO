@@ -1,0 +1,8 @@
+Name: Mikan-Seijin
+Type: video.tv_show
+Episodes: 26
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.45
+Rating numbers: 220
+Description: История о приключениях инопланетянина, похожего на мандарин, на Земле.

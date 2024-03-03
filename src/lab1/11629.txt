@@ -1,0 +1,9 @@
+Name: Gon Movie: Gon, the Little Fox
+Type: video.movie
+Episodes: 1
+Episode length: 1680
+Genres: Драма, 
+Rating limit: PG
+Rating: 6.52
+Rating numbers: 783
+Description: Нет описания

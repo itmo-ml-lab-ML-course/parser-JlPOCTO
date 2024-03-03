@@ -1,0 +1,6 @@
+Name: Mecha Robot Corps 3
+Type: video.movie
+Episodes: 1
+Episode length: 4080
+Genres: Сёнен, Экшен, Приключения, Меха, 
+Description: Нет описания

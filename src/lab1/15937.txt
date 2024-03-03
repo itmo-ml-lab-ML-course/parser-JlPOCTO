@@ -1,0 +1,8 @@
+Name: San Zhi Tuzi
+Type: video.tv_show
+Episodes: 26
+Episode length: 60
+Last episode date release: 2017-03-07
+Genres: Детское, Комедия, 
+Rating limit: PG
+Description: Нет описания

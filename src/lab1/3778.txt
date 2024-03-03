@@ -1,0 +1,9 @@
+Name: Uchuu Senshi Baldios (Movie)
+Type: video.movie
+Episodes: 1
+Episode length: 7080
+Genres: Экшен, Фантастика, Меха, Космос, 
+Rating limit: PG-13
+Rating: 6.3
+Rating numbers: 315
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Tegong Huan Ying 2: Conglin Tegong Dui
+Type: video.tv_show
+Episodes: 26
+Episode length: 780
+Genres: Детское, Фэнтези, Фантастика, 
+Rating limit: PG
+Description: Нет описания

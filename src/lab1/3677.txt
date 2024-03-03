@@ -1,0 +1,9 @@
+Name: Deca-Dence: Install
+Type: video.tv_show
+Episodes: 1
+Episode length: 1200
+Genres: Экшен, Приключения, Фантастика, 
+Rating limit: PG-13
+Rating: 6.31
+Rating numbers: 1687
+Description: Краткий пересказ первых пяти эпизодов аниме-сериала «Дека-данс».

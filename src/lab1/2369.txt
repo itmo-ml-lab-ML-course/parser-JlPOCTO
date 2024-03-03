@@ -1,0 +1,10 @@
+Name: Saber Marionette J to X
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 1999-03-30
+Genres: Экшен, Приключения, Комедия, Фантастика, Гарем, Меха, 
+Rating limit: PG-13
+Rating: 7.28
+Rating numbers: 1031
+Description: Нет описания

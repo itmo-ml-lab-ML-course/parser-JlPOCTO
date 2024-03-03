@@ -1,0 +1,9 @@
+Name: Wu Shan Wu Xing
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Экшен, Фэнтези, 
+Rating limit: PG-13
+Rating: 7.06
+Rating numbers: 445
+Description: Нет описания

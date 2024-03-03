@@ -1,0 +1,7 @@
+Name: Xiao Po Hai
+Type: video.tv_show
+Episodes: 130
+Episode length: 120
+Genres: Комедия, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Xiaolong Da Kung Fu
+Type: video.tv_show
+Episodes: 84
+Episode length: 660
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

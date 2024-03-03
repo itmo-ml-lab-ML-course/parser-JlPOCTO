@@ -1,0 +1,5 @@
+Name: Future Kid Takara
+Type: video.movie
+Episodes: 1
+Genres: Драма, 
+Description: Нет описания

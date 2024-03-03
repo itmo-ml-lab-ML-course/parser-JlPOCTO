@@ -1,0 +1,7 @@
+Name: Wanpi Fu Duo
+Type: video.tv_show
+Episodes: 39
+Episode length: 720
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

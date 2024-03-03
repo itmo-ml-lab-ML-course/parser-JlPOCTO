@@ -1,0 +1,8 @@
+Name: Mukashi Keibanashi
+Type: video.tv_show
+Episodes: 4
+Episode length: 120
+Last episode date release: 2019-12-21
+Genres: Комедия, Фэнтези, Спорт, Пародия, 
+Rating limit: G
+Description: Нет описания

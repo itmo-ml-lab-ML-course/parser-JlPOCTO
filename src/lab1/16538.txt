@@ -1,0 +1,6 @@
+Name: Bleach: Sennen Kessen-hen - Soukoku-tan
+Type: video.tv_show
+Episodes: 1
+Genres: Экшен, Приключения, Фэнтези, Сёнен, 
+Rating limit: R-17
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Shin Bikkuriman
+Type: video.tv_show
+Episodes: 72
+Episode length: 1500
+Last episode date release: 1990-08-26
+Genres: Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 6.09
+Rating numbers: 215
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Shixiong A Shixiong
+Type: video.tv_show
+Episodes: 13
+Episode length: 1200
+Last episode date release: 2023-04-06
+Genres: Экшен, Приключения, Фэнтези, Исторический, Боевые искусства, 
+Rating limit: PG-13
+Rating: 7.55
+Rating numbers: 1009
+Description: Нет описания

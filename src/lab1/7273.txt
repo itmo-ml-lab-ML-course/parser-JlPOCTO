@@ -1,0 +1,7 @@
+Name: Bandian Xiong Yu Da Ben Zei
+Type: video.tv_show
+Episodes: 26
+Episode length: 660
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

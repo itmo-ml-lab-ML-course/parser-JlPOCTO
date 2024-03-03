@@ -1,0 +1,7 @@
+Name: Tayutaum
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Безумие, Музыка, 
+Rating limit: G
+Description: Нет описания

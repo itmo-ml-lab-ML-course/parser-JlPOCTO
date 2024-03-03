@@ -1,0 +1,9 @@
+Name: Mini Hama: Minimum Hamatora Movies
+Type: video.movie
+Episodes: 2
+Episode length: 300
+Genres: Комедия, Детектив, Школа, Супер сила, 
+Rating limit: PG-13
+Rating: 6.0
+Rating numbers: 2047
+Description: Два специальных мини-эпизода к фильму «Детективное агенство "Хаматора"».

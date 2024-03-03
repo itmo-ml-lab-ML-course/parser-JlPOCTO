@@ -1,0 +1,8 @@
+Name: Color Noise
+Type: video.tv_show
+Episodes: 1
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.48
+Rating numbers: 273
+Description: Нет описания

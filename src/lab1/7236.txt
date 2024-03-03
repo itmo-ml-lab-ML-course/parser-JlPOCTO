@@ -1,0 +1,7 @@
+Name: Bai Li Xiong: Shenmi Hei Yi Ren
+Type: video.tv_show
+Episodes: 26
+Episode length: 900
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

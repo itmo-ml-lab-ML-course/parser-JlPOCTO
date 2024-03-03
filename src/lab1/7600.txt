@@ -1,0 +1,8 @@
+Name: Cha A Er Zhong
+Type: video.tv_show
+Episodes: 10
+Episode length: 120
+Last episode date release: 2014-11-04
+Genres: Детское, Комедия, Школа, 
+Rating limit: G
+Description: Нет описания

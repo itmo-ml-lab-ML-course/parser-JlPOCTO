@@ -1,0 +1,8 @@
+Name: Pro Golfer Saru (TV)
+Type: video.tv_show
+Episodes: 143
+Episode length: 1440
+Last episode date release: 1988-03-28
+Genres: Детское, Спорт, 
+Rating limit: PG
+Description: Нет описания

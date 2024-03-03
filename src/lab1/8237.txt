@@ -1,0 +1,7 @@
+Name: Du La Jiang Gushi: Tonghua Gushi
+Type: video.tv_show
+Episodes: 59
+Episode length: 180
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

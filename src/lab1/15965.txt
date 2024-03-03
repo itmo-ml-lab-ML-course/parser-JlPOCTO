@@ -1,0 +1,7 @@
+Name: Sanqi Xiao Fuxing: Xiao Fuxing Ai Kexue
+Type: video.tv_show
+Episodes: 26
+Episode length: 900
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

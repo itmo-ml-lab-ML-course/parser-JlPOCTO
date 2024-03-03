@@ -1,0 +1,9 @@
+Name: Moonrakers
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Драма, Фантастика, Космос, 
+Rating limit: R-17
+Rating: 5.5
+Rating numbers: 467
+Description: Нет описания

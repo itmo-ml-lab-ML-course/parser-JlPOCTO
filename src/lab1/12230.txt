@@ -1,0 +1,10 @@
+Name: Osomatsu-kun
+Type: video.tv_show
+Episodes: 56
+Episode length: 1500
+Last episode date release: 1967-03-25
+Genres: Комедия, 
+Rating limit: PG
+Rating: 6.41
+Rating numbers: 1293
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Bollogi Iyagi
+Type: video.tv_show
+Episodes: 1
+Episode length: 660
+Genres: Безумие, Драма, Романтика, 
+Rating limit: G
+Rating: 5.33
+Rating numbers: 212
+Description: Нет описания

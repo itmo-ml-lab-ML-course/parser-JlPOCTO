@@ -1,0 +1,6 @@
+Name: Eunhahamdae Jiguho
+Type: video.movie
+Episodes: 1
+Episode length: 4800
+Genres: Детское, Экшен, Приключения, Фантастика, Космос, 
+Description: Нет описания

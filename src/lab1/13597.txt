@@ -1,0 +1,9 @@
+Name: Sakana no Kuni
+Type: video.movie
+Episodes: 1
+Episode length: 900
+Genres: Военное, 
+Rating limit: G
+Rating: 5.16
+Rating numbers: 255
+Description: Нет описания

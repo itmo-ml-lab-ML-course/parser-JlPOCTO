@@ -1,0 +1,9 @@
+Name: Nihon Mukashibanashi: Saru Kani
+Type: video.movie
+Episodes: 1
+Episode length: 1140
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 5.25
+Rating numbers: 250
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Kikou Kai Galient
+Type: video.tv_show
+Episodes: 25
+Episode length: 1440
+Last episode date release: 1985-03-29
+Genres: Экшен, Фэнтези, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.49
+Rating numbers: 513
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Felix no Meitantei
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Детектив, 
+Rating limit: G
+Rating: 4.6
+Rating numbers: 306
+Description: Нет описания

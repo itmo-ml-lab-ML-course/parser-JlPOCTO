@@ -1,0 +1,9 @@
+Name: Chikotan
+Type: video.movie
+Episodes: 1
+Episode length: 660
+Genres: Музыка, Психологическое, 
+Rating limit: G
+Rating: 5.43
+Rating numbers: 253
+Description: Нет описания

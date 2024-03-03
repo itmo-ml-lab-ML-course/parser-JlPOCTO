@@ -1,0 +1,9 @@
+Name: Plus 50000-nen
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Фантастика, 
+Rating limit: G
+Rating: 5.43
+Rating numbers: 237
+Description: Нет описания

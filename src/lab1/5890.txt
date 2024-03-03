@@ -1,0 +1,6 @@
+Name: Taegeugsonyeon Huin Dogsuli
+Type: video.movie
+Episodes: 1
+Episode length: 3600
+Genres: Сёнен, Экшен, Приключения, Супер сила, 
+Description: Нет описания

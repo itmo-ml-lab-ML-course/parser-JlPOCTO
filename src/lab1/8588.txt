@@ -1,0 +1,7 @@
+Name: Ginga Tetsudou 999: Kieta Taiyoukei
+Type: video.movie
+Episodes: 1
+Episode length: 1800
+Genres: Приключения, Фантастика, Космос, 
+Rating limit: G
+Description: Нет описания

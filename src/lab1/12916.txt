@@ -1,0 +1,9 @@
+Name: Tokyo Fantasia
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 5.44
+Rating numbers: 213
+Description: Нет описания

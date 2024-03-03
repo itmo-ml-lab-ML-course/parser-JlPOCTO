@@ -1,0 +1,8 @@
+Name: Poten Dogs
+Type: video.tv_show
+Episodes: 18
+Episode length: 540
+Last episode date release: 2021-05-05
+Genres: Экшен, Фантастика, Супер сила, Детское, 
+Rating limit: PG
+Description: Нет описания

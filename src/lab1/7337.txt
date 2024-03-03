@@ -1,0 +1,8 @@
+Name: Baozou Kongbu Gushi
+Type: video.tv_show
+Episodes: 10
+Episode length: 240
+Last episode date release: 2014-01-01
+Genres: Ужасы, 
+Rating limit: PG-13
+Description: Нет описания

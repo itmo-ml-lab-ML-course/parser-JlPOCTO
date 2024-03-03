@@ -1,0 +1,7 @@
+Name: Balgwanghaneun Hyeondaesa
+Type: video.tv_show
+Episodes: 3
+Episode length: 4620
+Genres: Драма, Повседневность, 
+Rating limit: R+
+Description: Нет описания

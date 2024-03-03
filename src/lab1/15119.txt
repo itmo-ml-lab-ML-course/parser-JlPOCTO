@@ -1,0 +1,8 @@
+Name: Noah&#39;s Animal Clinic Medical Book Record
+Type: video.tv_show
+Episodes: 10
+Episode length: 180
+Last episode date release: 2013-03-06
+Genres: Детское, Комедия, Повседневность, 
+Rating limit: G
+Description: Нет описания

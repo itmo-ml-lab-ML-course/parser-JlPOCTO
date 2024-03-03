@@ -1,0 +1,8 @@
+Name: Chi-Sui Maru
+Type: video.tv_show
+Episodes: 41
+Episode length: 60
+Last episode date release: 2010-11-26
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Haru no Uta
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Музыка, 
+Rating limit: G
+Rating: 4.51
+Rating numbers: 365
+Description: Нет описания

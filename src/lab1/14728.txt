@@ -1,0 +1,7 @@
+Name: Minna Unchi
+Type: video.other
+Episodes: 4
+Episode length: 420
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

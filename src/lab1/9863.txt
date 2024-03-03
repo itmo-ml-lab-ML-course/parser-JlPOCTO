@@ -1,0 +1,9 @@
+Name: Meitantei Conan Movie 22: Zero no Shikkounin
+Type: video.movie
+Episodes: 1
+Episode length: 6600
+Genres: Экшен, Драма, Детектив, Полиция, 
+Rating limit: PG-13
+Rating: 7.85
+Rating numbers: 2099
+Description: Нет описания

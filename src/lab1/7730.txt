@@ -1,0 +1,8 @@
+Name: Chifan Shuijiao Da Dou Dou
+Type: video.tv_show
+Episodes: 21
+Episode length: 180
+Last episode date release: 2015-02-13
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

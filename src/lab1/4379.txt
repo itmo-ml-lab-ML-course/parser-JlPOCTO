@@ -1,0 +1,10 @@
+Name: Wan Jie Zhizun
+Type: video.tv_show
+Episodes: 50
+Episode length: 600
+Last episode date release: 2023-05-03
+Genres: Экшен, Приключения, Фэнтези, Боевые искусства, 
+Rating limit: PG-13
+Rating: 6.17
+Rating numbers: 786
+Description: Нет описания

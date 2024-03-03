@@ -1,0 +1,9 @@
+Name: Doraemon: Obaachan no Omoide
+Type: video.movie
+Episodes: 1
+Episode length: 1620
+Genres: Комедия, Фэнтези, Фантастика, 
+Rating limit: PG
+Rating: 7.27
+Rating numbers: 587
+Description: Нет описания

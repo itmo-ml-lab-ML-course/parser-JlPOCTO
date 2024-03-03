@@ -1,0 +1,9 @@
+Name: Sugata Sanshirou
+Type: video.other
+Episodes: 1
+Episode length: 4320
+Genres: Экшен, Спорт, Боевые искусства, 
+Rating limit: PG-13
+Rating: 6.09
+Rating numbers: 240
+Description: Нет описания

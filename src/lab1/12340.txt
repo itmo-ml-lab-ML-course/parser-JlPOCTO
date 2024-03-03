@@ -1,0 +1,9 @@
+Name: Sharedol
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Исторический, Музыка, 
+Rating limit: PG-13
+Rating: 6.39
+Rating numbers: 452
+Description: Нет описания

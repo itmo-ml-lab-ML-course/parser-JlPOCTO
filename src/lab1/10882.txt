@@ -1,0 +1,10 @@
+Name: Chirorin Mura Monogatari
+Type: video.tv_show
+Episodes: 170
+Episode length: 600
+Last episode date release: 1993-03-19
+Genres: Детское, Повседневность, 
+Rating limit: G
+Rating: 6.66
+Rating numbers: 223
+Description: Нет описания

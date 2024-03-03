@@ -1,0 +1,9 @@
+Name: Tatamp
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Музыка, 
+Rating limit: G
+Rating: 5.27
+Rating numbers: 205
+Description: Нет описания

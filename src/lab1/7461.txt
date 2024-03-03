@@ -1,0 +1,7 @@
+Name: Boku ga Kowai Kuroi Mono
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Драма, 
+Rating limit: G
+Description: Нет описания

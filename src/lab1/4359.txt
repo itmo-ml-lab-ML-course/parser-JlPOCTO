@@ -1,0 +1,9 @@
+Name: Robot Town Sagami 2028
+Type: video.tv_show
+Episodes: 1
+Episode length: 480
+Genres: Драма, 
+Rating limit: G
+Rating: 6.18
+Rating numbers: 375
+Description: Нет описания

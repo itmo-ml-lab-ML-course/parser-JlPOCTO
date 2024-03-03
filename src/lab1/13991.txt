@@ -1,0 +1,9 @@
+Name: Beautiful Name
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: Детское, 
+Rating limit: G
+Rating: 4.88
+Rating numbers: 235
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Tu Hongse De Luotuo
+Type: video.tv_show
+Episodes: 26
+Episode length: 720
+Genres: Приключения, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Comic Party
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2001-06-25
+Genres: Комедия, Драма, 
+Rating limit: PG-13
+Rating: 6.58
+Rating numbers: 1071
+Description: Нет описания

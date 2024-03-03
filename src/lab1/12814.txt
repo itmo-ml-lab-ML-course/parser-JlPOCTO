@@ -1,0 +1,9 @@
+Name: Install Pilot
+Type: video.other
+Episodes: 1
+Episode length: 720
+Genres: Сёнен, Экшен, Фантастика, 
+Rating limit: R-17
+Rating: 5.48
+Rating numbers: 275
+Description: Нет описания

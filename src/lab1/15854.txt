@@ -1,0 +1,6 @@
+Name: Ryouma 30 Seconds
+Type: video.tv_show
+Episodes: 5
+Genres: Исторический, 
+Rating limit: G
+Description: Нет описания

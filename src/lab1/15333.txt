@@ -1,0 +1,8 @@
+Name: Owanko
+Type: video.tv_show
+Episodes: 7
+Episode length: 60
+Last episode date release: 2014-04-18
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

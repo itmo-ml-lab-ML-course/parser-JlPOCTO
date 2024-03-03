@@ -1,0 +1,9 @@
+Name: Precure All Stars Movie: Minna de Utau♪ - Kiseki no Mahou
+Type: video.movie
+Episodes: 1
+Episode length: 4200
+Genres: Экшен, Комедия, Фэнтези, Музыка, 
+Rating limit: G
+Rating: 7.07
+Rating numbers: 1000
+Description: Нет описания

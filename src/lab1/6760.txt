@@ -1,0 +1,7 @@
+Name: Xiao Ji Tegong Dui
+Type: video.tv_show
+Episodes: 13
+Episode length: 540
+Genres: Детское, Комедия, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

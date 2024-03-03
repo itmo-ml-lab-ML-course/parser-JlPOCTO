@@ -1,0 +1,10 @@
+Name: Qi Jie Diyi Xian
+Type: video.tv_show
+Episodes: 120
+Episode length: 660
+Last episode date release: 2023-04-06
+Genres: Экшен, Приключения, Фэнтези, Боевые искусства, 
+Rating limit: PG-13
+Rating: 6.28
+Rating numbers: 964
+Description: Нет описания

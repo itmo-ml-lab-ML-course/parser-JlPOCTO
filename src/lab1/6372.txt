@@ -1,0 +1,7 @@
+Name: Umjig-im-ui Sajeon
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Безумие, 
+Rating limit: G
+Description: Нет описания

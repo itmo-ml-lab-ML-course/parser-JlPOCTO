@@ -1,0 +1,7 @@
+Name: Gouxiong Jingsai Ji
+Type: video.tv_show
+Episodes: 78
+Episode length: 1320
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Banjjagbanjjag Catch! Tiniping
+Type: video.tv_show
+Episodes: 26
+Episode length: 660
+Last episode date release: 2022-03-16
+Genres: Фэнтези, Школа, 
+Rating limit: PG
+Description: Нет описания

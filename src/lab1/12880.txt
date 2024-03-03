@@ -1,0 +1,9 @@
+Name: Maze
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: 
+Rating limit: G
+Rating: 5.45
+Rating numbers: 170
+Description: Нет описания

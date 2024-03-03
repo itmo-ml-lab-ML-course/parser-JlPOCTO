@@ -1,0 +1,9 @@
+Name: Ninjala (TV)
+Type: video.tv_show
+Episodes: 100 / ?
+Episode length: 1380
+Genres: Экшен, 
+Rating limit: PG
+Rating: 5.47
+Rating numbers: 431
+Description: Нет описания

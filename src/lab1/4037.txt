@@ -1,0 +1,10 @@
+Name: SD Gundam Sangokuden Brave Battle Warriors
+Type: video.tv_show
+Episodes: 51
+Episode length: 720
+Last episode date release: 2011-03-19
+Genres: Экшен, Исторический, Меха, 
+Rating limit: PG
+Rating: 6.25
+Rating numbers: 1260
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Kitsune Tsuki
+Type: video.movie
+Episodes: 1
+Episode length: 420
+Genres: Драма, 
+Rating limit: G
+Rating: 6.18
+Rating numbers: 295
+Description: Нет описания

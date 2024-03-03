@@ -1,0 +1,9 @@
+Name: Jiang Ziya
+Type: video.movie
+Episodes: 1
+Episode length: 6540
+Genres: Экшен, Приключения, Фэнтези, 
+Rating limit: PG-13
+Rating: 7.26
+Rating numbers: 3166
+Description: Нет описания

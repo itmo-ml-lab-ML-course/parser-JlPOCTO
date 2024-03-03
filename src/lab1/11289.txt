@@ -1,0 +1,9 @@
+Name: Katasumi no Uroko
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Приключения, Драма, Фэнтези, 
+Rating limit: G
+Rating: 6.58
+Rating numbers: 410
+Description: Нет описания

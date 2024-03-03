@@ -1,0 +1,9 @@
+Name: Hare Tokidoki Buta
+Type: video.movie
+Episodes: 1
+Episode length: 4440
+Genres: Детское, Комедия, 
+Rating limit: PG
+Rating: 6.09
+Rating numbers: 192
+Description: Нет описания

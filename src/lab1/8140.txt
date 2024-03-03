@@ -1,0 +1,8 @@
+Name: Donghwanala ABC
+Type: video.tv_show
+Episodes: 12
+Episode length: 1020
+Last episode date release: 1987-08-28
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

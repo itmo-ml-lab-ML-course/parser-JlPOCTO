@@ -1,0 +1,7 @@
+Name: Xiongmao Boshi
+Type: video.tv_show
+Episodes: 39
+Episode length: 420
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Wo Jiao MT 3rd Season
+Type: video.tv_show
+Episodes: 10
+Episode length: 1800
+Genres: Приключения, Комедия, Фэнтези, 
+Rating limit: G
+Description: Нет описания

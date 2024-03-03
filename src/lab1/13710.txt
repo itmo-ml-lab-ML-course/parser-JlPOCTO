@@ -1,0 +1,9 @@
+Name: Shishido Journey
+Type: video.other
+Episodes: 1
+Episode length: 180
+Genres: Музыка, 
+Rating limit: G
+Rating: 5.1
+Rating numbers: 237
+Description: Нет описания

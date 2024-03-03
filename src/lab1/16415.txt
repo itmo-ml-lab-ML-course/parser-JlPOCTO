@@ -1,0 +1,6 @@
+Name: Naruto (Shinsaku Anime)
+Type: video.tv_show
+Episodes: 4
+Genres: Экшен, Приключения, Фэнтези, Боевые искусства, Сёнен, 
+Rating limit: PG-13
+Description: Нет описания

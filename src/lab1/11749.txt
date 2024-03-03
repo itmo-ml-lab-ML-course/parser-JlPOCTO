@@ -1,0 +1,10 @@
+Name: Muteki Robo Trider G7
+Type: video.tv_show
+Episodes: 50
+Episode length: 1440
+Last episode date release: 1981-01-03
+Genres: Комедия, Фантастика, Меха, Космос, 
+Rating limit: G
+Rating: 6.5
+Rating numbers: 239
+Description: Нет описания

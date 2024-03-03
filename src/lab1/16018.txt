@@ -1,0 +1,8 @@
+Name: Sekai Meisaku Video Ehon
+Type: video.other
+Episodes: 50
+Episode length: 720
+Last episode date release: 1989-11-01
+Genres: Детское, Фэнтези, 
+Rating limit: G
+Description: Нет описания

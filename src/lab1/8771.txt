@@ -1,0 +1,7 @@
+Name: Haixing Xiongdi
+Type: video.tv_show
+Episodes: 68
+Episode length: 900
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

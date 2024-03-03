@@ -1,0 +1,9 @@
+Name: Choujin Locke
+Type: video.movie
+Episodes: 1
+Episode length: 7140
+Genres: Экшен, Фантастика, Супер сила, 
+Rating limit: R+
+Rating: 6.35
+Rating numbers: 427
+Description: Нет описания

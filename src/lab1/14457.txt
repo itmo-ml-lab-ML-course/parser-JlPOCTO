@@ -1,0 +1,7 @@
+Name: Mao Yu Shu
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

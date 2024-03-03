@@ -1,0 +1,8 @@
+Name: San Zhi Tuzi 2nd Season
+Type: video.tv_show
+Episodes: 26
+Episode length: 60
+Last episode date release: 2018-03-10
+Genres: Детское, Комедия, 
+Rating limit: PG
+Description: Нет описания

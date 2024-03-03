@@ -1,0 +1,9 @@
+Name: Doraemon Movie 29: Shin Nobita no Uchuu Kaitakushi
+Type: video.movie
+Episodes: 1
+Episode length: 5880
+Genres: Детское, Приключения, Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 7.27
+Rating numbers: 633
+Description: Нет описания

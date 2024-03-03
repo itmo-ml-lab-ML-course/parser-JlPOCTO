@@ -1,0 +1,9 @@
+Name: Bouken Gabotenjima
+Type: video.tv_show
+Episodes: 39
+Episode length: 1440
+Last episode date release: 1967-12-26
+Genres: Приключения, 
+Rating: 6.26
+Rating numbers: 200
+Description: Нет описания

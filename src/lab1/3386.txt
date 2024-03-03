@@ -1,0 +1,9 @@
+Name: Chibi Maruko-chan Movie
+Type: video.movie
+Episodes: 1
+Episode length: 5580
+Genres: Сёдзё, Комедия, Школа, 
+Rating limit: G
+Rating: 7.08
+Rating numbers: 345
+Description: Нет описания

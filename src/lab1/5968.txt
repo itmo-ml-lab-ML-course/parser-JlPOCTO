@@ -1,0 +1,8 @@
+Name: Tanoshii Sansuu (TV)
+Type: video.tv_show
+Episodes: 15
+Episode length: 240
+Last episode date release: 1995-03-13
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Birthday
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 5.34
+Rating numbers: 174
+Description: Нет описания

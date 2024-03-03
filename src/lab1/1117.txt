@@ -1,0 +1,9 @@
+Name: JoJo no Kimyou na Bouken: Phantom Blood
+Type: video.movie
+Episodes: 1
+Episode length: 5400
+Genres: Сёнен, Экшен, Приключения, Ужасы, Вампиры, 
+Rating limit: R-17
+Rating: 7.72
+Rating numbers: 17324
+Description: Нет описания

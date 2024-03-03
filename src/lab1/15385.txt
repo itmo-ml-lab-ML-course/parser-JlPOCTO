@@ -1,0 +1,8 @@
+Name: Papa Dog
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2016-05-12
+Genres: Комедия, Фэнтези, Детское, 
+Rating limit: G
+Description: Нет описания

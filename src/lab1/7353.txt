@@ -1,0 +1,7 @@
+Name: Bawang Mianju
+Type: video.tv_show
+Episodes: 3
+Episode length: 420
+Genres: Ужасы, Сверхъестественное, 
+Rating limit: R-17
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Tenkuu no Escaflowne Recaps
+Type: video.other
+Episodes: 4
+Episode length: 2640
+Genres: Приключения, Фэнтези, Романтика, 
+Rating limit: PG-13
+Rating: 6.1
+Rating numbers: 336
+Description: Краткий пересказ событий аниме-сериала «Видение Эскафлона».

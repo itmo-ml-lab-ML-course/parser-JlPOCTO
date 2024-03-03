@@ -1,0 +1,7 @@
+Name: Hazamatsuri
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Фэнтези, 
+Rating limit: G
+Description: Нет описания

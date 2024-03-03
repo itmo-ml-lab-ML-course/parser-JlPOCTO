@@ -1,0 +1,8 @@
+Name: Bugsbot G
+Type: video.tv_show
+Episodes: 15
+Episode length: 240
+Last episode date release: 2021-01-05
+Genres: Фантастика, Детское, 
+Rating limit: PG
+Description: Нет описания

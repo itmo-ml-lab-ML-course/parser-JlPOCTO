@@ -1,0 +1,10 @@
+Name: Kirin Monoshiri Yakata
+Type: video.tv_show
+Episodes: 1565
+Episode length: 300
+Last episode date release: 1979-12-31
+Genres: Детское, 
+Rating limit: PG
+Rating: 5.54
+Rating numbers: 246
+Description: Нет описания

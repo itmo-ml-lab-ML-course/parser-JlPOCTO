@@ -1,0 +1,10 @@
+Name: Beyblade Burst God
+Type: video.tv_show
+Episodes: 51
+Episode length: 1440
+Last episode date release: 2018-03-26
+Genres: Детское, Экшен, Приключения, Фантастика, Спорт, 
+Rating limit: PG
+Rating: 7.04
+Rating numbers: 2245
+Description: Нет описания

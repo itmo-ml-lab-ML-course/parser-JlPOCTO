@@ -1,0 +1,9 @@
+Name: Smile Precure! Movie: Ehon no Naka wa Minna Chiguhagu!
+Type: video.movie
+Episodes: 1
+Episode length: 4260
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 7.31
+Rating numbers: 1103
+Description: Нет описания

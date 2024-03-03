@@ -1,0 +1,9 @@
+Name: A Brightening Life
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Драма, Музыка, 
+Rating limit: PG
+Rating: 5.5
+Rating numbers: 168
+Description: Нет описания

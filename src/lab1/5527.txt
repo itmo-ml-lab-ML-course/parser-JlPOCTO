@@ -1,0 +1,9 @@
+Name: Born by Myself
+Type: video.tv_show
+Episodes: 1
+Episode length: 360
+Genres: Безумие, Психологическое, 
+Rating limit: PG-13
+Rating: 3.16
+Rating numbers: 742
+Description: Нет описания

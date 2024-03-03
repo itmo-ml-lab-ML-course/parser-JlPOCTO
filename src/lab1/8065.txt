@@ -1,0 +1,7 @@
+Name: Dibetagurashi: Ahiru no Seikatsu - Ahiru no Sumu Shima
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Description: Нет описания

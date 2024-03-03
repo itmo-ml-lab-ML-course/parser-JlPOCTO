@@ -1,0 +1,9 @@
+Name: Iro wo Kuu Akuma
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 5.4
+Rating numbers: 384
+Description: Нет описания

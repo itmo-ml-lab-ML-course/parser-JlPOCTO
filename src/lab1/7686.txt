@@ -1,0 +1,7 @@
+Name: Chengshi Jiyi Wo Men de Jieri
+Type: video.tv_show
+Episodes: 7
+Episode length: 180
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

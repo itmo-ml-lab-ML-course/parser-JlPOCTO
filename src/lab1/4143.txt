@@ -1,0 +1,9 @@
+Name: Appleseed XIII Remix Movie 1: Yuigon
+Type: video.movie
+Episodes: 1
+Episode length: 5040
+Genres: Экшен, Фантастика, Меха, Военное, Полиция, 
+Rating limit: R-17
+Rating: 6.22
+Rating numbers: 1582
+Description: В данном фильме показана первая половина «Яблочного зернышка XIII».

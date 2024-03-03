@@ -1,0 +1,9 @@
+Name: Tottoko Hamtarou Movie 4: Hamtaro to Fushigi no Oni no Emon Tou
+Type: video.movie
+Episodes: 1
+Episode length: 2400
+Genres: Детское, Приключения, Комедия, 
+Rating limit: G
+Rating: 6.43
+Rating numbers: 295
+Description: Нет описания

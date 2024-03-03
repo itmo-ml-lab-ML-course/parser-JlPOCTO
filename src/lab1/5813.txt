@@ -1,0 +1,8 @@
+Name: Steel Fire Brigade Fire Robo
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Last episode date release: 2017-02-20
+Genres: Детское, Фантастика, Меха, 
+Rating limit: PG
+Description: Нет описания

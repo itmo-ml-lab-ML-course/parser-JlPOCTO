@@ -1,0 +1,9 @@
+Name: Kaitou Jigoma Ongaku-hen
+Type: video.movie
+Episodes: 1
+Episode length: 1380
+Genres: Музыка, 
+Rating limit: PG-13
+Rating: 5.39
+Rating numbers: 172
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Hibabe
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

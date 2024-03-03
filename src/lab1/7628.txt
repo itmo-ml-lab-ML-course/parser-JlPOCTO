@@ -1,0 +1,7 @@
+Name: Chanto...
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Повседневность, Музыка, 
+Rating limit: G
+Description: Нет описания

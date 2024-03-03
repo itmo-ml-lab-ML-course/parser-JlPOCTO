@@ -1,0 +1,8 @@
+Name: Rhythmens
+Type: video.tv_show
+Episodes: 5
+Episode length: 60
+Last episode date release: 2021-08-30
+Genres: Повседневность, 
+Rating limit: G
+Description: Нет описания

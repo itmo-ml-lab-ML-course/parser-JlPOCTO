@@ -1,0 +1,7 @@
+Name: Okaachan Gomen ne
+Type: video.movie
+Episodes: 1
+Episode length: 1560
+Genres: Детское, Исторический, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: &quot;Calpis&quot; Hakkou Monogatari
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Исторический, 
+Rating limit: G
+Rating: 4.65
+Rating numbers: 251
+Description: Нет описания

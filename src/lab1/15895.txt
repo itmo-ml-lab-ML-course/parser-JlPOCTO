@@ -1,0 +1,8 @@
+Name: Saikin Ponta
+Type: video.tv_show
+Episodes: 12
+Episode length: 300
+Last episode date release: 1995-03-02
+Genres: Детское, Повседневность, 
+Rating limit: PG
+Description: Нет описания

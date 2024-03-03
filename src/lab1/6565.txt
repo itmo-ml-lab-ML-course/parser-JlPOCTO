@@ -1,0 +1,7 @@
+Name: Wo de Pengyou Zhu Dike
+Type: video.tv_show
+Episodes: 52
+Episode length: 840
+Genres: Комедия, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

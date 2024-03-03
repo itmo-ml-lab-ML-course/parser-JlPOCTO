@@ -1,0 +1,9 @@
+Name: Kochira Katsushikaku Kameari Kouenmae Hashutsujo The Movie
+Type: video.movie
+Episodes: 1
+Episode length: 5640
+Genres: Экшен, Комедия, Детектив, Полиция, 
+Rating limit: PG-13
+Rating: 7.09
+Rating numbers: 567
+Description: Нет описания

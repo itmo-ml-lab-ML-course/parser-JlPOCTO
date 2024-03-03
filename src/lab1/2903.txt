@@ -1,0 +1,10 @@
+Name: Muteki Choujin Zanbot 3
+Type: video.tv_show
+Episodes: 23
+Episode length: 1440
+Last episode date release: 1978-03-25
+Genres: Сёнен, Экшен, Драма, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 7.18
+Rating numbers: 489
+Description: Нет описания

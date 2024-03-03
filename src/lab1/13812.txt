@@ -1,0 +1,10 @@
+Name: Mugen Kouro
+Type: video.tv_show
+Episodes: 4
+Episode length: 120
+Last episode date release: 2009-05-29
+Genres: Экшен, Фантастика, Космос, 
+Rating limit: PG-13
+Rating: 5.03
+Rating numbers: 338
+Description: Нет описания

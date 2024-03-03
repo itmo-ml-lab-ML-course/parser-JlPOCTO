@@ -1,0 +1,10 @@
+Name: Kitty&#39;s Paradise
+Type: video.tv_show
+Episodes: 16
+Episode length: 480
+Last episode date release: 1994-09-28
+Genres: Детское, Фэнтези, 
+Rating limit: G
+Rating: 6.59
+Rating numbers: 441
+Description: Нет описания

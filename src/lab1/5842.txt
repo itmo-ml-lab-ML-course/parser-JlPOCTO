@@ -1,0 +1,7 @@
+Name: Sumikko no Ko
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Школа, 
+Rating limit: G
+Description: Нет описания

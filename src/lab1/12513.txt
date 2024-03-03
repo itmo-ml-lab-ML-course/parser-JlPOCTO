@@ -1,0 +1,10 @@
+Name: Shouxi Yu Ling Shi
+Type: video.tv_show
+Episodes: 40
+Episode length: 660
+Last episode date release: 2020-10-24
+Genres: Экшен, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.36
+Rating numbers: 1075
+Description: Нет описания

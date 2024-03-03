@@ -1,0 +1,10 @@
+Name: KJ File
+Type: video.tv_show
+Episodes: 13
+Episode length: 240
+Last episode date release: 2022-10-03
+Genres: Экшен, Фантастика, 
+Rating limit: PG-13
+Rating: 4.79
+Rating numbers: 2130
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Wooser no Sono Higurashi
+Type: video.tv_show
+Episodes: 12
+Episode length: 240
+Last episode date release: 2012-12-19
+Genres: Комедия, Фэнтези, Повседневность, 
+Rating limit: G
+Rating: 6.18
+Rating numbers: 614
+Description: Нет описания

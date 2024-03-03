@@ -1,0 +1,9 @@
+Name: Adachi-ga Hara
+Type: video.movie
+Episodes: 1
+Episode length: 1800
+Genres: Фантастика, 
+Rating limit: PG-13
+Rating: 6.0
+Rating numbers: 626
+Description: Это история космонавта, отправившегося на далёкую планету, чтобы выполнить задание своего президента — убить ведьму, виновную в исчезновении многих людей.

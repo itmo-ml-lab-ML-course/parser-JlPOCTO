@@ -1,0 +1,10 @@
+Name: Nerima Daikon Brothers
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2006-03-28
+Genres: Комедия, Музыка, 
+Rating limit: R+
+Rating: 7.27
+Rating numbers: 697
+Description: Нет описания

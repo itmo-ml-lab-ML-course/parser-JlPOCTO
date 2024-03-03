@@ -1,0 +1,10 @@
+Name: Minarai Diva
+Type: video.tv_show
+Episodes: 10
+Episode length: 2940
+Last episode date release: 2014-09-22
+Genres: Музыка, 
+Rating limit: G
+Rating: 5.29
+Rating numbers: 404
+Description: Нет описания

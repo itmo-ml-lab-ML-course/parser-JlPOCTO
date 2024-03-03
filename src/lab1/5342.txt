@@ -1,0 +1,10 @@
+Name: Twin Angel Break
+Type: video.tv_show
+Episodes: 12
+Episode length: 1380
+Last episode date release: 2017-06-23
+Genres: Фэнтези, 
+Rating limit: PG-13
+Rating: 5.98
+Rating numbers: 2090
+Description: Нет описания

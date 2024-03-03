@@ -1,0 +1,8 @@
+Name: Schoolyard
+Type: video.other
+Episodes: 1
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 5.43
+Rating numbers: 503
+Description: Нет описания

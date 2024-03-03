@@ -1,0 +1,10 @@
+Name: Xiang Ling Ji
+Type: video.tv_show
+Episodes: 15
+Episode length: 900
+Last episode date release: 2017-08-16
+Genres: Экшен, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.33
+Rating numbers: 1430
+Description: Нет описания

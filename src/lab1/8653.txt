@@ -1,0 +1,7 @@
+Name: Gu Gu Dong
+Type: video.tv_show
+Episodes: 26
+Episode length: 900
+Genres: Детское, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

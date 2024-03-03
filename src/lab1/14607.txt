@@ -1,0 +1,7 @@
+Name: Meogtiwa Jaemjaem
+Type: video.tv_show
+Episodes: 26
+Episode length: 1260
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

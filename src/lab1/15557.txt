@@ -1,0 +1,8 @@
+Name: Pyun Pyun Maru
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 1969-03-30
+Genres: Комедия, Боевые искусства, 
+Rating limit: G
+Description: Нет описания

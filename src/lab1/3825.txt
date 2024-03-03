@@ -1,0 +1,9 @@
+Name: Fei Ren Xueyuan
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Экшен, Игры, 
+Rating limit: PG-13
+Rating: 6.29
+Rating numbers: 756
+Description: Нет описания

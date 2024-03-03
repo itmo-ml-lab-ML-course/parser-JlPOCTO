@@ -1,0 +1,9 @@
+Name: Mechano: Scientific Attack Force
+Type: video.other
+Episodes: 3
+Episode length: 600
+Genres: Безумие, Комедия, Ужасы, Фантастика, Музыка, Пародия, 
+Rating limit: R+
+Rating: 4.62
+Rating numbers: 256
+Description: Нет описания

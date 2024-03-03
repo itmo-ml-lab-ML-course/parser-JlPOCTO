@@ -1,0 +1,9 @@
+Name: Doubutsu Mura no Daisodou
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Экшен, 
+Rating limit: G
+Rating: 4.96
+Rating numbers: 286
+Description: Нет описания

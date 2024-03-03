@@ -1,0 +1,10 @@
+Name: Wan Yu Feng Shen
+Type: video.tv_show
+Episodes: 60
+Episode length: 720
+Last episode date release: 2022-07-12
+Genres: Экшен, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.09
+Rating numbers: 637
+Description: Нет описания

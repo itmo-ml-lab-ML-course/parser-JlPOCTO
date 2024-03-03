@@ -1,0 +1,9 @@
+Name: Himeyuri
+Type: video.movie
+Episodes: 1
+Episode length: 1860
+Genres: Драма, Исторический, 
+Rating limit: G
+Rating: 6.36
+Rating numbers: 268
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Super Doll Licca-chan
+Type: video.tv_show
+Episodes: 52
+Episode length: 1500
+Last episode date release: 1999-09-28
+Genres: Приключения, Комедия, 
+Rating limit: G
+Rating: 6.65
+Rating numbers: 413
+Description: Нет описания

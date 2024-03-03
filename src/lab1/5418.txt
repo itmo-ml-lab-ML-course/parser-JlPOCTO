@@ -1,0 +1,9 @@
+Name: Dankichi-jima no Olympic Taikai
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Экшен, Спорт, 
+Rating limit: G
+Rating: 4.27
+Rating numbers: 336
+Description: Нет описания

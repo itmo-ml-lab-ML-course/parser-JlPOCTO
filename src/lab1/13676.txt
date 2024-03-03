@@ -1,0 +1,8 @@
+Name: Ai wa KAT-TUN
+Type: video.tv_show
+Episodes: 5
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.11
+Rating numbers: 387
+Description: Нет описания

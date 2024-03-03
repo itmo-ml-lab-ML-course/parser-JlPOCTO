@@ -1,0 +1,9 @@
+Name: Haikyuu!! Movie 4: Concept no Tatakai
+Type: video.movie
+Episodes: 1
+Episode length: 5280
+Genres: Спорт, Школа, Сёнен, 
+Rating limit: PG-13
+Rating: 8.21
+Rating numbers: 23948
+Description: Полнометражный фильм, кратко пересказывающий события аниме-сериала «Волейбол!! 3» и охватывающий матч Карасуно против академии Сираторидзава.

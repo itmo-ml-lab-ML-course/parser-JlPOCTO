@@ -1,0 +1,8 @@
+Name: Yanbou Ninbou Tonbou
+Type: video.tv_show
+Episodes: 39
+Episode length: 1500
+Last episode date release: 1996-01-24
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

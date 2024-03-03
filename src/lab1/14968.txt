@@ -1,0 +1,8 @@
+Name: Nanako Zhichang Da Zuozhan
+Type: video.tv_show
+Episodes: 12
+Episode length: 60
+Last episode date release: 2022-05-13
+Genres: Комедия, Работа, 
+Rating limit: PG-13
+Description: Нет описания

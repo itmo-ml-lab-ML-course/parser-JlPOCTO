@@ -1,0 +1,9 @@
+Name: Nandarou
+Type: video.other
+Episodes: 1
+Episode length: 60
+Genres: Комедия, 
+Rating limit: PG
+Rating: 5.09
+Rating numbers: 1388
+Description: Телевизионная заставка, созданная студией «Гибли» в честь 40-летия японского телеканала NTV.

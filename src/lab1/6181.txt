@@ -1,0 +1,7 @@
+Name: Tomodachi Miitsuketa
+Type: video.other
+Episodes: 1
+Episode length: 960
+Genres: Детское, Фэнтези, 
+Rating limit: G
+Description: Нет описания

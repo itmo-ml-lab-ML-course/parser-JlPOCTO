@@ -1,0 +1,7 @@
+Name: Sangja Sog-ui Ai
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Повседневность, 
+Rating limit: G
+Description: Нет описания

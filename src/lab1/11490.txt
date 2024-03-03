@@ -1,0 +1,9 @@
+Name: Lupin III vs. Cat&#39;s Eye
+Type: video.tv_show
+Episodes: 1
+Episode length: 5460
+Genres: Экшен, Приключения, Комедия, Детектив, Сэйнэн, 
+Rating limit: PG-13
+Rating: 6.54
+Rating numbers: 810
+Description: Нет описания

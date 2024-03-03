@@ -1,0 +1,10 @@
+Name: Hoero! Bun Bun
+Type: video.tv_show
+Episodes: 39
+Episode length: 1380
+Last episode date release: 1981-07-09
+Genres: Приключения, Повседневность, 
+Rating limit: G
+Rating: 6.52
+Rating numbers: 241
+Description: Нет описания

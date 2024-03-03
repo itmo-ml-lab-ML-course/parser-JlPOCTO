@@ -1,0 +1,9 @@
+Name: Ojarumaru
+Type: video.tv_show
+Episodes: 1560 / ?
+Episode length: 600
+Genres: Детское, Приключения, Комедия, Фэнтези, 
+Rating limit: G
+Rating: 6.36
+Rating numbers: 468
+Description: Нет описания

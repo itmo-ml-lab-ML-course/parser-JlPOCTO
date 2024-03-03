@@ -1,0 +1,9 @@
+Name: RPG Densetsu Hepoi
+Type: video.tv_show
+Episodes: 50
+Episode length: 1500
+Last episode date release: 1991-09-28
+Genres: Приключения, Фэнтези, 
+Rating: 7.23
+Rating numbers: 214
+Description: Нет описания

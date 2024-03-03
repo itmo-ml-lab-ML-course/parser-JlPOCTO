@@ -1,0 +1,9 @@
+Name: Beppu x Peeping Life
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Rating: 4.98
+Rating numbers: 279
+Description: Нет описания

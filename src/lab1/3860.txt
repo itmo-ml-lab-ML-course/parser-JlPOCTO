@@ -1,0 +1,9 @@
+Name: Susume, Karolina.
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: 
+Rating limit: G
+Rating: 6.28
+Rating numbers: 1042
+Description: Короткое аниме про профессионального игрока в сёги Каролину Стычинску, сильнейшего игрока в сёги в Польше, а также в Европе среди женщин.

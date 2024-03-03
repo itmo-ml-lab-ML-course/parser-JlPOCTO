@@ -1,0 +1,7 @@
+Name: Sabapara
+Type: video.tv_show
+Episodes: 10
+Episode length: 120
+Genres: Комедия, Спорт, 
+Rating limit: PG-13
+Description: Нет описания

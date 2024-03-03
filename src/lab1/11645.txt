@@ -1,0 +1,10 @@
+Name: The King of Fighters: Destiny
+Type: video.tv_show
+Episodes: 24
+Episode length: 960
+Last episode date release: 2018-01-04
+Genres: Экшен, Приключения, Драма, Романтика, Боевые искусства, 
+Rating limit: PG-13
+Rating: 6.52
+Rating numbers: 1599
+Description: Нет описания

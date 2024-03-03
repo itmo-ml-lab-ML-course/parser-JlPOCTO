@@ -1,0 +1,7 @@
+Name: Miki no Mikoto
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Фэнтези, Повседневность, Сверхъестественное, Музыка, 
+Rating limit: PG-13
+Description: Нет описания

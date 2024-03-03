@@ -1,0 +1,7 @@
+Name: Guo Guo Qi Xia Chuan
+Type: video.tv_show
+Episodes: 40
+Episode length: 840
+Genres: Приключения, Фэнтези, Фантастика, Детское, 
+Rating limit: PG
+Description: Нет описания

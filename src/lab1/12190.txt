@@ -1,0 +1,9 @@
+Name: Dog Days Recap
+Type: video.other
+Episodes: 1
+Episode length: 1440
+Genres: Экшен, Приключения, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.42
+Rating numbers: 2055
+Description: Краткий пересказ первых двух сезонов «Собачьи дни» и «Собачьи дни 2». Вышел в эфир одновременно с первым эпизодом третьего сезона.

@@ -1,0 +1,9 @@
+Name: Samchongsa: Time Machine 001
+Type: video.movie
+Episodes: 1
+Episode length: 4260
+Genres: Приключения, Фантастика, 
+Rating limit: PG
+Rating: 5.14
+Rating numbers: 195
+Description: Нет описания

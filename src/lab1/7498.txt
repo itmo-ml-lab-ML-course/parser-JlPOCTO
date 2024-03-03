@@ -1,0 +1,8 @@
+Name: Bu Keneng Lian Ai?
+Type: video.tv_show
+Episodes: 10
+Episode length: 600
+Last episode date release: 2013-01-01
+Genres: Комедия, Пародия, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Shuxue Huang Dao Lixian Ji 2
+Type: video.tv_show
+Episodes: 40
+Episode length: 900
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

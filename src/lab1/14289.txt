@@ -1,0 +1,10 @@
+Name: Jigoku Youchien
+Type: video.tv_show
+Episodes: 12
+Episode length: 120
+Last episode date release: 2013-03-26
+Genres: Детское, Демоны, Школа, 
+Rating limit: G
+Rating: 4.55
+Rating numbers: 301
+Description: Нет описания

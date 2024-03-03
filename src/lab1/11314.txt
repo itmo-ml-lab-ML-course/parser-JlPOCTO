@@ -1,0 +1,10 @@
+Name: Kyouryuu Wakusei
+Type: video.tv_show
+Episodes: 60
+Episode length: 900
+Last episode date release: 1994-01-27
+Genres: Приключения, Фэнтези, Фантастика, Исторический, 
+Rating limit: PG
+Rating: 6.57
+Rating numbers: 180
+Description: Нет описания

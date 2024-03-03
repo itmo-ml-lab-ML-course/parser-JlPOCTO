@@ -1,0 +1,8 @@
+Name: Ninjaman Ippei
+Type: video.tv_show
+Episodes: 13
+Episode length: 1500
+Last episode date release: 1982-12-27
+Genres: Экшен, Комедия, Повседневность, Школа, 
+Rating limit: G
+Description: Нет описания

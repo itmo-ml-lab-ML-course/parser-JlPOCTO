@@ -1,0 +1,8 @@
+Name: Cap Kakumei Bottleman DX: Side Story
+Type: video.tv_show
+Episodes: 8
+Episode length: 300
+Last episode date release: 2022-11-27
+Genres: Экшен, Детское, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Kaiketsu Zorori
+Type: video.tv_show
+Episodes: 52
+Episode length: 1440
+Last episode date release: 2005-02-06
+Genres: Приключения, Комедия, 
+Rating limit: PG
+Rating: 7.07
+Rating numbers: 346
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Ai
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, Романтика, Психологическое, 
+Rating limit: PG-13
+Rating: 4.19
+Rating numbers: 713
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: K×Drop!!
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Комедия, Триллер, 
+Rating limit: PG-13
+Rating: 5.99
+Rating numbers: 160
+Description: Эндо, охранник в ночную смену, патрулировал торговый центр, как он это обычно делает изо дня в день. Однако, кажется, эта ночь будет отличаться от привычных...

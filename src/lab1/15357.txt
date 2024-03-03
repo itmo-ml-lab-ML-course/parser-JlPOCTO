@@ -1,0 +1,7 @@
+Name: Panda no Taputapu
+Type: video.tv_show
+Episodes: 431
+Last episode date release: 2013-11-29
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

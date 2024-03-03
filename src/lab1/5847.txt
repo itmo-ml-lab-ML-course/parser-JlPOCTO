@@ -1,0 +1,6 @@
+Name: Sun Xingzhe Chuan
+Type: video.movie
+Episodes: 1
+Episode length: 5700
+Genres: Экшен, Приключения, Фэнтези, 
+Description: Нет описания

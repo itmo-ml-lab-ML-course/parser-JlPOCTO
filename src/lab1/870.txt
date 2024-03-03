@@ -1,0 +1,10 @@
+Name: Magi: Sinbad no Bouken (TV)
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2016-07-02
+Genres: Сёнен, Экшен, Приключения, Фэнтези, 
+Rating limit: PG-13
+Rating: 7.84
+Rating numbers: 42697
+Description: История раннего периода жизни Синдбада и покорения им нескольких подземелий.

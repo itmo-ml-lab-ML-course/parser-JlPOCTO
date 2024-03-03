@@ -1,0 +1,9 @@
+Name: Dog Soldier
+Type: video.other
+Episodes: 1
+Episode length: 2640
+Genres: Сэйнэн, Экшен, Военное, 
+Rating limit: R-17
+Rating: 3.76
+Rating numbers: 414
+Description: Нет описания

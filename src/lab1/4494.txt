@@ -1,0 +1,10 @@
+Name: Nanami-chan 2nd Series
+Type: video.tv_show
+Episodes: 16
+Episode length: 300
+Last episode date release: 2005-12-23
+Genres: Детское, Комедия, 
+Rating limit: G
+Rating: 6.15
+Rating numbers: 230
+Description: Нет описания

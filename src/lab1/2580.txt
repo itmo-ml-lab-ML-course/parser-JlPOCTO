@@ -1,0 +1,10 @@
+Name: Kao Ni La Zhanshen Xitong
+Type: video.tv_show
+Episodes: 16
+Episode length: 1140
+Last episode date release: 2022-11-02
+Genres: Экшен, Комедия, Фэнтези, Боевые искусства, 
+Rating limit: PG-13
+Rating: 7.24
+Rating numbers: 5479
+Description: Нет описания

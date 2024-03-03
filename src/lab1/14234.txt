@@ -1,0 +1,9 @@
+Name: Alice in Cyberland
+Type: video.other
+Episodes: 2
+Episode length: 1380
+Genres: Фантастика, 
+Rating limit: PG-13
+Rating: 4.63
+Rating numbers: 430
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Arashi no Yoru ni
+Type: video.movie
+Episodes: 1
+Episode length: 6420
+Genres: Приключения, Комедия, Драма, Фэнтези, 
+Rating limit: G
+Rating: 7.64
+Rating numbers: 5728
+Description: Рассказ о козлике и волке, которые стали друзьями в штормовую ночь, и как они смогли преодолеть разногласия и трудности.

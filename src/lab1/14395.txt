@@ -1,0 +1,9 @@
+Name: Kemeko no Love
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Комедия, 
+Rating limit: PG
+Rating: 4.29
+Rating numbers: 347
+Description: Нет описания

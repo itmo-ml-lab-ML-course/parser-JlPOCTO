@@ -1,0 +1,7 @@
+Name: Milu Wang
+Type: video.movie
+Episodes: 1
+Episode length: 5280
+Genres: Приключения, Фэнтези, 
+Rating limit: G
+Description: Нет описания

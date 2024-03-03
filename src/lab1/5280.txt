@@ -1,0 +1,10 @@
+Name: Spheres
+Type: video.tv_show
+Episodes: 26
+Episode length: 1320
+Last episode date release: 2003-08-21
+Genres: Экшен, Фэнтези, Супер сила, 
+Rating limit: PG
+Rating: 5.99
+Rating numbers: 194
+Description: Нет описания

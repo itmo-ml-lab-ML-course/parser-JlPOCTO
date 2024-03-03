@@ -1,0 +1,9 @@
+Name: Paper Film
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Комедия, 
+Rating limit: R+
+Rating: 4.78
+Rating numbers: 169
+Description: Нет описания

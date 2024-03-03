@@ -1,0 +1,7 @@
+Name: Panpaka Pants Matsuri Movie: Purin Ara, Domo
+Type: video.movie
+Episodes: 1
+Episode length: 1800
+Genres: Детское, Комедия, 
+Rating limit: G
+Description: Нет описания

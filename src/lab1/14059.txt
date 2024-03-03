@@ -1,0 +1,9 @@
+Name: Broots
+Type: video.other
+Episodes: 1
+Episode length: 300
+Genres: Фантастика, Меха, 
+Rating limit: PG
+Rating: 4.81
+Rating numbers: 180
+Description: Нет описания

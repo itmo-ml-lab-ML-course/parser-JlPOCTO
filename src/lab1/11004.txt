@@ -1,0 +1,9 @@
+Name: Overlord: Ple Ple Pleiades - Clementine Toubou-hen
+Type: video.tv_show
+Episodes: 3
+Episode length: 600
+Genres: Экшен, Комедия, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.64
+Rating numbers: 18266
+Description: Дополнительные эпизоды, включённые в Blu-ray и DVD-издания аниме «Повелитель», в которых главные герои изображены в тиби-стиле.

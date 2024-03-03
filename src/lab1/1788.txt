@@ -1,0 +1,9 @@
+Name: Doraemon Movie 15: Nobita to Mugen Sankenshi
+Type: video.movie
+Episodes: 1
+Episode length: 6000
+Genres: Приключения, Фэнтези, Фантастика, 
+Rating limit: PG
+Rating: 7.41
+Rating numbers: 619
+Description: Нет описания

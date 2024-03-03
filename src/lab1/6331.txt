@@ -1,0 +1,7 @@
+Name: Uchuu Icchokusen
+Type: video.movie
+Episodes: 1
+Episode length: 1620
+Genres: Фэнтези, Детектив, Фантастика, Космос, 
+Rating limit: G
+Description: Нет описания

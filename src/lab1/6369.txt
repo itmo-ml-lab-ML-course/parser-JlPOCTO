@@ -1,0 +1,7 @@
+Name: Umi no Koumori
+Type: video.other
+Episodes: 1
+Episode length: 1680
+Genres: Детское, Драма, 
+Rating limit: G
+Description: Образовательный фильм с концепцией «невиновен, пока не доказано обратное».

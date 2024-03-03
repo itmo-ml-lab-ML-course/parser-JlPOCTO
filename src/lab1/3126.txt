@@ -1,0 +1,9 @@
+Name: Unico
+Type: video.movie
+Episodes: 1
+Episode length: 5400
+Genres: Детское, Приключения, Фэнтези, 
+Rating limit: G
+Rating: 7.14
+Rating numbers: 758
+Description: Нет описания

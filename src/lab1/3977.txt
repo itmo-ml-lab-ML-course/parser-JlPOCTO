@@ -1,0 +1,10 @@
+Name: Getter Robo Go
+Type: video.tv_show
+Episodes: 50
+Episode length: 1440
+Last episode date release: 1992-01-27
+Genres: Сёнен, Экшен, Приключения, Меха, Военное, 
+Rating limit: PG-13
+Rating: 6.26
+Rating numbers: 459
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Xing Xueyuan 2: Yue Ling Shou Huan
+Type: video.tv_show
+Episodes: 26
+Episode length: 1320
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

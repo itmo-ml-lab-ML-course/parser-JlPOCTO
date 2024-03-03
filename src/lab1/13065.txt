@@ -1,0 +1,9 @@
+Name: Hamaneko
+Type: video.other
+Episodes: 1
+Episode length: 1320
+Genres: Повседневность, 
+Rating limit: G
+Rating: 5.39
+Rating numbers: 136
+Description: Нет описания

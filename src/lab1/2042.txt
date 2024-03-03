@@ -1,0 +1,10 @@
+Name: High School! Kimengumi
+Type: video.tv_show
+Episodes: 86
+Episode length: 1500
+Last episode date release: 1987-10-03
+Genres: Сёнен, Комедия, Романтика, Пародия, Школа, 
+Rating limit: PG-13
+Rating: 7.35
+Rating numbers: 556
+Description: Нет описания

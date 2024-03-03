@@ -1,0 +1,8 @@
+Name: Papa Dog Season 2 Part 2
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2019-07-10
+Genres: Комедия, Фэнтези, Детское, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Mach GoGoGo
+Type: video.tv_show
+Episodes: 52
+Episode length: 1500
+Last episode date release: 1968-03-31
+Genres: Сёнен, Приключения, Спорт, Машины, 
+Rating limit: PG-13
+Rating: 6.67
+Rating numbers: 1498
+Description: Нет описания

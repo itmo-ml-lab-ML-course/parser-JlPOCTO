@@ -1,0 +1,8 @@
+Name: Baozou Kongbu Gushi 5th Season
+Type: video.tv_show
+Episodes: 24
+Episode length: 780
+Last episode date release: 2017-01-01
+Genres: Ужасы, 
+Rating limit: PG-13
+Description: Нет описания

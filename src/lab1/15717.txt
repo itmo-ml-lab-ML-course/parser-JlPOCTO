@@ -1,0 +1,7 @@
+Name: Rappa
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Экшен, 
+Rating limit: R-17
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Nobana
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Драма, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Washimo 4th Season
+Type: video.tv_show
+Episodes: 44
+Episode length: 600
+Last episode date release: 2016-09-13
+Genres: Детское, Комедия, Фантастика, Повседневность, Школа, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Shi Shi Zi
+Type: video.movie
+Episodes: 1
+Episode length: 1620
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Rose O&#39;Neill Kewpie
+Type: video.tv_show
+Episodes: 26
+Episode length: 300
+Last episode date release: 2010-05-26
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

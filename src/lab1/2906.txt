@@ -1,0 +1,9 @@
+Name: One Piece: Episode of Sorajima
+Type: video.other
+Episodes: 1
+Episode length: 6300
+Genres: Экшен, Приключения, Фэнтези, Сёнен, 
+Rating limit: PG-13
+Rating: 7.18
+Rating numbers: 6231
+Description: Фильм, кратко пересказывающий события аниме-сериала «Ван-Пис» с 153-го по 195-й эпизоды.

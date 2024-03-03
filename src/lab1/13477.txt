@@ -1,0 +1,10 @@
+Name: Mofu☆Mofu
+Type: video.tv_show
+Episodes: 11
+Episode length: 180
+Last episode date release: 2008-01-01
+Genres: Детское, 
+Rating limit: G
+Rating: 5.22
+Rating numbers: 237
+Description: Нет описания

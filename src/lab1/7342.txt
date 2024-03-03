@@ -1,0 +1,7 @@
+Name: Baozou Kongbu Gushi 6th Season
+Type: video.tv_show
+Episodes: 10
+Episode length: 600
+Genres: Ужасы, 
+Rating limit: PG-13
+Description: Нет описания

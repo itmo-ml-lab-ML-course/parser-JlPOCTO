@@ -1,0 +1,8 @@
+Name: Porong Porong Pororo 7
+Type: video.tv_show
+Episodes: 26
+Episode length: 660
+Last episode date release: 2021-02-16
+Genres: Фэнтези, Детское, 
+Rating limit: G
+Description: Нет описания

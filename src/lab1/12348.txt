@@ -1,0 +1,9 @@
+Name: Gall Force 1: Eternal Story
+Type: video.movie
+Episodes: 1
+Episode length: 5160
+Genres: Экшен, Приключения, Фантастика, Меха, Военное, Космос, 
+Rating limit: R+
+Rating: 6.39
+Rating numbers: 906
+Description: Нет описания

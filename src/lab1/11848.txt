@@ -1,0 +1,10 @@
+Name: Captain (TV)
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Last episode date release: 1983-07-04
+Genres: Сёнен, Спорт, 
+Rating limit: G
+Rating: 6.48
+Rating numbers: 238
+Description: Нет описания

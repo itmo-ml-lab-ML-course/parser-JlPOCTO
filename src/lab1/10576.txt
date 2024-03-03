@@ -1,0 +1,9 @@
+Name: Koutetsujou no Kabaneri Movie 1: Tsudou Hikari
+Type: video.movie
+Episodes: 1
+Episode length: 6420
+Genres: Экшен, Драма, Фэнтези, Ужасы, Исторический, 
+Rating limit: R-17
+Rating: 7.55
+Rating numbers: 15967
+Description: Краткий пересказ событий первых шести серий оригинального сериала «Кабанэри железной крепости».

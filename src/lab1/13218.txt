@@ -1,0 +1,9 @@
+Name: Idol Ace
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 5.34
+Rating numbers: 204
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Meitantei Gordon
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Комедия, Детектив, 
+Rating limit: PG
+Rating: 4.79
+Rating numbers: 249
+Description: Нет описания

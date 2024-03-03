@@ -1,0 +1,9 @@
+Name: His Lipstick
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Детское, Комедия, 
+Rating limit: G
+Rating: 5.29
+Rating numbers: 147
+Description: Нет описания

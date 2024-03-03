@@ -1,0 +1,7 @@
+Name: Tu Xiao Bei You Er Gushi (Qimeng Ban)
+Type: video.tv_show
+Episodes: 10
+Episode length: 300
+Genres: Исторический, Детское, 
+Rating limit: PG
+Description: Нет описания

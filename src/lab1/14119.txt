@@ -1,0 +1,9 @@
+Name: Susume! Gachimuchi Sankyoudai
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 4.76
+Rating numbers: 244
+Description: Нет описания

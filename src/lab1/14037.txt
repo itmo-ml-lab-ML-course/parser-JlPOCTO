@@ -1,0 +1,9 @@
+Name: Mukidashi no Mitsuko
+Type: video.tv_show
+Episodes: 1
+Episode length: 360
+Genres: Комедия, Музыка, 
+Rating limit: G
+Rating: 4.83
+Rating numbers: 219
+Description: Нет описания

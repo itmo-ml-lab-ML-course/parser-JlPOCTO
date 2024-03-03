@@ -1,0 +1,10 @@
+Name: Shin Strange+
+Type: video.tv_show
+Episodes: 12
+Episode length: 180
+Last episode date release: 2014-09-26
+Genres: Комедия, Пародия, Дзёсей, 
+Rating limit: PG-13
+Rating: 6.19
+Rating numbers: 2286
+Description: Нет описания

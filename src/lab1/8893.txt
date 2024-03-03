@@ -1,0 +1,7 @@
+Name: Hello Carbot Season 5 Specials: Jiguleul Butaghae
+Type: video.other
+Episodes: 4
+Episode length: 660
+Genres: Экшен, Меха, Детское, 
+Rating limit: PG
+Description: Нет описания

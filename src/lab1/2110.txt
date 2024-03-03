@@ -1,0 +1,9 @@
+Name: Doraemon Movie 24: Nobita to Fushigi Kaze Tsukai
+Type: video.movie
+Episodes: 1
+Episode length: 4800
+Genres: Детское, Приключения, Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 7.33
+Rating numbers: 650
+Description: Нет описания

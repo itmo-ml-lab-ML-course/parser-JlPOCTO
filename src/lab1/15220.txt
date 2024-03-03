@@ -1,0 +1,7 @@
+Name: Ojisan Kaizou Kouza
+Type: video.movie
+Episodes: 1
+Episode length: 5460
+Genres: Комедия, 
+Rating limit: R+
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Stone
+Type: video.movie
+Episodes: 1
+Episode length: 420
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.83
+Rating numbers: 383
+Description: Независимый анимационный фильм Нобухиро Аихары, выполненный в технике stop-motion, сочетающий рисунки и реальные пейзажи.

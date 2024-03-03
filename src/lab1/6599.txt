@@ -1,0 +1,8 @@
+Name: Wonder Bebil-kun
+Type: video.tv_show
+Episodes: 30
+Episode length: 1500
+Last episode date release: 2004-02-06
+Genres: Комедия, Фэнтези, 
+Rating limit: G
+Description: Нет описания

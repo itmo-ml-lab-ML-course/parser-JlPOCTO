@@ -1,0 +1,9 @@
+Name: Hello Kitty no Shirayuki-hime
+Type: video.other
+Episodes: 1
+Episode length: 1500
+Genres: Детское, Фэнтези, 
+Rating limit: G
+Rating: 6.02
+Rating numbers: 255
+Description: Нет описания

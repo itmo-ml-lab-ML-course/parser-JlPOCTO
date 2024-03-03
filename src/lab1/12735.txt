@@ -1,0 +1,9 @@
+Name: Game Tengoku: The Game Paradise!
+Type: video.other
+Episodes: 1
+Episode length: 900
+Genres: Экшен, Приключения, Комедия, Меха, 
+Rating limit: PG-13
+Rating: 5.5
+Rating numbers: 244
+Description: Нет описания

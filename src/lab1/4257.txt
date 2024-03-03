@@ -1,0 +1,10 @@
+Name: Parappa the Rapper
+Type: video.tv_show
+Episodes: 30
+Episode length: 1380
+Last episode date release: 2002-01-11
+Genres: Комедия, Фэнтези, 
+Rating limit: G
+Rating: 6.2
+Rating numbers: 403
+Description: Нет описания

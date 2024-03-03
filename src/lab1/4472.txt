@@ -1,0 +1,9 @@
+Name: Kung Fu Liaoli Niang
+Type: video.tv_show
+Episodes: 1
+Episode length: 480
+Genres: Экшен, Фэнтези, Гурман, Этти, Боевые искусства, 
+Rating limit: PG-13
+Rating: 6.16
+Rating numbers: 512
+Description: Молодой голодный путешественник оказывается в центре кунг-фу борьбы между двумя продавщицами еды, которые пытаются заманить его поесть в свои забегаловки.

@@ -1,0 +1,9 @@
+Name: Kaede New Town
+Type: video.movie
+Episodes: 1
+Episode length: 1680
+Genres: Комедия, Романтика, Повседневность, Школа, 
+Rating limit: PG
+Rating: 4.88
+Rating numbers: 193
+Description: Нет описания

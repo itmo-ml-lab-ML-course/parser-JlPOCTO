@@ -1,0 +1,8 @@
+Name: Utau Soccer Panda Mifanda
+Type: video.tv_show
+Episodes: 12
+Episode length: 420
+Last episode date release: 2021-09-09
+Genres: Повседневность, Музыка, 
+Rating limit: G
+Description: Нет описания

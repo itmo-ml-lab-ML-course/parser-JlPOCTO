@@ -1,0 +1,8 @@
+Name: Tonari no Tamageta-kun
+Type: video.tv_show
+Episodes: 60
+Episode length: 300
+Last episode date release: 1975-06-27
+Genres: Комедия, Фантастика, 
+Rating limit: PG
+Description: Нет описания

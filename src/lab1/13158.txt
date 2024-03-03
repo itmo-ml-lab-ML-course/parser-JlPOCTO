@@ -1,0 +1,9 @@
+Name: Senga Tsubo
+Type: video.movie
+Episodes: 1
+Episode length: 1020
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 5.36
+Rating numbers: 294
+Description: Нет описания

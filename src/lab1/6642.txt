@@ -1,0 +1,7 @@
+Name: Xiao Mao Bake Li
+Type: video.movie
+Episodes: 1
+Episode length: 5160
+Genres: Приключения, Драма, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Fumoon
+Type: video.other
+Episodes: 1
+Episode length: 5460
+Genres: Фантастика, 
+Rating limit: PG-13
+Rating: 6.21
+Rating numbers: 379
+Description: Нет описания

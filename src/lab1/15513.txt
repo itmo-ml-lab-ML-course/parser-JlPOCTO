@@ -1,0 +1,7 @@
+Name: Pororo Movie: Bomulseom Daemoheom
+Type: video.movie
+Episodes: 1
+Episode length: 4740
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

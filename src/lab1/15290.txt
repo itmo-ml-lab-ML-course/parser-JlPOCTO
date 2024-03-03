@@ -1,0 +1,7 @@
+Name: Oshiri Tantei 7th Season
+Type: video.tv_show
+Episodes: 10 / 15
+Episode length: 1200
+Genres: Детское, Комедия, Фэнтези, Детектив, 
+Rating limit: PG
+Description: Нет описания

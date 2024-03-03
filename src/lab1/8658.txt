@@ -1,0 +1,7 @@
+Name: Guai Guai Pinyin Lixian Ji
+Type: video.tv_show
+Episodes: 20
+Episode length: 600
+Genres: Приключения, Детское, 
+Rating limit: PG
+Description: Нет описания

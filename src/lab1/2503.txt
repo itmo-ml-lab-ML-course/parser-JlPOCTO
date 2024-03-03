@@ -1,0 +1,9 @@
+Name: Keroro Gunsou Movie 2: Shinkai no Princess de Arimasu!
+Type: video.movie
+Episodes: 1
+Episode length: 4680
+Genres: Сёнен, Экшен, Приключения, Комедия, Драма, Фантастика, 
+Rating limit: PG
+Rating: 7.25
+Rating numbers: 421
+Description: Нет описания

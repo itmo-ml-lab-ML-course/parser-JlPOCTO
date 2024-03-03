@@ -1,0 +1,8 @@
+Name: Yomawari Neko
+Type: video.tv_show
+Episodes: 15
+Episode length: 300
+Last episode date release: 2023-03-27
+Genres: Повседневность, 
+Rating limit: PG-13
+Description: Нет описания

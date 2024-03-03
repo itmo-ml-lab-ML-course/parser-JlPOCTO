@@ -1,0 +1,10 @@
+Name: Fushigi na Melmo
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Last episode date release: 1972-03-26
+Genres: Сёдзё, 
+Rating limit: PG
+Rating: 6.07
+Rating numbers: 359
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Angel (Special)
+Type: video.other
+Episodes: 1
+Episode length: 360
+Genres: Безумие, 
+Rating limit: G
+Rating: 5.18
+Rating numbers: 319
+Description: История о человеке, сидящем в тюрьме и мечтающим стать ангелом.

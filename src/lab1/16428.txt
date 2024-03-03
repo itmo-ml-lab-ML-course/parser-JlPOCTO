@@ -1,0 +1,6 @@
+Name: Boku no Hero Academia 7th Season
+Type: video.tv_show
+Episodes: 1
+Genres: Экшен, Школа, Супер сила, Сёнен, 
+Rating limit: PG-13
+Description: Нет описания

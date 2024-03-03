@@ -1,0 +1,7 @@
+Name: Creature Hunters
+Type: video.tv_show
+Episodes: 26
+Episode length: 900
+Genres: Экшен, Приключения, Меха, 
+Rating limit: PG
+Description: Нет описания

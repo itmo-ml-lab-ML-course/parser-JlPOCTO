@@ -1,0 +1,10 @@
+Name: Shin-Men
+Type: video.tv_show
+Episodes: 13
+Episode length: 720
+Last episode date release: 2012-09-14
+Genres: Сэйнэн, Экшен, Комедия, Супер сила, 
+Rating limit: G
+Rating: 6.07
+Rating numbers: 389
+Description: Нет описания

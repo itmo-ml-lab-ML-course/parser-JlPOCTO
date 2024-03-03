@@ -1,0 +1,7 @@
+Name: Tanukichi no Ohanashi
+Type: video.movie
+Episodes: 1
+Episode length: 660
+Genres: Фэнтези, Исторический, 
+Rating limit: G
+Description: Нет описания

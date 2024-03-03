@@ -1,0 +1,8 @@
+Name: Hanjawang Jumong
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Last episode date release: 2008-01-01
+Genres: Детское, Приключения, Комедия, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Gokyoudai Monogatari
+Type: video.tv_show
+Episodes: 32
+Episode length: 1140
+Last episode date release: 2010-06-26
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

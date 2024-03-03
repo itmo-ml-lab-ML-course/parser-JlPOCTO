@@ -1,0 +1,7 @@
+Name: BT21 Original Story 2nd Season
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Фэнтези, Повседневность, 
+Rating limit: G
+Description: Нет описания

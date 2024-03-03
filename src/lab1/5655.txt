@@ -1,0 +1,7 @@
+Name: Simgyeong
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Психологическое, Безумие, 
+Rating limit: R+
+Description: Нет описания

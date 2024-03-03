@@ -1,0 +1,7 @@
+Name: Xiao Yu Er Qiyu Ji
+Type: video.tv_show
+Episodes: 12
+Episode length: 600
+Genres: Приключения, 
+Rating limit: PG
+Description: Нет описания

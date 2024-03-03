@@ -1,0 +1,7 @@
+Name: Shajiabang Xin Chuan
+Type: video.tv_show
+Episodes: 30
+Episode length: 1320
+Genres: Исторический, Военное, Детское, 
+Rating limit: PG
+Description: Нет описания

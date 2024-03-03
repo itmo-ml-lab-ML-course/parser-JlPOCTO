@@ -1,0 +1,7 @@
+Name: Booky Le Leyuan Xilie: Shuxue Tiandi
+Type: video.tv_show
+Episodes: 16
+Episode length: 180
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

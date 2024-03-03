@@ -1,0 +1,8 @@
+Name: Fashion no Hajimari
+Type: video.tv_show
+Episodes: 1
+Genres: Комедия, 
+Rating limit: G
+Rating: 4.52
+Rating numbers: 205
+Description: Нет описания

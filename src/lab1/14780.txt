@@ -1,0 +1,7 @@
+Name: Mofa Cheng
+Type: video.tv_show
+Episodes: 45
+Episode length: 1080
+Genres: Фэнтези, Детское, 
+Rating limit: G
+Description: Нет описания

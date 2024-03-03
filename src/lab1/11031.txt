@@ -1,0 +1,10 @@
+Name: Saiyuuki Reload: Zeroin
+Type: video.tv_show
+Episodes: 13
+Episode length: 1380
+Last episode date release: 2022-03-31
+Genres: Экшен, Приключения, Комедия, Драма, Сверхъестественное, Дзёсей, 
+Rating limit: PG-13
+Rating: 6.63
+Rating numbers: 1687
+Description: Нет описания

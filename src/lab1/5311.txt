@@ -1,0 +1,9 @@
+Name: Ahiru-kun no Chiisana Bouken
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Приключения, Повседневность, 
+Rating limit: G
+Rating: 5.99
+Rating numbers: 350
+Description: Нет описания

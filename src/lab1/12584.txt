@@ -1,0 +1,8 @@
+Name: Bu Mie Shen Wang
+Type: video.tv_show
+Episodes: 19 / 26
+Genres: Экшен, Приключения, Комедия, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.35
+Rating numbers: 663
+Description: Нет описания

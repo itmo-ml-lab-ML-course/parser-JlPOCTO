@@ -1,0 +1,9 @@
+Name: K-On!: Live House!
+Type: video.other
+Episodes: 1
+Episode length: 1380
+Genres: Комедия, Музыка, Школа, 
+Rating limit: PG-13
+Rating: 7.84
+Rating numbers: 26083
+Description: Дополнительный эпизод с выступлением «Afterschool Teatime» в канун рождества.

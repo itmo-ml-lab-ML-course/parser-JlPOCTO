@@ -1,0 +1,9 @@
+Name: Byulbyul Iyagi
+Type: video.movie
+Episodes: 6
+Episode length: 720
+Genres: Драма, Психологическое, 
+Rating limit: PG-13
+Rating: 5.53
+Rating numbers: 176
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Jue Ji
+Type: video.movie
+Episodes: 1
+Episode length: 7020
+Genres: Приключения, Фэнтези, 
+Rating limit: R-17
+Rating: 6.55
+Rating numbers: 830
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Hello Carbot Season 8
+Type: video.tv_show
+Episodes: 26
+Episode length: 660
+Last episode date release: 2020-06-28
+Genres: Экшен, Меха, Детское, 
+Rating limit: PG
+Description: Нет описания

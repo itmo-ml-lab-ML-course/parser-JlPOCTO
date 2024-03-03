@@ -1,0 +1,10 @@
+Name: 30-pun de Wakaru! Kore made no Love Live! Sunshine!!
+Type: video.tv_show
+Episodes: 2
+Episode length: 1800
+Last episode date release: 2018-11-25
+Genres: Музыка, Школа, 
+Rating limit: PG-13
+Rating: 6.25
+Rating numbers: 1227
+Description: Краткий пересказ событий аниме-сериала «Живая любовь! Сияние!! 2».

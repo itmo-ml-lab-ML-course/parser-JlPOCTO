@@ -1,0 +1,9 @@
+Name: Byoudoku no Denpa
+Type: video.movie
+Episodes: 1
+Episode length: 840
+Genres: Детское, 
+Rating limit: G
+Rating: 5.04
+Rating numbers: 254
+Description: Нет описания

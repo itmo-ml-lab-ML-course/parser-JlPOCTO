@@ -1,0 +1,10 @@
+Name: Yurumates 3D
+Type: video.tv_show
+Episodes: 13
+Episode length: 180
+Last episode date release: 2012-06-26
+Genres: Сэйнэн, Комедия, Повседневность, 
+Rating limit: PG-13
+Rating: 6.3
+Rating numbers: 688
+Description: Нет описания

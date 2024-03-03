@@ -1,0 +1,10 @@
+Name: Wu Nao Monu
+Type: video.tv_show
+Episodes: 15
+Episode length: 480
+Last episode date release: 2023-10-03
+Genres: Комедия, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.57
+Rating numbers: 4789
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Pop
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Комедия, 
+Rating limit: G
+Rating: 3.76
+Rating numbers: 299
+Description: Нет описания

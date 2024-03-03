@@ -1,0 +1,9 @@
+Name: Donguri no Ie
+Type: video.movie
+Episodes: 1
+Episode length: 5580
+Genres: Драма, 
+Rating limit: G
+Rating: 6.39
+Rating numbers: 200
+Description: Нет описания

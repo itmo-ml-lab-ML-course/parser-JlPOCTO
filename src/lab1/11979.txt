@@ -1,0 +1,10 @@
+Name: Megaton-kyuu Musashi 2nd Season
+Type: video.tv_show
+Episodes: 15
+Episode length: 1620
+Last episode date release: 2023-03-17
+Genres: Экшен, Фантастика, Меха, Школа, 
+Rating limit: PG-13
+Rating: 6.45
+Rating numbers: 823
+Description: Нет описания

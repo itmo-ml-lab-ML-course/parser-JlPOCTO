@@ -1,0 +1,9 @@
+Name: Ookami wa Ookami da
+Type: video.movie
+Episodes: 1
+Episode length: 660
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 5.11
+Rating numbers: 730
+Description: Деревенские животные в недоумении, что делать с тираническим волком. Умная обезьяна предлагает идею.

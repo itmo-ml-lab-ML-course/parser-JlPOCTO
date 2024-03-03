@@ -1,0 +1,9 @@
+Name: Kuroshitsuji Recap
+Type: video.other
+Episodes: 1
+Episode length: 1440
+Genres: Сёнен, Экшен, Комедия, Детектив, Сверхъестественное, Демоны, Исторический, 
+Rating limit: R-17
+Rating: 7.19
+Rating numbers: 17963
+Description: Эпизод, вышедший только на DVD, обобщает в себе первые тринадцать серий Kuroshitsuji.

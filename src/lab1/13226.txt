@@ -1,0 +1,9 @@
+Name: Tachiguishi Retsuden
+Type: video.movie
+Episodes: 1
+Episode length: 6240
+Genres: Комедия, Гурман, 
+Rating limit: PG-13
+Rating: 5.33
+Rating numbers: 295
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Xiong Chumo: Dongri Le Fantian
+Type: video.tv_show
+Episodes: 52
+Episode length: 780
+Genres: Детское, Комедия, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Rokumon Tengai Mon Colle Knights
+Type: video.tv_show
+Episodes: 51
+Episode length: 1500
+Last episode date release: 2000-12-25
+Genres: Детское, Приключения, Комедия, Фэнтези, Пародия, 
+Rating limit: G
+Rating: 6.52
+Rating numbers: 447
+Description: Нет описания

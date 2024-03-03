@@ -1,0 +1,10 @@
+Name: Norakuro-kun
+Type: video.tv_show
+Episodes: 50
+Episode length: 1500
+Last episode date release: 1988-10-02
+Genres: Комедия, Детектив, 
+Rating limit: G
+Rating: 6.51
+Rating numbers: 241
+Description: Нет описания

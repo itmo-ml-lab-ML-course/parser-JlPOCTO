@@ -1,0 +1,9 @@
+Name: Cool Cool Bye
+Type: video.other
+Episodes: 1
+Episode length: 1800
+Genres: Экшен, Приключения, Фэнтези, 
+Rating limit: R+
+Rating: 4.75
+Rating numbers: 255
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Sinbi Apateu Movie: Chawondokkaebiwa 7 Gaeui Segye
+Type: video.movie
+Episodes: 1
+Episode length: 6180
+Genres: Фэнтези, Детское, 
+Rating limit: G
+Description: Нет описания

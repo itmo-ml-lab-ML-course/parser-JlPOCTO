@@ -1,0 +1,7 @@
+Name: San Mao Qiyu Ji
+Type: video.tv_show
+Episodes: 26
+Episode length: 1320
+Genres: Приключения, 
+Rating limit: PG
+Description: Нет описания

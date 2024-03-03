@@ -1,0 +1,10 @@
+Name: Hensuki▽
+Type: video.tv_show
+Episodes: 12
+Episode length: 60
+Last episode date release: 2019-09-23
+Genres: Комедия, Этти, Школа, 
+Rating limit: PG-13
+Rating: 6.35
+Rating numbers: 381
+Description: Нет описания

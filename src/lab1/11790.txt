@@ -1,0 +1,10 @@
+Name: ClassicaLoid 2nd Season
+Type: video.tv_show
+Episodes: 25
+Episode length: 1440
+Last episode date release: 2018-03-24
+Genres: Комедия, Музыка, 
+Rating limit: PG-13
+Rating: 6.49
+Rating numbers: 1666
+Description: Нет описания

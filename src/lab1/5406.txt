@@ -1,0 +1,9 @@
+Name: Nantokashite Alguard
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Музыка, Супер сила, 
+Rating limit: G
+Rating: 4.32
+Rating numbers: 161
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Haier Xiongdi
+Type: video.tv_show
+Episodes: 212
+Episode length: 660
+Last episode date release: 2001-01-01
+Genres: Приключения, Детское, 
+Rating limit: PG
+Description: Нет описания

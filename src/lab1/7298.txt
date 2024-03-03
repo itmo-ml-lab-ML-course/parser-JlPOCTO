@@ -1,0 +1,8 @@
+Name: Bao Dan Jing Ying
+Type: video.tv_show
+Episodes: 12
+Episode length: 720
+Last episode date release: 2016-03-24
+Genres: Комедия, Фантастика, Пародия, 
+Rating limit: G
+Description: Нет описания

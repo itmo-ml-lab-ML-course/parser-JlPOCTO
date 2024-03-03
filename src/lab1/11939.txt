@@ -1,0 +1,9 @@
+Name: Harisu no Kaze
+Type: video.tv_show
+Episodes: 70
+Episode length: 1500
+Last episode date release: 1967-08-31
+Genres: Комедия, Школа, 
+Rating: 6.46
+Rating numbers: 237
+Description: Нет описания

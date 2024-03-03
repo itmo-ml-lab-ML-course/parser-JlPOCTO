@@ -1,0 +1,5 @@
+Name: Gekkan Mousou Kagaku
+Type: video.tv_show
+Episodes: 1
+Genres: Фэнтези, Работа, 
+Description: Нет описания

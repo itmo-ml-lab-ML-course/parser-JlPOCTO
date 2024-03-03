@@ -1,0 +1,7 @@
+Name: Moonlight Adventure
+Type: video.movie
+Episodes: 1
+Episode length: 1800
+Genres: Фантастика, Детское, 
+Rating limit: G
+Description: Нет описания

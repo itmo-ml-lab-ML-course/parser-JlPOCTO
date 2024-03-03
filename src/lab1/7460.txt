@@ -1,0 +1,8 @@
+Name: Boku wa Ousama (TV)
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2013-06-22
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

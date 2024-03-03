@@ -1,0 +1,9 @@
+Name: Tu Xia Chuanqi
+Type: video.movie
+Episodes: 1
+Episode length: 5280
+Genres: Экшен, Приключения, Комедия, Боевые искусства, 
+Rating limit: PG
+Rating: 5.37
+Rating numbers: 419
+Description: Нет описания

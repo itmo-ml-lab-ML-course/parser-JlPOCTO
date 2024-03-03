@@ -1,0 +1,9 @@
+Name: Tori
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, 
+Rating limit: G
+Rating: 5.01
+Rating numbers: 231
+Description: Нет описания

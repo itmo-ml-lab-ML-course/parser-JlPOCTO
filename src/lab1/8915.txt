@@ -1,0 +1,7 @@
+Name: Hello! Pu Xingren
+Type: video.tv_show
+Episodes: 26
+Episode length: 960
+Genres: Фантастика, Детское, 
+Rating limit: PG
+Description: Нет описания

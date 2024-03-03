@@ -1,0 +1,6 @@
+Name: Hero Beta
+Type: video.tv_show
+Episodes: 1
+Genres: Фантастика, 
+Rating limit: PG-13
+Description: Нет описания

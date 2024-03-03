@@ -1,0 +1,7 @@
+Name: Mo Jing Qi Yuan 3
+Type: video.movie
+Episodes: 1
+Episode length: 4920
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

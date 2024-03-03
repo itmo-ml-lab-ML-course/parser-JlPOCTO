@@ -1,0 +1,5 @@
+Name: Meiji Gekken: 1874
+Type: video.tv_show
+Episodes: 1
+Genres: Экшен, Исторический, Самураи, 
+Description: Нет описания

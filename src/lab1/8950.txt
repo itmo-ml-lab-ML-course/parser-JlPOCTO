@@ -1,0 +1,7 @@
+Name: Himawari Girls Mini Anime
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Комедия, Детское, 
+Rating limit: G
+Description: Нет описания

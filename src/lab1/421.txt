@@ -1,0 +1,9 @@
+Name: Haikyuu!! Movie 3: Sainou to Sense
+Type: video.movie
+Episodes: 1
+Episode length: 5340
+Genres: Спорт, Школа, Сёнен, 
+Rating limit: PG-13
+Rating: 8.15
+Rating numbers: 23316
+Description: Полнометражный фильм-рекап второго сезона оригинального аниме-сериала «Волейбол!!», охватывающий матч команды Карасуно против старшей школы Аоба Дзёсай.

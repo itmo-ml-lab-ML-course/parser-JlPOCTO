@@ -1,0 +1,7 @@
+Name: Tian Shu Qi Tan
+Type: video.movie
+Episodes: 1
+Episode length: 5340
+Genres: Приключения, 
+Rating limit: G
+Description: Нет описания

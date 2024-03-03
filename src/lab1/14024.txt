@@ -1,0 +1,9 @@
+Name: Alice in Dreamland
+Type: video.movie
+Episodes: 1
+Episode length: 2640
+Genres: Приключения, Безумие, Фэнтези, 
+Rating limit: G
+Rating: 4.84
+Rating numbers: 832
+Description: Нет описания

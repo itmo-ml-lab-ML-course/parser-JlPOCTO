@@ -1,0 +1,10 @@
+Name: Galaxy Angel Z
+Type: video.tv_show
+Episodes: 9
+Episode length: 1440
+Last episode date release: 2002-03-31
+Genres: Комедия, Фантастика, 
+Rating limit: PG
+Rating: 7.18
+Rating numbers: 971
+Description: Нет описания

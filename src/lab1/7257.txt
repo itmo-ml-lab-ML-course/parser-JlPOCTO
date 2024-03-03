@@ -1,0 +1,8 @@
+Name: Bajiu Buli 2
+Type: video.tv_show
+Episodes: 24
+Episode length: 420
+Last episode date release: 2016-02-23
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

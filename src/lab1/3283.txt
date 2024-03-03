@@ -1,0 +1,9 @@
+Name: Nintama Rantarou
+Type: video.tv_show
+Episodes: 2094 / ?
+Episode length: 600
+Genres: Детское, Комедия, 
+Rating limit: G
+Rating: 7.1
+Rating numbers: 781
+Description: Нет описания

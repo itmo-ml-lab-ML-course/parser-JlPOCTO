@@ -1,0 +1,7 @@
+Name: Chan Chiho Challenge Channel
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

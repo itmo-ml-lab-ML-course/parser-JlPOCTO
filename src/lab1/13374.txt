@@ -1,0 +1,9 @@
+Name: Fuuga no Gihou
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 5.28
+Rating numbers: 52
+Description: Нет описания

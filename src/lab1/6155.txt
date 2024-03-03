@@ -1,0 +1,7 @@
+Name: Tobidasu Ehon 3D
+Type: video.movie
+Episodes: 1
+Episode length: 1860
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

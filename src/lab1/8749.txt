@@ -1,0 +1,7 @@
+Name: Haha Xiong Manyou Shijie
+Type: video.tv_show
+Episodes: 300
+Episode length: 600
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

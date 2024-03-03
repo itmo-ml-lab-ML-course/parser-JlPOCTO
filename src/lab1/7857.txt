@@ -1,0 +1,8 @@
+Name: Code Name X
+Type: video.tv_show
+Episodes: 26
+Episode length: 660
+Last episode date release: 2023-11-04
+Genres: Экшен, Комедия, Детектив, Детское, 
+Rating limit: PG
+Description: Нет описания

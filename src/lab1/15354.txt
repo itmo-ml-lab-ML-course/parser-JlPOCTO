@@ -1,0 +1,8 @@
+Name: Pan to Boku no Momo-chan
+Type: video.tv_show
+Episodes: 20
+Episode length: 120
+Last episode date release: 2019-01-01
+Genres: Сёдзё, Комедия, Драма, Романтика, Повседневность, 
+Rating limit: PG-13
+Description: История рассказывает о том, как мальчик Сиро переезжает к своей тёте Момо из-за смерти своей матери. Выпекая хлеб для Момо на завтрак, он заново учится улыбаться.

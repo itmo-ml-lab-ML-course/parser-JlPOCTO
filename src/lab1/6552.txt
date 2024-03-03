@@ -1,0 +1,8 @@
+Name: Witch Village Story
+Type: video.tv_show
+Episodes: 24
+Episode length: 180
+Last episode date release: 2005-06-19
+Genres: Повседневность, 
+Rating limit: G
+Description: Нет описания

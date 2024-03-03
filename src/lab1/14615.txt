@@ -1,0 +1,8 @@
+Name: Meshinuma.
+Type: video.tv_show
+Episodes: 20
+Episode length: 60
+Last episode date release: 2018-10-26
+Genres: Сэйнэн, Гурман, Повседневность, 
+Rating limit: PG-13
+Description: Нет описания

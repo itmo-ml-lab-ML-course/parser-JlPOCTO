@@ -1,0 +1,9 @@
+Name: Konnichiwa Onara Gorou
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Комедия, 
+Rating limit: PG
+Rating: 4.14
+Rating numbers: 488
+Description: Нулевой эпизод к сериалу «Пук Горо». Он показывает персонажей и суть шоу.

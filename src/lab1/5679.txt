@@ -1,0 +1,7 @@
+Name: Skyers 5 EX
+Type: video.other
+Episodes: 3
+Episode length: 1200
+Genres: Сёнен, Экшен, Фантастика, 
+Rating limit: G
+Description: Не вышедшие на телевидении эпизоды аниме-сериала «Новая пятёрка Скаеров», найденные и выпущенные вместе с DVD-версией сериала почти 50 лет спустя.

@@ -1,0 +1,10 @@
+Name: Hey! Bumboo
+Type: video.tv_show
+Episodes: 130
+Episode length: 600
+Last episode date release: 1986-04-03
+Genres: Детское, Приключения, Машины, 
+Rating limit: PG
+Rating: 6.1
+Rating numbers: 225
+Description: Нет описания

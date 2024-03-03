@@ -1,0 +1,10 @@
+Name: Anisava
+Type: video.tv_show
+Episodes: 13
+Episode length: 300
+Last episode date release: 2014-01-13
+Genres: Комедия, Романтика, 
+Rating limit: PG-13
+Rating: 5.51
+Rating numbers: 205
+Description: Нет описания

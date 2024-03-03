@@ -1,0 +1,10 @@
+Name: Akiba-chan
+Type: video.tv_show
+Episodes: 10
+Episode length: 300
+Last episode date release: 2008-08-01
+Genres: Детское, Комедия, Повседневность, 
+Rating limit: G
+Rating: 5.35
+Rating numbers: 342
+Description: Нет описания

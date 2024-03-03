@@ -1,0 +1,7 @@
+Name: Robot Taekwon V: Wooju Jakjeon
+Type: video.movie
+Episodes: 1
+Episode length: 3600
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: PG
+Description: Нет описания

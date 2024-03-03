@@ -1,0 +1,7 @@
+Name: Mu Tong Yu Gongzhu
+Type: video.movie
+Episodes: 1
+Episode length: 1740
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

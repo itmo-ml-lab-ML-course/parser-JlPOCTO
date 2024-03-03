@@ -1,0 +1,7 @@
+Name: Midoriyama Koukou Koushien-hen (Movie)
+Type: video.movie
+Episodes: 1
+Episode length: 4860
+Genres: Комедия, Спорт, Школа, 
+Rating limit: PG
+Description: Краткий пересказ событий, происходящих в аниме «Высшая школа Мидорияма» с первой по четвёртую серии.

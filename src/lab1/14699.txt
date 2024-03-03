@@ -1,0 +1,7 @@
+Name: Mini Moni the Movie: Okashi na Daibouken!
+Type: video.movie
+Episodes: 1
+Episode length: 3180
+Genres: Детское, Приключения, Фэнтези, Гурман, Повседневность, 
+Rating limit: G
+Description: Нет описания

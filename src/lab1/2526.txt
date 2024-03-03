@@ -1,0 +1,9 @@
+Name: Servamp Movie: Alice in the Garden
+Type: video.movie
+Episodes: 1
+Episode length: 3480
+Genres: Экшен, Фэнтези, Вампиры, Дзёсей, 
+Rating limit: PG-13
+Rating: 7.25
+Rating numbers: 11081
+Description: Полнометражный фильм описывает события, о которых не говорилось в аниме-сериале. В адаптации рассказывается о прошлом Мисоно и Микуни, а также о попытке Отогири разорвать связь между Лили и его хозяином.

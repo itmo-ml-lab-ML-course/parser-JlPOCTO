@@ -1,0 +1,10 @@
+Name: A3! Season Spring &amp; Summer
+Type: video.tv_show
+Episodes: 12
+Episode length: 1380
+Last episode date release: 2020-06-23
+Genres: Драма, 
+Rating limit: PG-13
+Rating: 7.12
+Rating numbers: 4433
+Description: Нет описания

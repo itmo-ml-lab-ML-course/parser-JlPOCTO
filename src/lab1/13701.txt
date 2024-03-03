@@ -1,0 +1,9 @@
+Name: Bean Bandit
+Type: video.other
+Episodes: 1
+Episode length: 660
+Genres: Сэйнэн, Экшен, Комедия, Полиция, 
+Rating limit: PG-13
+Rating: 5.1
+Rating numbers: 1670
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Devour Dinner
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Безумие, Фэнтези, 
+Rating limit: G
+Rating: 5.3
+Rating numbers: 261
+Description: Нет описания

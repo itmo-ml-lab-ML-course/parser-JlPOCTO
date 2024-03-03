@@ -1,0 +1,9 @@
+Name: Doubutsu Olympic Taikai
+Type: video.movie
+Episodes: 1
+Episode length: 780
+Genres: Комедия, Спорт, 
+Rating limit: G
+Rating: 5.43
+Rating numbers: 323
+Description: Нет описания

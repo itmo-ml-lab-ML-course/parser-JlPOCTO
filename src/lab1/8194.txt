@@ -1,0 +1,7 @@
+Name: Dou Long Zhanshi 4: Shuanglong He
+Type: video.tv_show
+Episodes: 30
+Episode length: 1320
+Genres: Фантастика, Меха, Детское, 
+Rating limit: PG
+Description: Нет описания

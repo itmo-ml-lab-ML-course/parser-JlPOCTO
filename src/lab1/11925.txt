@@ -1,0 +1,10 @@
+Name: 21 Emon
+Type: video.tv_show
+Episodes: 39
+Episode length: 1500
+Last episode date release: 1992-03-26
+Genres: Комедия, Фантастика, Космос, 
+Rating limit: G
+Rating: 6.46
+Rating numbers: 227
+Description: Нет описания

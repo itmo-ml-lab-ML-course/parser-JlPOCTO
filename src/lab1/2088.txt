@@ -1,0 +1,10 @@
+Name: Shippuu! Iron Leaguer
+Type: video.tv_show
+Episodes: 52
+Episode length: 1440
+Last episode date release: 1994-03-29
+Genres: Сёнен, Фантастика, Спорт, Меха, 
+Rating limit: PG-13
+Rating: 7.34
+Rating numbers: 306
+Description: Нет описания

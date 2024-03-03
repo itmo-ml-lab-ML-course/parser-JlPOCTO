@@ -1,0 +1,7 @@
+Name: Shounen Tokugawa Ieyasu
+Type: video.tv_show
+Episodes: 20
+Episode length: 1500
+Last episode date release: 1975-09-17
+Genres: Сёнен, Драма, Исторический, 
+Description: Историческая повесть о начале жизни Иэясу Токугавы, который в конечном счете станет сёгуном и установит период Эдо в Японии.

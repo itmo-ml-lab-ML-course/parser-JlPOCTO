@@ -1,0 +1,10 @@
+Name: Onigiri
+Type: video.tv_show
+Episodes: 13
+Episode length: 180
+Last episode date release: 2016-06-30
+Genres: Комедия, Фэнтези, 
+Rating limit: PG-13
+Rating: 5.33
+Rating numbers: 3261
+Description: Нет описания

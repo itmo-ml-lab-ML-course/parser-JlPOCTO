@@ -1,0 +1,10 @@
+Name: Gamba no Bouken
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Last episode date release: 1975-09-29
+Genres: Детское, Приключения, Триллер, 
+Rating limit: G
+Rating: 7.34
+Rating numbers: 627
+Description: Нет описания

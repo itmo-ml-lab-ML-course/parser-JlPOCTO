@@ -1,0 +1,7 @@
+Name: Space Idol
+Type: video.tv_show
+Episodes: 6
+Episode length: 300
+Genres: Фантастика, Повседневность, Космос, 
+Rating limit: PG-13
+Description: Нет описания

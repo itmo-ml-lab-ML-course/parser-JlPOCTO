@@ -1,0 +1,7 @@
+Name: Cha A Er Zhong Movie
+Type: video.movie
+Episodes: 1
+Episode length: 5400
+Genres: Комедия, Школа, Детское, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Show By Rock!! Short!!
+Type: video.tv_show
+Episodes: 12
+Episode length: 180
+Last episode date release: 2016-09-20
+Genres: Комедия, Музыка, 
+Rating limit: PG-13
+Rating: 6.46
+Rating numbers: 3775
+Description: Небольшие забавные истории с популярными группами города Миди-Сити.

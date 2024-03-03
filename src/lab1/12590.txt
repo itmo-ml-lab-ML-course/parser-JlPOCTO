@@ -1,0 +1,10 @@
+Name: Wo Kao Chongzhi Dang Wudi
+Type: video.tv_show
+Episodes: 60
+Episode length: 420
+Last episode date release: 2022-12-31
+Genres: Экшен, Фэнтези, Боевые искусства, 
+Rating limit: PG-13
+Rating: 6.34
+Rating numbers: 1363
+Description: Нет описания

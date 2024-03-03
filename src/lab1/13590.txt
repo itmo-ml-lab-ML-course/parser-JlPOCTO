@@ -1,0 +1,8 @@
+Name: Atama
+Type: video.other
+Episodes: 1
+Genres: Безумие, Ужасы, Триллер, Психологическое, 
+Rating limit: R-17
+Rating: 5.21
+Rating numbers: 163
+Description: Нет описания

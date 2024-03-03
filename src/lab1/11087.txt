@@ -1,0 +1,10 @@
+Name: Perman (1983)
+Type: video.tv_show
+Episodes: 526
+Episode length: 720
+Last episode date release: 1985-07-02
+Genres: Детское, Комедия, Школа, Супер сила, 
+Rating limit: PG
+Rating: 6.62
+Rating numbers: 323
+Description: Нет описания

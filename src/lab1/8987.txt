@@ -1,0 +1,6 @@
+Name: Hokseong Robot Sseondeo A
+Type: video.movie
+Episodes: 1
+Episode length: 4500
+Genres: Сёнен, Экшен, Меха, 
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Nobara no Julie
+Type: video.tv_show
+Episodes: 13
+Episode length: 1500
+Last episode date release: 1979-04-05
+Genres: Приключения, Драма, Исторический, Музыка, 
+Rating limit: G
+Rating: 6.05
+Rating numbers: 232
+Description: Нет описания

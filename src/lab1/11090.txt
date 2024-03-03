@@ -1,0 +1,9 @@
+Name: Pokemon Movie 14 White: Victini to Kuroki Eiyuu Zekrom
+Type: video.movie
+Episodes: 1
+Episode length: 5760
+Genres: Детское, Приключения, Комедия, Драма, Фэнтези, 
+Rating limit: PG
+Rating: 6.62
+Rating numbers: 3138
+Description: Нет описания

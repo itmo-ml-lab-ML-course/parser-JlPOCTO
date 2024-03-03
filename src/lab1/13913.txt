@@ -1,0 +1,9 @@
+Name: Seiji no Rinrika
+Type: video.movie
+Episodes: 1
+Episode length: 1920
+Genres: Исторический, 
+Rating limit: G
+Rating: 4.96
+Rating numbers: 268
+Description: Анимационное отображение политической идеологии Симпэя Гото, члена кабинета министров в период Тайсё, перемежаемое его цитатами.

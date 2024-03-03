@@ -1,0 +1,9 @@
+Name: Hana no Hi
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Безумие, Комедия, 
+Rating limit: G
+Rating: 4.75
+Rating numbers: 249
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Wo Jiao MT 6th Season
+Type: video.tv_show
+Episodes: 21
+Episode length: 1800
+Genres: Приключения, Комедия, Фэнтези, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Shishang Zui Qiang Nan Zhujiao
+Type: video.tv_show
+Episodes: 48
+Episode length: 480
+Last episode date release: 2022-10-23
+Genres: Экшен, Фэнтези, Боевые искусства, 
+Rating limit: PG-13
+Rating: 6.18
+Rating numbers: 751
+Description: Нет описания

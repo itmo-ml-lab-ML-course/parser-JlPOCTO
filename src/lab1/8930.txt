@@ -1,0 +1,8 @@
+Name: Hero Hero-kun
+Type: video.tv_show
+Episodes: 104
+Episode length: 300
+Last episode date release: 2001-01-02
+Genres: Детское, Приключения, Комедия, Игры, 
+Rating limit: PG
+Description: Нет описания

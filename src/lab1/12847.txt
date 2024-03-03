@@ -1,0 +1,10 @@
+Name: Kansatsu! Pokemon Zukan
+Type: video.tv_show
+Episodes: 2
+Episode length: 300
+Last episode date release: 2020-12-04
+Genres: Детское, 
+Rating limit: PG
+Rating: 5.46
+Rating numbers: 393
+Description: Нет описания

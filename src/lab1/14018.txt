@@ -1,0 +1,9 @@
+Name: Tokyo SOS
+Type: video.movie
+Episodes: 1
+Episode length: 660
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.85
+Rating numbers: 182
+Description: Нет описания

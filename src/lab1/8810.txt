@@ -1,0 +1,7 @@
+Name: Hanzi Gongzhu Mao Xiao Mei
+Type: video.tv_show
+Episodes: 18
+Episode length: 180
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

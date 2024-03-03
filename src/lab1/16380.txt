@@ -1,0 +1,5 @@
+Name: Project Symphogear: Next
+Type: video.movie
+Episodes: 1
+Genres: Экшен, Фантастика, Музыка, 
+Description: Нет описания

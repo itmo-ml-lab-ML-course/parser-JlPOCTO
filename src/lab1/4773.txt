@@ -1,0 +1,10 @@
+Name: Miko no Tsutome!
+Type: video.tv_show
+Episodes: 10
+Episode length: 120
+Last episode date release: 2019-02-08
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.1
+Rating numbers: 659
+Description: Нет описания

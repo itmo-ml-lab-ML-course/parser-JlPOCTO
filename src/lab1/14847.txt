@@ -1,0 +1,8 @@
+Name: Moshimoshi, Terumi desu.
+Type: video.tv_show
+Episodes: 30
+Episode length: 60
+Last episode date release: 2018-08-24
+Genres: Сэйнэн, Повседневность, 
+Rating limit: G
+Description: История повествует о повседневной жизни девочки Тэруми, которая ненавидит интернет и работает на компанию «Moshimoshi Dou», и об ученике средней школы Ринтаро, влюблённом в неё.

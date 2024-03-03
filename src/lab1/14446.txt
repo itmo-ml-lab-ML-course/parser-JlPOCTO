@@ -1,0 +1,7 @@
+Name: Mao
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Приключения, 
+Rating limit: R-17
+Description: Нет описания

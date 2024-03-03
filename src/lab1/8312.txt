@@ -1,0 +1,8 @@
+Name: Er Er Er Ha Qi
+Type: video.tv_show
+Episodes: 3
+Episode length: 120
+Last episode date release: 2018-05-12
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

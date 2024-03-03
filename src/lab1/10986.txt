@@ -1,0 +1,10 @@
+Name: Wuxian Shijie
+Type: video.tv_show
+Episodes: 16
+Episode length: 1080
+Last episode date release: 2023-03-17
+Genres: Экшен, Фэнтези, Сверхъестественное, 
+Rating limit: PG-13
+Rating: 6.65
+Rating numbers: 1689
+Description: Нет описания

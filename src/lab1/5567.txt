@@ -1,0 +1,7 @@
+Name: Shu Ling Ji 3
+Type: video.tv_show
+Episodes: 60
+Last episode date release: 2022-11-30
+Genres: Фэнтези, Романтика, 
+Rating limit: PG-13
+Description: Нет описания

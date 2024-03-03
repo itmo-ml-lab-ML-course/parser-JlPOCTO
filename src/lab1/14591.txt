@@ -1,0 +1,8 @@
+Name: Menghuan Xiyou
+Type: video.tv_show
+Episodes: 13
+Episode length: 1500
+Last episode date release: 2015-02-06
+Genres: Экшен, Приключения, Фэнтези, Исторический, 
+Rating limit: PG-13
+Description: Нет описания

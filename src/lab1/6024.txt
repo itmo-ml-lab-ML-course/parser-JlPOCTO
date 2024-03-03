@@ -1,0 +1,8 @@
+Name: Telemonster
+Type: video.tv_show
+Episodes: 52
+Episode length: 120
+Last episode date release: 2017-07-09
+Genres: Приключения, 
+Rating limit: PG
+Description: Корейский мультипликационный сериал, повествующий о мини-монстрах — Ири, Рок-Джи, Попо и Йосси — и их приключениях, которые происходят каждый день!

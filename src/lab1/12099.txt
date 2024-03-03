@@ -1,0 +1,10 @@
+Name: Bai Lian Feisheng Lu
+Type: video.tv_show
+Episodes: 60
+Episode length: 660
+Last episode date release: 2023-10-06
+Genres: Экшен, Приключения, Фэнтези, Исторический, Боевые искусства, 
+Rating limit: PG-13
+Rating: 6.45
+Rating numbers: 639
+Description: Нет описания

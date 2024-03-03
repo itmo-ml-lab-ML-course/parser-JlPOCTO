@@ -1,0 +1,10 @@
+Name: Yankee Hamster
+Type: video.tv_show
+Episodes: 110
+Episode length: 120
+Last episode date release: 2018-12-07
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.1
+Rating numbers: 828
+Description: Короткометражные ONA о хомячках-преступниках, которые делают всё, что им заблагорассудится.

@@ -1,0 +1,7 @@
+Name: Shucai Bu Jimo
+Type: video.tv_show
+Episodes: 432
+Episode length: 360
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

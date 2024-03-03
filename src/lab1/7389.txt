@@ -1,0 +1,8 @@
+Name: Beuliseutol Tamheomdae
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 2008-09-11
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

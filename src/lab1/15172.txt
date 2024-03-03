@@ -1,0 +1,7 @@
+Name: Nyankamuchu Season 2
+Type: video.tv_show
+Episodes: 5
+Episode length: 120
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

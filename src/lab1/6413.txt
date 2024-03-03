@@ -1,0 +1,6 @@
+Name: Video Ranger 007
+Type: video.movie
+Episodes: 1
+Episode length: 4260
+Genres: Экшен, Приключения, Меха, 
+Description: Нет описания

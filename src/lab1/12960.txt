@@ -1,0 +1,10 @@
+Name: Vazzrock The Animation
+Type: video.tv_show
+Episodes: 13
+Episode length: 1380
+Last episode date release: 2022-12-28
+Genres: Музыка, 
+Rating limit: PG-13
+Rating: 5.42
+Rating numbers: 1543
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Oshiete Hokusai! The Animation
+Type: video.tv_show
+Episodes: 10
+Episode length: 660
+Last episode date release: 2021-03-14
+Genres: Комедия, Фэнтези, Повседневность, 
+Description: Нет описания

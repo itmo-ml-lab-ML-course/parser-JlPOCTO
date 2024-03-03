@@ -1,0 +1,9 @@
+Name: Good Morning Althea
+Type: video.other
+Episodes: 1
+Episode length: 3120
+Genres: Экшен, Фантастика, Меха, Космос, 
+Rating limit: R+
+Rating: 5.45
+Rating numbers: 486
+Description: Нет описания

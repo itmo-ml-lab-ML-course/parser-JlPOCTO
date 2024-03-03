@@ -1,0 +1,8 @@
+Name: Taeko no Nichijou
+Type: video.tv_show
+Episodes: 26
+Episode length: 300
+Last episode date release: 2020-03-29
+Genres: Повседневность, Работа, 
+Rating limit: G
+Description: Нет описания

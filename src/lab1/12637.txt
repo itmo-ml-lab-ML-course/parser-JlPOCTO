@@ -1,0 +1,9 @@
+Name: Bavel no Hon
+Type: video.other
+Episodes: 1
+Episode length: 300
+Genres: Детское, 
+Rating limit: G
+Rating: 5.53
+Rating numbers: 433
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Papa Mama Bye Bye
+Type: video.movie
+Episodes: 1
+Episode length: 3900
+Genres: Детское, Исторический, 
+Rating limit: PG
+Description: Нет описания

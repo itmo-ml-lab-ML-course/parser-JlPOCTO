@@ -1,0 +1,6 @@
+Name: Sword Art Online Alternative: Gun Gale Online II
+Type: video.tv_show
+Episodes: 1
+Genres: Экшен, Военное, 
+Rating limit: PG-13
+Description: Нет описания

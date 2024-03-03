@@ -1,0 +1,9 @@
+Name: Yoru no Okite
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, 
+Rating limit: R-17
+Rating: 3.84
+Rating numbers: 438
+Description: Нет описания

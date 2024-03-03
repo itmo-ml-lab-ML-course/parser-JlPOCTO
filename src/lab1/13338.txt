@@ -1,0 +1,9 @@
+Name: MapleStory Special
+Type: video.other
+Episodes: 1
+Episode length: 1260
+Genres: Детское, Экшен, Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 5.28
+Rating numbers: 199
+Description: Нет описания

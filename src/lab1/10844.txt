@@ -1,0 +1,10 @@
+Name: Panyo Panyo Di Gi Charat
+Type: video.tv_show
+Episodes: 48
+Episode length: 480
+Last episode date release: 2003-04-03
+Genres: Комедия, 
+Rating limit: G
+Rating: 6.67
+Rating numbers: 814
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Heroman Specials
+Type: video.other
+Episodes: 3
+Episode length: 240
+Last episode date release: 2011-03-16
+Genres: Экшен, Фантастика, Меха, Супер сила, 
+Rating limit: PG-13
+Rating: 6.31
+Rating numbers: 430
+Description: Спешл эпизоды Heroman, включенные во 2й, 5й и 8й выпуски DVD/BD дисков.

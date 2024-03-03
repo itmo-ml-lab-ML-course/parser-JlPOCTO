@@ -1,0 +1,9 @@
+Name: One Piece Film: Red
+Type: video.movie
+Episodes: 1
+Episode length: 6900
+Genres: Сёнен, Экшен, Приключения, Комедия, Драма, Фэнтези, 
+Rating limit: PG-13
+Rating: 7.83
+Rating numbers: 8520
+Description: Нет описания

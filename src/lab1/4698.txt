@@ -1,0 +1,8 @@
+Name: MahoYome Specials
+Type: video.other
+Episodes: 6
+Genres: Пародия, 
+Rating limit: G
+Rating: 6.11
+Rating numbers: 1112
+Description: Нет описания

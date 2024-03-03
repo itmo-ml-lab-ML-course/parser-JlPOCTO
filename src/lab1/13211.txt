@@ -1,0 +1,10 @@
+Name: Chao You Bing
+Type: video.tv_show
+Episodes: 4
+Episode length: 480
+Last episode date release: 2014-08-20
+Genres: Комедия, Фэнтези, Пародия, 
+Rating limit: R-17
+Rating: 5.34
+Rating numbers: 359
+Description: Нет описания

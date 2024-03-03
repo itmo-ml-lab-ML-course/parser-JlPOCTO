@@ -1,0 +1,9 @@
+Name: Sukui Agete Kurenai ka
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Повседневность, 
+Rating limit: G
+Rating: 4.98
+Rating numbers: 147
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Usavich Special
+Type: video.other
+Episodes: 1
+Episode length: 60
+Genres: Приключения, Комедия, 
+Rating limit: G
+Rating: 6.29
+Rating numbers: 749
+Description: Нет описания

@@ -1,0 +1,6 @@
+Name: Gohan Kaijuu Pap
+Type: video.tv_show
+Episodes: 60 / ?
+Genres: Детское, Экшен, Комедия, 
+Rating limit: G
+Description: Нет описания

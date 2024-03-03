@@ -1,0 +1,7 @@
+Name: Yangseongpyeongdeung
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: 
+Rating limit: G
+Description: Нет описания

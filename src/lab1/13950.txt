@@ -1,0 +1,9 @@
+Name: Shinsetsu Kachikachi Yama
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Экшен, Фэнтези, Исторический, 
+Rating limit: G
+Rating: 4.92
+Rating numbers: 329
+Description: Нет описания

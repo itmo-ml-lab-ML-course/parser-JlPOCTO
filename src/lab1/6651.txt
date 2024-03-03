@@ -1,0 +1,7 @@
+Name: Xi Gua Pao
+Type: video.movie
+Episodes: 1
+Episode length: 2640
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

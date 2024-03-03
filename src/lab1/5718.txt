@@ -1,0 +1,7 @@
+Name: Sore Ike! Anpanman Movie: Roboly to Pokapoka Present
+Type: video.movie
+Episodes: 1
+Episode length: 3840
+Genres: Комедия, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

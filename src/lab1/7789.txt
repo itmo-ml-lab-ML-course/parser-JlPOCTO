@@ -1,0 +1,7 @@
+Name: Choum and Pulip School
+Type: video.tv_show
+Episodes: 6
+Episode length: 660
+Genres: Детское, Школа, 
+Rating limit: PG
+Description: Нет описания

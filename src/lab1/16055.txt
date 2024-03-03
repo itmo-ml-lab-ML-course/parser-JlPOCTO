@@ -1,0 +1,8 @@
+Name: Shampoo Ouji
+Type: video.tv_show
+Episodes: 12
+Episode length: 300
+Last episode date release: 2007-12-17
+Genres: Детское, Приключения, Фэнтези, 
+Rating limit: G
+Description: Нет описания

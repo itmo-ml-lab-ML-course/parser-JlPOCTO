@@ -1,0 +1,7 @@
+Name: Mythteria 2nd Season
+Type: video.tv_show
+Episodes: 1
+Episode length: 720
+Genres: Приключения, Детское, 
+Rating limit: PG
+Description: Нет описания

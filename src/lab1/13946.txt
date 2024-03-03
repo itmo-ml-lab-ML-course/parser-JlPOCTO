@@ -1,0 +1,9 @@
+Name: Genki-kun no Oshougatsu @ Tokyo-eki
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Повседневность, 
+Rating limit: G
+Rating: 4.92
+Rating numbers: 186
+Description: Нет описания

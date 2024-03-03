@@ -1,0 +1,8 @@
+Name: Xian Yu Ge Specials
+Type: video.tv_show
+Episodes: 2
+Episode length: 1500
+Last episode date release: 2022-02-04
+Genres: Комедия, Фэнтези, 
+Rating limit: G
+Description: Нет описания

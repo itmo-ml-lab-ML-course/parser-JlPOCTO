@@ -1,0 +1,8 @@
+Name: Gutchonpa Omoshiro Hanashi
+Type: video.tv_show
+Episodes: 5
+Episode length: 480
+Last episode date release: 1988-11-04
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

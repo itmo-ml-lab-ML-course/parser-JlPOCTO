@@ -1,0 +1,9 @@
+Name: Wakaokami wa Shougakusei! Movie
+Type: video.movie
+Episodes: 1
+Episode length: 5640
+Genres: Комедия, Повседневность, Сверхъестественное, 
+Rating limit: G
+Rating: 7.5
+Rating numbers: 3111
+Description: Нет описания

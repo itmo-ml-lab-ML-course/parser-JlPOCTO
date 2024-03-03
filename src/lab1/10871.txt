@@ -1,0 +1,10 @@
+Name: Pucca (TV)
+Type: video.tv_show
+Episodes: 26
+Episode length: 1380
+Last episode date release: 2007-05-14
+Genres: Комедия, Романтика, Пародия, 
+Rating limit: G
+Rating: 6.66
+Rating numbers: 3280
+Description: Нет описания

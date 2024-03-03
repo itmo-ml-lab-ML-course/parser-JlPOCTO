@@ -1,0 +1,8 @@
+Name: Tianyan Guilai
+Type: video.tv_show
+Episodes: 624
+Episode length: 1320
+Last episode date release: 2021-01-01
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

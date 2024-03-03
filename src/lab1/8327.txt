@@ -1,0 +1,7 @@
+Name: Euroboys
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Комедия, Меха, 
+Rating limit: PG-13
+Description: Нет описания

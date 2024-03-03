@@ -1,0 +1,7 @@
+Name: Maomao Zhen
+Type: video.tv_show
+Episodes: 26
+Episode length: 480
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Duobiao
+Type: video.movie
+Episodes: 1
+Episode length: 5040
+Genres: Спорт, Детское, 
+Rating limit: PG
+Description: Нет описания

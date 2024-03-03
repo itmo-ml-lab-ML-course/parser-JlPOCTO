@@ -1,0 +1,9 @@
+Name: Overlord Movie 2: Shikkoku no Eiyuu
+Type: video.movie
+Episodes: 1
+Episode length: 5580
+Genres: Экшен, Фэнтези, 
+Rating limit: R-17
+Rating: 7.67
+Rating numbers: 28461
+Description: Вышедшая спустя месяц после показа «Повелитель: Бессмертный король», данная часть расскажет о концовке первого сезона и напомнит, чем же всё кончилось.Полнометражная версия второй половины одноимённого сериала.

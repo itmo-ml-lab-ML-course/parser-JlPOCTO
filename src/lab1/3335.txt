@@ -1,0 +1,10 @@
+Name: Houkago no Breath
+Type: video.tv_show
+Episodes: 4
+Episode length: 660
+Last episode date release: 2023-12-13
+Genres: Детское, 
+Rating limit: PG
+Rating: 7.09
+Rating numbers: 519
+Description: Нет описания

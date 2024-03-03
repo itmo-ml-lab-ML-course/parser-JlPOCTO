@@ -1,0 +1,10 @@
+Name: Turning Mecard
+Type: video.tv_show
+Episodes: 52
+Episode length: 1680
+Last episode date release: 2016-02-05
+Genres: Детское, Приключения, Машины, Игры, Меха, 
+Rating limit: PG
+Rating: 6.02
+Rating numbers: 330
+Description: Нет описания

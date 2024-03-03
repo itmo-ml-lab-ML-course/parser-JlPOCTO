@@ -1,0 +1,8 @@
+Name: Sumiko (TV)
+Type: video.tv_show
+Episodes: 8
+Episode length: 180
+Last episode date release: 2014-08-22
+Genres: Детское, Комедия, Повседневность, 
+Rating limit: G
+Description: Нет описания

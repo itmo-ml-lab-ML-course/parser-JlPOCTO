@@ -1,0 +1,8 @@
+Name: Di Di Zi Zhou Ji II
+Type: video.tv_show
+Episodes: 20
+Episode length: 120
+Last episode date release: 2003-01-01
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

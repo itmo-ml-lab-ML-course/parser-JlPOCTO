@@ -1,0 +1,7 @@
+Name: Gongzhu Qian Qian: Xiaoyuan Pian
+Type: video.tv_show
+Episodes: 20
+Episode length: 120
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Qi Hou Bilu
+Type: video.tv_show
+Episodes: 12
+Episode length: 1320
+Last episode date release: 2024-01-06
+Genres: Экшен, Приключения, Фэнтези, Боевые искусства, 
+Rating limit: PG-13
+Rating: 7.32
+Rating numbers: 1314
+Description: Нет описания

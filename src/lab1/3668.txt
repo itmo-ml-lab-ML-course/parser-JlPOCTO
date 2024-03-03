@@ -1,0 +1,9 @@
+Name: Ikuta no Kita
+Type: video.movie
+Episodes: 1
+Episode length: 3840
+Genres: Приключения, Фэнтези, Триллер, Психологическое, 
+Rating limit: R+
+Rating: 6.32
+Rating numbers: 907
+Description: Нет описания

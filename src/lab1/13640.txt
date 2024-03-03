@@ -1,0 +1,9 @@
+Name: Osu
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Повседневность, 
+Rating limit: PG-13
+Rating: 5.13
+Rating numbers: 556
+Description: Нет описания

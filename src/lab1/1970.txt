@@ -1,0 +1,9 @@
+Name: Doraemon Movie 36: Shin Nobita no Nippon Tanjou
+Type: video.movie
+Episodes: 1
+Episode length: 6240
+Genres: Приключения, Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 7.36
+Rating numbers: 688
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Okon Joururi
+Type: video.movie
+Episodes: 1
+Episode length: 1500
+Genres: Драма, Фэнтези, Исторический, 
+Rating limit: G
+Rating: 6.06
+Rating numbers: 252
+Description: Нет описания

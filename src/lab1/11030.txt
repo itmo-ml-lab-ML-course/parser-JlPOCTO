@@ -1,0 +1,10 @@
+Name: 30-sai no Hoken Taiiku
+Type: video.tv_show
+Episodes: 12
+Episode length: 780
+Last episode date release: 2011-06-23
+Genres: Романтика, Этти, Пародия, 
+Rating limit: R-17
+Rating: 6.63
+Rating numbers: 8723
+Description: Если вы парень, вам немного за 30 и вы всё ещё девственник — не переживайте! Это аниме научит вас всему, что вам понадобится, если у вас вдруг появится подружка.

@@ -1,0 +1,9 @@
+Name: Mac the Movie
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, 
+Rating limit: R+
+Rating: 4.41
+Rating numbers: 211
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: 30-pun de Wakaru! Love Live! Superstar!!
+Type: video.tv_show
+Episodes: 1
+Episode length: 2040
+Genres: Музыка, Школа, 
+Rating limit: PG-13
+Rating: 6.36
+Rating numbers: 490
+Description: Нет описания

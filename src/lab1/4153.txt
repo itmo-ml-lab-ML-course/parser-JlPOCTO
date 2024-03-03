@@ -1,0 +1,10 @@
+Name: Duel Masters Cross
+Type: video.tv_show
+Episodes: 100
+Episode length: 600
+Last episode date release: 2010-03-27
+Genres: Детское, Экшен, Приключения, Комедия, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.22
+Rating numbers: 388
+Description: Нет описания

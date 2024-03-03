@@ -1,0 +1,7 @@
+Name: Xiao Ji Lu Bi
+Type: video.tv_show
+Episodes: 26
+Episode length: 600
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

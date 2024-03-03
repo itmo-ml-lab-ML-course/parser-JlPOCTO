@@ -1,0 +1,10 @@
+Name: Boku dake ga Inai Machi Recaps
+Type: video.tv_show
+Episodes: 2
+Episode length: 1140
+Last episode date release: 2016-03-18
+Genres: Сэйнэн, Детектив, Сверхъестественное, Психологическое, 
+Rating limit: R-17
+Rating: 7.25
+Rating numbers: 12533
+Description: Краткий пересказ первых одиннадцати эпизодов аниме-сериала «Город, в котором меня нет».

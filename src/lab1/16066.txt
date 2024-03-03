@@ -1,0 +1,7 @@
+Name: Shangguan Hai Ling
+Type: video.movie
+Episodes: 1
+Episode length: 3000
+Genres: Фэнтези, Школа, 
+Rating limit: G
+Description: Нет описания

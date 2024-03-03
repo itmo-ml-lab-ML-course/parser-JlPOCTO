@@ -1,0 +1,9 @@
+Name: Koutetsujou no Kabaneri Movie 2: Moeru Inochi
+Type: video.movie
+Episodes: 1
+Episode length: 6180
+Genres: Экшен, Драма, Фэнтези, Ужасы, Исторический, 
+Rating limit: R-17
+Rating: 7.56
+Rating numbers: 15850
+Description: Краткий пересказ событий, которые произошли с седьмой по двенадцатую серии оригинального сериала «Кабанэри железной крепости».

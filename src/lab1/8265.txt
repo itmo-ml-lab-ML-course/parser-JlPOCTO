@@ -1,0 +1,7 @@
+Name: Duo Lai Mi Julebu
+Type: video.tv_show
+Episodes: 17
+Episode length: 420
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

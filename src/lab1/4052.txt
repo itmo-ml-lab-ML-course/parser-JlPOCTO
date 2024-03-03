@@ -1,0 +1,9 @@
+Name: My Life
+Type: video.tv_show
+Episodes: 1
+Episode length: 240
+Genres: Драма, Повседневность, 
+Rating limit: G
+Rating: 6.24
+Rating numbers: 1064
+Description: Старшеклассница, обдумывая свое будущее, видит вспышку перед глазами...

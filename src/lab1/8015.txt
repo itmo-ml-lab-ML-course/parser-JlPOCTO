@@ -1,0 +1,7 @@
+Name: Dasshutsu Gasshapon
+Type: video.tv_show
+Episodes: 10
+Episode length: 180
+Genres: Фантастика, Исторический, 
+Rating limit: PG-13
+Description: Нет описания

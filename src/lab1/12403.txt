@@ -1,0 +1,10 @@
+Name: Genshi Shounen Ryuu
+Type: video.tv_show
+Episodes: 22
+Episode length: 1500
+Last episode date release: 1972-03-25
+Genres: Экшен, Приключения, Фантастика, Сёнен, 
+Rating limit: PG-13
+Rating: 6.38
+Rating numbers: 426
+Description: Нет описания

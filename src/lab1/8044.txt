@@ -1,0 +1,8 @@
+Name: Denden no Dennou Densha
+Type: video.tv_show
+Episodes: 12
+Episode length: 300
+Last episode date release: 2023-06-29
+Genres: Музыка, 
+Rating limit: PG-13
+Description: Нет описания

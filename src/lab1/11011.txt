@@ -1,0 +1,10 @@
+Name: Sengoku Majin Goushougun
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Last episode date release: 1981-12-28
+Genres: Экшен, Фантастика, Меха, Пародия, 
+Rating limit: PG-13
+Rating: 6.64
+Rating numbers: 562
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Papa Mama Xiaoshihou De Gushi
+Type: video.tv_show
+Episodes: 55
+Episode length: 480
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

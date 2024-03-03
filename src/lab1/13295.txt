@@ -1,0 +1,9 @@
+Name: Tansa Quest!
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Фэнтези, Школа, 
+Rating limit: PG-13
+Rating: 5.3
+Rating numbers: 193
+Description: Реклама мобильной RPG-игры «Tansa Quest!».

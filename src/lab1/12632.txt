@@ -1,0 +1,10 @@
+Name: Zukkoke Knight: Don De La Mancha
+Type: video.tv_show
+Episodes: 23
+Episode length: 1800
+Last episode date release: 1980-09-23
+Genres: Приключения, Комедия, Романтика, Исторический, 
+Rating limit: G
+Rating: 5.58
+Rating numbers: 215
+Description: Нет описания

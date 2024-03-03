@@ -1,0 +1,7 @@
+Name: Ryoukan-san
+Type: video.movie
+Episodes: 1
+Episode length: 4380
+Genres: Исторический, 
+Rating limit: G
+Description: Нет описания

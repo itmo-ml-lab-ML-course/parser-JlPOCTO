@@ -1,0 +1,8 @@
+Name: Cofun Gal no Coffy (TV)
+Type: video.tv_show
+Episodes: 11
+Episode length: 660
+Last episode date release: 2006-06-15
+Genres: Комедия, Пародия, 
+Rating limit: PG-13
+Description: Нет описания

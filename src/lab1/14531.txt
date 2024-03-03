@@ -1,0 +1,7 @@
+Name: Meide Huayuan
+Type: video.tv_show
+Episodes: 98
+Episode length: 900
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

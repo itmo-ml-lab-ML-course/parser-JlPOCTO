@@ -1,0 +1,9 @@
+Name: Wego Graphics
+Type: video.other
+Episodes: 2
+Last episode date release: 2018-07-06
+Genres: Музыка, 
+Rating limit: G
+Rating: 4.72
+Rating numbers: 165
+Description: Рекламное видео для бренда Wego Graphics.

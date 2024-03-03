@@ -1,0 +1,8 @@
+Name: Gaki Deka
+Type: video.tv_show
+Episodes: 22
+Episode length: 1440
+Last episode date release: 1990-03-26
+Genres: Комедия, Этти, Пародия, 
+Rating limit: PG
+Description: Нет описания

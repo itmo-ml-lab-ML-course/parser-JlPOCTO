@@ -1,0 +1,7 @@
+Name: Mofa Mama Jiang Gushi
+Type: video.tv_show
+Episodes: 52
+Episode length: 300
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

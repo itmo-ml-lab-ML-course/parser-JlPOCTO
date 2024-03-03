@@ -1,0 +1,7 @@
+Name: Piao Chong Bei Bei: Shenmi Gongchang
+Type: video.tv_show
+Episodes: 52
+Episode length: 720
+Genres: Экшен, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

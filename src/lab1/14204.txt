@@ -1,0 +1,9 @@
+Name: Super Majingga 3
+Type: video.movie
+Episodes: 1
+Episode length: 4140
+Genres: Экшен, Фантастика, Меха, Космос, 
+Rating limit: PG
+Rating: 4.68
+Rating numbers: 188
+Description: Нет описания

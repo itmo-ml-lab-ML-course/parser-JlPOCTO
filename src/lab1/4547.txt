@@ -1,0 +1,10 @@
+Name: Melty Lancer
+Type: video.other
+Episodes: 6
+Episode length: 1680
+Last episode date release: 2000-05-25
+Genres: Приключения, Комедия, Фантастика, Космос, 
+Rating limit: PG-13
+Rating: 6.14
+Rating numbers: 378
+Description: Нет описания

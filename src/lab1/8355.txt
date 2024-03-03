@@ -1,0 +1,8 @@
+Name: Fei Zhi Baike
+Type: video.tv_show
+Episodes: 97
+Episode length: 360
+Last episode date release: 2023-06-24
+Genres: Комедия, 
+Rating limit: PG
+Description: Нет описания

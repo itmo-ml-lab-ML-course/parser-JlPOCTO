@@ -1,0 +1,9 @@
+Name: Kimi ga Nozomu Eien: Gundam Parody
+Type: video.other
+Episodes: 1
+Episode length: 120
+Genres: Фантастика, Меха, Пародия, Космос, 
+Rating limit: R+
+Rating: 5.44
+Rating numbers: 1589
+Description: Короткий спешл, описывающий приключение героев в космосе.

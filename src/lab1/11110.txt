@@ -1,0 +1,10 @@
+Name: Coyote Ragtime Show
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2006-09-19
+Genres: Экшен, Приключения, Комедия, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.62
+Rating numbers: 2402
+Description: Нет описания

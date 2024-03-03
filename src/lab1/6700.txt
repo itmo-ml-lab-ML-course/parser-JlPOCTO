@@ -1,0 +1,8 @@
+Name: Xiangshu Canting
+Type: video.tv_show
+Episodes: 26
+Episode length: 600
+Last episode date release: 2011-10-01
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

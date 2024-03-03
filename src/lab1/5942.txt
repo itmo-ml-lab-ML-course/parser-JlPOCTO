@@ -1,0 +1,8 @@
+Name: Talpy
+Type: video.tv_show
+Episodes: 13
+Episode length: 300
+Last episode date release: 2011-10-01
+Genres: Детское, Фэнтези, 
+Rating limit: G
+Description: Нет описания

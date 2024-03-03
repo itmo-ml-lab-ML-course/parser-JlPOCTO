@@ -1,0 +1,7 @@
+Name: Sai Er Hao Movie 6: Sheng Zhe Wudi
+Type: video.movie
+Episodes: 1
+Episode length: 5940
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Closure no Kimitsu File
+Type: video.tv_show
+Episodes: 17
+Episode length: 120
+Last episode date release: 2021-11-21
+Genres: Комедия, 
+Rating limit: G
+Rating: 6.09
+Rating numbers: 326
+Description: Нет описания

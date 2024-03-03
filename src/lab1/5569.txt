@@ -1,0 +1,7 @@
+Name: Shuai Gou Hei Pi
+Type: video.tv_show
+Episodes: 52
+Episode length: 1320
+Genres: Приключения, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Obake Zukan!
+Type: video.tv_show
+Episodes: 13
+Episode length: 120
+Last episode date release: 2023-03-29
+Genres: Комедия, Фэнтези, Сверхъестественное, Детское, 
+Rating limit: PG
+Description: Нет описания

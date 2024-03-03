@@ -1,0 +1,10 @@
+Name: Fastening Days 4
+Type: video.tv_show
+Episodes: 3
+Episode length: 240
+Last episode date release: 2019-12-19
+Genres: Детское, 
+Rating limit: G
+Rating: 6.16
+Rating numbers: 162
+Description: Нет описания

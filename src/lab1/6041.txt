@@ -1,0 +1,8 @@
+Name: Terrarium Adventure
+Type: video.tv_show
+Episodes: 3
+Episode length: 420
+Last episode date release: 2023-06-02
+Genres: Фэнтези, 
+Rating limit: PG-13
+Description: Нет описания

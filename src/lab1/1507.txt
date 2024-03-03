@@ -1,0 +1,10 @@
+Name: Kaitou Saint Tail
+Type: video.tv_show
+Episodes: 43
+Episode length: 1320
+Last episode date release: 1996-09-12
+Genres: Сёдзё, Приключения, Романтика, 
+Rating limit: G
+Rating: 7.56
+Rating numbers: 1682
+Description: Нет описания

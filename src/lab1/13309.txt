@@ -1,0 +1,9 @@
+Name: Home-Pato the Movie
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Машины, 
+Rating limit: G
+Rating: 5.3
+Rating numbers: 276
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Digimon Adventure tri. 3: Kokuhaku
+Type: video.movie
+Episodes: 1
+Episode length: 6300
+Genres: Экшен, Приключения, Комедия, Драма, 
+Rating limit: PG-13
+Rating: 7.62
+Rating numbers: 1755
+Description: Нет описания

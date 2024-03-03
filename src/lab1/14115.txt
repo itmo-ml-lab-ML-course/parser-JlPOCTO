@@ -1,0 +1,10 @@
+Name: Sushi Ninja
+Type: video.tv_show
+Episodes: 3
+Episode length: 240
+Last episode date release: 2014-11-28
+Genres: Экшен, Комедия, Фэнтези, 
+Rating limit: G
+Rating: 4.77
+Rating numbers: 205
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Xue Yu Shaonian
+Type: video.movie
+Episodes: 1
+Episode length: 6600
+Genres: Экшен, Драма, Фэнтези, 
+Rating limit: PG-13
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Fu Wu Shu: Sanshiliu Ji
+Type: video.tv_show
+Episodes: 36
+Episode length: 1080
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

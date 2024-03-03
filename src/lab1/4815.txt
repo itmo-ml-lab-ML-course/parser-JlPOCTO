@@ -1,0 +1,9 @@
+Name: High School! Kimengumi (Movie)
+Type: video.movie
+Episodes: 1
+Episode length: 3000
+Genres: Сёнен, Комедия, Романтика, Пародия, Школа, 
+Rating limit: PG
+Rating: 6.09
+Rating numbers: 261
+Description: Нет описания

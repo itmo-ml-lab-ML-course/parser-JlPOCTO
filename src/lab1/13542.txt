@@ -1,0 +1,9 @@
+Name: Kara The Animation
+Type: video.tv_show
+Episodes: 5
+Episode length: 1620
+Genres: Экшен, 
+Rating limit: PG-13
+Rating: 5.18
+Rating numbers: 278
+Description: Нет описания

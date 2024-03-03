@@ -1,0 +1,8 @@
+Name: Pan Hu Chuanqi
+Type: video.tv_show
+Episodes: 26
+Episode length: 780
+Last episode date release: 2017-09-21
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

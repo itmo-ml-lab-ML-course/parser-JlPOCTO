@@ -1,0 +1,9 @@
+Name: No Littering
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Комедия, Ужасы, 
+Rating limit: R-17
+Rating: 3.6
+Rating numbers: 695
+Description: Поучительная история, в которой на примере одного мальчика показано, как важно беречь окружающую среду.

@@ -1,0 +1,9 @@
+Name: Altered Carbon: Resleeved
+Type: video.tv_show
+Episodes: 1
+Episode length: 4440
+Genres: Экшен, Драма, Фантастика, 
+Rating limit: R-17
+Rating: 6.43
+Rating numbers: 3260
+Description: Нет описания

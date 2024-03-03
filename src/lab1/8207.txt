@@ -1,0 +1,7 @@
+Name: Doudou Dou Zhidao
+Type: video.tv_show
+Episodes: 24
+Episode length: 360
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

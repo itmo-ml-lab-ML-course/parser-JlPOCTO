@@ -1,0 +1,8 @@
+Name: Feng Shu Zhan Jing 2
+Type: video.tv_show
+Episodes: 26
+Episode length: 1320
+Last episode date release: 2012-12-01
+Genres: Детское, Приключения, Меха, 
+Rating limit: PG
+Description: Нет описания

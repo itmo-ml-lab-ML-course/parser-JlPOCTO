@@ -1,0 +1,9 @@
+Name: Little Nemo
+Type: video.movie
+Episodes: 1
+Episode length: 5640
+Genres: Приключения, Фэнтези, 
+Rating limit: G
+Rating: 7.18
+Rating numbers: 1119
+Description: Нет описания

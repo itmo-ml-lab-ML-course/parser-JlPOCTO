@@ -1,0 +1,10 @@
+Name: Sakura Momoko Gekijou: Coji-Coji
+Type: video.tv_show
+Episodes: 100
+Episode length: 1500
+Last episode date release: 1999-09-25
+Genres: Комедия, Фэнтези, 
+Rating limit: G
+Rating: 6.26
+Rating numbers: 215
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Baka Mukashibanashi
+Type: video.other
+Episodes: 9
+Episode length: 480
+Genres: Комедия, Фэнтези, Исторический, 
+Rating limit: G
+Description: Нет описания

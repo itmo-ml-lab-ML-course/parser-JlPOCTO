@@ -1,0 +1,7 @@
+Name: Dou Long Zhanshi: Bao She Long Dan
+Type: video.tv_show
+Episodes: 15
+Episode length: 300
+Genres: Фантастика, Детское, 
+Rating limit: PG
+Description: Нет описания

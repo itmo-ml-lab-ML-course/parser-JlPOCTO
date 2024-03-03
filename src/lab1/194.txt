@@ -1,0 +1,9 @@
+Name: Made in Abyss Movie 2: Hourou Suru Tasogare
+Type: video.movie
+Episodes: 1
+Episode length: 6300
+Genres: Приключения, Драма, Фэнтези, Детектив, Фантастика, 
+Rating limit: R-17
+Rating: 8.37
+Rating numbers: 30728
+Description: Пересказ событий сериала «Созданный в Бездне» с 9-го по 13-й эпизод.

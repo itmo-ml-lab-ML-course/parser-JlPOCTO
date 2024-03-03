@@ -1,0 +1,9 @@
+Name: Meitantei Conan Movie 07: Meikyuu no Crossroad
+Type: video.movie
+Episodes: 1
+Episode length: 6480
+Genres: Сёнен, Приключения, Комедия, Детектив, Полиция, 
+Rating limit: PG-13
+Rating: 7.8
+Rating numbers: 2493
+Description: Нет описания

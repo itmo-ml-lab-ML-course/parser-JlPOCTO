@@ -1,0 +1,8 @@
+Name: Heart Cocktail Colorful: Fuyu-hen
+Type: video.tv_show
+Episodes: 5
+Episode length: 300
+Last episode date release: 2023-12-15
+Genres: Романтика, Сэйнэн, 
+Rating limit: PG-13
+Description: Нет описания

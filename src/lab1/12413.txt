@@ -1,0 +1,10 @@
+Name: Chouja Raideen
+Type: video.tv_show
+Episodes: 38
+Episode length: 1500
+Last episode date release: 1997-06-25
+Genres: Сёнен, Приключения, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.37
+Rating numbers: 371
+Description: Нет описания

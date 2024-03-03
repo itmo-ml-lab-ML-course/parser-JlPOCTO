@@ -1,0 +1,6 @@
+Name: Beastars Final Season
+Type: video.tv_show
+Episodes: 1
+Genres: Драма, Психологическое, Школа, Сёнен, 
+Rating limit: R-17
+Description: Нет описания

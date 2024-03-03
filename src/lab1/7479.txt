@@ -1,0 +1,8 @@
+Name: Boomba &amp; Toomba
+Type: video.tv_show
+Episodes: 13
+Episode length: 300
+Last episode date release: 2017-08-08
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

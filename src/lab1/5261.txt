@@ -1,0 +1,10 @@
+Name: Girlfriend (Note)
+Type: video.tv_show
+Episodes: 3
+Episode length: 660
+Last episode date release: 2016-11-05
+Genres: Музыка, Школа, 
+Rating limit: G
+Rating: 6.0
+Rating numbers: 708
+Description: Нет описания

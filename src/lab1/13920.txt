@@ -1,0 +1,9 @@
+Name: Sheep in the Island
+Type: video.other
+Episodes: 2
+Episode length: 540
+Genres: Комедия, 
+Rating limit: G
+Rating: 4.95
+Rating numbers: 314
+Description: Нет описания

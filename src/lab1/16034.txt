@@ -1,0 +1,7 @@
+Name: Senlin Li De Gushi
+Type: video.tv_show
+Episodes: 26
+Episode length: 660
+Genres: Детское, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

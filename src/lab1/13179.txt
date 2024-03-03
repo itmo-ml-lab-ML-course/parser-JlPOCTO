@@ -1,0 +1,9 @@
+Name: Interior
+Type: video.tv_show
+Episodes: 1
+Episode length: 240
+Genres: Приключения, Комедия, 
+Rating limit: G
+Rating: 5.35
+Rating numbers: 170
+Description: Нет описания

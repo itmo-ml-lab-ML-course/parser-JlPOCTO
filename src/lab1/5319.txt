@@ -1,0 +1,10 @@
+Name: Hipira-kun
+Type: video.tv_show
+Episodes: 10
+Episode length: 300
+Last episode date release: 2009-12-25
+Genres: Детское, Комедия, Фэнтези, Сверхъестественное, Вампиры, 
+Rating limit: PG
+Rating: 5.98
+Rating numbers: 929
+Description: Это история о молодом вампире Хипире, который живёт в Сальте, зловещем городе вампиров. Его ожидают опасные приключения вместе с остальными жителями города!

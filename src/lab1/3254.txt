@@ -1,0 +1,9 @@
+Name: Doraemon Movie 14: Nobita to Buriki no Labyrinth
+Type: video.movie
+Episodes: 1
+Episode length: 6000
+Genres: Фэнтези, 
+Rating limit: PG
+Rating: 7.11
+Rating numbers: 562
+Description: Нет описания

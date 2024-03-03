@@ -1,0 +1,9 @@
+Name: Guilty Crown: Kiseki - Reassortment
+Type: video.other
+Episodes: 1
+Episode length: 2880
+Genres: Экшен, Фантастика, Супер сила, 
+Rating limit: R-17
+Rating: 7.1
+Rating numbers: 11111
+Description: Краткое описание событий первой сюжетной арки. Начало состоит из первых двух серий. А далее продолжение из небольших отрывков оставшихся девяти серий, до момента кульминации.

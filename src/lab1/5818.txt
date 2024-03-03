@@ -1,0 +1,8 @@
+Name: Stray Sheep: Poe no Chicchana Daibouken
+Type: video.tv_show
+Episodes: 18
+Episode length: 120
+Last episode date release: 2005-01-01
+Genres: Детское, Комедия, 
+Rating limit: PG
+Description: Нет описания

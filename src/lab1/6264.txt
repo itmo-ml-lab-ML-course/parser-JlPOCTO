@@ -1,0 +1,6 @@
+Name: Tu Xiao Bei Anquan Jiaoyu Donghua
+Type: video.tv_show
+Episodes: 95
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

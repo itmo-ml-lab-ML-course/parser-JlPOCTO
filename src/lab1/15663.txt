@@ -1,0 +1,7 @@
+Name: Qingwa Wangguo
+Type: video.movie
+Episodes: 1
+Episode length: 5280
+Genres: Детское, Приключения, Спорт, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Capsule Samurai
+Type: video.tv_show
+Episodes: 40
+Last episode date release: 2005-01-01
+Genres: Комедия, Музыка, Самураи, 
+Rating limit: G
+Description: Нет описания

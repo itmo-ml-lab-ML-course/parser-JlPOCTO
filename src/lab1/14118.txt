@@ -1,0 +1,9 @@
+Name: Blend
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 4.76
+Rating numbers: 231
+Description: Нет описания

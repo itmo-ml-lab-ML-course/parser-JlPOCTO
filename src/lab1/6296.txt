@@ -1,0 +1,7 @@
+Name: Tunshu Zhen Lequ Sanzijing
+Type: video.tv_show
+Episodes: 100
+Episode length: 840
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Xiaomao Diaoyu
+Type: video.movie
+Episodes: 1
+Episode length: 840
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Heisei Inu Monogatari Bow
+Type: video.tv_show
+Episodes: 40
+Episode length: 1500
+Last episode date release: 1994-09-22
+Genres: Приключения, Комедия, 
+Rating limit: G
+Rating: 7.41
+Rating numbers: 232
+Description: Нет описания

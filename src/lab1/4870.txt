@@ -1,0 +1,10 @@
+Name: Panda-Z: The Robonimation
+Type: video.tv_show
+Episodes: 30
+Episode length: 300
+Last episode date release: 2004-10-04
+Genres: Экшен, Комедия, Фантастика, Меха, Пародия, Детское, 
+Rating limit: PG
+Rating: 6.08
+Rating numbers: 596
+Description: Нет описания

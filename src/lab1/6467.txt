@@ -1,0 +1,8 @@
+Name: Wo Jiao MT: Guilai
+Type: video.tv_show
+Episodes: 10
+Episode length: 1320
+Last episode date release: 2021-12-22
+Genres: Приключения, Комедия, Игры, 
+Rating limit: PG-13
+Description: Нет описания

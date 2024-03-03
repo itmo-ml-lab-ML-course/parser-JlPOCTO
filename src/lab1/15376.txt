@@ -1,0 +1,7 @@
+Name: Pao Fu Xiaojie De Jin Yugang
+Type: video.tv_show
+Episodes: 1
+Episode length: 1020
+Genres: Повседневность, 
+Rating limit: R+
+Description: Нет описания

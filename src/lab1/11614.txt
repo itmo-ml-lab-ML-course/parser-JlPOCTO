@@ -1,0 +1,9 @@
+Name: Inakappe Taishou
+Type: video.tv_show
+Episodes: 104
+Episode length: 1440
+Last episode date release: 1972-09-24
+Genres: Комедия, Спорт, 
+Rating: 6.53
+Rating numbers: 263
+Description: Нет описания

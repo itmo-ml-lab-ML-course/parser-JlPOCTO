@@ -1,0 +1,7 @@
+Name: Xi Ge Xi Mei: Kaixin Leyuan
+Type: video.tv_show
+Episodes: 25
+Episode length: 480
+Genres: Детское, Комедия, 
+Rating limit: PG
+Description: Нет описания

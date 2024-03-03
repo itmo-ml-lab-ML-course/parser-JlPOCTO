@@ -1,0 +1,9 @@
+Name: Kakari
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Психологическое, 
+Rating limit: PG-13
+Rating: 4.28
+Rating numbers: 213
+Description: Нет описания

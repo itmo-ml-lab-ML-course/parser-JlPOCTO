@@ -1,0 +1,9 @@
+Name: It&#39;s Marey O&#39;Clock Now!
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Безумие, 
+Rating limit: G
+Rating: 5.0
+Rating numbers: 145
+Description: Нет описания

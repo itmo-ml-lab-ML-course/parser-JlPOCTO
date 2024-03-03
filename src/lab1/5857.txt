@@ -1,0 +1,7 @@
+Name: Super Wings the Movie: Maximum Speed
+Type: video.movie
+Episodes: 1
+Episode length: 5340
+Genres: Приключения, Детское, 
+Rating limit: PG
+Description: Нет описания

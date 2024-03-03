@@ -1,0 +1,9 @@
+Name: Modern
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.88
+Rating numbers: 332
+Description: Нет описания

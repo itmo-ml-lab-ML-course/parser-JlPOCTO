@@ -1,0 +1,7 @@
+Name: Shuxiang Ji Zhi Tian Yu Chuanqi
+Type: video.tv_show
+Episodes: 26
+Episode length: 600
+Genres: Исторический, Детское, 
+Rating limit: PG-13
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Bo &amp; To&#39;s Family 2nd Season
+Type: video.tv_show
+Episodes: 10
+Episode length: 720
+Last episode date release: 2022-10-01
+Genres: Повседневность, Детское, 
+Rating limit: G
+Description: Нет описания

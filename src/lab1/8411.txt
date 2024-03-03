@@ -1,0 +1,7 @@
+Name: Flicker Love No.1
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, 
+Rating limit: R+
+Description: Нет описания

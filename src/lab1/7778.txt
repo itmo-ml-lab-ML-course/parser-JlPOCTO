@@ -1,0 +1,7 @@
+Name: Chou Futsuu Ken Chiba Densetsu
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Комедия, Фэнтези, 
+Rating limit: PG-13
+Description: Нет описания

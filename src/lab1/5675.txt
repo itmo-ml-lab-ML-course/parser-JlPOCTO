@@ -1,0 +1,8 @@
+Name: Sinbi Apateu: Joseontoemasillog
+Type: video.tv_show
+Episodes: 4
+Episode length: 1800
+Last episode date release: 2023-07-21
+Genres: Детектив, Сверхъестественное, Детское, 
+Rating limit: G
+Description: Нет описания

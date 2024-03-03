@@ -1,0 +1,9 @@
+Name: Tansui
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.93
+Rating numbers: 212
+Description: Нет описания

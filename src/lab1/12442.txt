@@ -1,0 +1,10 @@
+Name: Time Bokan Series: Yattodetaman
+Type: video.tv_show
+Episodes: 52
+Episode length: 1200
+Last episode date release: 1982-02-06
+Genres: Экшен, Приключения, Комедия, Фэнтези, Меха, 
+Rating limit: PG-13
+Rating: 6.37
+Rating numbers: 452
+Description: Нет описания

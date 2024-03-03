@@ -1,0 +1,9 @@
+Name: Kubbe Gachapin Mukku
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 5.21
+Rating numbers: 197
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Quanzhi Fashi VI
+Type: video.tv_show
+Episodes: 12
+Episode length: 1380
+Last episode date release: 2023-08-11
+Genres: Экшен, Фэнтези, Школа, 
+Rating limit: PG-13
+Rating: 7.04
+Rating numbers: 6358
+Description: Нет описания

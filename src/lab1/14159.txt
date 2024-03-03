@@ -1,0 +1,9 @@
+Name: Odoroki Ban
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.73
+Rating numbers: 270
+Description: Нет описания

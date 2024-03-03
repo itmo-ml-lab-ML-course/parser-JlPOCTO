@@ -1,0 +1,7 @@
+Name: Xiexie Xiaohua Mao
+Type: video.movie
+Episodes: 1
+Episode length: 780
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

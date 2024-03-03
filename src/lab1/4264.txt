@@ -1,0 +1,10 @@
+Name: Akuu Daisakusen Srungle
+Type: video.tv_show
+Episodes: 53
+Episode length: 1500
+Last episode date release: 1984-01-27
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.2
+Rating numbers: 319
+Description: Нет описания

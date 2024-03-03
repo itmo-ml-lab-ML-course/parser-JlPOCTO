@@ -1,0 +1,7 @@
+Name: Caicaitoon
+Type: video.tv_show
+Episodes: 8
+Episode length: 180
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

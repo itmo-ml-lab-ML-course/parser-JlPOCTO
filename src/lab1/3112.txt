@@ -1,0 +1,9 @@
+Name: Gundam Build Fighters: GM no Gyakushuu
+Type: video.tv_show
+Episodes: 1
+Episode length: 1920
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 7.14
+Rating numbers: 1365
+Description: События разворачиваются спустя 3 года после «Гандам: Сконструированные бойцы». В этот раз нас ждёт совершенно другая история, которая развернётся вокруг Сэя Иори и его друзей.

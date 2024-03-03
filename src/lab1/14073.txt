@@ -1,0 +1,9 @@
+Name: PES: Peace Eco Smile - Drive your Heart
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Романтика, Фантастика, Машины, 
+Rating limit: G
+Rating: 4.8
+Rating numbers: 295
+Description: Специальный эпизод к аниме «Улыбка Эко Гармонии», который транслировался между 3 и 4 сериями оригинальной ONA. Представляет собой рекламу нового автомобиля Toyota Vios.

@@ -1,0 +1,10 @@
+Name: Xian Wu Cangqiong
+Type: video.tv_show
+Episodes: 48
+Episode length: 420
+Last episode date release: 2022-11-20
+Genres: Экшен, Фэнтези, Боевые искусства, 
+Rating limit: PG-13
+Rating: 6.1
+Rating numbers: 722
+Description: Нет описания

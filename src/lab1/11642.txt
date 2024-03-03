@@ -1,0 +1,10 @@
+Name: Teekyuu 9
+Type: video.tv_show
+Episodes: 12
+Episode length: 120
+Last episode date release: 2017-09-27
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.52
+Rating numbers: 3257
+Description: Нет описания

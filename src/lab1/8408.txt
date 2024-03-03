@@ -1,0 +1,7 @@
+Name: Fighting 32nd Olympic
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Спорт, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Let&#39;s Nupu Nupu
+Type: video.tv_show
+Episodes: 16
+Episode length: 300
+Last episode date release: 1998-11-02
+Genres: Комедия, Этти, Школа, 
+Rating limit: R+
+Rating: 6.18
+Rating numbers: 1077
+Description: Нет описания

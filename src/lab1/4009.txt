@@ -1,0 +1,9 @@
+Name: Ghost Tale
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Комедия, Сверхъестественное, 
+Rating limit: G
+Rating: 6.26
+Rating numbers: 456
+Description: Желая произвести впечатление на красотку Ла, привидения Су и У начинают поднимать тяжести, используя телекинез.

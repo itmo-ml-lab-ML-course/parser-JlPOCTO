@@ -1,0 +1,10 @@
+Name: Kamisama Kazoku
+Type: video.tv_show
+Episodes: 13
+Episode length: 1500
+Last episode date release: 2006-08-10
+Genres: Комедия, Драма, Фэнтези, Романтика, 
+Rating limit: PG-13
+Rating: 7.1
+Rating numbers: 5653
+Description: Нет описания

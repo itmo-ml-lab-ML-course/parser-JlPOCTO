@@ -1,0 +1,9 @@
+Name: Chouetsu Sekai
+Type: video.other
+Episodes: 10
+Episode length: 360
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 5.01
+Rating numbers: 241
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Mofa Ya Ma
+Type: video.movie
+Episodes: 1
+Episode length: 4740
+Genres: Приключения, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.06
+Rating numbers: 157
+Description: Нет описания

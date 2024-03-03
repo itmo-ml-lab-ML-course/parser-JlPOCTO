@@ -1,0 +1,7 @@
+Name: Running Man: Revengers
+Type: video.movie
+Episodes: 1
+Episode length: 4380
+Genres: Приключения, Детское, 
+Rating limit: G
+Description: Нет описания

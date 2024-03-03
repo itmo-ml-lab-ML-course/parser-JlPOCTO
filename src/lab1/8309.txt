@@ -1,0 +1,7 @@
+Name: Eomma Chaja Sammanli
+Type: video.movie
+Episodes: 1
+Episode length: 4980
+Genres: Детское, Приключения, Драма, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Duo Bao Yijia Ren
+Type: video.tv_show
+Episodes: 24
+Episode length: 360
+Genres: Комедия, Детское, 
+Rating limit: G
+Description: Нет описания

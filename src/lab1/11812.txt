@@ -1,0 +1,10 @@
+Name: UFO Senshi Dai Apolon 2
+Type: video.tv_show
+Episodes: 21
+Episode length: 1440
+Last episode date release: 1977-02-24
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.49
+Rating numbers: 236
+Description: Нет описания

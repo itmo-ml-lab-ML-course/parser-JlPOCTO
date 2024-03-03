@@ -1,0 +1,9 @@
+Name: Haikyuu!! Movie 1: Owari to Hajimari
+Type: video.movie
+Episodes: 1
+Episode length: 5340
+Genres: Спорт, Школа, Сёнен, 
+Rating limit: PG-13
+Rating: 8.01
+Rating numbers: 25454
+Description: Первый полнометражный фильм-рекап первого сезона оригинального аниме-сериала «Волейбол!!».

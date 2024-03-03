@@ -1,0 +1,10 @@
+Name: Reiwa no Di Gi Charat
+Type: video.tv_show
+Episodes: 16
+Episode length: 240
+Last episode date release: 2023-01-03
+Genres: Комедия, 
+Rating limit: G
+Rating: 6.05
+Rating numbers: 934
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Xiao Bing Zhang Ga
+Type: video.movie
+Episodes: 1
+Episode length: 4740
+Genres: Приключения, Исторический, Военное, Детское, 
+Rating limit: PG-13
+Description: Нет описания

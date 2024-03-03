@@ -1,0 +1,7 @@
+Name: Sanqiannian Renwu Zhihui Gushi
+Type: video.tv_show
+Episodes: 60
+Episode length: 900
+Genres: Исторический, 
+Rating limit: PG
+Description: Нет описания

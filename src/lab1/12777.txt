@@ -1,0 +1,10 @@
+Name: Get Up! Get Live! #Geragera
+Type: video.tv_show
+Episodes: 10
+Episode length: 60
+Last episode date release: 2020-09-12
+Genres: Комедия, Повседневность, 
+Rating limit: PG-13
+Rating: 5.49
+Rating numbers: 667
+Description: Нет описания

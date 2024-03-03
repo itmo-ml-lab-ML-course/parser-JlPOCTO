@@ -1,0 +1,7 @@
+Name: Bakutsuri Bar Hunter Movie: Nazo no Barcode Trial! Bakutsure! Shinkaigyo Poseidon
+Type: video.movie
+Episodes: 1
+Episode length: 1260
+Genres: Детское, Приключения, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Gonglu Q Che Ba
+Type: video.tv_show
+Episodes: 100
+Episode length: 780
+Last episode date release: 2012-01-01
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

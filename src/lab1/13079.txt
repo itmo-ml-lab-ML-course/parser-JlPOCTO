@@ -1,0 +1,10 @@
+Name: Hakyuu Houshin Engi
+Type: video.tv_show
+Episodes: 23
+Episode length: 1380
+Last episode date release: 2018-06-29
+Genres: Экшен, Приключения, Фэнтези, Сёнен, 
+Rating limit: PG-13
+Rating: 5.38
+Rating numbers: 4102
+Description: Нет описания

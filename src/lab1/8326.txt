@@ -1,0 +1,7 @@
+Name: Eunhajeonseol Tera
+Type: video.movie
+Episodes: 1
+Episode length: 4260
+Genres: Экшен, Приключения, Фантастика, Космос, 
+Rating limit: PG-13
+Description: Нет описания

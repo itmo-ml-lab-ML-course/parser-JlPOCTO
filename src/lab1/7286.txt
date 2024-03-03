@@ -1,0 +1,7 @@
+Name: Bang Bang Tuan Xiang Qian Chong
+Type: video.tv_show
+Episodes: 50
+Episode length: 780
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

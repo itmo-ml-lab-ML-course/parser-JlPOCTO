@@ -1,0 +1,10 @@
+Name: Getsuyoubi no Tawawa 2
+Type: video.tv_show
+Episodes: 12
+Episode length: 300
+Last episode date release: 2021-12-06
+Genres: Повседневность, Этти, 
+Rating limit: PG-13
+Rating: 6.63
+Rating numbers: 5772
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Cross Fight B-Daman
+Type: video.tv_show
+Episodes: 52
+Episode length: 840
+Last episode date release: 2012-09-30
+Genres: Детское, Игры, 
+Rating limit: G
+Rating: 6.54
+Rating numbers: 352
+Description: Во всём мире среди детей был распространён слух о том, что возобновляются матчи по популярной игре «Би-Дамен». Но только избранной группе участников позволят принять участие в тайных соревнованиях, известных как «Перекрестный бой».

@@ -1,0 +1,7 @@
+Name: Xiao Li yu Hupo
+Type: video.tv_show
+Episodes: 22 / ?
+Episode length: 120
+Genres: Фэнтези, Повседневность, 
+Rating limit: G
+Description: Нет описания

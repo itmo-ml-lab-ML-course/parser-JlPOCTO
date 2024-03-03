@@ -1,0 +1,9 @@
+Name: Dead World
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Ужасы, 
+Rating limit: R-17
+Rating: 3.53
+Rating numbers: 1405
+Description: Нет описания

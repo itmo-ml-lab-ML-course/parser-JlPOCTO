@@ -1,0 +1,10 @@
+Name: Uchi no 3 Shimai
+Type: video.tv_show
+Episodes: 102
+Episode length: 1380
+Last episode date release: 2010-03-30
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Rating: 6.2
+Rating numbers: 252
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Binghuo Mochu 2
+Type: video.tv_show
+Episodes: 72 / ?
+Episode length: 900
+Genres: Экшен, Приключения, Фэнтези, 
+Rating limit: PG-13
+Rating: 7.14
+Rating numbers: 924
+Description: Нет описания

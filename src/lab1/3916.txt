@@ -1,0 +1,10 @@
+Name: Dallyeola Hani
+Type: video.tv_show
+Episodes: 13
+Episode length: 1680
+Last episode date release: 1988-11-20
+Genres: Спорт, 
+Rating limit: G
+Rating: 6.27
+Rating numbers: 261
+Description: Нет описания

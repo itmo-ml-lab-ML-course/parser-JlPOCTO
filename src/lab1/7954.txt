@@ -1,0 +1,7 @@
+Name: Dahua Yueya Chuan
+Type: video.tv_show
+Episodes: 45
+Episode length: 900
+Genres: Комедия, Детское, 
+Rating limit: PG
+Description: Нет описания

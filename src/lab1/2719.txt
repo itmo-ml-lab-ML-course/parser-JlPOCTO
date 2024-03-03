@@ -1,0 +1,9 @@
+Name: Hunter x Hunter Pilot
+Type: video.other
+Episodes: 1
+Episode length: 1500
+Genres: Сёнен, Экшен, Приключения, Супер сила, 
+Rating limit: PG-13
+Rating: 7.21
+Rating numbers: 12901
+Description: Пилотный эпизод, который был показан в рамках Jump Super Anime Tour в 1998 году.

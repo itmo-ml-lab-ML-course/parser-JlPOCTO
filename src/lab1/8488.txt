@@ -1,0 +1,7 @@
+Name: Gakitabi!: Seishun Oshiro-hen
+Type: video.tv_show
+Episodes: 1
+Episode length: 420
+Genres: Исторический, 
+Rating limit: G
+Description: Нет описания

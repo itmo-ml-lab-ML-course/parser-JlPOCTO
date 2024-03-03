@@ -1,0 +1,9 @@
+Name: Gavora
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, Музыка, 
+Rating limit: R+
+Rating: 5.51
+Rating numbers: 197
+Description: Нет описания

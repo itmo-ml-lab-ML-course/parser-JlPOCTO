@@ -1,0 +1,10 @@
+Name: Utawarerumono Recaps
+Type: video.other
+Episodes: 2
+Episode length: 900
+Last episode date release: 2006-12-21
+Genres: Экшен, Драма, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.35
+Rating numbers: 1413
+Description: Краткий пересказ событий аниме-сериала «Прославленный».

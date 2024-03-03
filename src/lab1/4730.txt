@@ -1,0 +1,10 @@
+Name: Asagiri no Miko
+Type: video.tv_show
+Episodes: 26
+Episode length: 720
+Last episode date release: 2002-12-26
+Genres: Экшен, Комедия, Фэнтези, Сэйнэн, 
+Rating limit: PG
+Rating: 6.1
+Rating numbers: 669
+Description: Нет описания

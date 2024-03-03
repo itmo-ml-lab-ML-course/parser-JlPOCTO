@@ -1,0 +1,9 @@
+Name: Tenjin
+Type: video.tv_show
+Episodes: 1
+Episode length: 540
+Genres: Приключения, 
+Rating limit: G
+Rating: 5.9
+Rating numbers: 623
+Description: Нет описания

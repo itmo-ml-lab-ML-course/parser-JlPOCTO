@@ -1,0 +1,9 @@
+Name: Fantastic Cell
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.79
+Rating numbers: 251
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Yume 10 Yoru
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Безумие, 
+Rating limit: R+
+Rating: 3.45
+Rating numbers: 270
+Description: Нет описания

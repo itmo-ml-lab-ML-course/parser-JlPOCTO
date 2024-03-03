@@ -1,0 +1,8 @@
+Name: Harimogu Harry
+Type: video.tv_show
+Episodes: 140
+Episode length: 600
+Last episode date release: 1997-06-27
+Genres: Детское, 
+Rating limit: G
+Description: История о том, как ёжик по имени Гарри и его друзья пошли в школу. Впереди маленьких зверюшек ждёт много приключений и новых открытий.

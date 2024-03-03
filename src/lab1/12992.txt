@@ -1,0 +1,9 @@
+Name: Kashikokimono
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 5.41
+Rating numbers: 188
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Kawawawawawada
+Type: video.other
+Episodes: 1
+Episode length: 120
+Genres: Музыка, 
+Rating limit: G
+Rating: 4.96
+Rating numbers: 144
+Description: Нет описания

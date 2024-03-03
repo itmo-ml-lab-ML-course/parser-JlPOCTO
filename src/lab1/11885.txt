@@ -1,0 +1,9 @@
+Name: Natsu ga Hajimaru.
+Type: video.other
+Episodes: 1
+Episode length: 120
+Genres: Спорт, 
+Rating limit: G
+Rating: 6.47
+Rating numbers: 323
+Description: Нет описания

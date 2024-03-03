@@ -1,0 +1,6 @@
+Name: Dragon Ball Daima
+Type: video.tv_show
+Episodes: 1
+Genres: Экшен, Приключения, Фэнтези, Боевые искусства, Супер сила, Сёнен, 
+Rating limit: PG-13
+Description: Нет описания

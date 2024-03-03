@@ -1,0 +1,6 @@
+Name: Fei Gou Moco
+Type: video.tv_show
+Episodes: 52
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

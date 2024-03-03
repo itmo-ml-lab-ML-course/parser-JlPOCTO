@@ -1,0 +1,7 @@
+Name: Xingfu Lushang (ONA)
+Type: video.tv_show
+Episodes: 10
+Episode length: 360
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: The New Hazzys
+Type: video.other
+Episodes: 1
+Episode length: 60
+Genres: Музыка, 
+Rating limit: G
+Description: Рекламный ролик корейского бренда повседневной одежды Hazzys, принадлежащего LG Group.

@@ -1,0 +1,9 @@
+Name: 2020 Nyeon Ujuui Wonder Kiddy
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Genres: Фантастика, Космос, 
+Rating limit: PG
+Rating: 5.46
+Rating numbers: 216
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Ippun de Wakaru Eiga &quot;Donten ni Warau&quot; Kaisetsu Yokoku
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Исторический, Пародия, 
+Rating limit: G
+Rating: 4.8
+Rating numbers: 699
+Description: Нет описания

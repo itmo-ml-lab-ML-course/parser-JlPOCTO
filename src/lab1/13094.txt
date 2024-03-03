@@ -1,0 +1,9 @@
+Name: Mahou Shoujo Liese Prettia
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: 
+Rating limit: G
+Rating: 5.38
+Rating numbers: 494
+Description: Нет описания

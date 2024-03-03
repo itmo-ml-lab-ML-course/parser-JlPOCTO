@@ -1,0 +1,8 @@
+Name: Xiao Caomao
+Type: video.tv_show
+Episodes: 25
+Episode length: 660
+Last episode date release: 2001-01-01
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

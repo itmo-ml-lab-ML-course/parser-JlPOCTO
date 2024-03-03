@@ -1,0 +1,10 @@
+Name: _Summer
+Type: video.other
+Episodes: 2
+Episode length: 1440
+Last episode date release: 2007-01-26
+Genres: Драма, Романтика, Гарем, 
+Rating limit: PG-13
+Rating: 5.55
+Rating numbers: 662
+Description: Нет описания

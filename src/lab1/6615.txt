@@ -1,0 +1,7 @@
+Name: Wu Yingxiong Bu Lianmeng
+Type: video.tv_show
+Episodes: 12
+Episode length: 420
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Porte
+Type: video.other
+Episodes: 1
+Episode length: 180
+Genres: 
+Rating limit: PG
+Rating: 6.62
+Rating numbers: 1292
+Description: Ограниченный альбом от Кэйны Суды в сотрудничестве с Avogado6. Содержит в себе три анимационных клипа, посвящённых сериалу «Пламенная бригада пожарных» и фильму «Вторая страна».

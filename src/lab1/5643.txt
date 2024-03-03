@@ -1,0 +1,7 @@
+Name: Si Lu Chuanqi Teshi Zhangqian
+Type: video.tv_show
+Episodes: 52
+Episode length: 1140
+Genres: Исторический, Детское, 
+Rating limit: PG
+Description: Нет описания

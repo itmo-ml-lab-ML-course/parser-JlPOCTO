@@ -1,0 +1,9 @@
+Name: From Osaka with Cheer!
+Type: video.tv_show
+Episodes: 4
+Episode length: 240
+Genres: Повседневность, 
+Rating limit: G
+Rating: 5.06
+Rating numbers: 152
+Description: Нет описания

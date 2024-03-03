@@ -1,0 +1,9 @@
+Name: Pokemon Masters: Trainers Great Gathering Special Animation
+Type: video.tv_show
+Episodes: 1
+Episode length: 240
+Genres: Детское, Экшен, Фэнтези, Игры, 
+Rating limit: PG
+Rating: 6.24
+Rating numbers: 516
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Maze Maze Wien
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, 
+Rating limit: G
+Description: Нет описания

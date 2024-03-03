@@ -1,0 +1,7 @@
+Name: Shuugou no Kangae
+Type: video.movie
+Episodes: 1
+Episode length: 1200
+Genres: Детское, Безумие, 
+Rating limit: G
+Description: Образовательный фильм об абстрактном мышлении.

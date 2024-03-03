@@ -1,0 +1,9 @@
+Name: Sugio: Mori de Koi wo Shite
+Type: video.tv_show
+Episodes: 3
+Episode length: 240
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.41
+Rating numbers: 191
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Sakura no Ondo
+Type: video.movie
+Episodes: 1
+Episode length: 1260
+Genres: Драма, 
+Rating limit: PG-13
+Description: Нет описания

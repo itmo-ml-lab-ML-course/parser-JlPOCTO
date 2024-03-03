@@ -1,0 +1,9 @@
+Name: Xian Ni
+Type: video.tv_show
+Episodes: 18 / 24
+Episode length: 1200
+Genres: Экшен, Приключения, Фэнтези, Исторический, 
+Rating limit: PG-13
+Rating: 7.35
+Rating numbers: 1157
+Description: Нет описания

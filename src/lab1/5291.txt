@@ -1,0 +1,9 @@
+Name: Koutsuu Anzen da yo Doraemon
+Type: video.movie
+Episodes: 2
+Episode length: 780
+Genres: Детское, Фантастика, 
+Rating limit: G
+Rating: 5.99
+Rating numbers: 209
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Xiao Xiao Lushi
+Type: video.tv_show
+Episodes: 100
+Episode length: 360
+Genres: Школа, Детское, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: No Guns Life Mini
+Type: video.tv_show
+Episodes: 34
+Episode length: 60
+Last episode date release: 2020-09-30
+Genres: Комедия, Фантастика, 
+Rating limit: PG-13
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Shenyi Jiu Xiaojie
+Type: video.tv_show
+Episodes: 60
+Episode length: 600
+Last episode date release: 2022-06-14
+Genres: Фэнтези, Романтика, 
+Rating limit: PG-13
+Rating: 6.56
+Rating numbers: 830
+Description: Нет описания

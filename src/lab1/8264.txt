@@ -1,0 +1,7 @@
+Name: Duo Bao Yijia Ren: Zhihui Lunyu
+Type: video.tv_show
+Episodes: 28
+Episode length: 420
+Genres: Комедия, Детское, 
+Rating limit: G
+Description: Нет описания

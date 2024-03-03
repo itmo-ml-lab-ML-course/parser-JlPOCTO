@@ -1,0 +1,10 @@
+Name: Little Lulu to Chicchai Nakama
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 1977-04-03
+Genres: Детское, Комедия, Повседневность, 
+Rating limit: G
+Rating: 6.44
+Rating numbers: 261
+Description: Нет описания

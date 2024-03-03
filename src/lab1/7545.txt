@@ -1,0 +1,6 @@
+Name: Ca&#39; Foscari Cinema
+Type: video.movie
+Episodes: 1
+Genres: Безумие, 
+Rating limit: R+
+Description: Нет описания

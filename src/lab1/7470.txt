@@ -1,0 +1,7 @@
+Name: Bonobono (TV) Specials
+Type: video.other
+Episodes: 9
+Last episode date release: 1998-12-23
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

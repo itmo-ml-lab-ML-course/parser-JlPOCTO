@@ -1,0 +1,9 @@
+Name: Yasashii Lion
+Type: video.movie
+Episodes: 1
+Episode length: 1620
+Genres: Детское, Фэнтези, Музыка, 
+Rating limit: G
+Rating: 5.46
+Rating numbers: 252
+Description: Нет описания

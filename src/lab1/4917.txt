@@ -1,0 +1,9 @@
+Name: Jib
+Type: video.movie
+Episodes: 1
+Episode length: 4740
+Genres: Детское, Драма, Фэнтези, 
+Rating limit: G
+Rating: 6.07
+Rating numbers: 251
+Description: Нет описания

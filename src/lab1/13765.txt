@@ -1,0 +1,9 @@
+Name: Drawing!!
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 5.06
+Rating numbers: 113
+Description: Нет описания

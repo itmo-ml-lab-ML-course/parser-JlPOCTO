@@ -1,0 +1,7 @@
+Name: Tunshu Zhen Huwai Anquan Ji Zijiu Zi Hu Xilie
+Type: video.tv_show
+Episodes: 75
+Episode length: 720
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

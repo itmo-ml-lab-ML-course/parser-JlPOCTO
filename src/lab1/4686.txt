@@ -1,0 +1,9 @@
+Name: Kidou Senshi SD Gundam Mk-II
+Type: video.other
+Episodes: 3
+Episode length: 600
+Genres: Комедия, Фантастика, Меха, Пародия, 
+Rating limit: PG-13
+Rating: 6.11
+Rating numbers: 1213
+Description: Нет описания

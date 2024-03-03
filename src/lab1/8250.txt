@@ -1,0 +1,8 @@
+Name: Duel Masters Win
+Type: video.tv_show
+Episodes: 29
+Episode length: 1500
+Last episode date release: 2023-03-26
+Genres: Экшен, Приключения, Комедия, Фэнтези, Детское, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Star Driver the Movie
+Type: video.movie
+Episodes: 1
+Episode length: 9000
+Genres: Экшен, Романтика, Фантастика, Меха, Школа, 
+Rating limit: PG-13
+Rating: 6.62
+Rating numbers: 1869
+Description: Нет описания

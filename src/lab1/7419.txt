@@ -1,0 +1,7 @@
+Name: Bingxue Zhi Yue
+Type: video.tv_show
+Episodes: 10
+Episode length: 60
+Genres: Спорт, 
+Rating limit: G
+Description: Нет описания

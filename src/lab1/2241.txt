@@ -1,0 +1,9 @@
+Name: Initial D Extra Stage
+Type: video.other
+Episodes: 2
+Episode length: 1620
+Genres: Экшен, Драма, Сэйнэн, 
+Rating limit: R+
+Rating: 7.31
+Rating numbers: 10264
+Description: Команда Emperor победила все гоночные команды в регионе Гумма и теперь бросает вызов Мако и Саюки — лучшим гонщицам на горе Усуй.

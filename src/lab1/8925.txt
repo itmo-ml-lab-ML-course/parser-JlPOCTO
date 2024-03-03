@@ -1,0 +1,7 @@
+Name: Hero Inside
+Type: video.tv_show
+Episodes: 1
+Episode length: 780
+Genres: Экшен, Приключения, Супер сила, 
+Rating limit: PG-13
+Description: Нет описания

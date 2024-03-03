@@ -1,0 +1,10 @@
+Name: Uchuu no Kishi Tekkaman
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 1975-12-24
+Genres: Сёнен, Экшен, Приключения, Фантастика, Меха, Космос, 
+Rating limit: G
+Rating: 6.2
+Rating numbers: 603
+Description: Нет описания

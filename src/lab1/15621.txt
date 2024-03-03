@@ -1,0 +1,8 @@
+Name: Qiaohu Tansuo Qimiao Shijie
+Type: video.tv_show
+Episodes: 40
+Episode length: 480
+Last episode date release: 2020-01-01
+Genres: Приключения, Комедия, Фэнтези, Детское, 
+Rating limit: G
+Description: Нет описания

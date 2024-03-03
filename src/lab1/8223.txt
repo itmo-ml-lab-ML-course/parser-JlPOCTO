@@ -1,0 +1,7 @@
+Name: Du Dang Man 2nd Season
+Type: video.tv_show
+Episodes: 24
+Episode length: 780
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

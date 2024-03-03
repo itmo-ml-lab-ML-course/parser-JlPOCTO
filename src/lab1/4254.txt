@@ -1,0 +1,9 @@
+Name: Miss Monochrome The Animation: Soccer-hen
+Type: video.tv_show
+Episodes: 1
+Episode length: 240
+Genres: Комедия, Повседневность, Спорт, 
+Rating limit: G
+Rating: 6.2
+Rating numbers: 1479
+Description: Нет описания

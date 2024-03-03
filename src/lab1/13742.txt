@@ -1,0 +1,9 @@
+Name: Mario Kirby Meisaku Video
+Type: video.other
+Episodes: 1
+Episode length: 1080
+Genres: Детское, Приключения, Фэнтези, 
+Rating limit: PG
+Rating: 5.07
+Rating numbers: 139
+Description: Нет описания

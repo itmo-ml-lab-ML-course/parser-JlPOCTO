@@ -1,0 +1,7 @@
+Name: Daruma-chan
+Type: video.other
+Episodes: 6
+Episode length: 840
+Genres: Детское, Сверхъестественное, 
+Rating limit: G
+Description: Нет описания

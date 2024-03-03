@@ -1,0 +1,7 @@
+Name: Mao Cun Kuangxiangu
+Type: video.tv_show
+Episodes: 13
+Episode length: 1320
+Genres: Детское, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

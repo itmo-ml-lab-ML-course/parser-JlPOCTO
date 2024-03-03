@@ -1,0 +1,8 @@
+Name: 001
+Type: video.tv_show
+Episodes: 1
+Genres: Комедия, 
+Rating limit: G
+Rating: 3.35
+Rating numbers: 504
+Description: Короткометражный анимационный мультфильм от Масаки Окуды.

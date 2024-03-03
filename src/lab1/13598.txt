@@ -1,0 +1,10 @@
+Name: Hulaing Babies Aratame: Staying Babies
+Type: video.tv_show
+Episodes: 4
+Episode length: 300
+Last episode date release: 2020-07-15
+Genres: Комедия, Повседневность, 
+Rating limit: PG-13
+Rating: 5.16
+Rating numbers: 292
+Description: Нет описания

@@ -1,0 +1,6 @@
+Name: Garandou no Taiko
+Type: video.movie
+Episodes: 1
+Genres: Экшен, 
+Rating limit: G
+Description: Нет описания

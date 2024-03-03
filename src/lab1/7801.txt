@@ -1,0 +1,7 @@
+Name: Chuangyi Hao Shaonian
+Type: video.tv_show
+Episodes: 200
+Episode length: 480
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

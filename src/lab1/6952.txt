@@ -1,0 +1,7 @@
+Name: Xin Didao Zhan
+Type: video.movie
+Episodes: 1
+Episode length: 5220
+Genres: Приключения, Исторический, Военное, Детское, 
+Rating limit: G
+Description: Нет описания

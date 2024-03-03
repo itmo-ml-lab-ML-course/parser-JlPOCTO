@@ -1,0 +1,8 @@
+Name: Naughty Nuts
+Type: video.tv_show
+Episodes: 26
+Episode length: 660
+Last episode date release: 2017-05-23
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

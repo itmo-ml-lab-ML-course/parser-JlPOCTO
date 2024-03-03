@@ -1,0 +1,9 @@
+Name: Nezumi no Rusuban
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: Экшен, 
+Rating limit: G
+Rating: 4.46
+Rating numbers: 317
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: GA: Geijutsuka Art Design Class
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2009-09-22
+Genres: Комедия, Повседневность, Школа, 
+Rating limit: PG-13
+Rating: 7.14
+Rating numbers: 1840
+Description: Это простые истории из жизни художественной школы. Её героями станут пять девочек, которые только поступили в это учебное заведение.

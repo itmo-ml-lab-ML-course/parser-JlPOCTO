@@ -1,0 +1,8 @@
+Name: Safari Bus Tayo
+Type: video.tv_show
+Episodes: 8
+Episode length: 480
+Last episode date release: 2022-07-20
+Genres: Экшен, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Youjo Senki: Senkyou Houkoku
+Type: video.other
+Episodes: 1
+Episode length: 1380
+Genres: Экшен, Фэнтези, Военное, 
+Rating limit: R-17
+Rating: 6.67
+Rating numbers: 10385
+Description: Краткий пересказ первых 6 эпизодов аниме «Военная хроника маленькой девочки».

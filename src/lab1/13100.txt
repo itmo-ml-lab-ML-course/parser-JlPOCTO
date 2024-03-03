@@ -1,0 +1,9 @@
+Name: Kappa no Ude
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 5.37
+Rating numbers: 142
+Description: Короткометражный фильм от Рё Хирано.

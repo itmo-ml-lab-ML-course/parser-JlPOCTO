@@ -1,0 +1,10 @@
+Name: Hanabi-chan wa Okuregachi
+Type: video.tv_show
+Episodes: 12
+Episode length: 240
+Last episode date release: 2022-09-25
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.13
+Rating numbers: 962
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Ultrasonico
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Пародия, Супер сила, 
+Rating limit: G
+Rating: 4.99
+Rating numbers: 985
+Description: Нет описания

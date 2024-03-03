@@ -1,0 +1,9 @@
+Name: Sorette♡Dakara ne!
+Type: video.tv_show
+Episodes: 1
+Episode length: 480
+Genres: Повседневность, 
+Rating limit: PG-13
+Rating: 4.9
+Rating numbers: 480
+Description: Нет описания

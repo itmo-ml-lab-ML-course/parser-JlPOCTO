@@ -1,0 +1,10 @@
+Name: Tetsuwan Atom (1980)
+Type: video.tv_show
+Episodes: 52
+Episode length: 1440
+Last episode date release: 1981-12-23
+Genres: Сёнен, Экшен, Приключения, Фантастика, Меха, 
+Rating limit: G
+Rating: 7.16
+Rating numbers: 1246
+Description: Цветной ремейк оригинального сериала «Могучий Атом» 1963 года.

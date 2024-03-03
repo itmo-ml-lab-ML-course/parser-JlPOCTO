@@ -1,0 +1,8 @@
+Name: Yattokame Tanteidan
+Type: video.tv_show
+Episodes: 14
+Episode length: 1200
+Last episode date release: 2008-01-06
+Genres: Детское, Детектив, Повседневность, 
+Rating limit: G
+Description: Нет описания

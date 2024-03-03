@@ -1,0 +1,9 @@
+Name: Pokemon Dai Koushin!
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Фэнтези, Музыка, Детское, 
+Rating limit: PG
+Rating: 5.24
+Rating numbers: 404
+Description: Нет описания

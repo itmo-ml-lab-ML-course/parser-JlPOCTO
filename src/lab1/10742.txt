@@ -1,0 +1,10 @@
+Name: Magic Knight Rayearth II
+Type: video.tv_show
+Episodes: 29
+Episode length: 1440
+Last episode date release: 1995-11-27
+Genres: Сёдзё, Приключения, Драма, Фэнтези, Романтика, Меха, 
+Rating limit: PG-13
+Rating: 7.51
+Rating numbers: 1857
+Description: Нет описания

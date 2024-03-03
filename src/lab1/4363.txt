@@ -1,0 +1,9 @@
+Name: Detarame na Sekai no Melodrama
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Драма, 
+Rating limit: PG-13
+Rating: 6.18
+Rating numbers: 890
+Description: Нет описания

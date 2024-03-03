@@ -1,0 +1,8 @@
+Name: Uniminipet
+Type: video.tv_show
+Episodes: 26
+Episode length: 1200
+Last episode date release: 2001-12-07
+Genres: Приключения, Фэнтези, 
+Rating limit: G
+Description: Нет описания

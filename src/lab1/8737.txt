@@ -1,0 +1,7 @@
+Name: Hage
+Type: video.other
+Episodes: 1
+Episode length: 960
+Genres: Детское, Драма, Школа, 
+Rating limit: G
+Description: Учебный фильм о преждевременном облысении. В частности, направлен на лысеющих детей.

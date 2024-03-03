@@ -1,0 +1,7 @@
+Name: Muumin Pilot Film
+Type: video.other
+Episodes: 1
+Episode length: 120
+Genres: Фэнтези, 
+Rating limit: G
+Description: Нет описания

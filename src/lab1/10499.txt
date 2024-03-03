@@ -1,0 +1,9 @@
+Name: COLORs
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Драма, 
+Rating limit: PG-13
+Rating: 7.58
+Rating numbers: 2523
+Description: Нет описания

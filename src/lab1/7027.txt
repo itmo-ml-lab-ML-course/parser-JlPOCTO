@@ -1,0 +1,8 @@
+Name: Xingji Biaoche Wang
+Type: video.tv_show
+Episodes: 52
+Episode length: 1320
+Last episode date release: 2006-06-01
+Genres: Экшен, Приключения, 
+Rating limit: G
+Description: Нет описания

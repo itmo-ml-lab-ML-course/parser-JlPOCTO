@@ -1,0 +1,10 @@
+Name: Jikuu Tenshou Nazca
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 1998-06-29
+Genres: Экшен, Приключения, Драма, Фэнтези, 
+Rating limit: PG-13
+Rating: 5.51
+Rating numbers: 748
+Description: Нет описания

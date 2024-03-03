@@ -1,0 +1,6 @@
+Name: Rescue Tayo
+Type: video.tv_show
+Episodes: 10
+Episode length: 120
+Genres: Детское, 
+Description: Нет описания

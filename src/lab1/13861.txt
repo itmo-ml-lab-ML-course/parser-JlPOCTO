@@ -1,0 +1,10 @@
+Name: Oshiri Kajiri Mushi (TV)
+Type: video.tv_show
+Episodes: 20
+Episode length: 300
+Last episode date release: 2013-02-24
+Genres: Детское, Комедия, 
+Rating limit: G
+Rating: 5.0
+Rating numbers: 311
+Description: Нет описания

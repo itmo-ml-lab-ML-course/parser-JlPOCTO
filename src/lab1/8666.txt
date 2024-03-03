@@ -1,0 +1,7 @@
+Name: Guai Zai
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Фэнтези, Ужасы, 
+Rating limit: PG-13
+Description: Нет описания

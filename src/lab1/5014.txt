@@ -1,0 +1,10 @@
+Name: Bouken Shounen Shadar
+Type: video.tv_show
+Episodes: 156
+Episode length: 600
+Last episode date release: 1968-03-16
+Genres: Приключения, Ужасы, 
+Rating limit: PG-13
+Rating: 6.05
+Rating numbers: 261
+Description: Нет описания

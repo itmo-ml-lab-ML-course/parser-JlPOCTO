@@ -1,0 +1,9 @@
+Name: Dallos Special
+Type: video.other
+Episodes: 1
+Episode length: 5340
+Genres: Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 5.37
+Rating numbers: 448
+Description: Нет описания

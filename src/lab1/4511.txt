@@ -1,0 +1,9 @@
+Name: Xi Avant
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Приключения, Фантастика, 
+Rating limit: PG-13
+Rating: 6.16
+Rating numbers: 1047
+Description: Нет описания

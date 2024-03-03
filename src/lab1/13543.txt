@@ -1,0 +1,9 @@
+Name: Tarzan
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Безумие, 
+Rating limit: G
+Rating: 5.18
+Rating numbers: 224
+Description: Нет описания

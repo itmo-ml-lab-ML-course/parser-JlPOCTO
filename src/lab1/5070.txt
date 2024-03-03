@@ -1,0 +1,10 @@
+Name: Manga Nippon Mukashibanashi
+Type: video.tv_show
+Episodes: 12
+Episode length: 1500
+Last episode date release: 1975-03-25
+Genres: Исторический, 
+Rating limit: G
+Rating: 6.04
+Rating numbers: 297
+Description: Нет описания

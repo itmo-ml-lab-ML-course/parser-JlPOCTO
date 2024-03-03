@@ -1,0 +1,7 @@
+Name: Crayon Shin-chan Planetarium-ban: Hoshizora to Gakkou no Nana Fushigi da zo!
+Type: video.movie
+Episodes: 1
+Episode length: 1500
+Genres: Комедия, Ужасы, Фантастика, Школа, Космос, 
+Rating limit: G
+Description: Нет описания

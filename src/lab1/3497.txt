@@ -1,0 +1,9 @@
+Name: Keroro Gunsou Movie 5: Tanjou! Kyuukyoku Keroro, Kiseki no Jikuu-jima, de Arimasu!!
+Type: video.movie
+Episodes: 1
+Episode length: 4440
+Genres: Комедия, 
+Rating limit: PG
+Rating: 7.05
+Rating numbers: 364
+Description: Нет описания

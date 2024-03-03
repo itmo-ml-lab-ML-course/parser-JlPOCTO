@@ -1,0 +1,10 @@
+Name: Toushi Gordian
+Type: video.tv_show
+Episodes: 73
+Episode length: 1500
+Last episode date release: 1981-02-22
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: G
+Rating: 6.43
+Rating numbers: 271
+Description: Нет описания

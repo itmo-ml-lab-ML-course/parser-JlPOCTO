@@ -1,0 +1,9 @@
+Name: Cinnamon the Movie
+Type: video.movie
+Episodes: 1
+Episode length: 2700
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 6.55
+Rating numbers: 448
+Description: Нет описания

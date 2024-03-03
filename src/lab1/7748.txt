@@ -1,0 +1,7 @@
+Name: Chikyuu wo Mitsumete
+Type: video.movie
+Episodes: 1
+Episode length: 1800
+Genres: Фантастика, Космос, 
+Rating limit: G
+Description: Нет описания

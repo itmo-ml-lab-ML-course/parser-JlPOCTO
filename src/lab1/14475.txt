@@ -1,0 +1,7 @@
+Name: Marude Dameo
+Type: video.tv_show
+Episodes: 47
+Episode length: 1500
+Last episode date release: 1992-09-26
+Genres: Сёнен, Комедия, Фантастика, 
+Description: Нет описания

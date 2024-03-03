@@ -1,0 +1,8 @@
+Name: Doubutsu Sumo Taikai
+Type: video.movie
+Episodes: 1
+Genres: Экшен, 
+Rating limit: G
+Rating: 4.65
+Rating numbers: 340
+Description: Короткометражный фильм 1931 года, показывающий поединки сумо среди зверей.

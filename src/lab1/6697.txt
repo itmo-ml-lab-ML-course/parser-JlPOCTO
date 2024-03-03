@@ -1,0 +1,7 @@
+Name: Xianggu Teqin Dui: Ni Xi Xianggu Zhen
+Type: video.tv_show
+Episodes: 42
+Episode length: 780
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Eomma Katuri
+Type: video.movie
+Episodes: 1
+Episode length: 1680
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

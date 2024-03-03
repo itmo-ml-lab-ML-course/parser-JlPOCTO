@@ -1,0 +1,10 @@
+Name: Kikou Keisatsu Metal Jack
+Type: video.tv_show
+Episodes: 37
+Episode length: 1320
+Last episode date release: 1991-12-23
+Genres: Экшен, Фантастика, Меха, Полиция, 
+Rating limit: PG-13
+Rating: 6.42
+Rating numbers: 266
+Description: Нет описания

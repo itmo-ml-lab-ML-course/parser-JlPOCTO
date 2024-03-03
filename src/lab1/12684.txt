@@ -1,0 +1,9 @@
+Name: Pokemon-tachi to Asobou!
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Детское, 
+Rating limit: PG
+Rating: 5.52
+Rating numbers: 527
+Description: Нет описания

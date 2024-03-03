@@ -1,0 +1,7 @@
+Name: Poo Poo Kids
+Type: video.tv_show
+Episodes: 13
+Episode length: 60
+Genres: Комедия, 
+Rating limit: PG
+Description: Нет описания

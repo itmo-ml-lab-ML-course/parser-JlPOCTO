@@ -1,0 +1,7 @@
+Name: Xingguang Jiazu
+Type: video.tv_show
+Episodes: 32
+Episode length: 660
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

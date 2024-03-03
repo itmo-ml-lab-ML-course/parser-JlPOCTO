@@ -1,0 +1,7 @@
+Name: Shi Er Xing Hun: Zhanshi Di Juexing
+Type: video.tv_show
+Episodes: 52
+Episode length: 780
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

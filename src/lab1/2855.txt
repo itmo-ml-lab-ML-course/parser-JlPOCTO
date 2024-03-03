@@ -1,0 +1,10 @@
+Name: Kagejitsu! Second
+Type: video.tv_show
+Episodes: 12
+Episode length: 120
+Last episode date release: 2023-12-20
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 7.18
+Rating numbers: 1905
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Tokyo Art Month
+Type: video.tv_show
+Episodes: 1
+Genres: Безумие, 
+Rating limit: G
+Rating: 5.12
+Rating numbers: 176
+Description: Нет описания

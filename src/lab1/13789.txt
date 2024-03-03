@@ -1,0 +1,9 @@
+Name: Picotopia
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Безумие, Фэнтези, Музыка, 
+Rating limit: G
+Rating: 5.05
+Rating numbers: 400
+Description: Нет описания

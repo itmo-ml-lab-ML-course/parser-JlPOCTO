@@ -1,0 +1,10 @@
+Name: Hentatsu (TV)
+Type: video.tv_show
+Episodes: 12
+Episode length: 60
+Last episode date release: 2020-03-21
+Genres: Приключения, Детектив, 
+Rating limit: G
+Rating: 5.09
+Rating numbers: 1537
+Description: Нет описания

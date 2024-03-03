@@ -1,0 +1,8 @@
+Name: Mouretsu Atarou
+Type: video.tv_show
+Episodes: 90
+Episode length: 1500
+Last episode date release: 1970-12-25
+Genres: Детское, Комедия, Повседневность, 
+Rating limit: G
+Description: Нет описания

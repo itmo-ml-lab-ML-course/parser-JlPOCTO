@@ -1,0 +1,7 @@
+Name: Cobo Xiong
+Type: video.tv_show
+Episodes: 22
+Episode length: 300
+Genres: Комедия, Детское, 
+Rating limit: PG
+Description: Нет описания

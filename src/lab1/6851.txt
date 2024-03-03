@@ -1,0 +1,7 @@
+Name: Xiao Yi Shikong Chuan
+Type: video.tv_show
+Episodes: 52
+Episode length: 900
+Genres: Детское, Приключения, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Fast Week
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Безумие, 
+Rating limit: PG-13
+Rating: 5.23
+Rating numbers: 164
+Description: Нет описания

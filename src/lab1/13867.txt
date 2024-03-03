@@ -1,0 +1,10 @@
+Name: Funny Pets
+Type: video.tv_show
+Episodes: 12
+Episode length: 360
+Last episode date release: 2006-03-29
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 4.99
+Rating numbers: 246
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Hokkyokuguma Suggoku Hima
+Type: video.movie
+Episodes: 1
+Episode length: 420
+Genres: 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Yume ga Shagandeiru
+Type: video.movie
+Episodes: 4
+Episode length: 420
+Genres: Безумие, 
+Rating limit: G
+Rating: 5.32
+Rating numbers: 256
+Description: Нет описания

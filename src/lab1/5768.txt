@@ -1,0 +1,7 @@
+Name: Sore Shikanai Wakenai deshou
+Type: video.tv_show
+Episodes: 1
+Episode length: 540
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

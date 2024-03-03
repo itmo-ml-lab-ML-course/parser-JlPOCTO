@@ -1,0 +1,7 @@
+Name: Sumikko Gurashi Movie 3: Tsugihagi Koujou no Fushigi na Ko
+Type: video.movie
+Episodes: 1
+Episode length: 4800
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,6 @@
+Name: Blow Up 2
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Безумие, 
+Description: Нет описания

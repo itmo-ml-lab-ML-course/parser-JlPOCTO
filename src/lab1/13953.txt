@@ -1,0 +1,9 @@
+Name: Kojin Toshi
+Type: video.movie
+Episodes: 1
+Episode length: 1380
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.91
+Rating numbers: 297
+Description: Нет описания

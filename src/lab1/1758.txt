@@ -1,0 +1,10 @@
+Name: Gintama: Monster Strike-hen
+Type: video.tv_show
+Episodes: 2
+Episode length: 660
+Last episode date release: 2019-09-04
+Genres: Экшен, Комедия, Пародия, Самураи, 
+Rating limit: PG-13
+Rating: 7.5
+Rating numbers: 3782
+Description: Особая коллаборация между аниме-сериалами «Гинтама» и «Удар монстра».

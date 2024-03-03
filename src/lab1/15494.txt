@@ -1,0 +1,7 @@
+Name: Pon-chan no Ichinichi
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Фантастика, Повседневность, 
+Rating limit: G
+Description: Нет описания

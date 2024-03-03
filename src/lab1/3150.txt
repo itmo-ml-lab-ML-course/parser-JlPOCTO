@@ -1,0 +1,9 @@
+Name: Nanatsu no Taizai Movie 2: Hikari ni Norowareshi Mono-tachi
+Type: video.movie
+Episodes: 1
+Episode length: 4740
+Genres: Экшен, Приключения, Фэнтези, Сёнен, 
+Rating limit: PG-13
+Rating: 7.13
+Rating numbers: 14434
+Description: Нет описания

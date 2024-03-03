@@ -1,0 +1,7 @@
+Name: Oshiri Tantei Movie 1: Curry Naru Jiken
+Type: video.movie
+Episodes: 1
+Episode length: 1740
+Genres: Детское, Комедия, Фэнтези, Детектив, 
+Rating limit: PG
+Description: Нет описания

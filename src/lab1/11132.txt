@@ -1,0 +1,10 @@
+Name: Happy☆Lesson (TV)
+Type: video.tv_show
+Episodes: 13
+Episode length: 1380
+Last episode date release: 2002-06-30
+Genres: Комедия, Драма, Романтика, Гарем, 
+Rating limit: PG-13
+Rating: 6.61
+Rating numbers: 1884
+Description: Хитосе Читосе был всегда одиноким и недоверчивым к людям, но все меняется, когда появляются 5 учительниц, которые как его мамы начинают жить в его доме вместе с его 2 сестрами. И теперь каждый день для него - это урок.

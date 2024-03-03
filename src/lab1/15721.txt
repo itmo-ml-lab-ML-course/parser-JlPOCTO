@@ -1,0 +1,7 @@
+Name: Recycle Zoo
+Type: video.movie
+Episodes: 1
+Episode length: 660
+Genres: Приключения, Комедия, Детское, 
+Rating limit: G
+Description: Нет описания

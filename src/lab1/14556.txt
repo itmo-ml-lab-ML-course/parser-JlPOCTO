@@ -1,0 +1,7 @@
+Name: Mekakure
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Безумие, Ужасы, Триллер, Психологическое, 
+Rating limit: R-17
+Description: Нет описания

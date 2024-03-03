@@ -1,0 +1,10 @@
+Name: Gundam Build Divers
+Type: video.tv_show
+Episodes: 25
+Episode length: 1440
+Last episode date release: 2018-09-25
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: G
+Rating: 6.3
+Rating numbers: 2371
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Tonde Mon Pe
+Type: video.tv_show
+Episodes: 42
+Episode length: 1380
+Last episode date release: 1983-04-02
+Genres: Сверхъестественное, Детское, 
+Rating limit: G
+Description: Нет описания

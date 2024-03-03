@@ -1,0 +1,7 @@
+Name: San Zhi Xiao Zhu Yu Shen Deng
+Type: video.movie
+Episodes: 1
+Episode length: 4800
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

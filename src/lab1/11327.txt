@@ -1,0 +1,10 @@
+Name: Princess Tutu Recaps
+Type: video.other
+Episodes: 3
+Episode length: 660
+Last episode date release: 2003-05-16
+Genres: Комедия, Романтика, 
+Rating limit: PG-13
+Rating: 6.57
+Rating numbers: 936
+Description: Краткий пересказ событий аниме-сериала «Принцесса Тютю».

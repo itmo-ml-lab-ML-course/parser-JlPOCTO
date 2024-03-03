@@ -1,0 +1,7 @@
+Name: Guai Laotou Er
+Type: video.tv_show
+Episodes: 4
+Episode length: 1200
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Iwaki Meisei Daigaku
+Type: video.tv_show
+Episodes: 3
+Episode length: 60
+Last episode date release: 2016-10-30
+Genres: Повседневность, Школа, 
+Rating limit: G
+Rating: 5.47
+Rating numbers: 191
+Description: Нет описания

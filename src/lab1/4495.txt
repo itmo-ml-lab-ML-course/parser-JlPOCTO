@@ -1,0 +1,10 @@
+Name: Anime Oyako Gekijou
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Last episode date release: 1982-03-29
+Genres: Детское, Приключения, Фэнтези, Фантастика, Исторический, 
+Rating limit: G
+Rating: 6.15
+Rating numbers: 544
+Description: Нет описания

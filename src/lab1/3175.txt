@@ -1,0 +1,9 @@
+Name: Ensemble Stars!! Road to Show!!
+Type: video.movie
+Episodes: 1
+Episode length: 4320
+Genres: Музыка, 
+Rating limit: PG-13
+Rating: 7.14
+Rating numbers: 1240
+Description: Нет описания

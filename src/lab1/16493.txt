@@ -1,0 +1,5 @@
+Name: Henjin no Salad Bowl
+Type: video.tv_show
+Episodes: 1
+Genres: Комедия, Сверхъестественное, 
+Description: Нет описания

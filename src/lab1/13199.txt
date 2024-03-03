@@ -1,0 +1,9 @@
+Name: Nulu-chan to Boku
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Комедия, Фэнтези, 
+Rating limit: G
+Rating: 5.34
+Rating numbers: 184
+Description: Нет описания

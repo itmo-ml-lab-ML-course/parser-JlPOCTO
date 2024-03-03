@@ -1,0 +1,5 @@
+Name: Di Kang
+Type: video.movie
+Episodes: 1
+Genres: Исторический, 
+Description: Нет описания

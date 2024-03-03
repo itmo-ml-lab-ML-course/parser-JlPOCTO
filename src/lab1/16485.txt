@@ -1,0 +1,6 @@
+Name: Natsume Yuujinchou Shichi
+Type: video.tv_show
+Episodes: 1
+Genres: Драма, Повседневность, Сверхъестественное, Сёдзё, 
+Rating limit: PG-13
+Description: Нет описания

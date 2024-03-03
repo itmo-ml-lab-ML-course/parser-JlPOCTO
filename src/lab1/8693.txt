@@ -1,0 +1,7 @@
+Name: Guli Guli
+Type: video.tv_show
+Episodes: 122
+Episode length: 120
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

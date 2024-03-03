@@ -1,0 +1,7 @@
+Name: Q-Borg
+Type: video.tv_show
+Episodes: 52
+Episode length: 1440
+Genres: Детское, Экшен, Фантастика, Спорт, Игры, 
+Rating limit: PG-13
+Description: Нет описания

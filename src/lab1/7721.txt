@@ -1,0 +1,8 @@
+Name: Chibinacs
+Type: video.tv_show
+Episodes: 25
+Episode length: 180
+Last episode date release: 2006-09-28
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

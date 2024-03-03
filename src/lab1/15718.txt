@@ -1,0 +1,6 @@
+Name: Rasen Meikyuu
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Безумие, Музыка, 
+Description: Нет описания

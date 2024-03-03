@@ -1,0 +1,10 @@
+Name: Chousoku Spinner
+Type: video.tv_show
+Episodes: 22
+Episode length: 1380
+Last episode date release: 1999-09-10
+Genres: Сёнен, Спорт, 
+Rating limit: G
+Rating: 6.63
+Rating numbers: 350
+Description: Нет описания

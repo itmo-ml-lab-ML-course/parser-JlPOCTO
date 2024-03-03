@@ -1,0 +1,9 @@
+Name: Eevee to Colorful Friends
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Повседневность, 
+Rating limit: G
+Rating: 6.15
+Rating numbers: 1888
+Description: Короткометражная анимация, продвигающая новую линейку товаров с Иви, в которой кратко расскажут о его характеристиках и эволюциях.

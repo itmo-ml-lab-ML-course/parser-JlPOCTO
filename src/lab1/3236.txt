@@ -1,0 +1,10 @@
+Name: Minami no Niji no Lucy
+Type: video.tv_show
+Episodes: 50
+Episode length: 1500
+Last episode date release: 1982-12-26
+Genres: Приключения, Драма, Повседневность, 
+Rating limit: G
+Rating: 7.11
+Rating numbers: 496
+Description: Нет описания

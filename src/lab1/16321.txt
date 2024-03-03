@@ -1,0 +1,6 @@
+Name: Wu Di de Zuqiu
+Type: video.tv_show
+Episodes: 1
+Genres: Спорт, 
+Rating limit: PG-13
+Description: Нет описания

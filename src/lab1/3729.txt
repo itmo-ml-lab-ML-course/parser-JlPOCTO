@@ -1,0 +1,9 @@
+Name: Lupin III: Pilot Film (1978)
+Type: video.movie
+Episodes: 1
+Episode length: 720
+Genres: Сэйнэн, Экшен, Приключения, Комедия, Детектив, 
+Rating limit: R+
+Rating: 6.3
+Rating numbers: 2017
+Description: Нет описания

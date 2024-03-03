@@ -1,0 +1,9 @@
+Name: The Third Eye
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, 
+Rating limit: R+
+Rating: 5.3
+Rating numbers: 169
+Description: Нет описания

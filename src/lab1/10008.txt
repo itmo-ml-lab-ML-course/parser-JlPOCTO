@@ -1,0 +1,9 @@
+Name: Seitokai Yakuindomo Movie 2
+Type: video.movie
+Episodes: 1
+Episode length: 4680
+Genres: Сёнен, Комедия, Школа, 
+Rating limit: R-17
+Rating: 7.78
+Rating numbers: 6850
+Description: Нет описания

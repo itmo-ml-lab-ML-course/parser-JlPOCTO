@@ -1,0 +1,9 @@
+Name: Fullmetal Alchemist: Reflections
+Type: video.other
+Episodes: 1
+Episode length: 3300
+Genres: Сёнен, Приключения, Комедия, Драма, Фэнтези, Военное, 
+Rating limit: R-17
+Rating: 7.24
+Rating numbers: 18610
+Description: Краткое изложение ключевых событий оригинального сериала посредством внутренних монологов основных персонажей на фоне разворачивающихся событий.

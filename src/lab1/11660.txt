@@ -1,0 +1,10 @@
+Name: Narue no Sekai
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2003-06-28
+Genres: Комедия, Романтика, Фантастика, Сёнен, 
+Rating limit: PG-13
+Rating: 6.52
+Rating numbers: 1254
+Description: Нет описания

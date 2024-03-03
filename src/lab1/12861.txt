@@ -1,0 +1,9 @@
+Name: Sequence
+Type: video.other
+Episodes: 1
+Episode length: 2520
+Genres: Сёдзё, Романтика, Фантастика, 
+Rating limit: G
+Rating: 5.46
+Rating numbers: 425
+Description: Нет описания

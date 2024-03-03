@@ -1,0 +1,9 @@
+Name: Youkoso Uchuujin
+Type: video.movie
+Episodes: 1
+Episode length: 840
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.18
+Rating numbers: 234
+Description: Нет описания

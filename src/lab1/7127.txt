@@ -1,0 +1,7 @@
+Name: Xiyou Chaoji Fen
+Type: video.tv_show
+Episodes: 100
+Episode length: 720
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

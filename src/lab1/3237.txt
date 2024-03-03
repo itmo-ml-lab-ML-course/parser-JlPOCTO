@@ -1,0 +1,9 @@
+Name: My Little Goat
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Драма, Ужасы, 
+Rating limit: PG-13
+Rating: 7.11
+Rating numbers: 1083
+Description: Нет описания

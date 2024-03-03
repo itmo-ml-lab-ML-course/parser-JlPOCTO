@@ -1,0 +1,9 @@
+Name: Biohazard 4: Incubate
+Type: video.other
+Episodes: 1
+Episode length: 4920
+Genres: Экшен, Ужасы, Детектив, Сверхъестественное, Триллер, Демоны, Военное, Полиция, 
+Rating limit: R-17
+Rating: 6.08
+Rating numbers: 3926
+Description: Краткий пересказ событий Обитель зла 4 сделанный на движке игры, пересказ ведётся параллельно от лица Леона С. Кеннеди и Ады Вонг.

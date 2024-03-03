@@ -1,0 +1,10 @@
+Name: Obey Me! Season 2
+Type: video.tv_show
+Episodes: 12
+Episode length: 360
+Last episode date release: 2022-12-23
+Genres: Комедия, Фэнтези, 
+Rating limit: PG-13
+Rating: 7.06
+Rating numbers: 1295
+Description: Нет описания

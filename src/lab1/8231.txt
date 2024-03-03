@@ -1,0 +1,8 @@
+Name: Dreamfaireez
+Type: video.tv_show
+Episodes: 2
+Episode length: 60
+Last episode date release: 2023-10-16
+Genres: Фэнтези, Музыка, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Against
+Type: video.tv_show
+Episodes: 1
+Genres: Безумие, Фэнтези, 
+Rating limit: G
+Rating: 5.12
+Rating numbers: 244
+Description: Нет описания

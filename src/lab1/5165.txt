@@ -1,0 +1,9 @@
+Name: Choujuu Giga
+Type: video.tv_show
+Episodes: 3
+Last episode date release: 2016-11-17
+Genres: Романтика, 
+Rating limit: G
+Rating: 6.02
+Rating numbers: 828
+Description: Рекламные ролики, созданные студией «Гибли» для японской розничной электроэнергетической компании Marubeni Power Retail Corporation.

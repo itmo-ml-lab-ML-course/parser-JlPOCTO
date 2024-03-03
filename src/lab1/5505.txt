@@ -1,0 +1,9 @@
+Name: Good-by Marilyn
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, Музыка, 
+Rating limit: R+
+Rating: 3.61
+Rating numbers: 305
+Description: Нет описания

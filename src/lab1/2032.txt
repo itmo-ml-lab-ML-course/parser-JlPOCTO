@@ -1,0 +1,10 @@
+Name: Captain Tsubasa
+Type: video.tv_show
+Episodes: 128
+Episode length: 1440
+Last episode date release: 1986-03-27
+Genres: Сёнен, Экшен, Спорт, 
+Rating limit: G
+Rating: 7.35
+Rating numbers: 1264
+Description: Нет описания

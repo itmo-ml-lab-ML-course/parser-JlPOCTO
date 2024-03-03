@@ -1,0 +1,6 @@
+Name: Chuck Shimezou
+Type: video.movie
+Episodes: 1
+Episode length: 1380
+Genres: 
+Description: Нет описания

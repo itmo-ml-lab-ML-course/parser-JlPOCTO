@@ -1,0 +1,10 @@
+Name: Kremlin
+Type: video.tv_show
+Episodes: 5
+Episode length: 120
+Last episode date release: 2013-02-22
+Genres: Сэйнэн, Комедия, 
+Rating limit: PG-13
+Rating: 5.14
+Rating numbers: 347
+Description: Нет описания

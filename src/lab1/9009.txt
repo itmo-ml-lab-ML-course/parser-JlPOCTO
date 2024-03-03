@@ -1,0 +1,7 @@
+Name: Hong Mao Lan Tu: Haidi Lixian Ji
+Type: video.tv_show
+Episodes: 52
+Episode length: 1020
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

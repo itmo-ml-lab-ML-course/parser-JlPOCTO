@@ -1,0 +1,7 @@
+Name: Tai Ji Xiong
+Type: video.tv_show
+Episodes: 52
+Episode length: 780
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

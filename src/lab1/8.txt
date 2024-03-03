@@ -1,0 +1,10 @@
+Name: Gintama&#39;
+Type: video.tv_show
+Episodes: 51
+Episode length: 1440
+Last episode date release: 2012-03-26
+Genres: Сёнен, Экшен, Комедия, Фантастика, Исторический, Пародия, Самураи, 
+Rating limit: PG-13
+Rating: 9.03
+Rating numbers: 41687
+Description: Продолжение приключений Гинтоки и его команды из агентства «Мастера на все руки» в окружении альтернативно-исторической феодальной Японии.

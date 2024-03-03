@@ -1,0 +1,9 @@
+Name: Armageddon
+Type: video.movie
+Episodes: 1
+Episode length: 5160
+Genres: Экшен, Приключения, Фантастика, 
+Rating limit: PG-13
+Rating: 3.83
+Rating numbers: 224
+Description: Нет описания

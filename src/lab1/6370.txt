@@ -1,0 +1,7 @@
+Name: Umihiko Yamahiko
+Type: video.movie
+Episodes: 1
+Episode length: 1020
+Genres: Фэнтези, Исторический, 
+Rating limit: G
+Description: Нет описания

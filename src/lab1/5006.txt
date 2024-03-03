@@ -1,0 +1,9 @@
+Name: (OO)
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Безумие, 
+Rating limit: PG-13
+Rating: 6.06
+Rating numbers: 100
+Description: Нет описания

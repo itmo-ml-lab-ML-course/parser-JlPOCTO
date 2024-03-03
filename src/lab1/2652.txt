@@ -1,0 +1,9 @@
+Name: Keroro Gunsou Movie 1
+Type: video.movie
+Episodes: 1
+Episode length: 3600
+Genres: Комедия, Фантастика, 
+Rating limit: PG
+Rating: 7.22
+Rating numbers: 452
+Description: Нет описания

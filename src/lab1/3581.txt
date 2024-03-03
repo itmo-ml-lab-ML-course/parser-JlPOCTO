@@ -1,0 +1,9 @@
+Name: Sengoku Basara Movie: 4-Koma Gekijou - Another Last Party
+Type: video.other
+Episodes: 5
+Episode length: 60
+Genres: Комедия, Исторический, 
+Rating limit: PG-13
+Rating: 6.33
+Rating numbers: 978
+Description: Дополнительные мини-эпизоды к фильму «Эпоха смут: Последняя вечеринка», в которых герои предстанут в виде чиби-версий и обыграют несколько исторических событий в забавном ключе.

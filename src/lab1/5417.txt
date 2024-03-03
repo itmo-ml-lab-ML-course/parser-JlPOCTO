@@ -1,0 +1,9 @@
+Name: Yoru no Hi
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, Психологическое, 
+Rating limit: G
+Rating: 4.69
+Rating numbers: 369
+Description: Нет описания

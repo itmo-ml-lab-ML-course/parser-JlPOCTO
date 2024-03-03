@@ -1,0 +1,10 @@
+Name: Reporter Blues
+Type: video.tv_show
+Episodes: 52
+Episode length: 1320
+Last episode date release: 1991-11-08
+Genres: Комедия, Детектив, 
+Rating limit: PG-13
+Rating: 6.38
+Rating numbers: 410
+Description: Нет описания

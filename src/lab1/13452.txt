@@ -1,0 +1,9 @@
+Name: Gijinka de Manabo!
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Комедия, Фантастика, 
+Rating limit: PG
+Rating: 5.23
+Rating numbers: 534
+Description: Нет описания

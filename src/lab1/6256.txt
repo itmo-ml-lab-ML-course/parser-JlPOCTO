@@ -1,0 +1,7 @@
+Name: Tu Baobao He San Jian Shenqi Baobei
+Type: video.tv_show
+Episodes: 164
+Episode length: 780
+Genres: Комедия, Детское, 
+Rating limit: PG
+Description: Нет описания

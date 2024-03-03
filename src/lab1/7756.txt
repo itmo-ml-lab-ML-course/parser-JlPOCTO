@@ -1,0 +1,7 @@
+Name: Chiro-wa Chingu-deul
+Type: video.tv_show
+Episodes: 52
+Episode length: 300
+Genres: Детское, Приключения, 
+Rating limit: G
+Description: Нет описания

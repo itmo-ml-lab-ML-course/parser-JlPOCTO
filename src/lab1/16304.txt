@@ -1,0 +1,6 @@
+Name: Grisaia: Phantom Trigger the Animation (TV)
+Type: video.tv_show
+Episodes: 1
+Genres: Экшен, Школа, 
+Rating limit: R-17
+Description: Нет описания

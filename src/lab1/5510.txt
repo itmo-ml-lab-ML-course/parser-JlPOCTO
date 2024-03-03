@@ -1,0 +1,9 @@
+Name: Yakusoku
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Музыка, 
+Rating limit: G
+Rating: 4.56
+Rating numbers: 179
+Description: Нет описания

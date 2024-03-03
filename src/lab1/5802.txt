@@ -1,0 +1,8 @@
+Name: Spoon-hime no Swing Kitchen
+Type: video.tv_show
+Episodes: 34
+Episode length: 60
+Last episode date release: 1999-04-10
+Genres: Детское, Приключения, 
+Rating limit: PG
+Description: Нет описания

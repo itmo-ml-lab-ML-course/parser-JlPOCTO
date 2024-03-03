@@ -1,0 +1,8 @@
+Name: Buppu na Mainichi
+Type: video.tv_show
+Episodes: 27
+Episode length: 60
+Last episode date release: 2017-09-09
+Genres: Комедия, 
+Rating limit: PG
+Description: Нет описания

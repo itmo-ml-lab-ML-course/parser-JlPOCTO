@@ -1,0 +1,7 @@
+Name: Sore Ike! Sabuibo Mask
+Type: video.tv_show
+Episodes: 8
+Episode length: 60
+Last episode date release: 2016-06-24
+Genres: Комедия, Повседневность, 
+Description: Нет описания

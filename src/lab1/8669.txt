@@ -1,0 +1,7 @@
+Name: Guaishou Jiazu
+Type: video.tv_show
+Episodes: 100
+Episode length: 600
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

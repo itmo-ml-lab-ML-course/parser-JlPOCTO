@@ -1,0 +1,7 @@
+Name: Hello Carbot: Ompaloseu Seomui Bimil
+Type: video.movie
+Episodes: 1
+Episode length: 4680
+Genres: Экшен, Приключения, Меха, Детское, 
+Rating limit: PG
+Description: Нет описания

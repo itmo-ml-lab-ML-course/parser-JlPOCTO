@@ -1,0 +1,9 @@
+Name: Great Mazinger tai Getter Robo
+Type: video.movie
+Episodes: 1
+Episode length: 1800
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 5.98
+Rating numbers: 577
+Description: Нет описания

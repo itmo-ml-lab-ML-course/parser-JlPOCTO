@@ -1,0 +1,10 @@
+Name: Ensemble Stars!! Tsuioku Selection Element
+Type: video.tv_show
+Episodes: 6
+Episode length: 720
+Last episode date release: 2023-04-11
+Genres: 
+Rating limit: PG-13
+Rating: 7.3
+Rating numbers: 699
+Description: Нет описания

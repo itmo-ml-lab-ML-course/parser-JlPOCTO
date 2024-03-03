@@ -1,0 +1,10 @@
+Name: Wo de Yi Jie Zhi Lu
+Type: video.tv_show
+Episodes: 40
+Episode length: 600
+Last episode date release: 2022-05-27
+Genres: Экшен, Приключения, Комедия, Фэнтези, Исторический, Боевые искусства, 
+Rating limit: PG-13
+Rating: 6.01
+Rating numbers: 1545
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Gear Fighter Dendoh
+Type: video.tv_show
+Episodes: 38
+Episode length: 1380
+Last episode date release: 2001-06-27
+Genres: Экшен, Приключения, Фантастика, Меха, Школа, Космос, 
+Rating limit: PG
+Rating: 7.23
+Rating numbers: 365
+Description: Нет описания

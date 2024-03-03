@@ -1,0 +1,9 @@
+Name: Hoshizora no Violin
+Type: video.movie
+Episodes: 1
+Episode length: 5220
+Genres: Повседневность, Исторический, 
+Rating limit: G
+Rating: 6.54
+Rating numbers: 471
+Description: История о мальчике и его мечте создать лучшую скрипку.

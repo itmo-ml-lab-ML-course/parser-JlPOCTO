@@ -1,0 +1,7 @@
+Name: Minghua Shen Jian Lixian Ji
+Type: video.tv_show
+Episodes: 30
+Episode length: 780
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

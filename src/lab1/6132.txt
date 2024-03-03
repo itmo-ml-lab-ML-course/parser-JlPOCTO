@@ -1,0 +1,7 @@
+Name: Tiejia Wei Chong Zhi Qi Ren Wang
+Type: video.tv_show
+Episodes: 52
+Episode length: 1500
+Genres: Экшен, Фантастика, Детское, 
+Rating limit: PG
+Description: Нет описания

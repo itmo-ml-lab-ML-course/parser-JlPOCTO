@@ -1,0 +1,7 @@
+Name: Meishi Da Maoxian
+Type: video.tv_show
+Episodes: 58
+Episode length: 780
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: G
+Description: Нет описания

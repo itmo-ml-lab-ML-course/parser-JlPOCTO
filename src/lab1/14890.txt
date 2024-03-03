@@ -1,0 +1,7 @@
+Name: Mukidona Sen-tachi
+Type: video.movie
+Episodes: 1
+Episode length: 720
+Genres: Безумие, 
+Rating limit: G
+Description: Нет описания

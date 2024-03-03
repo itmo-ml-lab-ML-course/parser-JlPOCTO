@@ -1,0 +1,9 @@
+Name: Warui no wo Taose!! Salaryman Man
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Комедия, Пародия, 
+Rating limit: PG
+Rating: 5.03
+Rating numbers: 180
+Description: Нет описания

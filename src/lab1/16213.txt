@@ -1,0 +1,7 @@
+Name: Shi Er Shengxiao: Yang Yang Deyi
+Type: video.tv_show
+Episodes: 40
+Episode length: 900
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

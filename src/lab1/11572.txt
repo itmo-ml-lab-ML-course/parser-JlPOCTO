@@ -1,0 +1,10 @@
+Name: Weiß Kreuz Glühen
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2003-03-20
+Genres: Сёнен, Экшен, Драма, 
+Rating limit: R-17
+Rating: 6.53
+Rating numbers: 1277
+Description: Нет описания

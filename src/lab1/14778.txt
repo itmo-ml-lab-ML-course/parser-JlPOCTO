@@ -1,0 +1,7 @@
+Name: Moffun to Issho
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Комедия, Детское, 
+Rating limit: G
+Description: Нет описания

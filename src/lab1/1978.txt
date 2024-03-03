@@ -1,0 +1,10 @@
+Name: Feng Ling Yu Xiu 2nd Season
+Type: video.tv_show
+Episodes: 12
+Episode length: 1500
+Last episode date release: 2023-09-10
+Genres: Экшен, Приключения, Боевые искусства, 
+Rating limit: PG-13
+Rating: 7.36
+Rating numbers: 1150
+Description: Нет описания

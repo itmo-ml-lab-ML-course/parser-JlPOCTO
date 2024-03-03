@@ -1,0 +1,9 @@
+Name: Meitantei Conan Movie 25: Halloween no Hanayome
+Type: video.movie
+Episodes: 1
+Episode length: 6600
+Genres: Сёнен, Детектив, Полиция, 
+Rating limit: PG-13
+Rating: 8.04
+Rating numbers: 971
+Description: Нет описания

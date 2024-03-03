@@ -1,0 +1,7 @@
+Name: Meng Bao Chengzhang Jiaoyu
+Type: video.tv_show
+Episodes: 90
+Episode length: 60
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

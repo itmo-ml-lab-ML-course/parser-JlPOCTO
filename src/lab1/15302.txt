@@ -1,0 +1,8 @@
+Name: Oshiri Tantei 6th Season
+Type: video.tv_show
+Episodes: 13
+Episode length: 1200
+Last episode date release: 2022-07-02
+Genres: Детское, Комедия, Фэнтези, Детектив, 
+Rating limit: PG
+Description: Нет описания

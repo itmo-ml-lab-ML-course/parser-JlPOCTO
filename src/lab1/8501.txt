@@ -1,0 +1,8 @@
+Name: Ganbare Gonbe
+Type: video.tv_show
+Episodes: 77
+Episode length: 900
+Last episode date release: 1980-08-19
+Genres: Детское, Комедия, Пародия, 
+Rating limit: PG
+Description: Нет описания

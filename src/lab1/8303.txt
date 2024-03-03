@@ -1,0 +1,8 @@
+Name: Ekubo Ouji
+Type: video.tv_show
+Episodes: 50
+Episode length: 120
+Last episode date release: 1992-09-28
+Genres: Детское, Комедия, 
+Rating limit: G
+Description: Нет описания

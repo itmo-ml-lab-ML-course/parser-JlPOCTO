@@ -1,0 +1,7 @@
+Name: Xin Qi Bao Long Zhan Che 2: Ji Jia Zhan Long
+Type: video.tv_show
+Episodes: 32
+Episode length: 780
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

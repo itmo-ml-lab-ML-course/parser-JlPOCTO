@@ -1,0 +1,6 @@
+Name: Form of Stress
+Type: video.movie
+Episodes: 1
+Genres: Меха, 
+Rating limit: PG
+Description: Нет описания

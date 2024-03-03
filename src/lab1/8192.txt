@@ -1,0 +1,7 @@
+Name: Dou Long Zhanshi 2: Xing Long Sheng Yu
+Type: video.tv_show
+Episodes: 60
+Episode length: 1320
+Genres: Фантастика, Меха, Детское, 
+Rating limit: PG
+Description: Нет описания

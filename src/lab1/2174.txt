@@ -1,0 +1,10 @@
+Name: Shoukoushi Cedie
+Type: video.tv_show
+Episodes: 43
+Episode length: 1440
+Last episode date release: 1988-12-25
+Genres: Сёдзё, Драма, Повседневность, 
+Rating limit: G
+Rating: 7.32
+Rating numbers: 900
+Description: Нет описания

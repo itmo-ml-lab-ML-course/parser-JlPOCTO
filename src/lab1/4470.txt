@@ -1,0 +1,10 @@
+Name: Kimi ga Nozomu Eien: Ayu Mayu Gekijou
+Type: video.tv_show
+Episodes: 7
+Episode length: 300
+Last episode date release: 2007-02-23
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.16
+Rating numbers: 1197
+Description: Несколько коротких юмористических историй, рассказанных от лица Маю и Дайкудзи.

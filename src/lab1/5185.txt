@@ -1,0 +1,9 @@
+Name: G.R.M.
+Type: video.movie
+Episodes: 1
+Episode length: 840
+Genres: Фэнтези, Фантастика, 
+Rating limit: PG-13
+Rating: 6.01
+Rating numbers: 143
+Description: Нет описания

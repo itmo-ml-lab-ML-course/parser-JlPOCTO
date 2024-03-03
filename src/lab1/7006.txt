@@ -1,0 +1,7 @@
+Name: Xing Shou Lieren
+Type: video.tv_show
+Episodes: 32
+Episode length: 1320
+Genres: Экшен, Приключения, Фэнтези, Фантастика, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Geomjeong Gomusin
+Type: video.tv_show
+Episodes: 39
+Episode length: 660
+Last episode date release: 2005-01-05
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

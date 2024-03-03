@@ -1,0 +1,9 @@
+Name: Tomato ni Natta Otokonoko
+Type: video.tv_show
+Episodes: 1
+Episode length: 240
+Genres: Детское, 
+Rating limit: G
+Rating: 4.96
+Rating numbers: 199
+Description: Нет описания

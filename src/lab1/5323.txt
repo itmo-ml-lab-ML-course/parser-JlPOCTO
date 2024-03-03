@@ -1,0 +1,9 @@
+Name: Hanakappa
+Type: video.tv_show
+Episodes: 230 / ?
+Episode length: 600
+Genres: Детское, Комедия, 
+Rating limit: PG
+Rating: 5.98
+Rating numbers: 339
+Description: Нет описания

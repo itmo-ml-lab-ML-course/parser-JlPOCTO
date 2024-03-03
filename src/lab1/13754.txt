@@ -1,0 +1,9 @@
+Name: 1/100 Shibuya Crossing
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Повседневность, 
+Rating limit: G
+Rating: 5.06
+Rating numbers: 255
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Hamster Sam
+Type: video.tv_show
+Episodes: 4
+Episode length: 300
+Last episode date release: 1999-07-19
+Genres: Детское, Музыка, 
+Rating limit: PG
+Description: Нет описания

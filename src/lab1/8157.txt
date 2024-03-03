@@ -1,0 +1,7 @@
+Name: Doraemon: Uchuu Fushigi Daitanken Planetarium
+Type: video.movie
+Episodes: 1
+Episode length: 1500
+Genres: Приключения, Комедия, Фантастика, Космос, Детское, 
+Rating limit: PG
+Description: Нет описания

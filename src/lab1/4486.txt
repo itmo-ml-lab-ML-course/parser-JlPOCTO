@@ -1,0 +1,10 @@
+Name: Kyouryuu Tankentai Born Free
+Type: video.tv_show
+Episodes: 25
+Episode length: 1440
+Last episode date release: 1977-03-25
+Genres: Экшен, Фантастика, 
+Rating limit: G
+Rating: 6.15
+Rating numbers: 262
+Description: Нет описания

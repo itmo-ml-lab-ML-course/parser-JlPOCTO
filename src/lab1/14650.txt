@@ -1,0 +1,7 @@
+Name: Midnight Horror School
+Type: video.tv_show
+Episodes: 52
+Episode length: 660
+Last episode date release: 2004-03-24
+Genres: Комедия, 
+Description: Нет описания

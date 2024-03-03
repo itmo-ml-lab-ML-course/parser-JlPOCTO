@@ -1,0 +1,8 @@
+Name: ColoColo Animal Otogibanashi
+Type: video.tv_show
+Episodes: 12
+Episode length: 120
+Last episode date release: 2021-07-05
+Genres: Детское, Комедия, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Battle Spirits: Mirage
+Type: video.tv_show
+Episodes: 4
+Episode length: 1440
+Last episode date release: 2022-04-01
+Genres: Приключения, Фантастика, Демоны, Игры, Военное, 
+Rating limit: PG-13
+Rating: 6.26
+Rating numbers: 807
+Description: Нет описания

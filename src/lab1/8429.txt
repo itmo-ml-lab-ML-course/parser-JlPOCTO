@@ -1,0 +1,7 @@
+Name: Fu Wu Shu: Sunzi Bingfa
+Type: video.tv_show
+Episodes: 26
+Episode length: 960
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

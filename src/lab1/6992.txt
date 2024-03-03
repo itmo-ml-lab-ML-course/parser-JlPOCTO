@@ -1,0 +1,7 @@
+Name: Xing Mao Wenhua Da Jiangtang: Wenhua Gushi
+Type: video.tv_show
+Episodes: 26
+Episode length: 600
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

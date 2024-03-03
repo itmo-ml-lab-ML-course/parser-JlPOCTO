@@ -1,0 +1,7 @@
+Name: Qiudao
+Type: video.movie
+Episodes: 1
+Episode length: 4800
+Genres: Драма, Фэнтези, Спорт, 
+Rating limit: PG-13
+Description: Нет описания

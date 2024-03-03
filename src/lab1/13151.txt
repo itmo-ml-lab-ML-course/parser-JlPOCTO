@@ -1,0 +1,10 @@
+Name: Acerola-chan
+Type: video.tv_show
+Episodes: 3
+Episode length: 180
+Last episode date release: 2009-08-31
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.36
+Rating numbers: 129
+Description: Нет описания

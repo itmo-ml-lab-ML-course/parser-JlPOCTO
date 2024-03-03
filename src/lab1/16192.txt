@@ -1,0 +1,8 @@
+Name: Shenqi Xiaozi: Mike Yu Xiao Buji
+Type: video.tv_show
+Episodes: 50
+Episode length: 720
+Last episode date release: 2010-10-01
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

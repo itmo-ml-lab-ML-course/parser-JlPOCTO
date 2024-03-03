@@ -1,0 +1,6 @@
+Name: MF Ghost 2nd Season
+Type: video.tv_show
+Episodes: 1
+Genres: Сэйнэн, 
+Rating limit: PG-13
+Description: Нет описания

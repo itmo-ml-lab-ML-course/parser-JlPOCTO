@@ -1,0 +1,10 @@
+Name: Hetalia: The World Twinkle
+Type: video.tv_show
+Episodes: 15
+Episode length: 300
+Last episode date release: 2015-10-09
+Genres: Комедия, Исторический, Пародия, 
+Rating limit: PG-13
+Rating: 7.2
+Rating numbers: 6276
+Description: Данный сезон продолжает описывать события Второй мировой войны. На этот раз зрителю покажут Средиземноморско-африканские кампании, а также расскажут про прошлое стран Скандинавии.

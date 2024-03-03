@@ -1,0 +1,7 @@
+Name: Pororo&#39;s English Show
+Type: video.tv_show
+Episodes: 13
+Episode length: 300
+Genres: Детское, Музыка, 
+Rating limit: G
+Description: Нет описания

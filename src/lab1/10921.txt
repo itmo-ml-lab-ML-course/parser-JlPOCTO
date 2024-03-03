@@ -1,0 +1,10 @@
+Name: Tsukiuta. The Animation 2
+Type: video.tv_show
+Episodes: 13
+Episode length: 1380
+Last episode date release: 2020-12-30
+Genres: Музыка, 
+Rating limit: PG-13
+Rating: 6.65
+Rating numbers: 1591
+Description: Нет описания

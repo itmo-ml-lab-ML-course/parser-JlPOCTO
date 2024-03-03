@@ -1,0 +1,7 @@
+Name: Chuuchuu Banban
+Type: video.movie
+Episodes: 1
+Episode length: 1500
+Genres: Детское, Приключения, 
+Rating limit: PG
+Description: Нет описания

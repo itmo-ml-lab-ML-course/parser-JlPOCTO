@@ -1,0 +1,8 @@
+Name: Hazedon
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 1973-03-29
+Genres: Детское, Приключения, Комедия, 
+Rating limit: PG
+Description: Нет описания

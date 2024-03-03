@@ -1,0 +1,10 @@
+Name: Play Ball
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2005-09-27
+Genres: Сёнен, Экшен, Спорт, 
+Rating limit: G
+Rating: 6.18
+Rating numbers: 254
+Description: Нет описания

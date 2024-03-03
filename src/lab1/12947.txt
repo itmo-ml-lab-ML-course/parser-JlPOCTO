@@ -1,0 +1,10 @@
+Name: Shinseikiden Mars
+Type: video.tv_show
+Episodes: 13
+Episode length: 1500
+Last episode date release: 2003-02-06
+Genres: Сёнен, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 5.43
+Rating numbers: 285
+Description: Нет описания

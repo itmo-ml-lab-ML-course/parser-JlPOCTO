@@ -1,0 +1,7 @@
+Name: Er Dan Toutai Ji
+Type: video.tv_show
+Episodes: 2
+Episode length: 840
+Genres: Повседневность, 
+Rating limit: PG-13
+Description: Нет описания

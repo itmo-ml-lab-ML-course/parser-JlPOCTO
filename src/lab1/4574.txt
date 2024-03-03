@@ -1,0 +1,10 @@
+Name: Heibai Wushang
+Type: video.tv_show
+Episodes: 12
+Episode length: 600
+Last episode date release: 2016-02-25
+Genres: Экшен, Комедия, Сверхъестественное, 
+Rating limit: PG-13
+Rating: 6.14
+Rating numbers: 3202
+Description: История о двух юных демонах, которые вечно отлынивают от работы и валяют дурака. События сериала разворачиваются в организации, которая обещает сохранить равновесие между мирами мёртвых и живых за счёт гибели людей.

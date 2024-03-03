@@ -1,0 +1,7 @@
+Name: Nanjung Ilgi
+Type: video.movie
+Episodes: 1
+Episode length: 4200
+Genres: Исторический, Военное, 
+Rating limit: PG-13
+Description: Нет описания

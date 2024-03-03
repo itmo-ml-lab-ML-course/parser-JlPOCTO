@@ -1,0 +1,10 @@
+Name: Yaoguai Mingdan 2nd Season
+Type: video.tv_show
+Episodes: 21
+Episode length: 960
+Last episode date release: 2017-12-28
+Genres: Экшен, Комедия, Фэнтези, Романтика, 
+Rating limit: R-17
+Rating: 7.41
+Rating numbers: 6420
+Description: Нет описания

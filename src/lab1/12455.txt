@@ -1,0 +1,9 @@
+Name: Next A-Class
+Type: video.tv_show
+Episodes: 1
+Episode length: 360
+Genres: Экшен, Фантастика, Машины, 
+Rating limit: PG-13
+Rating: 6.37
+Rating numbers: 2200
+Description: Рекламный ролик Mercedes-Benz для автомобильной линейки A-Class.

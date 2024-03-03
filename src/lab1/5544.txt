@@ -1,0 +1,9 @@
+Name: Super Child
+Type: video.movie
+Episodes: 1
+Episode length: 6060
+Genres: Экшен, Приключения, Фантастика, 
+Rating limit: PG-13
+Rating: 2.91
+Rating numbers: 194
+Description: Нет описания

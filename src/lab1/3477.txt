@@ -1,0 +1,10 @@
+Name: Koutetsu Jeeg
+Type: video.tv_show
+Episodes: 46
+Episode length: 1320
+Last episode date release: 1976-08-29
+Genres: Экшен, Фэнтези, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 7.06
+Rating numbers: 491
+Description: Нет описания

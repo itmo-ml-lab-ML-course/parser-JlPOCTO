@@ -1,0 +1,9 @@
+Name: Un-Go: Inga-ron
+Type: video.movie
+Episodes: 1
+Episode length: 2880
+Genres: Детектив, Сверхъестественное, 
+Rating limit: R-17
+Rating: 7.53
+Rating numbers: 14411
+Description: Приквел к основному сюжету, так называемый нулевой эпизод, рассказывающий о таинственной и неожиданной встрече Синдзюро и Инги.

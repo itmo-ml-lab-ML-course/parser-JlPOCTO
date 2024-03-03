@@ -1,0 +1,7 @@
+Name: Ushigaeru
+Type: video.tv_show
+Episodes: 1
+Episode length: 480
+Genres: Экшен, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Chao Bian Zhan Tuo
+Type: video.tv_show
+Episodes: 40
+Episode length: 1320
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Golden★Kids
+Type: video.tv_show
+Episodes: 2
+Episode length: 660
+Genres: Спорт, Школа, 
+Rating limit: G
+Description: Нет описания

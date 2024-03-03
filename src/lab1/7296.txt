@@ -1,0 +1,7 @@
+Name: Bao Chong Huojian Che: Che Wang Zhi Zhan
+Type: video.tv_show
+Episodes: 26
+Episode length: 780
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

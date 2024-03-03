@@ -1,0 +1,7 @@
+Name: Xiao Gou Pipi
+Type: video.tv_show
+Episodes: 65
+Episode length: 480
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

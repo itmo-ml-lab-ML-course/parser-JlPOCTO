@@ -1,0 +1,7 @@
+Name: Chaoji Youeryuan
+Type: video.movie
+Episodes: 1
+Episode length: 4500
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

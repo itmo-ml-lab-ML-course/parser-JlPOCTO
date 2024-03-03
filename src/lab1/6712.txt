@@ -1,0 +1,7 @@
+Name: Xiao Ban Long Huwai Anquan Ke
+Type: video.tv_show
+Episodes: 7
+Episode length: 420
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

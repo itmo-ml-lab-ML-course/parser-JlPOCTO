@@ -1,0 +1,9 @@
+Name: Holy Knight Light
+Type: video.tv_show
+Episodes: 1
+Episode length: 540
+Genres: Экшен, Фэнтези, 
+Rating limit: PG-13
+Rating: 7.05
+Rating numbers: 2239
+Description: В канун Нового года в курьерское агентство «Пингвин логистик» поступил нестандартный заказ на доставку секретной коробки на остров Родос, обращаться с которой требуется крайне осторожно.

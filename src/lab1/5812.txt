@@ -1,0 +1,7 @@
+Name: Steamo
+Type: video.tv_show
+Episodes: 8
+Episode length: 300
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

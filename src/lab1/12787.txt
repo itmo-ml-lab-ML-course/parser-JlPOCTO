@@ -1,0 +1,9 @@
+Name: Tenkyuu no Arculs
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Фэнтези, Игры, 
+Rating limit: G
+Rating: 5.48
+Rating numbers: 172
+Description: Презентация мобильной RPG-игры «Tenkyuu no Arculs» от компании Squre Enix, выпущенной для Android и iOS 21 июля 2016 года. Программная поддержка игры была прекращена 21 января 2017 года.

@@ -1,0 +1,7 @@
+Name: Watashi no Touchika
+Type: video.movie
+Episodes: 1
+Episode length: 840
+Genres: Драма, 
+Rating limit: PG
+Description: Нет описания

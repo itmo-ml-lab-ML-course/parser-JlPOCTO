@@ -1,0 +1,9 @@
+Name: Ball yo Doko e Yuku
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Комедия, 
+Rating limit: G
+Rating: 4.65
+Rating numbers: 203
+Description: Нет описания

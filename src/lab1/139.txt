@@ -1,0 +1,10 @@
+Name: Shiguang Dailiren II
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2023-09-22
+Genres: Драма, Детектив, Сверхъестественное, Триллер, 
+Rating limit: R-17
+Rating: 8.48
+Rating numbers: 28464
+Description: Нет описания

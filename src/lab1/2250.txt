@@ -1,0 +1,9 @@
+Name: Doraemon Movie 12: Nobita no Dorabian Nights
+Type: video.movie
+Episodes: 1
+Episode length: 6000
+Genres: Приключения, Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 7.3
+Rating numbers: 598
+Description: Нет описания

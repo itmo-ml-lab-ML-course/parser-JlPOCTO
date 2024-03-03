@@ -1,0 +1,10 @@
+Name: Glass no Kamen
+Type: video.tv_show
+Episodes: 23
+Episode length: 1440
+Last episode date release: 1984-09-24
+Genres: Сёдзё, Драма, Романтика, 
+Rating limit: PG-13
+Rating: 7.34
+Rating numbers: 2211
+Description: Нет описания

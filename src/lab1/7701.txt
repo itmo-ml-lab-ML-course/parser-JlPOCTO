@@ -1,0 +1,8 @@
+Name: Chi Ji Da Zuozhan 2nd Season
+Type: video.tv_show
+Episodes: 20
+Episode length: 360
+Last episode date release: 2019-11-26
+Genres: Комедия, Пародия, 
+Rating limit: PG-13
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Vie Durant
+Type: video.tv_show
+Episodes: 8
+Episode length: 420
+Last episode date release: 2003-09-02
+Genres: Драма, Фантастика, Вампиры, 
+Rating limit: PG-13
+Rating: 4.65
+Rating numbers: 688
+Description: Нет описания

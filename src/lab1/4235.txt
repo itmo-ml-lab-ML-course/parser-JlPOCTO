@@ -1,0 +1,9 @@
+Name: Gregory Horror Show: The Last Train
+Type: video.tv_show
+Episodes: 26
+Episode length: 180
+Last episode date release: 2001-03-31
+Genres: Комедия, Ужасы, Детектив, Сверхъестественное, Демоны, Вампиры, 
+Rating: 6.21
+Rating numbers: 315
+Description: Нет описания

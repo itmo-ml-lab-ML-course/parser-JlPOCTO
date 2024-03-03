@@ -1,0 +1,8 @@
+Name: Ai (ONA)
+Type: video.tv_show
+Episodes: 1
+Genres: 
+Rating limit: G
+Rating: 2.64
+Rating numbers: 582
+Description: Нет описания

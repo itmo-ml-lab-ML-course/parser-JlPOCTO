@@ -1,0 +1,10 @@
+Name: Bokutachi wa Benkyou ga Dekinai!
+Type: video.tv_show
+Episodes: 13
+Episode length: 1380
+Last episode date release: 2019-12-29
+Genres: Сёнен, Комедия, Романтика, Гарем, Школа, 
+Rating limit: PG-13
+Rating: 7.34
+Rating numbers: 21757
+Description: Нет описания

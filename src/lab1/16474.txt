@@ -1,0 +1,6 @@
+Name: Boku to Roboko Movie
+Type: video.movie
+Episodes: 1
+Genres: Комедия, Фантастика, Сёнен, 
+Rating limit: PG-13
+Description: Нет описания

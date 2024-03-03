@@ -1,0 +1,9 @@
+Name: Hana
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: Комедия, 
+Rating limit: G
+Rating: 4.35
+Rating numbers: 307
+Description: Нет описания

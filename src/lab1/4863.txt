@@ -1,0 +1,9 @@
+Name: Mahou Shoujo Lyrical Nanoha ViVid: Special Program
+Type: video.other
+Episodes: 1
+Episode length: 1500
+Genres: Экшен, Боевые искусства, 
+Rating limit: PG-13
+Rating: 6.08
+Rating numbers: 999
+Description: Краткий пересказ аниме-сериала «Лиричная волшебница Наноха: Вивид».

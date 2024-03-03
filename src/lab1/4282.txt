@@ -1,0 +1,10 @@
+Name: Groizer X
+Type: video.tv_show
+Episodes: 36
+Episode length: 1500
+Last episode date release: 1977-03-31
+Genres: Фантастика, Меха, 
+Rating limit: G
+Rating: 6.2
+Rating numbers: 240
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Okori Jizou
+Type: video.movie
+Episodes: 1
+Episode length: 1620
+Genres: Детское, Исторический, 
+Rating limit: G
+Description: Нет описания

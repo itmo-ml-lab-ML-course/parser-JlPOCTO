@@ -1,0 +1,8 @@
+Name: Tsuri Baka Nisshi
+Type: video.tv_show
+Episodes: 36
+Episode length: 1440
+Last episode date release: 2003-09-13
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Description: Нет описания

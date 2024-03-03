@@ -1,0 +1,5 @@
+Name: Giji Harem
+Type: video.tv_show
+Episodes: 1
+Genres: Повседневность, Школа, Сёнен, 
+Description: Нет описания

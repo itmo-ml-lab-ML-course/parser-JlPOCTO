@@ -1,0 +1,10 @@
+Name: Grimm Meisaku Gekijou
+Type: video.tv_show
+Episodes: 24
+Episode length: 1440
+Last episode date release: 1988-03-30
+Genres: Детское, Приключения, Комедия, Фэнтези, 
+Rating limit: G
+Rating: 7.41
+Rating numbers: 807
+Description: Сериал в основном состоит из отдельных эпизодов, которые пересказывают различные авторские или народные сказки. Несмотря на название, не все из эпизодов основаны на сказках братьев Гримм.

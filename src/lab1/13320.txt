@@ -1,0 +1,9 @@
+Name: Tsuru no Ongaeshi
+Type: video.movie
+Episodes: 1
+Episode length: 1020
+Genres: Детское, 
+Rating limit: G
+Rating: 5.29
+Rating numbers: 235
+Description: Нет описания

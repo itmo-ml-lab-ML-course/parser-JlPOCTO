@@ -1,0 +1,7 @@
+Name: Robot Taekwon V wa Hwanggeum Nalgae
+Type: video.movie
+Episodes: 1
+Episode length: 3960
+Genres: Меха, 
+Rating limit: PG
+Description: Нет описания

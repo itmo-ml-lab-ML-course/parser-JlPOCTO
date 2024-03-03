@@ -1,0 +1,9 @@
+Name: Ring of Gundam
+Type: video.other
+Episodes: 1
+Episode length: 300
+Genres: Фантастика, Меха, Космос, 
+Rating limit: G
+Rating: 5.14
+Rating numbers: 1261
+Description: Нет описания

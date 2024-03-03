@@ -1,0 +1,8 @@
+Name: Xin Hulu Xiongdi
+Type: video.tv_show
+Episodes: 52
+Episode length: 660
+Last episode date release: 2017-07-11
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

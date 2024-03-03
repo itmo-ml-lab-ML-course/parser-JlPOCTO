@@ -1,0 +1,10 @@
+Name: Cross Fight B-Daman eS
+Type: video.tv_show
+Episodes: 52
+Episode length: 720
+Last episode date release: 2013-09-29
+Genres: Детское, Игры, 
+Rating limit: G
+Rating: 6.46
+Rating numbers: 287
+Description: Нет описания

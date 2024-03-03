@@ -1,0 +1,9 @@
+Name: Present made no Michinori
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Экшен, Музыка, 
+Rating limit: PG
+Rating: 4.78
+Rating numbers: 204
+Description: Нет описания

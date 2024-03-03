@@ -1,0 +1,10 @@
+Name: Technoroid: Overmind
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2023-03-30
+Genres: Детектив, Фантастика, Музыка, 
+Rating limit: PG-13
+Rating: 6.51
+Rating numbers: 2967
+Description: Нет описания

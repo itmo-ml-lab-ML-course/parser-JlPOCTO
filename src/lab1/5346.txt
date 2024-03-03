@@ -1,0 +1,9 @@
+Name: Manga Aesop Monogatari
+Type: video.movie
+Episodes: 1
+Episode length: 3660
+Genres: Детское, Приключения, Фэнтези, 
+Rating limit: PG
+Rating: 5.98
+Rating numbers: 198
+Description: Нет описания

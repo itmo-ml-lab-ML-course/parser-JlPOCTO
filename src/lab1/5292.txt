@@ -1,0 +1,9 @@
+Name: Lei Su Deng Shandian Chong Xian 3
+Type: video.tv_show
+Episodes: 40
+Episode length: 1440
+Genres: Детское, Машины, 
+Rating limit: G
+Rating: 5.99
+Rating numbers: 152
+Description: Нет описания

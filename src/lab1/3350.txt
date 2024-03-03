@@ -1,0 +1,10 @@
+Name: Waccha PriMagi!
+Type: video.tv_show
+Episodes: 51
+Episode length: 1440
+Last episode date release: 2022-10-09
+Genres: Музыка, 
+Rating limit: G
+Rating: 7.09
+Rating numbers: 912
+Description: Нет описания

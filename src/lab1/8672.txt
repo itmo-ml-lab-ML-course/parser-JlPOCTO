@@ -1,0 +1,7 @@
+Name: Guaiwu Gongyu: Youqing Pianzhang
+Type: video.tv_show
+Episodes: 11
+Episode length: 180
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

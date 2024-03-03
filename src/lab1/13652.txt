@@ -1,0 +1,9 @@
+Name: Kid&#39;s Castle
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.12
+Rating numbers: 208
+Description: Нет описания

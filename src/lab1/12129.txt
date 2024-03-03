@@ -1,0 +1,9 @@
+Name: Shouwa Monogatari (Movie)
+Type: video.movie
+Episodes: 1
+Episode length: 5760
+Genres: Драма, Исторический, 
+Rating limit: PG
+Rating: 6.43
+Rating numbers: 433
+Description: Нет описания

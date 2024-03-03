@@ -1,0 +1,10 @@
+Name: Tales of HR
+Type: video.tv_show
+Episodes: 13
+Episode length: 240
+Last episode date release: 2019-12-14
+Genres: Комедия, Пародия, Школа, 
+Rating limit: G
+Rating: 6.12
+Rating numbers: 1527
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Nankyoku Penguin Colors
+Type: video.tv_show
+Episodes: 3
+Episode length: 240
+Last episode date release: 2022-04-02
+Genres: Повседневность, 
+Rating limit: G
+Description: Нет описания

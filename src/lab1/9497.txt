@@ -1,0 +1,9 @@
+Name: Stand By Me Doraemon
+Type: video.movie
+Episodes: 1
+Episode length: 5640
+Genres: Комедия, Фантастика, 
+Rating limit: PG
+Rating: 8.1
+Rating numbers: 1628
+Description: Нет описания

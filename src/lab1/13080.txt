@@ -1,0 +1,10 @@
+Name: Hulaing Babies Petit
+Type: video.tv_show
+Episodes: 12
+Episode length: 60
+Last episode date release: 2020-03-25
+Genres: Комедия, Повседневность, 
+Rating limit: PG-13
+Rating: 5.38
+Rating numbers: 540
+Description: Нет описания

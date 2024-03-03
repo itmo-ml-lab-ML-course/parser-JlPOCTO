@@ -1,0 +1,10 @@
+Name: Ojamajo Doremi Dokkaan!
+Type: video.tv_show
+Episodes: 51
+Episode length: 1440
+Last episode date release: 2003-01-26
+Genres: Комедия, Фэнтези, 
+Rating limit: G
+Rating: 7.76
+Rating numbers: 803
+Description: Нет описания

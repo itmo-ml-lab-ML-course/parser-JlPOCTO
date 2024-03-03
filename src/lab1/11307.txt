@@ -1,0 +1,9 @@
+Name: Pokemon Movie 18: Ring no Choumajin Hoopa
+Type: video.movie
+Episodes: 1
+Episode length: 4680
+Genres: Детское, Приключения, Фэнтези, 
+Rating limit: PG
+Rating: 6.58
+Rating numbers: 3110
+Description: Нет описания

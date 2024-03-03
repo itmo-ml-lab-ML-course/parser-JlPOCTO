@@ -1,0 +1,9 @@
+Name: Chou Kidougai-ku: Kashiwa-no-Ha
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Меха, 
+Rating limit: PG
+Rating: 5.02
+Rating numbers: 459
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Head Spoon
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Безумие, 
+Rating limit: R+
+Rating: 4.4
+Rating numbers: 269
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Oh! My Konbu
+Type: video.tv_show
+Episodes: 22
+Episode length: 1500
+Last episode date release: 1991-09-28
+Genres: Сёнен, Комедия, Гурман, Повседневность, 
+Rating limit: G
+Description: Нет описания

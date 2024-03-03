@@ -1,0 +1,6 @@
+Name: Gu Xiong
+Type: video.tv_show
+Episodes: 1
+Genres: Экшен, Повседневность, 
+Rating limit: PG-13
+Description: Нет описания

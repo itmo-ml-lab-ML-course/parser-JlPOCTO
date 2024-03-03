@@ -1,0 +1,7 @@
+Name: Spookiz 4th Season
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Комедия, Сверхъестественное, Детское, 
+Rating limit: PG
+Description: Нет описания

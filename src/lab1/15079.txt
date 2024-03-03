@@ -1,0 +1,7 @@
+Name: Nikoniko, Pun
+Type: video.tv_show
+Episodes: 40
+Episode length: 540
+Genres: Детское, Комедия, Фэнтези, 
+Rating limit: G
+Description: Нет описания

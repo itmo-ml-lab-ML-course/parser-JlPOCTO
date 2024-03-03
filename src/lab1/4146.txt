@@ -1,0 +1,9 @@
+Name: Boukyaku Battery
+Type: video.tv_show
+Episodes: 1
+Episode length: 1200
+Genres: Сёнен, Спорт, Школа, 
+Rating limit: PG-13
+Rating: 6.22
+Rating numbers: 716
+Description: Нет описания

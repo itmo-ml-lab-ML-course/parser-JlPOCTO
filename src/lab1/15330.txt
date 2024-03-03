@@ -1,0 +1,7 @@
+Name: Ousama to Nightingale
+Type: video.movie
+Episodes: 1
+Episode length: 1320
+Genres: Детское, Фэнтези, 
+Rating limit: G
+Description: Нет описания

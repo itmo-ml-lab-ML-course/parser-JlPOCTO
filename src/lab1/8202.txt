@@ -1,0 +1,8 @@
+Name: Doubutsu Mura Monogatari
+Type: video.tv_show
+Episodes: 100
+Episode length: 300
+Last episode date release: 1970-07-21
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

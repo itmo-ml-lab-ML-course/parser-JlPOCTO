@@ -1,0 +1,9 @@
+Name: Shin Tenchi Souzou
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: Комедия, 
+Rating limit: G
+Rating: 4.97
+Rating numbers: 239
+Description: Нет описания

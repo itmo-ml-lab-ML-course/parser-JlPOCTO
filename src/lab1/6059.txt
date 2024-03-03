@@ -1,0 +1,7 @@
+Name: The Forgotten Princess Just Wants Peace
+Type: video.tv_show
+Episodes: 10
+Episode length: 300
+Genres: Фэнтези, Романтика, 
+Rating limit: PG-13
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Nanashi Kaidan (2023)
+Type: video.tv_show
+Episodes: 5
+Episode length: 360
+Last episode date release: 2023-08-11
+Genres: Ужасы, 
+Rating limit: G
+Description: Нет описания

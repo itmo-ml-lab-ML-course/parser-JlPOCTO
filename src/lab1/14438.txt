@@ -1,0 +1,9 @@
+Name: Gondora
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: Безумие, 
+Rating limit: PG
+Rating: 4.09
+Rating numbers: 824
+Description: Психоделический внутренний мир одного странного человека.

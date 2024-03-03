@@ -1,0 +1,10 @@
+Name: Chunqiu Feng Shen
+Type: video.tv_show
+Episodes: 24
+Episode length: 900
+Last episode date release: 2021-11-11
+Genres: Приключения, Фэнтези, Боевые искусства, 
+Rating limit: PG-13
+Rating: 6.31
+Rating numbers: 557
+Description: Нет описания

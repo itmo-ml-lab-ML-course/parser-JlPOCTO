@@ -1,0 +1,9 @@
+Name: Zen: Grogu to Makkuro Kurosuke
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Фантастика, 
+Rating limit: G
+Rating: 6.13
+Rating numbers: 689
+Description: Нет описания

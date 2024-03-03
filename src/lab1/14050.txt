@@ -1,0 +1,9 @@
+Name: Kuchao
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.82
+Rating numbers: 292
+Description: Нет описания

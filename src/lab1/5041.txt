@@ -1,0 +1,9 @@
+Name: Cheonbangjichuk Hani
+Type: video.tv_show
+Episodes: 13
+Episode length: 1200
+Last episode date release: 1989-01-01
+Genres: Комедия, Драма, Спорт, Школа, 
+Rating: 6.04
+Rating numbers: 223
+Description: Нет описания

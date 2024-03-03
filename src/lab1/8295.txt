@@ -1,0 +1,7 @@
+Name: Eiga! Tamagotchi Uchuu Ichi Happy na Monogatari!?
+Type: video.movie
+Episodes: 1
+Episode length: 5400
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: BanG Dream! Movie: Poppin&#39; Dream!
+Type: video.movie
+Episodes: 1
+Episode length: 4200
+Genres: Музыка, 
+Rating limit: PG-13
+Rating: 7.93
+Rating numbers: 1452
+Description: Нет описания

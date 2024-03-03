@@ -1,0 +1,7 @@
+Name: Duan Wei Gou: Pangxie Zhanzhu
+Type: video.tv_show
+Episodes: 60
+Episode length: 780
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

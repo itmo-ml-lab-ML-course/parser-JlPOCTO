@@ -1,0 +1,7 @@
+Name: Cycle Race
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Безумие, 
+Rating limit: G
+Description: Нет описания

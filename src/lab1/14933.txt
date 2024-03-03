@@ -1,0 +1,8 @@
+Name: Naccio to Pomm
+Type: video.tv_show
+Episodes: 41
+Episode length: 300
+Last episode date release: 2009-01-01
+Genres: Детское, Приключения, Фантастика, 
+Rating limit: PG
+Description: Нет описания

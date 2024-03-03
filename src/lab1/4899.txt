@@ -1,0 +1,9 @@
+Name: Bocchan
+Type: video.other
+Episodes: 1
+Episode length: 4320
+Genres: Комедия, Исторический, 
+Rating limit: PG-13
+Rating: 6.07
+Rating numbers: 459
+Description: Нет описания

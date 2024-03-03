@@ -1,0 +1,9 @@
+Name: God Eater 3
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Экшен, Игры, Музыка, 
+Rating limit: PG-13
+Rating: 6.42
+Rating numbers: 2288
+Description: Нет описания

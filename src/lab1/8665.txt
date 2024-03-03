@@ -1,0 +1,8 @@
+Name: Guai Tao Yu Nao Gua
+Type: video.tv_show
+Episodes: 26
+Episode length: 300
+Last episode date release: 2020-01-01
+Genres: Детское, Комедия, 
+Rating limit: PG
+Description: Нет описания

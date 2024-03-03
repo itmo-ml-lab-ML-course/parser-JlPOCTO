@@ -1,0 +1,9 @@
+Name: Shashinki &#39;87
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, 
+Rating limit: G
+Rating: 5.05
+Rating numbers: 288
+Description: Нет описания

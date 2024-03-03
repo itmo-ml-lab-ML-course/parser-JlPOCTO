@@ -1,0 +1,10 @@
+Name: Huan Jie Wang
+Type: video.tv_show
+Episodes: 20
+Episode length: 840
+Last episode date release: 2018-10-17
+Genres: Экшен, Приключения, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.5
+Rating numbers: 6466
+Description: Нет описания

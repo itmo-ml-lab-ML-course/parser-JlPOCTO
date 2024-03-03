@@ -1,0 +1,9 @@
+Name: Long Zu Episode 0
+Type: video.tv_show
+Episodes: 1
+Episode length: 2940
+Genres: Экшен, Приключения, Фэнтези, 
+Rating limit: PG-13
+Rating: 7.14
+Rating numbers: 1958
+Description: Нет описания

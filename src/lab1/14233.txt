@@ -1,0 +1,9 @@
+Name: Lost Utopia
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Сэйнэн, Экшен, Фэнтези, Сверхъестественное, Музыка, 
+Rating limit: G
+Rating: 4.64
+Rating numbers: 383
+Description: Короткая экспериментальная анимация об истории Адама и Евы в сопровождении джазовой музыки.

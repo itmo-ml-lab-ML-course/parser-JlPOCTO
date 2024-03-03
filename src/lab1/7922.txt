@@ -1,0 +1,7 @@
+Name: Da Maoxian Tielu
+Type: video.movie
+Episodes: 1
+Episode length: 900
+Genres: Драма, 
+Rating limit: PG-13
+Description: Нет описания

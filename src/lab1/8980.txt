@@ -1,0 +1,6 @@
+Name: Hitori Shika Inai Jibun
+Type: video.movie
+Episodes: 1
+Genres: Детское, Исторический, 
+Rating limit: PG
+Description: Образовательный фильм, призванный научить нравственности детей средней школы.

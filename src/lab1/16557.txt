@@ -1,0 +1,5 @@
+Name: Vampire Dormitory
+Type: video.tv_show
+Episodes: 1
+Genres: Романтика, Сверхъестественное, Вампиры, Сёдзё, 
+Description: Нет описания

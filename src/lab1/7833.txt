@@ -1,0 +1,7 @@
+Name: Ci Wei Bei Xi Gua
+Type: video.movie
+Episodes: 1
+Episode length: 660
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

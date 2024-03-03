@@ -1,0 +1,9 @@
+Name: Bucket no Naka no Kaka
+Type: video.tv_show
+Episodes: 1
+Episode length: 420
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 5.47
+Rating numbers: 179
+Description: Нет описания

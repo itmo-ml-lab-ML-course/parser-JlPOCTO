@@ -1,0 +1,8 @@
+Name: Feng Shu Zhan Jing
+Type: video.tv_show
+Episodes: 26
+Episode length: 1320
+Last episode date release: 2011-01-01
+Genres: Экшен, Приключения, Меха, 
+Rating limit: G
+Description: Нет описания

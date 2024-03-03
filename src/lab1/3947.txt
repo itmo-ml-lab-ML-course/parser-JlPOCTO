@@ -1,0 +1,10 @@
+Name: Mafukiden: Pandarian
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 2005-07-09
+Genres: Детское, Приключения, Комедия, Фэнтези, Супер сила, 
+Rating limit: G
+Rating: 6.26
+Rating numbers: 197
+Description: Нет описания

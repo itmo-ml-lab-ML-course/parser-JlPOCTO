@@ -1,0 +1,7 @@
+Name: Micchan
+Type: video.movie
+Episodes: 1
+Episode length: 1260
+Genres: Повседневность, 
+Rating limit: G
+Description: Нет описания

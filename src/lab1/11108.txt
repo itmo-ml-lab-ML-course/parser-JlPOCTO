@@ -1,0 +1,10 @@
+Name: Choujuushin Gravion Zwei
+Type: video.tv_show
+Episodes: 12
+Episode length: 1380
+Last episode date release: 2004-03-26
+Genres: Экшен, Приключения, Комедия, Фантастика, Меха, 
+Rating limit: R+
+Rating: 6.62
+Rating numbers: 637
+Description: Нет описания

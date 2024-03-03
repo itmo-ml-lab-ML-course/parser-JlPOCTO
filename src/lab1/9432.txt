@@ -1,0 +1,9 @@
+Name: Major: Message
+Type: video.other
+Episodes: 1
+Episode length: 1440
+Genres: Спорт, Сёнен, 
+Rating limit: PG-13
+Rating: 8.15
+Rating numbers: 4545
+Description: Дополнительный эпизод, снятый по ограниченному изданию 78 тома манги Major.

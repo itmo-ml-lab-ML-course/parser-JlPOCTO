@@ -1,0 +1,7 @@
+Name: Wulongyuan: Huobao Chuanqi 2nd Season
+Type: video.tv_show
+Episodes: 52
+Episode length: 840
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

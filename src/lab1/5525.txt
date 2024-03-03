@@ -1,0 +1,9 @@
+Name: Dark Cat
+Type: video.other
+Episodes: 1
+Episode length: 3000
+Genres: Экшен, Ужасы, Сверхъестественное, Демоны, Супер сила, 
+Rating limit: R-17
+Rating: 3.23
+Rating numbers: 547
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Oira no Yakyuu
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Спорт, 
+Rating limit: G
+Rating: 5.34
+Rating numbers: 398
+Description: Фильм о бейсбольном матче между енотовидными собаками и кроликами.

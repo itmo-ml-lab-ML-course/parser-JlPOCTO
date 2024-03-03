@@ -1,0 +1,9 @@
+Name: Climber
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Психологическое, 
+Rating limit: PG-13
+Rating: 6.08
+Rating numbers: 109
+Description: Нет описания

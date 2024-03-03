@@ -1,0 +1,9 @@
+Name: Doraemon Movie: Boku, Momotarou no Nanna no Sa
+Type: video.movie
+Episodes: 1
+Episode length: 2820
+Genres: Приключения, Фэнтези, Фантастика, 
+Rating limit: PG
+Rating: 6.39
+Rating numbers: 561
+Description: Нет описания

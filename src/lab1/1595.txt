@@ -1,0 +1,9 @@
+Name: Idol Land PriPara
+Type: video.tv_show
+Episodes: 4 / ?
+Episode length: 1440
+Genres: Повседневность, Музыка, 
+Rating limit: PG-13
+Rating: 7.55
+Rating numbers: 757
+Description: Нет описания

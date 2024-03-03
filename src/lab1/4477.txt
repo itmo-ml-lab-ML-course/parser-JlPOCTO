@@ -1,0 +1,10 @@
+Name: Nanocore 2nd Season
+Type: video.tv_show
+Episodes: 10
+Episode length: 1500
+Last episode date release: 2016-10-10
+Genres: Экшен, Фантастика, 
+Rating limit: PG-13
+Rating: 6.16
+Rating numbers: 974
+Description: Нет описания

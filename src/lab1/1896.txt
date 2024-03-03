@@ -1,0 +1,9 @@
+Name: Baby I Love You Daze
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Романтика, Музыка, 
+Rating limit: G
+Rating: 7.38
+Rating numbers: 3373
+Description: Ролик, созданный студией «Bones» совместно с альтернативной рок-группой «BUMP OF CHICKEN» к 70-летию кондитерской компании «Lotte», которая была основана в 1948 году.

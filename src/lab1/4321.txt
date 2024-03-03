@@ -1,0 +1,9 @@
+Name: Kidou Senshi Gundam Senki: Avant Title
+Type: video.tv_show
+Episodes: 1
+Episode length: 420
+Genres: Фантастика, Меха, Космос, 
+Rating limit: PG-13
+Rating: 6.19
+Rating numbers: 1339
+Description: Нет описания

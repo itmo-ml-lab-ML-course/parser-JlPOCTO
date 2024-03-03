@@ -1,0 +1,10 @@
+Name: Rockman.EXE Axess
+Type: video.tv_show
+Episodes: 51
+Episode length: 1440
+Last episode date release: 2004-09-25
+Genres: Сёнен, Экшен, Приключения, Комедия, Фантастика, Игры, Меха, 
+Rating limit: PG
+Rating: 7.13
+Rating numbers: 425
+Description: Нет описания

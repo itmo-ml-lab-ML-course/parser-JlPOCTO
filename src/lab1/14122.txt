@@ -1,0 +1,9 @@
+Name: Amada Anime Series: Super Mario Brothers
+Type: video.other
+Episodes: 3
+Episode length: 660
+Genres: Сёнен, Приключения, Комедия, 
+Rating limit: PG
+Rating: 4.75
+Rating numbers: 310
+Description: Нет описания

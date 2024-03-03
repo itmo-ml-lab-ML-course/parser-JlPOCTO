@@ -1,0 +1,7 @@
+Name: Qiu Gazi
+Type: video.tv_show
+Episodes: 30
+Episode length: 300
+Genres: Спорт, Детское, 
+Rating limit: PG
+Description: Нет описания

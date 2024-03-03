@@ -1,0 +1,7 @@
+Name: Hal no Fue
+Type: video.movie
+Episodes: 1
+Episode length: 2880
+Genres: Детское, Приключения, 
+Rating limit: G
+Description: Нет описания

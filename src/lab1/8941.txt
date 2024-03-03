@@ -1,0 +1,7 @@
+Name: Hi, Goodbye: Ai Zui Zhengui
+Type: video.tv_show
+Episodes: 80
+Episode length: 180
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

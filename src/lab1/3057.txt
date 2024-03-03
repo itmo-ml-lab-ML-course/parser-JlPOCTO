@@ -1,0 +1,10 @@
+Name: Nils no Fushigi na Tabi
+Type: video.tv_show
+Episodes: 52
+Episode length: 1500
+Last episode date release: 1981-03-17
+Genres: Детское, Приключения, Фэнтези, 
+Rating limit: G
+Rating: 7.15
+Rating numbers: 681
+Description: Нет описания

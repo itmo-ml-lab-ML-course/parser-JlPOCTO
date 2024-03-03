@@ -1,0 +1,7 @@
+Name: Wo de Maoxian Shijie
+Type: video.tv_show
+Episodes: 17
+Episode length: 360
+Genres: Приключения, Комедия, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Warai no Show Gakkou
+Type: video.tv_show
+Episodes: 20
+Episode length: 60
+Last episode date release: 2010-03-08
+Genres: Детское, Комедия, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Titipo Titipo 2
+Type: video.tv_show
+Episodes: 26
+Episode length: 660
+Last episode date release: 2020-06-26
+Genres: Детское, Машины, 
+Rating limit: PG
+Description: Нет описания

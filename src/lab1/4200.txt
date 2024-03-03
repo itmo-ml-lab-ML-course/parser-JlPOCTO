@@ -1,0 +1,9 @@
+Name: McDull: Gushi
+Type: video.movie
+Episodes: 1
+Episode length: 4500
+Genres: Комедия, 
+Rating limit: G
+Rating: 6.21
+Rating numbers: 170
+Description: Нет описания

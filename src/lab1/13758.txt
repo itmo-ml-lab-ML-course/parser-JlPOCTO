@@ -1,0 +1,10 @@
+Name: Barom One
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2003-03-22
+Genres: Сёнен, Экшен, Фантастика, Сверхъестественное, 
+Rating limit: PG-13
+Rating: 5.06
+Rating numbers: 312
+Description: Нет описания

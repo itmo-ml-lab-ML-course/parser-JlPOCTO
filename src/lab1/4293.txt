@@ -1,0 +1,10 @@
+Name: Apache Yakyuugun
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 1972-03-29
+Genres: Экшен, Спорт, Школа, 
+Rating limit: G
+Rating: 6.19
+Rating numbers: 257
+Description: Нет описания

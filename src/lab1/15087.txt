@@ -1,0 +1,7 @@
+Name: Ninja Box 2nd Season
+Type: video.tv_show
+Episodes: 16
+Last episode date release: 2020-02-13
+Genres: Детское, Экшен, Комедия, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Buddy Spirits
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Экшен, Меха, 
+Rating limit: G
+Rating: 5.15
+Rating numbers: 275
+Description: Нет описания

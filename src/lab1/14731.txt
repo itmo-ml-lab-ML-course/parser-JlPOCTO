@@ -1,0 +1,7 @@
+Name: Mira He Becky
+Type: video.tv_show
+Episodes: 26
+Episode length: 120
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

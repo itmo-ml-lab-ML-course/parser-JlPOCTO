@@ -1,0 +1,7 @@
+Name: Dan Jihua: Long Shou Xingqiu
+Type: video.tv_show
+Episodes: 26
+Episode length: 660
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

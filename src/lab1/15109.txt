@@ -1,0 +1,8 @@
+Name: Nippon Tanjou
+Type: video.tv_show
+Episodes: 5
+Episode length: 1500
+Last episode date release: 1970-10-24
+Genres: Исторический, 
+Rating limit: G
+Description: Мультфильм в общих чертах рассказывает об истории Японии, а его главными героями являются животные.

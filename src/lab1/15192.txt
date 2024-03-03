@@ -1,0 +1,7 @@
+Name: Oidon to
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Детское, Спорт, 
+Rating limit: G
+Description: Нет описания

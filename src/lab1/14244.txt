@@ -1,0 +1,9 @@
+Name: 3-tsu no Kumo
+Type: video.movie
+Episodes: 3
+Episode length: 240
+Genres: Безумие, 
+Rating limit: R+
+Rating: 4.62
+Rating numbers: 398
+Description: Нет описания

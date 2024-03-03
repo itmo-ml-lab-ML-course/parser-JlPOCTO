@@ -1,0 +1,10 @@
+Name: Sei Juushi Bismarck
+Type: video.tv_show
+Episodes: 51
+Episode length: 1440
+Last episode date release: 1985-09-29
+Genres: Экшен, Приключения, Фантастика, Меха, Космос, 
+Rating limit: PG-13
+Rating: 7.25
+Rating numbers: 482
+Description: Нет описания

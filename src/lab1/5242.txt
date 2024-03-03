@@ -1,0 +1,10 @@
+Name: Saru Getchu: On Air
+Type: video.tv_show
+Episodes: 26
+Episode length: 900
+Last episode date release: 2006-09-30
+Genres: Приключения, Комедия, Фэнтези, Романтика, 
+Rating limit: PG
+Rating: 6.0
+Rating numbers: 227
+Description: Нет описания

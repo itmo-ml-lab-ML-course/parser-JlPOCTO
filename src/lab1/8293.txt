@@ -1,0 +1,8 @@
+Name: Ehon Yose
+Type: video.tv_show
+Episodes: 50
+Episode length: 300
+Last episode date release: 2008-01-01
+Genres: Детское, Ужасы, Исторический, 
+Rating limit: PG
+Description: Нет описания

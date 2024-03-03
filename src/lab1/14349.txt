@@ -1,0 +1,9 @@
+Name: A Log Day of Timbre
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.4
+Rating numbers: 201
+Description: Нет описания

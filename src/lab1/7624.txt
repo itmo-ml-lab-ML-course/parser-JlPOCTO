@@ -1,0 +1,8 @@
+Name: Chang Jian Feng Yun 2nd Season
+Type: video.tv_show
+Episodes: 10
+Episode length: 2220
+Last episode date release: 2023-06-21
+Genres: Экшен, Драма, 
+Rating limit: PG-13
+Description: Нет описания

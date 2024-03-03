@@ -1,0 +1,10 @@
+Name: Ginga Eiyuu Densetsu Gaiden
+Type: video.other
+Episodes: 24
+Episode length: 1560
+Last episode date release: 1998-09-26
+Genres: Экшен, Драма, Фантастика, Военное, Космос, 
+Rating limit: R+
+Rating: 8.12
+Rating numbers: 5033
+Description: Приквел к основной истории, в центре которого рассказ о Райнхарде и его первых шагах по социальной лестнице, ведущей к креслу адмирала Галактической Империи.

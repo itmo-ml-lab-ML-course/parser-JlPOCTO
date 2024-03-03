@@ -1,0 +1,6 @@
+Name: Cardfight!! Vanguard: D Series Season 9
+Type: video.tv_show
+Episodes: 1
+Genres: Экшен, 
+Rating limit: PG-13
+Description: Нет описания

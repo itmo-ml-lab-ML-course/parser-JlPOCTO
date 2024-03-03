@@ -1,0 +1,10 @@
+Name: AOTU Shijie
+Type: video.tv_show
+Episodes: 32
+Episode length: 720
+Last episode date release: 2017-01-31
+Genres: Экшен, Приключения, Фэнтези, Фантастика, 
+Rating limit: PG-13
+Rating: 6.33
+Rating numbers: 609
+Description: Нет описания

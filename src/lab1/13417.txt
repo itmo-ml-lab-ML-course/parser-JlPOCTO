@@ -1,0 +1,9 @@
+Name: Tenkou Kotofumi
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Фэнтези, Музыка, 
+Rating limit: PG
+Rating: 5.25
+Rating numbers: 235
+Description: Короткометражный фильм Rapparu.

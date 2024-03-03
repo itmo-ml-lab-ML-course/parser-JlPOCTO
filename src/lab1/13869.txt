@@ -1,0 +1,9 @@
+Name: Karasu
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.99
+Rating numbers: 169
+Description: Нет описания

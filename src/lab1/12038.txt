@@ -1,0 +1,10 @@
+Name: King of Prism: Shiny Seven Stars
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2019-07-02
+Genres: Спорт, Музыка, 
+Rating limit: PG-13
+Rating: 6.44
+Rating numbers: 1623
+Description: Нет описания

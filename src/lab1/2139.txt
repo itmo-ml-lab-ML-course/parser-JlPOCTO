@@ -1,0 +1,10 @@
+Name: Mazinkaiser
+Type: video.other
+Episodes: 7
+Episode length: 1800
+Last episode date release: 2002-09-20
+Genres: Сёнен, Приключения, Комедия, Фантастика, Меха, 
+Rating limit: R+
+Rating: 7.33
+Rating numbers: 958
+Description: Нет описания

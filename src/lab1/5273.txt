@@ -1,0 +1,10 @@
+Name: Zenryoku Usagi
+Type: video.tv_show
+Episodes: 52
+Episode length: 720
+Last episode date release: 2008-12-27
+Genres: Детское, Комедия, 
+Rating limit: G
+Rating: 6.01
+Rating numbers: 243
+Description: Нет описания

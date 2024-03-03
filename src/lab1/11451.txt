@@ -1,0 +1,9 @@
+Name: Kemono Friends: Bus-teki
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 6.55
+Rating numbers: 1768
+Description: После битвы с гигантским лазурником Белолицая Совка и Филин просят Фенека и Енота-Полоскуна найти новые колёса для автобуса, чтобы починить его и вернуть Кабан.

@@ -1,0 +1,10 @@
+Name: NieR: Automata Ver 1.1a
+Type: video.tv_show
+Episodes: 12
+Episode length: 1380
+Last episode date release: 2023-07-23
+Genres: Экшен, Фэнтези, Фантастика, 
+Rating limit: PG-13
+Rating: 7.52
+Rating numbers: 39365
+Description: Нет описания

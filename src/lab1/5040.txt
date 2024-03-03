@@ -1,0 +1,10 @@
+Name: Jantama Pong☆
+Type: video.tv_show
+Episodes: 11
+Episode length: 60
+Last episode date release: 2022-06-18
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.05
+Rating numbers: 1273
+Description: Нет описания

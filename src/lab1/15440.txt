@@ -1,0 +1,7 @@
+Name: Pichiko Dakyuubu
+Type: video.tv_show
+Episodes: 29
+Episode length: 60
+Genres: Комедия, Спорт, 
+Rating limit: G
+Description: Нет описания

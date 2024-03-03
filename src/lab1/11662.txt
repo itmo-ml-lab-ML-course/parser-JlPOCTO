@@ -1,0 +1,10 @@
+Name: Pingu in the City
+Type: video.tv_show
+Episodes: 26
+Episode length: 420
+Last episode date release: 2018-03-31
+Genres: Комедия, Детское, 
+Rating limit: G
+Rating: 6.52
+Rating numbers: 3005
+Description: Пингу и его семья переезжают из небольшой деревни в большой город, в котором живёт огромное количество пингвинов с самыми разными профессиями. Главный герой старается помочь пингвинам на их рабочих местах, но его озорные проделки всё портят.

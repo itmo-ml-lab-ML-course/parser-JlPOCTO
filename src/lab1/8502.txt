@@ -1,0 +1,7 @@
+Name: Ganbare Swimmy
+Type: video.movie
+Episodes: 1
+Episode length: 1500
+Genres: Приключения, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: A Sea Doesn&#39;t Tell Much
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 4.47
+Rating numbers: 133
+Description: Нет описания

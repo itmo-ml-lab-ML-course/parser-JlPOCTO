@@ -1,0 +1,10 @@
+Name: Tezuka Osamu no Don Dracula
+Type: video.tv_show
+Episodes: 8
+Episode length: 1440
+Last episode date release: 1982-04-26
+Genres: Комедия, Ужасы, Сверхъестественное, Вампиры, 
+Rating limit: R+
+Rating: 6.01
+Rating numbers: 606
+Description: Нет описания

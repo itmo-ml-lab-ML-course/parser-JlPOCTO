@@ -1,0 +1,6 @@
+Name: Hanhua Riji 4th Season
+Type: video.tv_show
+Episodes: 12
+Genres: Комедия, Сверхъестественное, 
+Rating limit: PG-13
+Description: Нет описания

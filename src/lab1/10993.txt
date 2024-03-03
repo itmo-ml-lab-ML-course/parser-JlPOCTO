@@ -1,0 +1,10 @@
+Name: Stars*Collection!
+Type: video.tv_show
+Episodes: 61
+Episode length: 120
+Last episode date release: 2023-03-24
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.64
+Rating numbers: 621
+Description: Нет описания

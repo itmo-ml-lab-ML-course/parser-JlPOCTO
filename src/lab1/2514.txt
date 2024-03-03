@@ -1,0 +1,10 @@
+Name: Musashi no Ken
+Type: video.tv_show
+Episodes: 72
+Episode length: 1440
+Last episode date release: 1986-09-26
+Genres: Сёнен, Спорт, 
+Rating limit: G
+Rating: 7.25
+Rating numbers: 705
+Description: Нет описания

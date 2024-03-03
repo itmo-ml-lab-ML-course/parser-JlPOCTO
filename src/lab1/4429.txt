@@ -1,0 +1,9 @@
+Name: Gegege no Kitarou: Daikaijuu
+Type: video.movie
+Episodes: 1
+Episode length: 3000
+Genres: Сёнен, Экшен, Фэнтези, Ужасы, Сверхъестественное, 
+Rating limit: G
+Rating: 6.17
+Rating numbers: 656
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Shin Megami Tensei Devil Children
+Type: video.tv_show
+Episodes: 50
+Episode length: 1380
+Last episode date release: 2001-09-29
+Genres: Детское, Экшен, Приключения, Фэнтези, Фантастика, Сверхъестественное, Демоны, Игры, 
+Rating limit: PG
+Rating: 7.13
+Rating numbers: 399
+Description: Нет описания

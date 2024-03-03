@@ -1,0 +1,8 @@
+Name: Eagle Sam
+Type: video.tv_show
+Episodes: 51
+Episode length: 1500
+Last episode date release: 1984-03-29
+Genres: Комедия, Спорт, 
+Rating limit: G
+Description: Нет описания

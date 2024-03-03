@@ -1,0 +1,9 @@
+Name: Controller of Controller
+Type: video.movie
+Episodes: 1
+Episode length: 420
+Genres: Безумие, Комедия, Машины, Музыка, 
+Rating limit: G
+Rating: 5.44
+Rating numbers: 201
+Description: Нет описания

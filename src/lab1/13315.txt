@@ -1,0 +1,10 @@
+Name: Doamaiger D
+Type: video.tv_show
+Episodes: 13
+Episode length: 120
+Last episode date release: 2015-03-30
+Genres: Экшен, Комедия, Гурман, Меха, 
+Rating limit: G
+Rating: 5.29
+Rating numbers: 327
+Description: Нет описания

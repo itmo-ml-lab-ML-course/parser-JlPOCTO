@@ -1,0 +1,10 @@
+Name: Wu Ying Sanqian Dao
+Type: video.tv_show
+Episodes: 10
+Episode length: 720
+Last episode date release: 2022-05-15
+Genres: Экшен, Приключения, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.36
+Rating numbers: 964
+Description: Нет описания

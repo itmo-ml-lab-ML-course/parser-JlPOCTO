@@ -1,0 +1,8 @@
+Name: Hello Carbot Season 4
+Type: video.tv_show
+Episodes: 26
+Episode length: 720
+Last episode date release: 2017-02-11
+Genres: Экшен, Меха, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Haha no Supporter
+Type: video.tv_show
+Episodes: 1
+Episode length: 240
+Genres: Драма, 
+Rating limit: G
+Rating: 6.09
+Rating numbers: 422
+Description: Нет описания

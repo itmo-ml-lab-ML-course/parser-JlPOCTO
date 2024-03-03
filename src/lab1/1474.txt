@@ -1,0 +1,10 @@
+Name: Dragon Quest: Dai no Daibouken (TV)
+Type: video.tv_show
+Episodes: 46
+Episode length: 1440
+Last episode date release: 1992-09-24
+Genres: Сёнен, Приключения, Комедия, Фэнтези, Демоны, Боевые искусства, 
+Rating limit: G
+Rating: 7.57
+Rating numbers: 1086
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Free! Movie 5: The Final Stroke - Kouhen
+Type: video.movie
+Episodes: 1
+Episode length: 6300
+Genres: Спорт, Школа, 
+Rating limit: PG-13
+Rating: 7.76
+Rating numbers: 5127
+Description: Нет описания

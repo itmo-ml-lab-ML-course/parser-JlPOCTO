@@ -1,0 +1,8 @@
+Name: Nepos Napos
+Type: video.tv_show
+Episodes: 26
+Episode length: 360
+Last episode date release: 2005-07-25
+Genres: Детское, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

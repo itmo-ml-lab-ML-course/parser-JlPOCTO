@@ -1,0 +1,9 @@
+Name: Cats Run
+Type: video.tv_show
+Episodes: 1
+Episode length: 600
+Genres: Приключения, Комедия, 
+Rating limit: G
+Rating: 6.21
+Rating numbers: 74
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Pokemon Movie 19: Volcanion to Karakuri no Magearna
+Type: video.movie
+Episodes: 1
+Episode length: 5640
+Genres: Детское, Приключения, Фэнтези, 
+Rating limit: PG
+Rating: 6.62
+Rating numbers: 3128
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Nu Wushen de Canzhuo Spring Festival Special
+Type: video.tv_show
+Episodes: 1
+Episode length: 600
+Genres: Комедия, Гурман, 
+Rating limit: PG-13
+Rating: 7.11
+Rating numbers: 1061
+Description: Нет описания

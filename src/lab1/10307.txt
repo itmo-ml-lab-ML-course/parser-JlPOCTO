@@ -1,0 +1,9 @@
+Name: Initial D Battle Stage 2
+Type: video.other
+Episodes: 1
+Episode length: 4800
+Genres: Экшен, Драма, Сэйнэн, 
+Rating limit: PG-13
+Rating: 7.65
+Rating numbers: 8387
+Description: В данных сериях показаны основные события «Инициал Ди: Стадия четвёртая», а также две новых гонки, которые не были показаны в оригинальном сериале.

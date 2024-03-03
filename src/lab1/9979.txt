@@ -1,0 +1,9 @@
+Name: Meitantei Conan Movie 09: Suihei Senjou no Strategy
+Type: video.movie
+Episodes: 1
+Episode length: 6600
+Genres: Сёнен, Приключения, Комедия, Детектив, Полиция, 
+Rating limit: PG-13
+Rating: 7.79
+Rating numbers: 2388
+Description: Нет описания

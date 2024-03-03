@@ -1,0 +1,9 @@
+Name: Usalullaby
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.43
+Rating numbers: 325
+Description: Нет описания

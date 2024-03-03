@@ -1,0 +1,9 @@
+Name: Jikan
+Type: video.movie
+Episodes: 1
+Episode length: 420
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.77
+Rating numbers: 307
+Description: Нет описания

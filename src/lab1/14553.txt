@@ -1,0 +1,7 @@
+Name: Meitounao He Bugaoxing (TV)
+Type: video.tv_show
+Episodes: 26
+Episode length: 1320
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

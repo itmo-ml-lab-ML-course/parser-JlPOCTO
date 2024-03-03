@@ -1,0 +1,10 @@
+Name: Xi Xing Ji
+Type: video.tv_show
+Episodes: 16
+Episode length: 960
+Last episode date release: 2018-10-10
+Genres: Экшен, Приключения, Фэнтези, Исторический, Боевые искусства, 
+Rating limit: PG-13
+Rating: 6.57
+Rating numbers: 1951
+Description: Нет описания

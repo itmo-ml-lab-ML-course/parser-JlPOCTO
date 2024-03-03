@@ -1,0 +1,10 @@
+Name: Tokyo Underground
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 2002-09-24
+Genres: Сёнен, Экшен, Приключения, Романтика, Фантастика, Супер сила, 
+Rating limit: PG-13
+Rating: 6.59
+Rating numbers: 3022
+Description: Нет описания

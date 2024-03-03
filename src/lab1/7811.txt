@@ -1,0 +1,8 @@
+Name: Chuldong! Jungjangbi Saurus
+Type: video.tv_show
+Episodes: 10
+Episode length: 300
+Last episode date release: 2022-06-17
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

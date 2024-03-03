@@ -1,0 +1,9 @@
+Name: Samurai
+Type: video.movie
+Episodes: 1
+Episode length: 420
+Genres: Драма, Романтика, 
+Rating limit: G
+Rating: 4.54
+Rating numbers: 301
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Gozonji! Gekkou Kamen-kun
+Type: video.tv_show
+Episodes: 25
+Episode length: 1500
+Last episode date release: 2000-03-26
+Genres: Комедия, Фантастика, Пародия, 
+Rating limit: G
+Rating: 6.24
+Rating numbers: 209
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Chance Triangle Session
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2001-08-27
+Genres: Драма, Повседневность, Музыка, 
+Rating limit: PG-13
+Rating: 6.43
+Rating numbers: 475
+Description: Нет описания

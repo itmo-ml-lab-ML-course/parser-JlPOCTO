@@ -1,0 +1,8 @@
+Name: Chi Ji Da Zuozhan 3rd Season
+Type: video.tv_show
+Episodes: 24
+Episode length: 300
+Last episode date release: 2020-11-27
+Genres: Комедия, Пародия, 
+Rating limit: PG-13
+Description: Нет описания

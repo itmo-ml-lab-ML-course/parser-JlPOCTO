@@ -1,0 +1,10 @@
+Name: Chou Futsuu Toshi Kashiwa Densetsu
+Type: video.tv_show
+Episodes: 10
+Episode length: 360
+Last episode date release: 2019-04-26
+Genres: Комедия, Фэнтези, 
+Rating limit: G
+Rating: 5.21
+Rating numbers: 240
+Description: Нет описания

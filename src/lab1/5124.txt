@@ -1,0 +1,10 @@
+Name: Xiong Bing Lian
+Type: video.tv_show
+Episodes: 33
+Episode length: 1260
+Last episode date release: 2018-04-19
+Genres: Экшен, Детектив, Фантастика, Сверхъестественное, Меха, Военное, Космос, 
+Rating limit: R-17
+Rating: 6.04
+Rating numbers: 1411
+Description: Нет описания

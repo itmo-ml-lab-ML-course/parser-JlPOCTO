@@ -1,0 +1,7 @@
+Name: Dokkaebi Gamtu
+Type: video.movie
+Episodes: 1
+Episode length: 4200
+Genres: Сёнен, Экшен, Приключения, Фэнтези, Демоны, 
+Rating limit: PG
+Description: Нет описания

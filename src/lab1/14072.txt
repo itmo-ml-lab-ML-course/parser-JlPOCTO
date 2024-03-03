@@ -1,0 +1,9 @@
+Name: Collapse Zen
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.8
+Rating numbers: 148
+Description: Нет описания

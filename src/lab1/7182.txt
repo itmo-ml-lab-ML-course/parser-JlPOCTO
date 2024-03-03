@@ -1,0 +1,7 @@
+Name: Yowamushi Monsters
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

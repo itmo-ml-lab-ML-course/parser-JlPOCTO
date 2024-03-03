@@ -1,0 +1,10 @@
+Name: Fin-tan
+Type: video.tv_show
+Episodes: 3
+Episode length: 120
+Last episode date release: 2017-09-15
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.12
+Rating numbers: 307
+Description: Нет описания

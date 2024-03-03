@@ -1,0 +1,9 @@
+Name: Tokyogurashi!
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Музыка, Пародия, 
+Rating limit: PG-13
+Rating: 4.67
+Rating numbers: 2697
+Description: Пародия на опенинг аниме «Школьная жизнь!». В главных ролях — персонажи визуальной новеллы «Токийские некроманты» от Nitro+.

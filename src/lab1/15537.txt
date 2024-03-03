@@ -1,0 +1,7 @@
+Name: Prepare
+Type: video.tv_show
+Episodes: 3
+Episode length: 120
+Genres: 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Wan Ou Qibing
+Type: video.movie
+Episodes: 1
+Episode length: 5280
+Genres: Детское, Приключения, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

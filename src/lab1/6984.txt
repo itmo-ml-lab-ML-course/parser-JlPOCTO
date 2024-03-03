@@ -1,0 +1,7 @@
+Name: Xing Mao Lixian Ji: Xingkong Da Maoxian
+Type: video.tv_show
+Episodes: 36
+Episode length: 720
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

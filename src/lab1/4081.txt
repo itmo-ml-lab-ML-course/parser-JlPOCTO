@@ -1,0 +1,9 @@
+Name: Stratos 4: Logbook
+Type: video.other
+Episodes: 1
+Episode length: 1800
+Genres: Экшен, Фантастика, Этти, 
+Rating limit: PG-13
+Rating: 6.24
+Rating numbers: 363
+Description: Краткий пересказ аниме-сериала «Стратос 4».

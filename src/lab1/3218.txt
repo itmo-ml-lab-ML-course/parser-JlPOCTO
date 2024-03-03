@@ -1,0 +1,10 @@
+Name: Onmyou Taisenki
+Type: video.tv_show
+Episodes: 52
+Episode length: 1380
+Last episode date release: 2005-09-29
+Genres: Сёнен, Приключения, Фэнтези, Сверхъестественное, 
+Rating limit: PG-13
+Rating: 7.12
+Rating numbers: 490
+Description: Нет описания

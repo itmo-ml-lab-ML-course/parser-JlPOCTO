@@ -1,0 +1,10 @@
+Name: Zoids Wild
+Type: video.tv_show
+Episodes: 50
+Episode length: 1440
+Last episode date release: 2019-06-29
+Genres: Экшен, Приключения, Комедия, Фантастика, Меха, 
+Rating limit: PG
+Rating: 6.27
+Rating numbers: 1097
+Description: Нет описания

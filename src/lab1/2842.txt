@@ -1,0 +1,10 @@
+Name: Dr. Slump: Arale-chan
+Type: video.tv_show
+Episodes: 243
+Episode length: 1500
+Last episode date release: 1986-02-19
+Genres: Комедия, Фантастика, Сёнен, 
+Rating limit: PG-13
+Rating: 7.19
+Rating numbers: 1074
+Description: Нет описания

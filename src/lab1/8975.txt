@@ -1,0 +1,7 @@
+Name: Hirogaru, Sekai
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Драма, Школа, 
+Rating limit: PG-13
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: SiNK
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, 
+Rating limit: R+
+Description: Нет описания

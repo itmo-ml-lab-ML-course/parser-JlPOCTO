@@ -1,0 +1,9 @@
+Name: Wanmei Shijie
+Type: video.tv_show
+Episodes: 144 / 182
+Episode length: 1140
+Genres: Экшен, Приключения, Фэнтези, 
+Rating limit: PG-13
+Rating: 7.53
+Rating numbers: 3427
+Description: Нет описания

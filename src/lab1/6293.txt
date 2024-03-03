@@ -1,0 +1,7 @@
+Name: Tunshu Xuetang: Jim Baike Changshi
+Type: video.tv_show
+Episodes: 75
+Episode length: 720
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

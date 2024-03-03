@@ -1,0 +1,10 @@
+Name: B-Project: Kodou*Ambitious
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2016-09-25
+Genres: Музыка, 
+Rating limit: PG-13
+Rating: 6.59
+Rating numbers: 7603
+Description: Нет описания

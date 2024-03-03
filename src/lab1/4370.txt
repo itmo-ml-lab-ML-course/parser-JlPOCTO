@@ -1,0 +1,10 @@
+Name: Yuan Long 3rd Season
+Type: video.tv_show
+Episodes: 16
+Episode length: 1140
+Last episode date release: 2023-03-16
+Genres: Экшен, Приключения, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.2
+Rating numbers: 1111
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: The iDOLM@STER Cinderella Girls: Spin-off!
+Type: video.tv_show
+Episodes: 1
+Episode length: 360
+Genres: Музыка, 
+Rating limit: PG-13
+Rating: 6.17
+Rating numbers: 429
+Description: Нет описания

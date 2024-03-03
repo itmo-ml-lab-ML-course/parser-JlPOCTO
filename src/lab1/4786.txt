@@ -1,0 +1,9 @@
+Name: Nineteen 19
+Type: video.other
+Episodes: 1
+Episode length: 2520
+Genres: Драма, Романтика, 
+Rating limit: R-17
+Rating: 6.09
+Rating numbers: 916
+Description: Одной ночью в клубе молодой и привлекательный парень девятнадцати лет, Кадзуси Кубота, в поисках настоящей любви встречается со своей школьной любовью Масаной Фудзисаки.

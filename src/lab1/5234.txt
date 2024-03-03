@@ -1,0 +1,8 @@
+Name: Noraneko
+Type: video.tv_show
+Episodes: 1
+Genres: Комедия, 
+Rating limit: G
+Rating: 6.0
+Rating numbers: 9933
+Description: Короткое видео, выпущенное 1-го апреля 2014 года, в котором персонажи аниме «Бездомный бог» показаны с кошачьими ушами.

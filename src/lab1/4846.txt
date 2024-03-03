@@ -1,0 +1,10 @@
+Name: Suhoyojeong Michel
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 2003-12-11
+Genres: Детское, Приключения, Фэнтези, 
+Rating limit: PG
+Rating: 6.08
+Rating numbers: 204
+Description: Нет описания

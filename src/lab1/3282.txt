@@ -1,0 +1,9 @@
+Name: One Piece: Yume no Soccer Ou!
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Сёнен, Комедия, Фэнтези, Спорт, 
+Rating limit: PG-13
+Rating: 7.1
+Rating numbers: 8793
+Description: Луффи вместе со своей командой играют в футбол на главном стадионе Гранд Лайна за звание «Футбольного короля мечты». На воротах стоит Коби, а судьей является Хельмеппо.

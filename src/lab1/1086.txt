@@ -1,0 +1,9 @@
+Name: Kuroko no Basket Movie 1: Winter Cup - Kage to Hikari
+Type: video.movie
+Episodes: 1
+Episode length: 5220
+Genres: Сёнен, Спорт, Школа, 
+Rating limit: PG-13
+Rating: 7.73
+Rating numbers: 19095
+Description: Первый полнометражный фильм-рекап оригинального аниме-сериала «Баскетбол Куроко», охватывающий матч против команды старшей школы Тоо и  Дайки Аоминэ.

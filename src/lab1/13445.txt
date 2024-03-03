@@ -1,0 +1,9 @@
+Name: Yumemi Douji
+Type: video.movie
+Episodes: 1
+Episode length: 900
+Genres: Драма, 
+Rating limit: G
+Rating: 5.31
+Rating numbers: 235
+Description: Нет описания

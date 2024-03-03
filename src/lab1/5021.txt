@@ -1,0 +1,10 @@
+Name: Gebaude Baude
+Type: video.tv_show
+Episodes: 10
+Episode length: 120
+Last episode date release: 2020-12-10
+Genres: Комедия, Фантастика, 
+Rating limit: G
+Rating: 6.05
+Rating numbers: 292
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Minna Atsumare! Falcom Gakuen SC
+Type: video.tv_show
+Episodes: 12
+Episode length: 120
+Last episode date release: 2015-03-22
+Genres: Сэйнэн, Комедия, Пародия, Школа, 
+Rating limit: PG-13
+Rating: 6.01
+Rating numbers: 943
+Description: Продолжение приключений в академии Фальком. Удастся ли Тёмной Сущности перевоспитать этих неисправимых героев, созванных из всех вселенных компании «Falcom»?

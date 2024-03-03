@@ -1,0 +1,7 @@
+Name: Bazar de Gozarre
+Type: video.other
+Episodes: 33
+Last episode date release: 2003-11-01
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

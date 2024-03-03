@@ -1,0 +1,8 @@
+Name: Mao Zhi Ming 2nd Season
+Type: video.tv_show
+Episodes: 11
+Episode length: 660
+Last episode date release: 2023-06-17
+Genres: Комедия, Фэнтези, 
+Rating limit: G
+Description: Нет описания

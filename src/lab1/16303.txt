@@ -1,0 +1,5 @@
+Name: Kami wa Game ni Ueteiru.
+Type: video.tv_show
+Episodes: 1
+Genres: Фэнтези, Этти, Игры, 
+Description: Нет описания

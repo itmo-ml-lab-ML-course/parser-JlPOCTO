@@ -1,0 +1,7 @@
+Name: Shenqi Zhihui Dao
+Type: video.tv_show
+Episodes: 16
+Episode length: 1500
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

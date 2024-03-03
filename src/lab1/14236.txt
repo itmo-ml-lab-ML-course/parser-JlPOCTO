@@ -1,0 +1,9 @@
+Name: Anon Sentai Ranger 5
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Музыка, Пародия, Супер сила, 
+Rating limit: G
+Rating: 4.63
+Rating numbers: 136
+Description: Нет описания

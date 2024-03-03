@@ -1,0 +1,9 @@
+Name: Li Shi Zhentan Shiwusuo: A Day in Lungmen - Home Service
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Экшен, Комедия, Детектив, 
+Rating limit: PG-13
+Rating: 6.11
+Rating numbers: 252
+Description: Нет описания

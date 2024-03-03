@@ -1,0 +1,6 @@
+Name: Rising Impact
+Type: video.tv_show
+Episodes: 1
+Last episode date release: 2024-08-01
+Genres: Спорт, Сёнен, 
+Description: Нет описания

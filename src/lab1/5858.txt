@@ -1,0 +1,7 @@
+Name: Supermoon
+Type: video.movie
+Episodes: 1
+Episode length: 4440
+Genres: Приключения, Детское, 
+Rating limit: G
+Description: Нет описания

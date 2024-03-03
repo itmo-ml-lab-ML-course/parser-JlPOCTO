@@ -1,0 +1,7 @@
+Name: Nakado Riku Animation: Hijouyou Mochidashi Bukuro wo Youi Shiyou
+Type: video.tv_show
+Episodes: 1
+Episode length: 240
+Genres: Повседневность, 
+Rating limit: G
+Description: Нет описания

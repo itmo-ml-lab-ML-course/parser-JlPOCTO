@@ -1,0 +1,9 @@
+Name: Gokushufudou Part 2
+Type: video.tv_show
+Episodes: 5
+Episode length: 1080
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 7.54
+Rating numbers: 16630
+Description: Продолжение истории о бывшем якудзе, а ныне — простом домохозяине Тацу. Отойдя от криминала, он каждый день занимается домашними делами, попадая в интересные и забавные ситуации.

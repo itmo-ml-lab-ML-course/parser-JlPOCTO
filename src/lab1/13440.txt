@@ -1,0 +1,10 @@
+Name: Shoot! Goal to the Future
+Type: video.tv_show
+Episodes: 13
+Episode length: 1380
+Last episode date release: 2022-09-24
+Genres: Сёнен, Спорт, 
+Rating limit: PG-13
+Rating: 5.24
+Rating numbers: 1657
+Description: Нет описания

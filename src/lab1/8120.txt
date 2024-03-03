@@ -1,0 +1,8 @@
+Name: Dolphin Ouji
+Type: video.tv_show
+Episodes: 3
+Episode length: 1380
+Last episode date release: 1965-04-18
+Genres: Детское, Экшен, Приключения, Фантастика, 
+Rating limit: G
+Description: Нет описания

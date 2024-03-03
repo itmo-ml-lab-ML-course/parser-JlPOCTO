@@ -1,0 +1,10 @@
+Name: Ame-iro Cocoa: Side G
+Type: video.tv_show
+Episodes: 12
+Episode length: 120
+Last episode date release: 2019-03-27
+Genres: Комедия, Повседневность, Работа, 
+Rating limit: PG-13
+Rating: 4.85
+Rating numbers: 2153
+Description: Нет описания

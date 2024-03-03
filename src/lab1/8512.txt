@@ -1,0 +1,7 @@
+Name: Ganbare! Yonpey-kun
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, Комедия, Музыка, 
+Rating limit: G
+Description: Нет описания

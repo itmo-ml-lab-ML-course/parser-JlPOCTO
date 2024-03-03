@@ -1,0 +1,9 @@
+Name: Arara
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: Безумие, Сверхъестественное, 
+Rating limit: G
+Rating: 5.31
+Rating numbers: 431
+Description: Нет описания

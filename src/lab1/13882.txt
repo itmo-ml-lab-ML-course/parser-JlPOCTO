@@ -1,0 +1,9 @@
+Name: Mighty Thor: Battle Royale
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Фэнтези, Пародия, 
+Rating limit: G
+Rating: 4.98
+Rating numbers: 305
+Description: Нет описания

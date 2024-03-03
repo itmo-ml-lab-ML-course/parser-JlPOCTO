@@ -1,0 +1,8 @@
+Name: Shui Tun Tang Guan
+Type: video.tv_show
+Episodes: 20
+Episode length: 360
+Last episode date release: 2021-05-12
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

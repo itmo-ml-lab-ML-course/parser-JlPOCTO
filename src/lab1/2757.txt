@@ -1,0 +1,9 @@
+Name: One Piece Film: Gold Episode 0 - 711 ver.
+Type: video.tv_show
+Episodes: 1
+Episode length: 600
+Genres: Сёнен, Экшен, Приключения, Комедия, Фэнтези, Супер сила, 
+Rating limit: PG-13
+Rating: 7.2
+Rating numbers: 7212
+Description: Короткий приквел к фильму «Ван-Пис: Золото». Пираты команды «Соломенной шляпы» планируют, что будут делать, когда прибудут в казино,‎ и ищут способ заработать деньги для казино Тесоро.

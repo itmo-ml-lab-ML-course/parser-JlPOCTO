@@ -1,0 +1,6 @@
+Name: Tsuki no Musume
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, Музыка, 
+Description: Нет описания

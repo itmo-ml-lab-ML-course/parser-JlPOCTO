@@ -1,0 +1,8 @@
+Name: Sekai Meisaku Douwa Series
+Type: video.tv_show
+Episodes: 4
+Episode length: 1500
+Last episode date release: 1988-04-28
+Genres: Детское, Приключения, Фэнтези, Сверхъестественное, Исторический, 
+Rating limit: G
+Description: Нет описания

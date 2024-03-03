@@ -1,0 +1,7 @@
+Name: Guai Guai Pinyin Lixian Ji 2nd Season
+Type: video.tv_show
+Episodes: 21
+Episode length: 660
+Genres: Приключения, Детское, 
+Rating limit: PG
+Description: Нет описания

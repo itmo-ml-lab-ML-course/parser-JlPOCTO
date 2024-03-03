@@ -1,0 +1,10 @@
+Name: IGPX: Immortal Grand Prix
+Type: video.tv_show
+Episodes: 5
+Episode length: 300
+Last episode date release: 2003-09-19
+Genres: Сёнен, Фантастика, Спорт, Меха, 
+Rating limit: PG-13
+Rating: 6.51
+Rating numbers: 458
+Description: Нет описания

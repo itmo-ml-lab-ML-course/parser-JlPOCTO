@@ -1,0 +1,9 @@
+Name: Ninkuu (Movie)
+Type: video.movie
+Episodes: 1
+Episode length: 1560
+Genres: Сёнен, Экшен, Приключения, Комедия, Исторический, Боевые искусства, 
+Rating limit: G
+Rating: 6.08
+Rating numbers: 255
+Description: Нет описания

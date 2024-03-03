@@ -1,0 +1,7 @@
+Name: Geisters Movie: Hikari no Shou
+Type: video.movie
+Episodes: 1
+Episode length: 6000
+Genres: Экшен, Фантастика, Военное, 
+Rating limit: PG-13
+Description: Краткий пересказ первой половины аниме-сериала «Гейстеры».

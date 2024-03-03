@@ -1,0 +1,9 @@
+Name: ChaoS;Child Episode 0
+Type: video.other
+Episodes: 1
+Episode length: 1380
+Genres: Детектив, Фантастика, Сверхъестественное, Психологическое, 
+Rating limit: R-17
+Rating: 6.22
+Rating numbers: 9077
+Description: Краткий пересказ событий визуальной новеллы «Chaos;Head».

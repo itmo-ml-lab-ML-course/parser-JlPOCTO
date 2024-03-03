@@ -1,0 +1,9 @@
+Name: Murder
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Детектив, Пародия, Вампиры, 
+Rating limit: PG-13
+Rating: 5.11
+Rating numbers: 513
+Description: Нет описания

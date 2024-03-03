@@ -1,0 +1,8 @@
+Name: Peeping Life x Sanyo
+Type: video.tv_show
+Episodes: 6
+Episode length: 300
+Last episode date release: 2017-07-06
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Description: Нет описания

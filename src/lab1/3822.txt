@@ -1,0 +1,10 @@
+Name: Youkai Watch ♪
+Type: video.tv_show
+Episodes: 98
+Episode length: 1440
+Last episode date release: 2023-03-31
+Genres: Комедия, Сверхъестественное, Детское, 
+Rating limit: G
+Rating: 6.3
+Rating numbers: 480
+Description: Нет описания

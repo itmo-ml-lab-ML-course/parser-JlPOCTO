@@ -1,0 +1,9 @@
+Name: Hayashi-fusai
+Type: video.other
+Episodes: 1
+Episode length: 180
+Genres: Музыка, 
+Rating limit: G
+Rating: 5.2
+Rating numbers: 140
+Description: Нет описания

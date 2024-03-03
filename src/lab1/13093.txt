@@ -1,0 +1,9 @@
+Name: Made in Japan
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.38
+Rating numbers: 262
+Description: Нет описания

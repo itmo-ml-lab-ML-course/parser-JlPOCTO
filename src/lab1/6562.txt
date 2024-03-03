@@ -1,0 +1,7 @@
+Name: Wo de Maoxian Shijie 2nd Season
+Type: video.tv_show
+Episodes: 16
+Episode length: 660
+Genres: Приключения, Комедия, 
+Rating limit: G
+Description: Нет описания

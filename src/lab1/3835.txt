@@ -1,0 +1,10 @@
+Name: Jetter Mars
+Type: video.tv_show
+Episodes: 27
+Episode length: 1380
+Last episode date release: 1977-09-15
+Genres: Экшен, Драма, Фантастика, Меха, 
+Rating limit: G
+Rating: 6.29
+Rating numbers: 431
+Description: Нет описания

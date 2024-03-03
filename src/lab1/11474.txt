@@ -1,0 +1,9 @@
+Name: Onimusha
+Type: video.tv_show
+Episodes: 8
+Episode length: 1560
+Genres: Экшен, Исторический, Самураи, 
+Rating limit: R-17
+Rating: 6.55
+Rating numbers: 1954
+Description: Нет описания

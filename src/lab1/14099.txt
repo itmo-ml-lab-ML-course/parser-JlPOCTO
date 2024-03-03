@@ -1,0 +1,9 @@
+Name: Wall
+Type: video.movie
+Episodes: 1
+Episode length: 420
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.96
+Rating numbers: 402
+Description: Нет описания

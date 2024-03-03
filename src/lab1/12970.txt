@@ -1,0 +1,9 @@
+Name: Pride
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Повседневность, 
+Rating limit: G
+Rating: 5.42
+Rating numbers: 313
+Description: Нет описания

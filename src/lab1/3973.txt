@@ -1,0 +1,10 @@
+Name: Cybot Robocchi
+Type: video.tv_show
+Episodes: 39
+Episode length: 1440
+Last episode date release: 1983-06-29
+Genres: Комедия, Фантастика, 
+Rating limit: G
+Rating: 6.26
+Rating numbers: 184
+Description: Нет описания

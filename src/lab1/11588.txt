@@ -1,0 +1,9 @@
+Name: Area 88 Movie
+Type: video.movie
+Episodes: 1
+Episode length: 5940
+Genres: Экшен, Приключения, Драма, Романтика, Военное, 
+Rating limit: R+
+Rating: 6.53
+Rating numbers: 526
+Description: Киноверсия двух первых эпизодов оригинальной OVA 1985 года «Зона 88».

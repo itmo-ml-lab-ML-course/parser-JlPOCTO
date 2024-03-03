@@ -1,0 +1,9 @@
+Name: Walking Man
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Безумие, 
+Rating limit: G
+Rating: 3.56
+Rating numbers: 237
+Description: Нет описания

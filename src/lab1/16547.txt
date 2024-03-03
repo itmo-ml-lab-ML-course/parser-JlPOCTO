@@ -1,0 +1,6 @@
+Name: Nappeungyejibae
+Type: video.movie
+Episodes: 1
+Genres: Комедия, Драма, Спорт, Школа, 
+Rating limit: G
+Description: Нет описания

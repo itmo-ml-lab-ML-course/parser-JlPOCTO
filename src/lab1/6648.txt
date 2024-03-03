@@ -1,0 +1,7 @@
+Name: Xi Bai Po
+Type: video.movie
+Episodes: 1
+Episode length: 4380
+Genres: Приключения, Исторический, Детское, 
+Rating limit: PG
+Description: Нет описания

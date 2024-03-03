@@ -1,0 +1,9 @@
+Name: Elysium
+Type: video.movie
+Episodes: 1
+Episode length: 5160
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 5.21
+Rating numbers: 679
+Description: Нет описания

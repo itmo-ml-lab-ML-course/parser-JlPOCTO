@@ -1,0 +1,9 @@
+Name: Major Movie: Yuujou no Winning Shot
+Type: video.movie
+Episodes: 1
+Episode length: 6000
+Genres: Сёнен, Экшен, Спорт, 
+Rating limit: PG-13
+Rating: 7.96
+Rating numbers: 3187
+Description: Фильм расскажет о событиях, происходивших между 1 и 2 сезонами, о том, как Горо попал в Фукуоку, об успехах и неудачах, которые с ним происходили.

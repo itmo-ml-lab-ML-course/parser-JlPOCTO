@@ -1,0 +1,9 @@
+Name: Nengajou 2021: Mugen Shougatsu
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Повседневность, Музыка, 
+Rating limit: G
+Rating: 5.49
+Rating numbers: 330
+Description: Нет описания

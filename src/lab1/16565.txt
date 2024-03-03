@@ -1,0 +1,5 @@
+Name: The New Gate
+Type: video.tv_show
+Episodes: 1
+Genres: Экшен, Приключения, Фэнтези, 
+Description: Нет описания

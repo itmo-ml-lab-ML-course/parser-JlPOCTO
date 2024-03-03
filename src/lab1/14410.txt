@@ -1,0 +1,9 @@
+Name: Bloody Date
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Ужасы, 
+Rating limit: R-17
+Rating: 4.23
+Rating numbers: 886
+Description: Иногда происходит что-то до ужаса неправильное. Первое свидание молодой пары грубо прерывается топором убийцы. Девушка скрывается от маньяка в ближайшем доме, но её кошмар только начинается...

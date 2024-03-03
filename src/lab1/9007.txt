@@ -1,0 +1,7 @@
+Name: Hong Mao Lan Tu: Chuang Taikong
+Type: video.tv_show
+Episodes: 11
+Episode length: 600
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

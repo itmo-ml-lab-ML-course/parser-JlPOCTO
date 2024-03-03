@@ -1,0 +1,7 @@
+Name: Tamagotchi! Special DVD
+Type: video.other
+Episodes: 3
+Episode length: 180
+Genres: Фэнтези, Повседневность, Детское, 
+Rating limit: PG
+Description: Нет описания

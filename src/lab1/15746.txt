@@ -1,0 +1,7 @@
+Name: Rich Keikan Cash!
+Type: video.tv_show
+Episodes: 1
+Episode length: 540
+Genres: Детское, Комедия, Полиция, 
+Rating limit: G
+Description: Нет описания

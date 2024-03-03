@@ -1,0 +1,9 @@
+Name: Dr. Slump Movie 02: &quot;Hoyoyo!&quot; Uchuu Daibouken
+Type: video.movie
+Episodes: 1
+Episode length: 5400
+Genres: Сёнен, Комедия, Фантастика, 
+Rating limit: PG-13
+Rating: 6.36
+Rating numbers: 351
+Description: Нет описания

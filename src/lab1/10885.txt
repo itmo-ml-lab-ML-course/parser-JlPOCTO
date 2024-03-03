@@ -1,0 +1,10 @@
+Name: Cooking Papa
+Type: video.tv_show
+Episodes: 151
+Episode length: 1500
+Last episode date release: 1995-05-25
+Genres: Комедия, Гурман, 
+Rating limit: G
+Rating: 6.66
+Rating numbers: 386
+Description: Нет описания

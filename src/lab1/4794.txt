@@ -1,0 +1,10 @@
+Name: Scan2Go
+Type: video.tv_show
+Episodes: 52
+Episode length: 1500
+Last episode date release: 2011-03-29
+Genres: Детское, Машины, Игры, Космос, 
+Rating limit: G
+Rating: 6.09
+Rating numbers: 362
+Description: Нет описания

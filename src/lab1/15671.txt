@@ -1,0 +1,7 @@
+Name: Qingxiu Shanzhuang
+Type: video.movie
+Episodes: 1
+Episode length: 3600
+Genres: Драма, 
+Rating limit: G
+Description: Нет описания

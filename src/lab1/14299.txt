@@ -1,0 +1,9 @@
+Name: Sayokyoku
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, Комедия, 
+Rating limit: G
+Rating: 4.54
+Rating numbers: 283
+Description: Нет описания

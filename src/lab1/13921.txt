@@ -1,0 +1,10 @@
+Name: BAR Kiraware Yasai
+Type: video.tv_show
+Episodes: 13
+Episode length: 60
+Last episode date release: 2015-06-30
+Genres: Комедия, 
+Rating limit: G
+Rating: 4.94
+Rating numbers: 542
+Description: Столько людей ненавидит овощи: дети вылавливают их из супа, взрослые ленятся правильно готовить. Эта история о некоем баре, где отверженные кабачки и морковки могут пропустить по паре стаканчиков и поделиться наболевшим.

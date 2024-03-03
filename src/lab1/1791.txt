@@ -1,0 +1,10 @@
+Name: Genji Tsuushin Agedama
+Type: video.tv_show
+Episodes: 51
+Episode length: 1500
+Last episode date release: 1992-09-25
+Genres: Экшен, Комедия, Фантастика, Пародия, 
+Rating limit: R+
+Rating: 7.41
+Rating numbers: 331
+Description: Нет описания

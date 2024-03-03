@@ -1,0 +1,10 @@
+Name: Kyoro-chan
+Type: video.tv_show
+Episodes: 91
+Episode length: 1500
+Last episode date release: 2001-03-29
+Genres: Приключения, Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 7.25
+Rating numbers: 293
+Description: Нет описания

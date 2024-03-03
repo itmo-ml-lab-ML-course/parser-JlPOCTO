@@ -1,0 +1,10 @@
+Name: Norakuro
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Last episode date release: 1971-03-29
+Genres: Комедия, 
+Rating limit: G
+Rating: 6.03
+Rating numbers: 248
+Description: Нет описания

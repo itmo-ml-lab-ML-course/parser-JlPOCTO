@@ -1,0 +1,9 @@
+Name: Highway Jenny
+Type: video.other
+Episodes: 1
+Episode length: 1680
+Genres: Фэнтези, 
+Rating limit: PG-13
+Rating: 5.09
+Rating numbers: 738
+Description: Нет описания

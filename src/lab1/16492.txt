@@ -1,0 +1,7 @@
+Name: Doraemon Movie 43: Nobita no Chikyuu Symphony
+Type: video.movie
+Episodes: 1
+Episode length: 7200
+Genres: Приключения, Комедия, Фантастика, Музыка, Детское, Сёнен, 
+Rating limit: PG
+Description: Нет описания

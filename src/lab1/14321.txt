@@ -1,0 +1,9 @@
+Name: Chirico
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, 
+Rating limit: PG-13
+Rating: 4.48
+Rating numbers: 300
+Description: Короткометражный анимационный фильм за авторством Кэйити Танаами.

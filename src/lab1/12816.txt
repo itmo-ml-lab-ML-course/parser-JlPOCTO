@@ -1,0 +1,9 @@
+Name: Backkom Meogeujan Yeohaeng
+Type: video.movie
+Episodes: 1
+Episode length: 4560
+Genres: Детское, Приключения, Комедия, 
+Rating limit: G
+Rating: 5.47
+Rating numbers: 517
+Description: Нет описания

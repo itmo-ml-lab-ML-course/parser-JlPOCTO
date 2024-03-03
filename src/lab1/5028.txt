@@ -1,0 +1,10 @@
+Name: Guruguru Petit Anime Gekijou
+Type: video.tv_show
+Episodes: 24
+Episode length: 60
+Last episode date release: 2017-12-22
+Genres: Приключения, Комедия, Повседневность, Супер сила, 
+Rating limit: PG-13
+Rating: 6.05
+Rating numbers: 417
+Description: Нет описания

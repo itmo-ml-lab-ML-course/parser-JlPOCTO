@@ -1,0 +1,5 @@
+Name: Bye-Bye, Earth
+Type: video.tv_show
+Episodes: 1
+Genres: Экшен, Приключения, Фэнтези, 
+Description: Нет описания

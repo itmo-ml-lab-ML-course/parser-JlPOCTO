@@ -1,0 +1,9 @@
+Name: Super Taromu
+Type: video.other
+Episodes: 1
+Episode length: 1200
+Genres: Сёнен, Меха, 
+Rating limit: G
+Rating: 5.12
+Rating numbers: 196
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Shen Chu Xiaofu Gui
+Type: video.tv_show
+Episodes: 132
+Episode length: 1200
+Genres: Приключения, Исторический, Детское, 
+Rating limit: PG
+Description: Нет описания

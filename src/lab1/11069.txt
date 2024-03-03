@@ -1,0 +1,9 @@
+Name: Yamato yo Towa ni
+Type: video.movie
+Episodes: 1
+Episode length: 8880
+Genres: Экшен, Приключения, Драма, Фантастика, Военное, Космос, 
+Rating limit: PG-13
+Rating: 6.63
+Rating numbers: 1194
+Description: Нет описания

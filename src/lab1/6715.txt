@@ -1,0 +1,7 @@
+Name: Xiao Ban Long Xijun Da Zuozhan
+Type: video.tv_show
+Episodes: 10
+Episode length: 360
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

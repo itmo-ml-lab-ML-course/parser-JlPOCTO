@@ -1,0 +1,10 @@
+Name: World Fool News
+Type: video.tv_show
+Episodes: 6
+Episode length: 300
+Last episode date release: 2013-05-06
+Genres: Комедия, Повседневность, Работа, 
+Rating limit: PG-13
+Rating: 5.43
+Rating numbers: 204
+Description: Нет описания

@@ -1,0 +1,6 @@
+Name: Ddotty Yeongwonui Tab
+Type: video.movie
+Episodes: 1
+Genres: Приключения, Детское, 
+Rating limit: G
+Description: Нет описания

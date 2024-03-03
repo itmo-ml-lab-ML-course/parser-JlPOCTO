@@ -1,0 +1,10 @@
+Name: Liang Bu Yi 2nd Season
+Type: video.tv_show
+Episodes: 24
+Episode length: 840
+Last episode date release: 2023-04-19
+Genres: Комедия, Романтика, Исторический, 
+Rating limit: PG-13
+Rating: 7.65
+Rating numbers: 1576
+Description: Нет описания

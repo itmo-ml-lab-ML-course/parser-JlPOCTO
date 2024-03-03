@@ -1,0 +1,7 @@
+Name: Gou Gou Shangxin Zhi
+Type: video.movie
+Episodes: 1
+Episode length: 4800
+Genres: Драма, 
+Rating limit: PG-13
+Description: Нет описания

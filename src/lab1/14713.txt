@@ -1,0 +1,7 @@
+Name: Miniforce: Saeloun Agdangui Seubgyeog
+Type: video.movie
+Episodes: 1
+Episode length: 3600
+Genres: Экшен, Меха, Детское, 
+Rating limit: PG
+Description: Нет описания

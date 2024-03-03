@@ -1,0 +1,10 @@
+Name: Chiyuki no Fashion Check
+Type: video.tv_show
+Episodes: 9
+Episode length: 60
+Last episode date release: 2020-04-05
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 5.37
+Rating numbers: 259
+Description: Нет описания

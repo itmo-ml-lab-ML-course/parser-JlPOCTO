@@ -1,0 +1,9 @@
+Name: Lu Ling
+Type: video.movie
+Episodes: 1
+Episode length: 1200
+Genres: Детское, 
+Rating limit: G
+Rating: 6.03
+Rating numbers: 235
+Description: Нет описания

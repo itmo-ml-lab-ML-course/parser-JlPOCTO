@@ -1,0 +1,7 @@
+Name: Xingyuan Xiao Bao 2: Shenyong V5 Dui
+Type: video.tv_show
+Episodes: 52
+Episode length: 900
+Genres: Приключения, 
+Rating limit: PG
+Description: Нет описания

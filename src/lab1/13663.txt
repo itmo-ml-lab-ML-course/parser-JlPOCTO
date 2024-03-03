@@ -1,0 +1,9 @@
+Name: Anima
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Музыка, 
+Rating limit: R+
+Rating: 5.12
+Rating numbers: 1311
+Description: Анимационный фильм о танцах, представляющий «человеческую жизнь».

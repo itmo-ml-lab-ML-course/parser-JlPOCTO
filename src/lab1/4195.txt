@@ -1,0 +1,10 @@
+Name: Koala Boy Kokki
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 1985-03-28
+Genres: Комедия, 
+Rating limit: G
+Rating: 6.21
+Rating numbers: 190
+Description: Нет описания

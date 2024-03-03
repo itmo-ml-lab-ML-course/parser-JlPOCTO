@@ -1,0 +1,10 @@
+Name: Anime TV de Hakken! Tamagotchi
+Type: video.tv_show
+Episodes: 27
+Episode length: 1200
+Last episode date release: 1998-03-21
+Genres: Детское, Комедия, Фэнтези, Повседневность, 
+Rating limit: G
+Rating: 6.22
+Rating numbers: 182
+Description: Нет описания

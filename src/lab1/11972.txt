@@ -1,0 +1,9 @@
+Name: Rozen Maiden: Meitantei Kunkun - Duell Walzer
+Type: video.other
+Episodes: 1
+Episode length: 420
+Genres: Комедия, Детектив, 
+Rating limit: PG-13
+Rating: 6.46
+Rating numbers: 5073
+Description: Дополнительный эпизод, представляющий из себя одну серию кукольного телешоу про Кун-Куна.

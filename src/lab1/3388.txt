@@ -1,0 +1,10 @@
+Name: Deltora Quest
+Type: video.tv_show
+Episodes: 65
+Episode length: 1500
+Last episode date release: 2008-03-29
+Genres: Детское, Приключения, Фэнтези, 
+Rating limit: PG-13
+Rating: 7.08
+Rating numbers: 1110
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Robot Girls Z Episode 0
+Type: video.tv_show
+Episodes: 1
+Episode length: 240
+Genres: Комедия, Меха, Пародия, 
+Rating limit: PG-13
+Rating: 6.08
+Rating numbers: 595
+Description: Нет описания

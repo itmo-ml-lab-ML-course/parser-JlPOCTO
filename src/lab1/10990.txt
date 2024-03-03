@@ -1,0 +1,10 @@
+Name: Inazuma Eleven Go: Galaxy
+Type: video.tv_show
+Episodes: 43
+Episode length: 1380
+Last episode date release: 2014-03-19
+Genres: Сёнен, Спорт, Супер сила, 
+Rating limit: G
+Rating: 6.64
+Rating numbers: 1988
+Description: Нет описания

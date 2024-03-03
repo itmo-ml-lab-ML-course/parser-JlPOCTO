@@ -1,0 +1,9 @@
+Name: Hana to Mogura
+Type: video.movie
+Episodes: 1
+Episode length: 900
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.51
+Rating numbers: 254
+Description: Нет описания

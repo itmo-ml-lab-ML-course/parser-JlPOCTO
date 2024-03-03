@@ -1,0 +1,10 @@
+Name: Moeru! Oniisan
+Type: video.tv_show
+Episodes: 24
+Episode length: 1440
+Last episode date release: 1988-09-19
+Genres: Экшен, Приключения, Комедия, 
+Rating limit: PG-13
+Rating: 7.22
+Rating numbers: 325
+Description: Нет описания

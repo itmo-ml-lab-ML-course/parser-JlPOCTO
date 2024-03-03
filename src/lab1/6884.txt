@@ -1,0 +1,7 @@
+Name: Xiaochou Niu
+Type: video.tv_show
+Episodes: 38
+Episode length: 120
+Genres: Комедия, Детское, 
+Rating limit: G
+Description: Нет описания

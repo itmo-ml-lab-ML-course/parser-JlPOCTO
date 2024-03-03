@@ -1,0 +1,10 @@
+Name: Kakutou Ryouri Densetsu Bistro Recipe
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 2002-06-25
+Genres: Сёнен, Приключения, Комедия, Фэнтези, Гурман, Игры, 
+Rating limit: G
+Rating: 6.01
+Rating numbers: 270
+Description: Нет описания

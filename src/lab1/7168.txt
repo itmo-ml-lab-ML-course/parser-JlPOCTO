@@ -1,0 +1,8 @@
+Name: Yaiyai Mori no Comic
+Type: video.tv_show
+Episodes: 15
+Episode length: 180
+Last episode date release: 2013-04-02
+Genres: Комедия, Пародия, 
+Rating limit: G
+Description: Нет описания

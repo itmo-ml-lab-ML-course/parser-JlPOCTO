@@ -1,0 +1,9 @@
+Name: Shanhe Jian Xin Xiao Juchang
+Type: video.tv_show
+Episodes: 95
+Episode length: 60
+Genres: Комедия, Фэнтези, 
+Rating limit: G
+Rating: 6.39
+Rating numbers: 171
+Description: Нет описания

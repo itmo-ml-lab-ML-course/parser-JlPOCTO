@@ -1,0 +1,9 @@
+Name: Fukuro
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Ужасы, Триллер, Психологическое, 
+Rating limit: R+
+Rating: 4.93
+Rating numbers: 173
+Description: Нет описания

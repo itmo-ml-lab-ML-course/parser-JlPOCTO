@@ -1,0 +1,9 @@
+Name: Ponkotsu Quest x Gatchaman Special
+Type: video.tv_show
+Episodes: 1
+Episode length: 240
+Genres: Комедия, Фэнтези, Пародия, 
+Rating limit: G
+Rating: 5.33
+Rating numbers: 356
+Description: Нет описания

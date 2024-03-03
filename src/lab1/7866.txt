@@ -1,0 +1,7 @@
+Name: Complex x Complex
+Type: video.movie
+Episodes: 1
+Episode length: 1440
+Genres: Школа, 
+Rating limit: PG-13
+Description: Нет описания

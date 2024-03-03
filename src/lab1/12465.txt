@@ -1,0 +1,10 @@
+Name: Kikou Kantai Dairugger XV
+Type: video.tv_show
+Episodes: 52
+Episode length: 1500
+Last episode date release: 1983-03-23
+Genres: Сёнен, Экшен, Приключения, Фантастика, Меха, Космос, 
+Rating limit: PG-13
+Rating: 6.36
+Rating numbers: 404
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Bakugan: Battle Planet
+Type: video.tv_show
+Episodes: 50
+Episode length: 1440
+Last episode date release: 2020-01-19
+Genres: Экшен, Фэнтези, Игры, 
+Rating limit: PG
+Rating: 5.49
+Rating numbers: 3219
+Description: Нет описания

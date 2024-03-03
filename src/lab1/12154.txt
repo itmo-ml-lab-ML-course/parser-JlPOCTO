@@ -1,0 +1,9 @@
+Name: Yakusoku (ONA)
+Type: video.tv_show
+Episodes: 1
+Episode length: 360
+Genres: Драма, Музыка, 
+Rating limit: G
+Rating: 6.43
+Rating numbers: 540
+Description: Нет описания

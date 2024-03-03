@@ -1,0 +1,9 @@
+Name: Tosca
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Безумие, 
+Rating limit: G
+Rating: 5.52
+Rating numbers: 130
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Hong Mao Lan Tu: Le Fantian
+Type: video.tv_show
+Episodes: 64
+Episode length: 660
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

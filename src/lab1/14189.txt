@@ -1,0 +1,9 @@
+Name: &quot;R100&quot; x Mameshiba Original Manners
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 4.69
+Rating numbers: 301
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Nagagutsu Sanjuushi
+Type: video.movie
+Episodes: 1
+Episode length: 3120
+Genres: Детское, Приключения, Фэнтези, 
+Rating limit: G
+Rating: 6.03
+Rating numbers: 1023
+Description: Нет описания

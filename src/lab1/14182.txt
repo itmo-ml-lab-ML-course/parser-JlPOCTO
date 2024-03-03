@@ -1,0 +1,9 @@
+Name: Super Teukgeup Mazinger 7
+Type: video.movie
+Episodes: 1
+Episode length: 4200
+Genres: Фантастика, Меха, 
+Rating limit: PG
+Rating: 4.71
+Rating numbers: 205
+Description: Нет описания

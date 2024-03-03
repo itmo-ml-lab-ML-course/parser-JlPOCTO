@@ -1,0 +1,9 @@
+Name: 009-1: R&amp;B
+Type: video.other
+Episodes: 1
+Episode length: 1500
+Genres: Сэйнэн, Экшен, Фантастика, 
+Rating limit: R-17
+Rating: 6.27
+Rating numbers: 457
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Oshiri Tantei Movie 2: Tentoumushi Iseki no Nazo
+Type: video.movie
+Episodes: 1
+Episode length: 2400
+Genres: Детское, Комедия, Фэнтези, Детектив, 
+Rating limit: PG
+Description: Нет описания

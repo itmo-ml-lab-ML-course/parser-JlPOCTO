@@ -1,0 +1,8 @@
+Name: Qianfang Gaoneng: Huaji
+Type: video.tv_show
+Episodes: 8
+Episode length: 300
+Last episode date release: 2017-02-10
+Genres: Комедия, 
+Rating limit: PG
+Description: Нет описания

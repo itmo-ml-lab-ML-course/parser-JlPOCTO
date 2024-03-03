@@ -1,0 +1,10 @@
+Name: Xiuluo Wu Shen
+Type: video.tv_show
+Episodes: 16
+Episode length: 960
+Last episode date release: 2023-11-21
+Genres: Экшен, Фэнтези, Боевые искусства, 
+Rating limit: PG-13
+Rating: 7.22
+Rating numbers: 1233
+Description: Нет описания

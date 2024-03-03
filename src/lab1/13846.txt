@@ -1,0 +1,9 @@
+Name: Osaru no Tairyou
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Повседневность, 
+Rating limit: G
+Rating: 5.01
+Rating numbers: 271
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Shigeo wa Handsome
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Комедия, Драма, 
+Rating limit: PG
+Rating: 5.02
+Rating numbers: 222
+Description: Нет описания

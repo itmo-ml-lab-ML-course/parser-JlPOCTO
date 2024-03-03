@@ -1,0 +1,9 @@
+Name: Hachimitsu Suicide Machine
+Type: video.tv_show
+Episodes: 1
+Episode length: 600
+Genres: Ужасы, 
+Rating limit: PG-13
+Rating: 5.22
+Rating numbers: 641
+Description: Нет описания

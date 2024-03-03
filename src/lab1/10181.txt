@@ -1,0 +1,10 @@
+Name: The iDOLM@STER Cinderella Girls: U149
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2023-06-29
+Genres: Музыка, 
+Rating limit: PG-13
+Rating: 7.7
+Rating numbers: 1682
+Description: Нет описания

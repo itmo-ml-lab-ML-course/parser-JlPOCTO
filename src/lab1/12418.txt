@@ -1,0 +1,9 @@
+Name: Fusha no Sha
+Type: video.movie
+Episodes: 1
+Episode length: 1500
+Genres: Приключения, Сверхъестественное, Исторический, Боевые искусства, Самураи, 
+Rating limit: PG
+Rating: 6.37
+Rating numbers: 408
+Description: Нет описания

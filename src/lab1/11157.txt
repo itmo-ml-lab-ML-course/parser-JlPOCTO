@@ -1,0 +1,9 @@
+Name: Sakigake!! Otokojuku Movie
+Type: video.movie
+Episodes: 1
+Episode length: 4440
+Genres: Сёнен, Экшен, Комедия, Боевые искусства, Школа, 
+Rating limit: PG-13
+Rating: 6.61
+Rating numbers: 622
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Yeon-ae Haru Jeon Zero
+Type: video.tv_show
+Episodes: 19
+Episode length: 180
+Last episode date release: 2019-08-02
+Genres: Романтика, Школа, 
+Rating limit: PG-13
+Rating: 7.1
+Rating numbers: 2162
+Description: Нет описания

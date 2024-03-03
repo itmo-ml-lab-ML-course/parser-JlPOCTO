@@ -1,0 +1,9 @@
+Name: Kuroi Neko
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 5.52
+Rating numbers: 234
+Description: Нет описания

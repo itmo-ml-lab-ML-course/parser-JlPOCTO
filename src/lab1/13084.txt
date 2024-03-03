@@ -1,0 +1,9 @@
+Name: Tabi
+Type: video.movie
+Episodes: 1
+Episode length: 720
+Genres: Фэнтези, Психологическое, 
+Rating limit: PG-13
+Rating: 5.38
+Rating numbers: 399
+Description: Нет описания

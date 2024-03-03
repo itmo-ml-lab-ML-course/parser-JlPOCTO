@@ -1,0 +1,9 @@
+Name: Hypersonic Music Club
+Type: video.tv_show
+Episodes: 1
+Episode length: 420
+Genres: Фантастика, Музыка, 
+Rating limit: PG-13
+Rating: 6.13
+Rating numbers: 279
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Seikaku Henkou School
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: 
+Rating limit: G
+Description: Нет описания

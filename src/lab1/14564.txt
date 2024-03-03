@@ -1,0 +1,7 @@
+Name: Meng Guo Le Duoduo: Shuiguo Xunzhang
+Type: video.tv_show
+Episodes: 26
+Episode length: 480
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

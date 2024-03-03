@@ -1,0 +1,10 @@
+Name: Project BLUE Chikyuu SOS
+Type: video.tv_show
+Episodes: 6
+Episode length: 2700
+Last episode date release: 2006-12-03
+Genres: Сёнен, Приключения, Комедия, Фантастика, 
+Rating limit: PG-13
+Rating: 6.59
+Rating numbers: 1076
+Description: Нет описания

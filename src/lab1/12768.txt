@@ -1,0 +1,9 @@
+Name: 23rd Japan Media Arts Festival Introduction
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Музыка, 
+Rating limit: G
+Rating: 5.49
+Rating numbers: 107
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Xiao Chong Chong You Da Zhihui
+Type: video.tv_show
+Episodes: 104
+Episode length: 600
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Great Rabbit
+Type: video.movie
+Episodes: 1
+Episode length: 420
+Genres: Психологическое, 
+Rating limit: G
+Rating: 4.44
+Rating numbers: 260
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Dragon Ball Movie 4: Saikyou e no Michi
+Type: video.movie
+Episodes: 1
+Episode length: 4740
+Genres: Сёнен, Экшен, Приключения, Комедия, Фэнтези, Фантастика, Супер сила, 
+Rating limit: PG-13
+Rating: 7.13
+Rating numbers: 2881
+Description: Альтернативный вариант событий аниме-сериала «Драконий жемчуг», описывающий знакомство Гоку с Бульмой, Улонгом, Ямчой и Мастером Роши, а также изменённую историю армии Красной Ленты.

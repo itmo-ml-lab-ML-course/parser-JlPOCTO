@@ -1,0 +1,7 @@
+Name: Pipi Tobenai Hotaru
+Type: video.movie
+Episodes: 1
+Episode length: 5400
+Genres: Драма, Фэнтези, 
+Rating limit: G
+Description: Нет описания

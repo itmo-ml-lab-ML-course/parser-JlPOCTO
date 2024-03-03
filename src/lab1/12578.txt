@@ -1,0 +1,10 @@
+Name: D.I.C.E.
+Type: video.tv_show
+Episodes: 40
+Episode length: 1500
+Last episode date release: 2006-09-19
+Genres: Экшен, Приключения, Фантастика, Меха, 
+Rating limit: PG
+Rating: 6.34
+Rating numbers: 231
+Description: Нет описания

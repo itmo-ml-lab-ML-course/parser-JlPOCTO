@@ -1,0 +1,7 @@
+Name: Dodo de Shijie
+Type: video.tv_show
+Episodes: 365
+Episode length: 480
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Tetsujin 28-gou Gao!
+Type: video.tv_show
+Episodes: 151
+Episode length: 300
+Last episode date release: 2016-03-26
+Genres: Повседневность, Меха, 
+Rating limit: G
+Description: Нет описания

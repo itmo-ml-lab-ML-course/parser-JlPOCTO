@@ -1,0 +1,10 @@
+Name: Run=Dim
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2001-06-24
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: G
+Rating: 4.71
+Rating numbers: 414
+Description: Нет описания

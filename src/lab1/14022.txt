@@ -1,0 +1,9 @@
+Name: Crazy Monkey
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: Этти, 
+Rating limit: R+
+Rating: 4.85
+Rating numbers: 372
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Teekyuu 6
+Type: video.tv_show
+Episodes: 12
+Episode length: 120
+Last episode date release: 2015-12-22
+Genres: Комедия, Сёнен, 
+Rating limit: PG-13
+Rating: 6.54
+Rating numbers: 3454
+Description: Шестой сезон аниме-франшизы, которая рассказывает о жизни, драме и взаимоотношениях весьма незаурядных девочек из «Клуба любителей тенниса».

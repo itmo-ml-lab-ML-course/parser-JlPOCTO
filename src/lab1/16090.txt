@@ -1,0 +1,7 @@
+Name: Shaonian A Xing
+Type: video.tv_show
+Episodes: 18
+Episode length: 540
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

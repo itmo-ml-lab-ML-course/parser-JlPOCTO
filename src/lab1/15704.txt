@@ -1,0 +1,8 @@
+Name: Rainbow Ruby 2nd Season
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Last episode date release: 2020-06-26
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

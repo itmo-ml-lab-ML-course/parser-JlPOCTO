@@ -1,0 +1,9 @@
+Name: Arakure Junichi no Namida
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Комедия, 
+Rating limit: PG
+Rating: 4.05
+Rating numbers: 252
+Description: Нет описания

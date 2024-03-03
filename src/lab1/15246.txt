@@ -1,0 +1,7 @@
+Name: Onbu Obake
+Type: video.movie
+Episodes: 1
+Episode length: 1500
+Genres: Сверхъестественное, 
+Rating limit: G
+Description: Нет описания

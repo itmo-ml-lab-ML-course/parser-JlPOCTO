@@ -1,0 +1,9 @@
+Name: Wangpai Yushi Di 0 Ji
+Type: video.tv_show
+Episodes: 1
+Episode length: 720
+Genres: Комедия, Фэнтези, Сверхъестественное, Школа, 
+Rating limit: PG
+Rating: 5.99
+Rating numbers: 1226
+Description: Нулевой эпизод аниме «Лучший цензор».

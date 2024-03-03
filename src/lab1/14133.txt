@@ -1,0 +1,9 @@
+Name: High &amp; Low: G-Sword
+Type: video.tv_show
+Episodes: 5
+Last episode date release: 2017-03-31
+Genres: Сёнен, Экшен, Драма, 
+Rating limit: G
+Rating: 4.75
+Rating numbers: 341
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Macross 25-shuunen Kinen: All That VF Macross F Version
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.22
+Rating numbers: 1192
+Description: Нет описания

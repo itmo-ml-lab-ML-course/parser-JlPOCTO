@@ -1,0 +1,10 @@
+Name: Copihan
+Type: video.tv_show
+Episodes: 7
+Episode length: 360
+Last episode date release: 2011-11-03
+Genres: Комедия, Фантастика, Школа, 
+Rating limit: PG-13
+Rating: 5.39
+Rating numbers: 957
+Description: Нет описания

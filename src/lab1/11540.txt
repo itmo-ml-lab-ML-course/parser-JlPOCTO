@@ -1,0 +1,10 @@
+Name: Jiu Chen Fengyun Lu
+Type: video.tv_show
+Episodes: 40
+Episode length: 600
+Last episode date release: 2023-11-21
+Genres: Экшен, Приключения, Фэнтези, Исторический, Боевые искусства, 
+Rating limit: PG-13
+Rating: 6.54
+Rating numbers: 641
+Description: Нет описания

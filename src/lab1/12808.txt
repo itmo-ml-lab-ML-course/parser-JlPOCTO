@@ -1,0 +1,10 @@
+Name: Seiken Densetsu: Legend of Mana - The Teardrop Crystal
+Type: video.tv_show
+Episodes: 12
+Episode length: 1380
+Last episode date release: 2022-12-24
+Genres: Приключения, 
+Rating limit: PG-13
+Rating: 5.48
+Rating numbers: 3298
+Description: Нет описания

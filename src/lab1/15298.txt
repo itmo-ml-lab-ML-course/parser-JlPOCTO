@@ -1,0 +1,8 @@
+Name: Oshiri Tantei 4th Season
+Type: video.tv_show
+Episodes: 13
+Episode length: 1140
+Last episode date release: 2020-06-27
+Genres: Детское, Комедия, Фэнтези, Детектив, 
+Rating limit: PG
+Description: Нет описания

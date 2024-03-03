@@ -1,0 +1,10 @@
+Name: Zhongguo Jingqi Xiansheng
+Type: video.tv_show
+Episodes: 63
+Episode length: 660
+Last episode date release: 2016-05-17
+Genres: Комедия, Сверхъестественное, Триллер, 
+Rating limit: R-17
+Rating: 6.1
+Rating numbers: 2621
+Description: Утерянный в незапамятных временах вид магии из династии Восточная Хань вновь возрождается. Между тем, по ночам в тёмных переулках города с нечеловеческой жестокостью орудуют серийные убийцы. Кто же сумеет остановить их бесчинства?

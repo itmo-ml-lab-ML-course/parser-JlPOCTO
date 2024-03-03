@@ -1,0 +1,9 @@
+Name: Shoujo Nosferatu
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Безумие, Ужасы, Психологическое, 
+Rating limit: G
+Rating: 5.99
+Rating numbers: 349
+Description: Нет описания

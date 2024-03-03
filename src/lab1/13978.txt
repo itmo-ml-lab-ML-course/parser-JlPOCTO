@@ -1,0 +1,9 @@
+Name: Alphard x Taka no Tsume
+Type: video.tv_show
+Episodes: 3
+Episode length: 180
+Genres: Машины, Пародия, 
+Rating limit: G
+Rating: 4.89
+Rating numbers: 444
+Description: Нет описания

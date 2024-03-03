@@ -1,0 +1,9 @@
+Name: Project A-Ko 4: Final
+Type: video.other
+Episodes: 1
+Episode length: 3180
+Genres: Экшен, Комедия, Фантастика, Меха, Супер сила, 
+Rating limit: R+
+Rating: 6.4
+Rating numbers: 490
+Description: Нет описания

@@ -1,0 +1,5 @@
+Name: Long Wu
+Type: video.tv_show
+Episodes: 1
+Genres: Фэнтези, 
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Bio Sekai Meisaku Gekijou
+Type: video.tv_show
+Episodes: 3
+Last episode date release: 2023-03-24
+Genres: Комедия, Ужасы, 
+Rating limit: PG-13
+Rating: 6.6
+Rating numbers: 568
+Description: Нет описания

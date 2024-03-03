@@ -1,0 +1,10 @@
+Name: Kanojo, Okarishimasu 2nd Season: Date Movie
+Type: video.tv_show
+Episodes: 12
+Episode length: 60
+Last episode date release: 2022-09-25
+Genres: Комедия, Романтика, 
+Rating limit: PG-13
+Rating: 5.99
+Rating numbers: 2668
+Description: Короткометражные эпизоды по аниме «Девушке на час 2», выполненные в стиле визуальной новеллы, в которых героини аниме будут продолжать беседовать со зрителем, путешествуя по различным локациям.

@@ -1,0 +1,9 @@
+Name: Kujira (1952)
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 4.97
+Rating numbers: 378
+Description: Нет описания

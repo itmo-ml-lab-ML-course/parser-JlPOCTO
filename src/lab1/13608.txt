@@ -1,0 +1,9 @@
+Name: Hanasaku Kizuna no Romantan
+Type: video.tv_show
+Episodes: 1
+Episode length: 1260
+Genres: Экшен, Приключения, Драма, Фэнтези, 
+Rating limit: G
+Rating: 5.15
+Rating numbers: 571
+Description: Нет описания

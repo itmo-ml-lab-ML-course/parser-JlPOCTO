@@ -1,0 +1,8 @@
+Name: Mayutoro The Toons
+Type: video.tv_show
+Episodes: 33
+Episode length: 120
+Last episode date release: 2004-03-01
+Genres: Детское, Комедия, Фэнтези, 
+Rating limit: G
+Description: Нет описания

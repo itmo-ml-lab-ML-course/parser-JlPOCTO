@@ -1,0 +1,8 @@
+Name: Taekwon-wang Gang Taepung
+Type: video.tv_show
+Episodes: 26
+Episode length: 1320
+Last episode date release: 2000-12-08
+Genres: Спорт, Боевые искусства, Школа, 
+Rating limit: PG-13
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Self-Portrait
+Type: video.other
+Episodes: 1
+Episode length: 60
+Genres: Комедия, Демоны, 
+Rating limit: G
+Rating: 4.65
+Rating numbers: 285
+Description: Нет описания

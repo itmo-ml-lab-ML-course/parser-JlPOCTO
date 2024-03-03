@@ -1,0 +1,9 @@
+Name: Pika Don
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Драма, Исторический, 
+Rating limit: R+
+Rating: 6.3
+Rating numbers: 380
+Description: Нет описания

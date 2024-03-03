@@ -1,0 +1,9 @@
+Name: Crocotires Traction AAA
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Спорт, 
+Rating limit: G
+Rating: 5.19
+Rating numbers: 241
+Description: Нет описания

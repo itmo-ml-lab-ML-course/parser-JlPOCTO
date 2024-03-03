@@ -1,0 +1,6 @@
+Name: Shanhai Jihui
+Type: video.tv_show
+Episodes: 25 / 50
+Episode length: 780
+Genres: Экшен, Фантастика, 
+Description: Нет описания

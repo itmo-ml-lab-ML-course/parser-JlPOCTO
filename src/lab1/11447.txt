@@ -1,0 +1,10 @@
+Name: Teekyuu
+Type: video.tv_show
+Episodes: 12
+Episode length: 120
+Last episode date release: 2012-12-23
+Genres: Сёнен, Комедия, Спорт, Школа, 
+Rating limit: PG-13
+Rating: 6.55
+Rating numbers: 10143
+Description: Аниме «Теннис» — экранизация одноименной манги в жанре «спортивная комедия», главными героинями которой являются четыре школьницы, участницы теннисного клуба.

@@ -1,0 +1,9 @@
+Name: Sara Ke Puccho
+Type: video.tv_show
+Episodes: 1
+Episode length: 240
+Genres: Пародия, 
+Rating limit: G
+Rating: 5.34
+Rating numbers: 128
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Musekinin Galaxy☆Tylor
+Type: video.tv_show
+Episodes: 12
+Episode length: 180
+Last episode date release: 2017-09-26
+Genres: Комедия, Фантастика, Военное, Пародия, Космос, 
+Rating limit: PG-13
+Rating: 3.88
+Rating numbers: 1330
+Description: Нет описания

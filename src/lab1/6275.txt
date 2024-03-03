@@ -1,0 +1,7 @@
+Name: Tu Xiao Bei: Dongwu Qi Yuan
+Type: video.tv_show
+Episodes: 43
+Episode length: 180
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

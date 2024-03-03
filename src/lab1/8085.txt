@@ -1,0 +1,7 @@
+Name: Dino King 3D: Journey to Fire Mountain
+Type: video.movie
+Episodes: 1
+Episode length: 5640
+Genres: Приключения, 
+Rating limit: G
+Description: Нет описания

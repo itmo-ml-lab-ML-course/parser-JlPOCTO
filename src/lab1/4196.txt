@@ -1,0 +1,9 @@
+Name: Kudan
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Фэнтези, 
+Rating limit: PG
+Rating: 6.21
+Rating numbers: 174
+Description: Нет описания

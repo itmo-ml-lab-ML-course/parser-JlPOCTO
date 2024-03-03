@@ -1,0 +1,10 @@
+Name: Yakyuukyou no Uta
+Type: video.tv_show
+Episodes: 25
+Episode length: 2760
+Last episode date release: 1979-03-26
+Genres: Экшен, Драма, Спорт, 
+Rating limit: PG-13
+Rating: 6.65
+Rating numbers: 354
+Description: Нет описания

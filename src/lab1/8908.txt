@@ -1,0 +1,7 @@
+Name: Hello Kitty to Issho ni Obenkyou
+Type: video.other
+Episodes: 6
+Episode length: 2400
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

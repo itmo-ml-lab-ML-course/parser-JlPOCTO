@@ -1,0 +1,10 @@
+Name: Yofukashi no Uta Mini
+Type: video.tv_show
+Episodes: 22
+Episode length: 60
+Last episode date release: 2022-10-02
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.15
+Rating numbers: 2493
+Description: Нет описания

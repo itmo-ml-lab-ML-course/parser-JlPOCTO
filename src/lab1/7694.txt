@@ -1,0 +1,7 @@
+Name: Cheol-in 007
+Type: video.movie
+Episodes: 1
+Episode length: 4200
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: PG
+Description: Нет описания

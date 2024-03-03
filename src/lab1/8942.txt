@@ -1,0 +1,7 @@
+Name: Hi, Goodbye: Kuaile Chengzhang
+Type: video.tv_show
+Episodes: 80
+Episode length: 180
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

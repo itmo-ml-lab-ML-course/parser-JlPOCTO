@@ -1,0 +1,9 @@
+Name: Lupin III: Kutabare! Nostradamus
+Type: video.movie
+Episodes: 1
+Episode length: 6000
+Genres: Сэйнэн, Экшен, Приключения, Комедия, Детектив, 
+Rating limit: R+
+Rating: 7.33
+Rating numbers: 2331
+Description: Нет описания

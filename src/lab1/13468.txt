@@ -1,0 +1,9 @@
+Name: Mahou no Pen
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Исторический, 
+Rating limit: G
+Rating: 5.22
+Rating numbers: 254
+Description: Нет описания

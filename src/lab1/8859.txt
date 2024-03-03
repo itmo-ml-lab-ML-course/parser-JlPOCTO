@@ -1,0 +1,7 @@
+Name: Hei He
+Type: video.tv_show
+Episodes: 1
+Episode length: 720
+Genres: Экшен, Триллер, Психологическое, 
+Rating limit: PG-13
+Description: Нет описания

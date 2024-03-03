@@ -1,0 +1,10 @@
+Name: Betterman
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Last episode date release: 1999-10-01
+Genres: Экшен, Приключения, Комедия, Драма, Ужасы, Детектив, Фантастика, Меха, Психологическое, 
+Rating limit: R-17
+Rating: 6.57
+Rating numbers: 1307
+Description: Нет описания

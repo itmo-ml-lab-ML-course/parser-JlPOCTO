@@ -1,0 +1,6 @@
+Name: Kidou Senshi Gundam: Fukushuu no Requiem
+Type: video.tv_show
+Episodes: 6
+Episode length: 1800
+Genres: Экшен, Фантастика, Меха, 
+Description: Нет описания

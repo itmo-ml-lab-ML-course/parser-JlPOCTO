@@ -1,0 +1,7 @@
+Name: Get Up! Get Live! #GeraGera Episode 0
+Type: video.tv_show
+Episodes: 1
+Episode length: 480
+Genres: Комедия, Повседневность, 
+Rating limit: PG-13
+Description: Нет описания

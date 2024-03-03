@@ -1,0 +1,9 @@
+Name: Ficfyon7
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, Психологическое, 
+Rating limit: G
+Rating: 5.14
+Rating numbers: 130
+Description: Нет описания

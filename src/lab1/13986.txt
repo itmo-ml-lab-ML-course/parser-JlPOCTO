@@ -1,0 +1,9 @@
+Name: Ultra Dino Makera
+Type: video.other
+Episodes: 1
+Episode length: 180
+Genres: Детское, Экшен, 
+Rating limit: G
+Rating: 4.89
+Rating numbers: 239
+Description: Демо-ролик про динозавра в жёлтом комбинезоне, спасающего девушку, привязанную к железнодорожным путям.

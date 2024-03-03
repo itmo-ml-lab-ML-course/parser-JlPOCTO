@@ -1,0 +1,8 @@
+Name: Fuku-chan
+Type: video.tv_show
+Episodes: 71
+Episode length: 1500
+Last episode date release: 1984-03-27
+Genres: Детское, Повседневность, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Oira no Ski
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Комедия, Спорт, 
+Rating limit: G
+Rating: 5.12
+Rating numbers: 332
+Description: Нет описания

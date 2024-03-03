@@ -1,0 +1,10 @@
+Name: Saint Seiya Omega
+Type: video.tv_show
+Episodes: 97
+Episode length: 1380
+Last episode date release: 2014-03-30
+Genres: Сёнен, Экшен, Приключения, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.27
+Rating numbers: 1654
+Description: Ремейк ТВ-сериала «Рыцари Зодиака», выпущенный в честь 25-летия франшизы, с оригинальным сюжетом и новыми персонажами.

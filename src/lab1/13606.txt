@@ -1,0 +1,10 @@
+Name: Eyedrops Special Episode
+Type: video.tv_show
+Episodes: 2
+Episode length: 480
+Last episode date release: 2018-03-05
+Genres: Космос, 
+Rating limit: G
+Rating: 5.15
+Rating numbers: 363
+Description: Нет описания

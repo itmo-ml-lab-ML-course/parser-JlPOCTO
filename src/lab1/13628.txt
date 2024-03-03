@@ -1,0 +1,8 @@
+Name: Niigata no Edamame-ou Shiba
+Type: video.tv_show
+Episodes: 3
+Genres: Детское, 
+Rating limit: G
+Rating: 5.14
+Rating numbers: 246
+Description: Нет описания

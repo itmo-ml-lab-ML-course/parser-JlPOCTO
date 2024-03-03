@@ -1,0 +1,10 @@
+Name: Fairy Gone Part 2
+Type: video.tv_show
+Episodes: 12
+Episode length: 1380
+Last episode date release: 2019-12-23
+Genres: Экшен, Фэнтези, Военное, 
+Rating limit: PG-13
+Rating: 6.35
+Rating numbers: 8213
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Baobao Gushi Hui
+Type: video.tv_show
+Episodes: 36
+Episode length: 300
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

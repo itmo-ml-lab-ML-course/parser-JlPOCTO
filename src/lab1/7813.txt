@@ -1,0 +1,8 @@
+Name: Chuldong! Super Wings 3
+Type: video.tv_show
+Episodes: 40
+Episode length: 660
+Last episode date release: 2019-06-30
+Genres: Детское, Приключения, Машины, 
+Rating limit: PG
+Description: Нет описания

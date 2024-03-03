@@ -1,0 +1,7 @@
+Name: Guoran Yi Ting
+Type: video.tv_show
+Episodes: 52
+Episode length: 240
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

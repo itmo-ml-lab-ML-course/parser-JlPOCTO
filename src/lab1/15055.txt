@@ -1,0 +1,7 @@
+Name: Ni Hao! Baobao Dou
+Type: video.tv_show
+Episodes: 100
+Episode length: 660
+Genres: Детское, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

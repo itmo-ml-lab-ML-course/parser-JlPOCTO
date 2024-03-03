@@ -1,0 +1,7 @@
+Name: Gu Xiong: Huo Qi
+Type: video.tv_show
+Episodes: 1
+Episode length: 1620
+Genres: Экшен, 
+Rating limit: PG-13
+Description: Нет описания

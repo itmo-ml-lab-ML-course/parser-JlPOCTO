@@ -1,0 +1,9 @@
+Name: Contact
+Type: video.other
+Episodes: 1
+Episode length: 60
+Genres: Детское, Комедия, Фантастика, 
+Rating limit: G
+Rating: 4.76
+Rating numbers: 406
+Description: История о встрече Бернарда с инопланетянином.

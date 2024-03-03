@@ -1,0 +1,9 @@
+Name: Blue Remains
+Type: video.movie
+Episodes: 1
+Episode length: 4620
+Genres: Приключения, Фантастика, 
+Rating limit: PG-13
+Rating: 4.52
+Rating numbers: 245
+Description: Нет описания

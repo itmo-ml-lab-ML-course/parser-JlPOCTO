@@ -1,0 +1,7 @@
+Name: Xiao Tiezhu
+Type: video.movie
+Episodes: 1
+Episode length: 960
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

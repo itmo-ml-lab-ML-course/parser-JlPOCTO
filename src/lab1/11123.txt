@@ -1,0 +1,9 @@
+Name: Baka to Test to Shoukanjuu: Mondai - Christmas ni Tsuite Kotae Nasai
+Type: video.tv_show
+Episodes: 1
+Episode length: 240
+Genres: Комедия, Романтика, 
+Rating limit: PG-13
+Rating: 6.61
+Rating numbers: 5938
+Description: Персонажи из «Дурней, тестов, аватаров» расскажут зрителю о том, чем для них является Рождество.

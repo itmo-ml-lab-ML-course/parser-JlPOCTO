@@ -1,0 +1,9 @@
+Name: Four Seasons: Fuuka to Nanami
+Type: video.tv_show
+Episodes: 1
+Episode length: 240
+Genres: Машины, 
+Rating limit: G
+Rating: 4.87
+Rating numbers: 319
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Direct Animation
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.4
+Rating numbers: 220
+Description: Нет описания

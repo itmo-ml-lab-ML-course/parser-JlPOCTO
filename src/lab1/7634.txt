@@ -1,0 +1,7 @@
+Name: Chao Jiachong Zhan Ji: Sheng Yu Chuanshuo
+Type: video.tv_show
+Episodes: 26
+Episode length: 840
+Genres: Детское, Приключения, Фантастика, 
+Rating limit: PG
+Description: Нет описания

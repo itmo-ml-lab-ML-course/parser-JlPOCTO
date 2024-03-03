@@ -1,0 +1,10 @@
+Name: Beast Saga
+Type: video.tv_show
+Episodes: 38
+Episode length: 660
+Last episode date release: 2013-09-22
+Genres: Экшен, Фантастика, 
+Rating limit: PG
+Rating: 5.51
+Rating numbers: 309
+Description: Нет описания

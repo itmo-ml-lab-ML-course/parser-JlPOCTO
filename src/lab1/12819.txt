@@ -1,0 +1,9 @@
+Name: Bulg-eunmae
+Type: video.movie
+Episodes: 1
+Episode length: 5040
+Genres: Боевые искусства, Супер сила, 
+Rating limit: PG-13
+Rating: 5.47
+Rating numbers: 224
+Description: Нет описания

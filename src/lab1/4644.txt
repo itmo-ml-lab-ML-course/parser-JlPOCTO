@@ -1,0 +1,9 @@
+Name: Azuki-chan the Movie
+Type: video.movie
+Episodes: 1
+Episode length: 1800
+Genres: Сёдзё, Комедия, Романтика, Повседневность, 
+Rating limit: G
+Rating: 6.12
+Rating numbers: 225
+Description: Нет описания

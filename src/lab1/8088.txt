@@ -1,0 +1,7 @@
+Name: Dis Covers
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, Исторический, Музыка, 
+Rating limit: R+
+Description: Нет описания

@@ -1,0 +1,6 @@
+Name: Mononoke Movie
+Type: video.movie
+Episodes: 1
+Genres: Ужасы, Детектив, Сверхъестественное, Исторический, Психологическое, 
+Rating limit: R-17
+Description: Нет описания

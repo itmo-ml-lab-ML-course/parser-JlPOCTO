@@ -1,0 +1,9 @@
+Name: Tsugu Tsugumomo Mini Anime
+Type: video.tv_show
+Episodes: 59
+Last episode date release: 2020-08-03
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.02
+Rating numbers: 646
+Description: Нет описания

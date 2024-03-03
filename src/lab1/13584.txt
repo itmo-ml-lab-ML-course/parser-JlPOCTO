@@ -1,0 +1,9 @@
+Name: Mame-Mofu Collab Animation
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.16
+Rating numbers: 263
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Fairy Tail Movie 1: Houou no Miko - Hajimari no Asa
+Type: video.other
+Episodes: 1
+Episode length: 720
+Genres: Сёнен, Фэнтези, 
+Rating limit: PG-13
+Rating: 7.33
+Rating numbers: 26523
+Description: Данный эпизод показывает один день из жизни Эклер и является прологом к фильму «Сказка о Хвосте феи: Жрица Феникса».

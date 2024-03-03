@@ -1,0 +1,9 @@
+Name: The iDOLM@STER Movie: Kagayaki no Mukougawa e!
+Type: video.movie
+Episodes: 1
+Episode length: 7260
+Genres: Комедия, Драма, Музыка, 
+Rating limit: PG-13
+Rating: 7.61
+Rating numbers: 3144
+Description: Полнометражный фильм расскажет о совершенно новой истории идолов из компании «765-про».

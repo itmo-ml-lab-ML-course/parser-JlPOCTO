@@ -1,0 +1,9 @@
+Name: New York Trip
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, 
+Rating limit: R+
+Rating: 4.72
+Rating numbers: 294
+Description: Нет описания

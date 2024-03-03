@@ -1,0 +1,10 @@
+Name: Kasumin
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 2002-04-06
+Genres: Детское, Фэнтези, 
+Rating limit: G
+Rating: 6.59
+Rating numbers: 235
+Description: Нет описания

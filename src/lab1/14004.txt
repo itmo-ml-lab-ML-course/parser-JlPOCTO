@@ -1,0 +1,9 @@
+Name: Kanai
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Меха, 
+Rating limit: G
+Rating: 4.87
+Rating numbers: 165
+Description: Нет описания

@@ -1,0 +1,6 @@
+Name: &quot;Oshi no Ko&quot; Season 2
+Type: video.tv_show
+Episodes: 1
+Genres: Драма, Сверхъестественное, Сэйнэн, 
+Rating limit: PG-13
+Description: Нет описания

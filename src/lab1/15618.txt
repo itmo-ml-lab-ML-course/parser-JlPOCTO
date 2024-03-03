@@ -1,0 +1,7 @@
+Name: Qiao Shou Luban
+Type: video.tv_show
+Episodes: 208
+Episode length: 420
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

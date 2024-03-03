@@ -1,0 +1,8 @@
+Name: Beuledeu Ibalso
+Type: video.tv_show
+Episodes: 39
+Episode length: 600
+Last episode date release: 2019-04-04
+Genres: Комедия, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

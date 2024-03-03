@@ -1,0 +1,7 @@
+Name: Chao Bian Wu Shou
+Type: video.tv_show
+Episodes: 26
+Episode length: 1560
+Genres: Детское, Экшен, Фантастика, 
+Rating limit: PG
+Description: Нет описания

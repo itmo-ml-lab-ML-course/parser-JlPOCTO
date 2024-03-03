@@ -1,0 +1,7 @@
+Name: Dangsin-eul Chodaehago Sipseubnida
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Безумие, 
+Rating limit: PG-13
+Description: Нет описания

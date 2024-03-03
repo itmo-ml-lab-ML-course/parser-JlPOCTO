@@ -1,0 +1,10 @@
+Name: Manga Aesop Monogatari (TV)
+Type: video.tv_show
+Episodes: 52
+Episode length: 900
+Last episode date release: 1983-12-22
+Genres: Детское, Комедия, Фэнтези, 
+Rating limit: G
+Rating: 6.01
+Rating numbers: 194
+Description: Нет описания

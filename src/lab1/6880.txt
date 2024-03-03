@@ -1,0 +1,7 @@
+Name: Xiaobing De Gushi
+Type: video.tv_show
+Episodes: 10
+Episode length: 180
+Genres: Комедия, Фэнтези, Детское, 
+Rating limit: G
+Description: Нет описания

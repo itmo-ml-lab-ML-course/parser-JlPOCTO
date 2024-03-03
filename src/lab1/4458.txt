@@ -1,0 +1,9 @@
+Name: Houkago Midnighters
+Type: video.movie
+Episodes: 1
+Episode length: 6000
+Genres: Детское, Фэнтези, 
+Rating limit: G
+Rating: 6.16
+Rating numbers: 398
+Description: Нет описания

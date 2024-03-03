@@ -1,0 +1,9 @@
+Name: Kobutori (1957)
+Type: video.movie
+Episodes: 1
+Episode length: 1200
+Genres: 
+Rating limit: G
+Rating: 5.28
+Rating numbers: 257
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Mirai Koushi Harima SACLA NEX RAY
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Фантастика, Музыка, 
+Rating limit: G
+Rating: 5.54
+Rating numbers: 225
+Description: Нет описания

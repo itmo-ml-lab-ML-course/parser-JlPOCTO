@@ -1,0 +1,7 @@
+Name: Bousai Keihatsu Douga
+Type: video.tv_show
+Episodes: 2
+Episode length: 360
+Genres: Повседневность, 
+Rating limit: G
+Description: Нет описания

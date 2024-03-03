@@ -1,0 +1,8 @@
+Name: Ruyi Ku Bao: Ben Ben Zhu
+Type: video.tv_show
+Episodes: 52
+Episode length: 720
+Last episode date release: 2013-09-01
+Genres: Приключения, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

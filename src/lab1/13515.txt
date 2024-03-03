@@ -1,0 +1,9 @@
+Name: Ya-Ne-Sen a Go Go
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: Музыка, 
+Rating limit: G
+Rating: 5.27
+Rating numbers: 200
+Description: Нет описания

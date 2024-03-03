@@ -1,0 +1,10 @@
+Name: Ganbare! Marine Kid
+Type: video.tv_show
+Episodes: 13
+Episode length: 1500
+Last episode date release: 1966-12-26
+Genres: Детское, Экшен, Приключения, Фантастика, 
+Rating limit: PG
+Rating: 5.48
+Rating numbers: 255
+Description: Нет описания

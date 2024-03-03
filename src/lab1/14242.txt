@@ -1,0 +1,9 @@
+Name: Mikan-bune
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Исторический, 
+Rating limit: G
+Rating: 4.63
+Rating numbers: 342
+Description: Нет описания

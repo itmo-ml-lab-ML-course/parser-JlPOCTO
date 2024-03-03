@@ -1,0 +1,8 @@
+Name: Eigo de Asobo: Tanken Goblin Tou
+Type: video.tv_show
+Episodes: 100
+Episode length: 1500
+Last episode date release: 1991-03-29
+Genres: Детское, Приключения, Комедия, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Dragon Quest: Dai no Daibouken
+Type: video.movie
+Episodes: 1
+Episode length: 1860
+Genres: Сёнен, Приключения, Фэнтези, Демоны, 
+Rating limit: G
+Rating: 6.53
+Rating numbers: 533
+Description: Нет описания

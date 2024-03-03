@@ -1,0 +1,9 @@
+Name: Namakura Gatana
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Комедия, Самураи, 
+Rating limit: G
+Rating: 5.49
+Rating numbers: 1094
+Description: Немой короткометражный фильм, рассказывающий историю о самурае с тупым мечом, который каждый раз проигрывает случайным прохожим. Является одним из самых ранних примеров аниме.

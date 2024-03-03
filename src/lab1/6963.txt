@@ -1,0 +1,7 @@
+Name: Xin Sanzijing
+Type: video.tv_show
+Episodes: 50
+Episode length: 420
+Genres: Исторический, Детское, 
+Rating limit: PG
+Description: Нет описания

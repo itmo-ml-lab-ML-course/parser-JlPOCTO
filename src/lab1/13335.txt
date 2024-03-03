@@ -1,0 +1,9 @@
+Name: Kumo no Ito
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 5.28
+Rating numbers: 1353
+Description: Адаптация классического рассказа о паутинке. Мужчина, приговорённый к жизни в аду, пытается сбежать, взбираясь по свисающей сверху нити паутины.

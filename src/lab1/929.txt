@@ -1,0 +1,9 @@
+Name: Kuroko no Basket Movie 3: Winter Cup - Tobira no Mukou
+Type: video.movie
+Episodes: 1
+Episode length: 5280
+Genres: Сёнен, Комедия, Спорт, 
+Rating limit: PG-13
+Rating: 7.81
+Rating numbers: 19292
+Description: Третий полнометражный фильм-рекап оригинального аниме-сериала «Баскетбол Куроко», охватывающий матчи Шутоку против Ракузана и Сэйрин против Ракузана.

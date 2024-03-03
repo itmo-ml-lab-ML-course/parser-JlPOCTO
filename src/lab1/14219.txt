@@ -1,0 +1,9 @@
+Name: Star Wars/Saigo no Jedai: Tokubetsu Eizou
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Фантастика, Пародия, 
+Rating limit: G
+Rating: 4.66
+Rating numbers: 549
+Description: Промо-ролик, приуроченный к выходу фильма «Звёздные войны: Последние джедаи» в Японии. Краткий пересказ фильма «Звёздные войны: Пробуждение силы », в котором все персонажи выполнены в стиле робота BB-8.

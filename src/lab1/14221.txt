@@ -1,0 +1,10 @@
+Name: 3-Nen D-Gumi Glass no Kamen
+Type: video.tv_show
+Episodes: 13
+Episode length: 240
+Last episode date release: 2016-12-26
+Genres: Комедия, Пародия, Школа, 
+Rating limit: PG
+Rating: 4.65
+Rating numbers: 815
+Description: Нет описания

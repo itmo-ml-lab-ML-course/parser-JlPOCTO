@@ -1,0 +1,9 @@
+Name: Go! Go! Ackman
+Type: video.other
+Episodes: 1
+Episode length: 900
+Genres: Экшен, Комедия, Сверхъестественное, Демоны, 
+Rating limit: PG-13
+Rating: 6.16
+Rating numbers: 351
+Description: Нет описания

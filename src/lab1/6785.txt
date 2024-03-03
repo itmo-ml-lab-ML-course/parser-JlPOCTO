@@ -1,0 +1,7 @@
+Name: Xiao Po Hai Da Zhuangyuan
+Type: video.movie
+Episodes: 1
+Episode length: 5100
+Genres: Приключения, Комедия, Фэнтези, 
+Rating limit: G
+Description: Нет описания

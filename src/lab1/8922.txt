@@ -1,0 +1,7 @@
+Name: Hennako-chan
+Type: video.tv_show
+Episodes: 6
+Episode length: 180
+Last episode date release: 2008-07-03
+Genres: Комедия, 
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Uma Musume: Pretty Derby Season 3
+Type: video.tv_show
+Episodes: 13
+Episode length: 1380
+Last episode date release: 2023-12-28
+Genres: Спорт, 
+Rating limit: PG-13
+Rating: 7.62
+Rating numbers: 2107
+Description: Нет описания

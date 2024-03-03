@@ -1,0 +1,5 @@
+Name: 2.5-jigen no Ririsa
+Type: video.tv_show
+Episodes: 1
+Genres: Сёнен, Комедия, Этти, Гарем, Школа, 
+Description: Нет описания

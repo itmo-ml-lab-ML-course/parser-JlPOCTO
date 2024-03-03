@@ -1,0 +1,7 @@
+Name: Shenlong Zhengjiu Dui: Yuanqi Xing Hun
+Type: video.tv_show
+Episodes: 52
+Episode length: 1320
+Genres: Фантастика, Меха, Детское, 
+Rating limit: PG
+Description: Нет описания

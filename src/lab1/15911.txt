@@ -1,0 +1,7 @@
+Name: Salangeun Oneuldo Malgeum
+Type: video.tv_show
+Episodes: 1
+Episode length: 240
+Genres: Романтика, 
+Rating limit: G
+Description: Нет описания

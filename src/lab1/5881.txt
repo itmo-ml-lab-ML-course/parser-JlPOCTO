@@ -1,0 +1,8 @@
+Name: T-Rex
+Type: video.tv_show
+Episodes: 52
+Episode length: 1500
+Last episode date release: 1993-01-23
+Genres: Детское, Экшен, Приключения, Комедия, 
+Rating limit: G
+Description: Нет описания

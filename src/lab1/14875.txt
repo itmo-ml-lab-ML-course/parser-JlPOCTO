@@ -1,0 +1,7 @@
+Name: Mu Yang Shao Nian
+Type: video.movie
+Episodes: 1
+Episode length: 1020
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

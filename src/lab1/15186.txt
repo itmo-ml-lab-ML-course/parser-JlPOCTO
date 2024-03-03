@@ -1,0 +1,7 @@
+Name: Observing Elena Evoy
+Type: video.tv_show
+Episodes: 12
+Episode length: 300
+Genres: Фэнтези, Романтика, 
+Rating limit: PG-13
+Description: Нет описания

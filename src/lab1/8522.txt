@@ -1,0 +1,7 @@
+Name: Gang Zi Tegong Dui
+Type: video.tv_show
+Episodes: 100
+Episode length: 540
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

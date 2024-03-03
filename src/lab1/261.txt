@@ -1,0 +1,10 @@
+Name: Major: World Series
+Type: video.other
+Episodes: 2
+Episode length: 1680
+Last episode date release: 2012-01-18
+Genres: Спорт, Сёнен, 
+Rating limit: PG-13
+Rating: 8.29
+Rating numbers: 5013
+Description: Две заключительные серии истории бейсбольной мэйджор-лиги и её игроков. Решающий матч, решающие моменты и секунды в жизни наших героев.

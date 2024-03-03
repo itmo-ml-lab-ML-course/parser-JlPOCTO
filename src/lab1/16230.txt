@@ -1,0 +1,8 @@
+Name: Shi Wan Ge Weisheme Juchang
+Type: video.tv_show
+Episodes: 365
+Episode length: 300
+Last episode date release: 2010-01-01
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

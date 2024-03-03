@@ -1,0 +1,10 @@
+Name: Itsumo Kokoro ni Taiyou wo!
+Type: video.tv_show
+Episodes: 16
+Episode length: 180
+Last episode date release: 1999-11-26
+Genres: Комедия, Этти, 
+Rating limit: R+
+Rating: 6.01
+Rating numbers: 363
+Description: Нет описания

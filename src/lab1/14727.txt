@@ -1,0 +1,7 @@
+Name: Minna Tomodachi
+Type: video.other
+Episodes: 1
+Episode length: 900
+Genres: Детское, Комедия, Фэнтези, 
+Rating limit: G
+Description: Нет описания

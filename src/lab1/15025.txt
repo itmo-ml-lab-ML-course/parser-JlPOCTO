@@ -1,0 +1,8 @@
+Name: Neko Neko Nihonshi 5th Season
+Type: video.tv_show
+Episodes: 32
+Episode length: 540
+Last episode date release: 2021-03-03
+Genres: Детское, Исторический, Пародия, Самураи, 
+Rating limit: G
+Description: Нет описания

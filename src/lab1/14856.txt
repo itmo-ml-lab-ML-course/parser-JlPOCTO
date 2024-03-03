@@ -1,0 +1,8 @@
+Name: Mouretsu 50 Ototarou
+Type: video.tv_show
+Episodes: 6
+Episode length: 60
+Last episode date release: 2017-02-09
+Genres: Комедия, Пародия, 
+Rating limit: PG-13
+Description: Нет описания

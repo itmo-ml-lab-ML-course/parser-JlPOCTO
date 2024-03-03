@@ -1,0 +1,7 @@
+Name: Super Taekwon V
+Type: video.movie
+Episodes: 1
+Episode length: 4800
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: PG
+Description: Нет описания

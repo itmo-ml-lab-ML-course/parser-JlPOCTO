@@ -1,0 +1,7 @@
+Name: Black Cat
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Безумие, Музыка, 
+Rating limit: R-17
+Description: Нет описания

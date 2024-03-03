@@ -1,0 +1,8 @@
+Name: Toko-chan Chokkin
+Type: video.tv_show
+Episodes: 3
+Episode length: 300
+Last episode date release: 1995-06-05
+Genres: Детское, Приключения, Повседневность, Исторический, 
+Rating limit: PG
+Description: Нет описания

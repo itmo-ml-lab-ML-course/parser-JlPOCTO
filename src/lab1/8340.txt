@@ -1,0 +1,8 @@
+Name: Fantastic World
+Type: video.tv_show
+Episodes: 2
+Episode length: 60
+Last episode date release: 2018-08-31
+Genres: Приключения, Фэнтези, Музыка, 
+Rating limit: G
+Description: Нет описания

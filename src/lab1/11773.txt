@@ -1,0 +1,9 @@
+Name: Dragon Ball Z: Zenbu Misemasu Toshi Wasure Dragon Ball Z!
+Type: video.other
+Episodes: 1
+Episode length: 300
+Genres: Сёнен, Экшен, Приключения, Комедия, Фэнтези, Повседневность, Боевые искусства, Супер сила, 
+Rating limit: PG-13
+Rating: 6.5
+Rating numbers: 1780
+Description: Краткий пересказ битвы с Целлом в аниме-сериале «Драконий жемчуг Зет».

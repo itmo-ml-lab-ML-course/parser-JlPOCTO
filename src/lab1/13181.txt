@@ -1,0 +1,9 @@
+Name: Kamakura
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 5.35
+Rating numbers: 244
+Description: Нет описания

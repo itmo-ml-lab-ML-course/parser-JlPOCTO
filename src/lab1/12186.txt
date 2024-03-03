@@ -1,0 +1,10 @@
+Name: Shen Ji Long Wei
+Type: video.tv_show
+Episodes: 26
+Episode length: 900
+Last episode date release: 2022-12-11
+Genres: Экшен, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.43
+Rating numbers: 638
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Stray Sheep
+Type: video.other
+Episodes: 3
+Last episode date release: 1995-06-01
+Genres: Приключения, 
+Rating limit: G
+Description: Нет описания

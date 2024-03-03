@@ -1,0 +1,9 @@
+Name: Yatterman the Movie: Shin Yattermecha Osu Gou! Omocha no Kuni de Dai Ketsudan da Koron
+Type: video.movie
+Episodes: 1
+Episode length: 5640
+Genres: Детское, Комедия, 
+Rating limit: G
+Rating: 6.05
+Rating numbers: 471
+Description: Нет описания

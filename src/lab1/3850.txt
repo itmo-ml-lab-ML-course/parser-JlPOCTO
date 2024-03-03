@@ -1,0 +1,10 @@
+Name: Getsumen To Heiki Mina
+Type: video.tv_show
+Episodes: 11
+Episode length: 1380
+Last episode date release: 2007-03-25
+Genres: Экшен, Комедия, Фантастика, Этти, Пародия, Супер сила, 
+Rating limit: PG-13
+Rating: 6.28
+Rating numbers: 945
+Description: Нет описания

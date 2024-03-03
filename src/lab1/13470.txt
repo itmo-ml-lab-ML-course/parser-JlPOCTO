@@ -1,0 +1,9 @@
+Name: Maku
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 5.22
+Rating numbers: 252
+Description: Нет описания

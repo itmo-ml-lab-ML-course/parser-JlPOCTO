@@ -1,0 +1,7 @@
+Name: Xinghuo Chuancheng
+Type: video.tv_show
+Episodes: 4
+Episode length: 480
+Last episode date release: 2021-09-03
+Genres: Драма, Исторический, 
+Description: Нет описания

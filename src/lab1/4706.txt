@@ -1,0 +1,10 @@
+Name: Noramimi
+Type: video.tv_show
+Episodes: 12
+Episode length: 1200
+Last episode date release: 2008-03-26
+Genres: Комедия, 
+Rating limit: G
+Rating: 6.11
+Rating numbers: 266
+Description: Нет описания

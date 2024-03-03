@@ -1,0 +1,9 @@
+Name: Otousan wa Ai no Hito
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Драма, Повседневность, 
+Rating limit: G
+Rating: 6.35
+Rating numbers: 444
+Description: Нет описания

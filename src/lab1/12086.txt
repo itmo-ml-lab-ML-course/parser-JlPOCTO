@@ -1,0 +1,10 @@
+Name: Go! Go! Itsutsugo Land
+Type: video.tv_show
+Episodes: 50
+Episode length: 1200
+Last episode date release: 2002-03-30
+Genres: Школа, 
+Rating limit: G
+Rating: 6.44
+Rating numbers: 216
+Description: Нет описания

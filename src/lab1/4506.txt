@@ -1,0 +1,10 @@
+Name: Duel Masters Charge
+Type: video.tv_show
+Episodes: 52
+Episode length: 1260
+Last episode date release: 2006-03-27
+Genres: Детское, Экшен, Приключения, Комедия, 
+Rating limit: PG-13
+Rating: 6.15
+Rating numbers: 405
+Description: Нет описания

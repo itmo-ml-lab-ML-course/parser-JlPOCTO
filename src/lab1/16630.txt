@@ -1,0 +1,6 @@
+Name: BanG Dream! It&#39;s MyGO!!!!! Movie
+Type: video.movie
+Episodes: 2
+Genres: Музыка, 
+Rating limit: PG-13
+Description: Нет описания

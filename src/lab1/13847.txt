@@ -1,0 +1,9 @@
+Name: PiKA PiKA
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: 
+Rating limit: G
+Rating: 5.01
+Rating numbers: 159
+Description: Нет описания

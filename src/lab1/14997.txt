@@ -1,0 +1,7 @@
+Name: Nanumu no Ie
+Type: video.movie
+Episodes: 1
+Episode length: 5760
+Genres: Драма, Исторический, 
+Rating limit: PG
+Description: Документальный анимационный фильм, освещающий жизнь корейских женщин в качестве сексуальных рабынь для японских солдат во время Второй мировой войны.

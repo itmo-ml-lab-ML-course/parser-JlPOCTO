@@ -1,0 +1,10 @@
+Name: Flying Witch Petit
+Type: video.tv_show
+Episodes: 9
+Episode length: 120
+Last episode date release: 2016-06-24
+Genres: Комедия, Повседневность, Сверхъестественное, 
+Rating limit: PG-13
+Rating: 6.06
+Rating numbers: 2879
+Description: Короткие спешлы к оригинальному сериалу, выложенные на официальном YouTube-канале VAP и позже выпущенные в комплекте с Blu-Ray и DVD сборниками.

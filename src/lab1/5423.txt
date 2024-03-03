@@ -1,0 +1,9 @@
+Name: Golden Batman
+Type: video.movie
+Episodes: 1
+Episode length: 4200
+Genres: Детское, Экшен, 
+Rating limit: G
+Rating: 4.26
+Rating numbers: 316
+Description: Нет описания

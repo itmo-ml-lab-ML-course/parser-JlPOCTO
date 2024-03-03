@@ -1,0 +1,8 @@
+Name: Pic-lele
+Type: video.tv_show
+Episodes: 12
+Episode length: 60
+Last episode date release: 2014-03-29
+Genres: Детское, 
+Rating limit: PG
+Description: Небольшой аниме-сериал, в котором котенок, щенок, поросенок, медвежонок и совенок будут рассказывать детям, как правильно играть на маленькой гитаре укулеле.

@@ -1,0 +1,8 @@
+Name: MAG Net Jingle
+Type: video.other
+Episodes: 1
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 4.7
+Rating numbers: 185
+Description: Нет описания

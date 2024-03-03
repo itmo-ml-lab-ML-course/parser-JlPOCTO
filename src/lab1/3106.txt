@@ -1,0 +1,9 @@
+Name: Doraemon Movie 10: Nobita no Nippon Tanjou
+Type: video.movie
+Episodes: 1
+Episode length: 6000
+Genres: Приключения, Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 7.14
+Rating numbers: 594
+Description: Нет описания

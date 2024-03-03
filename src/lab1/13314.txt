@@ -1,0 +1,9 @@
+Name: Dia Horizon
+Type: video.tv_show
+Episodes: 3
+Last episode date release: 2017-08-21
+Genres: Игры, Пародия, 
+Rating limit: G
+Rating: 5.29
+Rating numbers: 257
+Description: Нет описания

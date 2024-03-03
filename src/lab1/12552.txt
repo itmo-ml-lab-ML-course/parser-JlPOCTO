@@ -1,0 +1,9 @@
+Name: Yasashii March
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Музыка, 
+Rating limit: PG-13
+Rating: 6.35
+Rating numbers: 532
+Description: Нет описания

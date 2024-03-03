@@ -1,0 +1,9 @@
+Name: Final Fantasy VII: Advent Children - Venice Film Festival Footage
+Type: video.movie
+Episodes: 1
+Episode length: 1380
+Genres: Экшен, Драма, Фэнтези, Фантастика, 
+Rating limit: PG-13
+Rating: 7.51
+Rating numbers: 4781
+Description: Этот демонстрационный вариант фильма продолжительностью в 23 минуты был показан на 61-ом Венецианском кинофестивале в 2004 году и представлен в номинации «Цифровая Венеция».

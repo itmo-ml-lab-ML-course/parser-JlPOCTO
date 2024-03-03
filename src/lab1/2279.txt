@@ -1,0 +1,10 @@
+Name: Mahoutsukai Precure!
+Type: video.tv_show
+Episodes: 50
+Episode length: 1440
+Last episode date release: 2017-01-29
+Genres: Экшен, Фэнтези, 
+Rating limit: G
+Rating: 7.3
+Rating numbers: 1877
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Kick no Oni
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 1971-03-26
+Genres: Сёнен, Спорт, 
+Rating: 6.22
+Rating numbers: 282
+Description: Нет описания

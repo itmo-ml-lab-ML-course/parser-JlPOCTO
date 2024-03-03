@@ -1,0 +1,9 @@
+Name: Doraemon: The Day When I Was Born
+Type: video.movie
+Episodes: 1
+Episode length: 1680
+Genres: Комедия, Фэнтези, Фантастика, 
+Rating limit: PG
+Rating: 7.05
+Rating numbers: 549
+Description: Нет описания

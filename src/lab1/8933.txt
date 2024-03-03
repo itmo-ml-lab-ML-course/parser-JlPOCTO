@@ -1,0 +1,8 @@
+Name: Hero Circle
+Type: video.tv_show
+Episodes: 26
+Episode length: 660
+Last episode date release: 2020-09-22
+Genres: Приключения, Комедия, Супер сила, Детское, 
+Rating limit: PG
+Description: Нет описания

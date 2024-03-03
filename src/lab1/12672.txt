@@ -1,0 +1,10 @@
+Name: Pole Princess!!
+Type: video.tv_show
+Episodes: 14
+Episode length: 300
+Last episode date release: 2023-04-03
+Genres: 
+Rating limit: PG-13
+Rating: 5.53
+Rating numbers: 1260
+Description: Нет описания

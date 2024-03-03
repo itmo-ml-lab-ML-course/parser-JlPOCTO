@@ -1,0 +1,10 @@
+Name: Seraphim Call
+Type: video.tv_show
+Episodes: 12
+Episode length: 1380
+Last episode date release: 1999-12-22
+Genres: Драма, Романтика, Фантастика, 
+Rating limit: PG-13
+Rating: 6.51
+Rating numbers: 916
+Description: Нет описания

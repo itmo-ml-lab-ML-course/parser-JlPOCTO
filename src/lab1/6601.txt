@@ -1,0 +1,8 @@
+Name: Wrestler Gundan Seisenshi Robin Jr.
+Type: video.tv_show
+Episodes: 50
+Episode length: 1500
+Last episode date release: 1990-09-27
+Genres: Детское, Экшен, Приключения, Комедия, Фэнтези, Фантастика, Пародия, Супер сила, 
+Rating limit: G
+Description: Нет описания

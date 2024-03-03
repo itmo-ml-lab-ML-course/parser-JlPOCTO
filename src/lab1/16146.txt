@@ -1,0 +1,7 @@
+Name: Shen Quan Yong Chuang Jixie Cheng
+Type: video.tv_show
+Episodes: 118
+Episode length: 660
+Genres: Приключения, 
+Rating limit: PG
+Description: Нет описания

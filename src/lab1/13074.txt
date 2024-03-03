@@ -1,0 +1,9 @@
+Name: Deliver Police: Nishitokyo-shi Deliver Keisatsutai
+Type: video.tv_show
+Episodes: 1
+Episode length: 600
+Genres: Экшен, 
+Rating limit: PG-13
+Rating: 5.38
+Rating numbers: 451
+Description: Нет описания

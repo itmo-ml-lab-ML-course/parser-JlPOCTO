@@ -1,0 +1,7 @@
+Name: Eiga no Yousei: Fill and Moo
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: G
+Description: Нет описания

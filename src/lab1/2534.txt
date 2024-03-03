@@ -1,0 +1,9 @@
+Name: Doraemon Movie 32: Nobita to Kiseki no Shima - Animal Adventure
+Type: video.movie
+Episodes: 1
+Episode length: 6000
+Genres: Приключения, Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 7.25
+Rating numbers: 586
+Description: Нет описания

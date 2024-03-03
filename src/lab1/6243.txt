@@ -1,0 +1,6 @@
+Name: Tsukushi no Iwai
+Type: video.other
+Episodes: 1
+Episode length: 1740
+Genres: Исторический, 
+Description: Документальный фильм об истории Японии, о периоде восстания Иваи (527 г. н.э.).

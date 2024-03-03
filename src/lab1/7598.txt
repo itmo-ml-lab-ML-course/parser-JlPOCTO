@@ -1,0 +1,7 @@
+Name: Cemedine Bond to G17-gou
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Комедия, Пародия, 
+Rating limit: G
+Description: Нет описания

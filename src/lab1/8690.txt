@@ -1,0 +1,7 @@
+Name: Gui Tu Da Zuozhan
+Type: video.movie
+Episodes: 1
+Episode length: 4920
+Genres: Детское, Приключения, Фэнтези, Спорт, 
+Rating limit: PG
+Description: Нет описания

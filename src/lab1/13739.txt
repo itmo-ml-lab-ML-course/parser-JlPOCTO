@@ -1,0 +1,9 @@
+Name: Pinky Monkey no Umareta Hi
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Приключения, 
+Rating limit: G
+Rating: 5.08
+Rating numbers: 150
+Description: Нет описания

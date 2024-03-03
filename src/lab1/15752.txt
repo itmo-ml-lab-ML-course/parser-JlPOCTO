@@ -1,0 +1,8 @@
+Name: RGB Adventure Recaps
+Type: video.other
+Episodes: 2
+Episode length: 1200
+Last episode date release: 2007-01-21
+Genres: Приключения, Фэнтези, Фантастика, 
+Rating limit: G
+Description: Нет описания

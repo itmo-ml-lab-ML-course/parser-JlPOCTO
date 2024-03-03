@@ -1,0 +1,5 @@
+Name: Mob kara Hajimaru Tansaku Eiyuutan
+Type: video.tv_show
+Episodes: 1
+Genres: Экшен, Приключения, Фэнтези, 
+Description: Нет описания

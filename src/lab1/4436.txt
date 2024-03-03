@@ -1,0 +1,9 @@
+Name: Akichi Asobi: Playground
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Драма, Фэнтези, 
+Rating limit: G
+Rating: 6.16
+Rating numbers: 412
+Description: Нет описания

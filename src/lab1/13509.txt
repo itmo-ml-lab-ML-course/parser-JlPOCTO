@@ -1,0 +1,9 @@
+Name: Hatoya
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 5.2
+Rating numbers: 168
+Description: Нет описания

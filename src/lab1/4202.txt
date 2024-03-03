@@ -1,0 +1,10 @@
+Name: Mini Hama: Minimum Hamatora
+Type: video.tv_show
+Episodes: 8
+Episode length: 300
+Last episode date release: 2015-12-21
+Genres: Сёнен, Комедия, Детектив, Школа, Супер сила, 
+Rating limit: PG-13
+Rating: 6.21
+Rating numbers: 2793
+Description: Приключения героев сериала «Хаматора» в школе.

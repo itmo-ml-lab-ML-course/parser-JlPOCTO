@@ -1,0 +1,9 @@
+Name: Aoki Hagane no Arpeggio: Ars Nova Movie 1 - DC
+Type: video.movie
+Episodes: 1
+Episode length: 6300
+Genres: Сэйнэн, Экшен, Фантастика, 
+Rating limit: PG-13
+Rating: 7.4
+Rating numbers: 5229
+Description: Первый фильм представляет собой компиляцию всех серий оригинального сериала с новой последовательностью повествования.

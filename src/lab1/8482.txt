@@ -1,0 +1,8 @@
+Name: Gag Short Animation
+Type: video.tv_show
+Episodes: 37
+Episode length: 120
+Last episode date release: 2011-03-01
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

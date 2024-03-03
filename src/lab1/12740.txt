@@ -1,0 +1,9 @@
+Name: Happy Kappy Recap
+Type: video.other
+Episodes: 1
+Episode length: 300
+Genres: Сёдзё, Комедия, Фэнтези, 
+Rating limit: G
+Rating: 5.5
+Rating numbers: 155
+Description: Краткий пересказ аниме-сериала «Счастливая Каппи», вышедший между девятнадцатой и двадцатой сериями.

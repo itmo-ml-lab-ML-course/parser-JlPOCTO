@@ -1,0 +1,6 @@
+Name: Deko Boko Friends 3
+Type: video.tv_show
+Episodes: 54
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

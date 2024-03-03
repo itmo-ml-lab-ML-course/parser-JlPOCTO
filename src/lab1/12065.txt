@@ -1,0 +1,9 @@
+Name: Akashic Re:cords
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Фэнтези, Игры, 
+Rating limit: G
+Rating: 6.44
+Rating numbers: 1663
+Description: Презентация мобильной RPG-игры «Akashic Re:cords» от компаний Squre Enix и Kadokawa Game's, выпущенной для Android и iOS 10 ноября 2016 года. Программная поддержка игры была прекращена 31 августа 2017 года.

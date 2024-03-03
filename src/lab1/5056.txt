@@ -1,0 +1,9 @@
+Name: Slide
+Type: video.tv_show
+Episodes: 1
+Episode length: 420
+Genres: Спорт, Музыка, 
+Rating limit: G
+Rating: 6.04
+Rating numbers: 338
+Description: Нет описания

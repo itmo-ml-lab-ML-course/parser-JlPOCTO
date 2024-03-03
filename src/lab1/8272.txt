@@ -1,0 +1,7 @@
+Name: Dynamic Venus
+Type: video.movie
+Episodes: 1
+Episode length: 1260
+Genres: Экшен, Комедия, Фантастика, Супер сила, 
+Rating limit: R-17
+Description: Нет описания

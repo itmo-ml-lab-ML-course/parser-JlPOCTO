@@ -1,0 +1,10 @@
+Name: Divergence Eve
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2003-09-24
+Genres: Приключения, Комедия, Драма, Фантастика, Меха, Военное, Космос, 
+Rating limit: R+
+Rating: 6.01
+Rating numbers: 1185
+Description: Нет описания

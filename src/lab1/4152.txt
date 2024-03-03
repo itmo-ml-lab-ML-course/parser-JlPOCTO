@@ -1,0 +1,10 @@
+Name: Don Chuck Monogatari
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 1975-09-27
+Genres: Детское, Приключения, Повседневность, 
+Rating limit: G
+Rating: 6.22
+Rating numbers: 230
+Description: Нет описания

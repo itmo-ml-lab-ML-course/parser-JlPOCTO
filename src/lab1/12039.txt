@@ -1,0 +1,10 @@
+Name: Kuromi&#39;s Pretty Journey
+Type: video.tv_show
+Episodes: 21
+Episode length: 120
+Last episode date release: 2023-03-31
+Genres: Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 6.45
+Rating numbers: 630
+Description: Нет описания

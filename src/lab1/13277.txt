@@ -1,0 +1,9 @@
+Name: Bokura no Saibanin Monogatari
+Type: video.tv_show
+Episodes: 1
+Episode length: 1320
+Genres: Школа, 
+Rating limit: G
+Rating: 5.31
+Rating numbers: 185
+Description: Нет описания

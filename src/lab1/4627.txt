@@ -1,0 +1,9 @@
+Name: Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari - Magica Quartet x Nisioisin
+Type: video.movie
+Episodes: 4
+Episode length: 120
+Genres: Комедия, 
+Rating limit: G
+Rating: 6.12
+Rating numbers: 5327
+Description: Короткие видеоролики, показанные в кинотеатрах перед началом фильма «Девочка-волшебница Мадока★Волшебный фильм 3: История восстания», которые учат основным правилам поведения в кинотеатре.

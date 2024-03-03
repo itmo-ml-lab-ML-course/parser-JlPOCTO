@@ -1,0 +1,9 @@
+Name: Hoshi no Orpheus
+Type: video.movie
+Episodes: 1
+Episode length: 4800
+Genres: Детское, Фэнтези, 
+Rating limit: PG
+Rating: 5.18
+Rating numbers: 257
+Description: Нет описания

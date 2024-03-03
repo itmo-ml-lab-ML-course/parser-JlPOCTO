@@ -1,0 +1,9 @@
+Name: Scrap Diary
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, 
+Rating limit: R+
+Rating: 3.18
+Rating numbers: 287
+Description: Нет описания

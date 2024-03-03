@@ -1,0 +1,7 @@
+Name: Spookiz Specials
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Комедия, Сверхъестественное, Детское, 
+Rating limit: PG
+Description: Нет описания

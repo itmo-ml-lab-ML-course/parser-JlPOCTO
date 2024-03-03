@@ -1,0 +1,9 @@
+Name: Doraemon Movie 22: Nobita to Tsubasa no Yuusha-tachi
+Type: video.movie
+Episodes: 1
+Episode length: 5460
+Genres: Приключения, Фэнтези, Детское, Сёнен, 
+Rating limit: PG
+Rating: 7.22
+Rating numbers: 588
+Description: Нет описания

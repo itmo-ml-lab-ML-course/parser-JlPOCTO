@@ -1,0 +1,9 @@
+Name: Alice or Alice Recap
+Type: video.other
+Episodes: 1
+Episode length: 180
+Genres: Повседневность, 
+Rating limit: PG-13
+Rating: 5.41
+Rating numbers: 322
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Xingguang Jiazu Tebie Pian
+Type: video.tv_show
+Episodes: 11
+Episode length: 120
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Tokyo Loop
+Type: video.movie
+Episodes: 1
+Episode length: 4200
+Genres: Безумие, Комедия, 
+Rating limit: R+
+Rating: 5.01
+Rating numbers: 770
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Yuyushiki
+Type: video.tv_show
+Episodes: 12
+Episode length: 1380
+Last episode date release: 2013-06-26
+Genres: Комедия, Школа, 
+Rating limit: PG-13
+Rating: 7.36
+Rating numbers: 9453
+Description: История о школьной жизни трёх девушек — Юдзуко, Юкари и Юи — в клубе обработки данных. Неординарная дружба этих трёх неунывающих особ создаёт комические ситуации даже в самых простых событиях.

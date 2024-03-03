@@ -1,0 +1,10 @@
+Name: Koroshiya-san: The Hired Gun
+Type: video.tv_show
+Episodes: 10
+Episode length: 180
+Last episode date release: 2013-12-13
+Genres: Сэйнэн, Экшен, Комедия, Триллер, Полиция, 
+Rating limit: PG-13
+Rating: 5.45
+Rating numbers: 1777
+Description: Сатирическая комедия, повествующая о буднях человека, именуемого как «лучший убийца Японии». Непревзойденный. Не оставляющий никаких следов. Его девиз: «Если у меня задание, я убью что угодно и кого угодно».

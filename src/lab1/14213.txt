@@ -1,0 +1,9 @@
+Name: Commercial War
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, 
+Rating limit: R+
+Rating: 4.66
+Rating numbers: 272
+Description: Нет описания

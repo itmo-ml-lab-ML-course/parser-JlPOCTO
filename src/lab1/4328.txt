@@ -1,0 +1,10 @@
+Name: Little Charo
+Type: video.tv_show
+Episodes: 50
+Episode length: 300
+Last episode date release: 2009-03-25
+Genres: Повседневность, 
+Rating limit: G
+Rating: 6.19
+Rating numbers: 221
+Description: Нет описания

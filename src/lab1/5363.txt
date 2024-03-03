@@ -1,0 +1,9 @@
+Name: Mahoutsukai Jiji
+Type: video.tv_show
+Episodes: 1
+Episode length: 360
+Genres: Фэнтези, Музыка, 
+Rating limit: PG
+Rating: 5.97
+Rating numbers: 417
+Description: Данное аниме является частью проекта, цель которого — укрепление связи между молодыми и пожилыми людьми.

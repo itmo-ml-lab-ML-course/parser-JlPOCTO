@@ -1,0 +1,9 @@
+Name: Pokemon Daiundoukai
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Детское, Музыка, 
+Rating limit: PG
+Rating: 5.53
+Rating numbers: 404
+Description: Нет описания

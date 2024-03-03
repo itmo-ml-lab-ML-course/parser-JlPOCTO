@@ -1,0 +1,8 @@
+Name: Chi-Sui Maru 2nd Season
+Type: video.tv_show
+Episodes: 34
+Episode length: 300
+Last episode date release: 2011-09-24
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

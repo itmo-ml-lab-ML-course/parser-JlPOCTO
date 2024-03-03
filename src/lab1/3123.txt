@@ -1,0 +1,10 @@
+Name: Wu Shang Shen Di
+Type: video.tv_show
+Episodes: 64
+Episode length: 420
+Last episode date release: 2020-12-18
+Genres: Экшен, Приключения, Сверхъестественное, 
+Rating limit: PG-13
+Rating: 7.14
+Rating numbers: 1874
+Description: Нет описания

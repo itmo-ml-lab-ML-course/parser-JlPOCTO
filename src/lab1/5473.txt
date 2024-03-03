@@ -1,0 +1,9 @@
+Name: Embah
+Type: video.tv_show
+Episodes: 1
+Episode length: 480
+Genres: Безумие, 
+Rating limit: G
+Rating: 3.96
+Rating numbers: 187
+Description: Нет описания

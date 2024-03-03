@@ -1,0 +1,9 @@
+Name: Pokemon: Pikapika Hoshizora Camp
+Type: video.movie
+Episodes: 1
+Episode length: 1320
+Genres: Детское, Приключения, Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 6.5
+Rating numbers: 2982
+Description: Пикачу и другие покемоны помогают братьям Пичу попасть на поезд, по пути  разбивая лагерь в лесу и укрываясь от дождя на старой водяной мельнице.

@@ -1,0 +1,10 @@
+Name: Chocolate Underground
+Type: video.tv_show
+Episodes: 13
+Episode length: 300
+Last episode date release: 2008-09-04
+Genres: Детское, Приключения, Комедия, 
+Rating limit: PG
+Rating: 6.09
+Rating numbers: 1049
+Description: Нет описания

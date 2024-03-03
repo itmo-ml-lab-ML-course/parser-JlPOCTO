@@ -1,0 +1,8 @@
+Name: Doubutsu Kankyou Kaigi
+Type: video.tv_show
+Episodes: 20
+Episode length: 300
+Last episode date release: 2010-08-20
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Obetomo Gakuen
+Type: video.tv_show
+Episodes: 200
+Episode length: 120
+Last episode date release: 2013-03-01
+Genres: Повседневность, Школа, 
+Rating limit: G
+Description: Нет описания

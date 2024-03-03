@@ -1,0 +1,9 @@
+Name: Kawaii Cook-san
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Повседневность, Музыка, 
+Rating limit: G
+Rating: 4.57
+Rating numbers: 143
+Description: Нет описания

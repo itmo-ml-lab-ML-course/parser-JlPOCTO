@@ -1,0 +1,7 @@
+Name: Shenlong Weishi
+Type: video.tv_show
+Episodes: 26
+Episode length: 1200
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

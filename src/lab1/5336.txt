@@ -1,0 +1,9 @@
+Name: Tales of the Rays: Everlasting Destiny
+Type: video.tv_show
+Episodes: 1
+Episode length: 900
+Genres: Фэнтези, Игры, 
+Rating limit: G
+Rating: 5.98
+Rating numbers: 1241
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Gakuen Senki Muryou Recap
+Type: video.other
+Episodes: 1
+Episode length: 1500
+Genres: Приключения, 
+Rating limit: PG-13
+Description: Краткий пересказ первых 14 серий аниме-сериала «Летопись войн в школе Мурё».

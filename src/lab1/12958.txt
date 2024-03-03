@@ -1,0 +1,9 @@
+Name: Super Backkom
+Type: video.other
+Episodes: 1
+Episode length: 420
+Genres: Детское, Комедия, Супер сила, 
+Rating limit: G
+Rating: 5.42
+Rating numbers: 463
+Description: Нет описания

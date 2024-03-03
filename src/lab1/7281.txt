@@ -1,0 +1,7 @@
+Name: Bang Bang Long Chudong 4th Season
+Type: video.tv_show
+Episodes: 52
+Episode length: 480
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

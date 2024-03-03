@@ -1,0 +1,7 @@
+Name: Qi Qu Gong Fang: Zhezhi Baodian
+Type: video.tv_show
+Episodes: 42
+Episode length: 720
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

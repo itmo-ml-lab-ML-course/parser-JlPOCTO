@@ -1,0 +1,7 @@
+Name: Nee, Koko ni Iru.
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Безумие, 
+Rating limit: R-17
+Description: Нет описания

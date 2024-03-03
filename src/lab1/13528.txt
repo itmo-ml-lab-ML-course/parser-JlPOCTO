@@ -1,0 +1,9 @@
+Name: Nekketsu Uchuujin
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Комедия, Фантастика, 
+Rating limit: PG-13
+Rating: 5.19
+Rating numbers: 368
+Description: Нет описания

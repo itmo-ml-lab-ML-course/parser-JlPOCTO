@@ -1,0 +1,9 @@
+Name: Aggressive Retsuko (ONA) 4th Season
+Type: video.tv_show
+Episodes: 10
+Episode length: 1080
+Genres: Комедия, Работа, 
+Rating limit: PG-13
+Rating: 7.28
+Rating numbers: 2679
+Description: Нет описания

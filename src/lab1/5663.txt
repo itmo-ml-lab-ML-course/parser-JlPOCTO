@@ -1,0 +1,7 @@
+Name: Sinbi Apateu: Bichui Baempaieowa Eodumui Ai
+Type: video.tv_show
+Episodes: 1
+Episode length: 3300
+Genres: Детектив, Сверхъестественное, Детское, 
+Rating limit: G
+Description: Нет описания

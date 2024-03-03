@@ -1,0 +1,5 @@
+Name: Grendizer U
+Type: video.tv_show
+Episodes: 1
+Genres: Экшен, Фантастика, Меха, 
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Gun-dou Musashi
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 2006-10-08
+Genres: Приключения, Фэнтези, Самураи, 
+Rating limit: PG-13
+Rating: 5.45
+Rating numbers: 984
+Description: Нет описания

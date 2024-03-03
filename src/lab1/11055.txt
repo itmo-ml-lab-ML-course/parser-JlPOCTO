@@ -1,0 +1,9 @@
+Name: Tottoko Hamtarou Movie 1: Ham-Ham Land Daibouken
+Type: video.movie
+Episodes: 1
+Episode length: 3000
+Genres: Детское, Приключения, Комедия, 
+Rating limit: PG
+Rating: 6.63
+Rating numbers: 338
+Description: Нет описания

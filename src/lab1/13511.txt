@@ -1,0 +1,9 @@
+Name: Youkoso Boku desu
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Безумие, Комедия, Музыка, 
+Rating limit: PG-13
+Rating: 5.28
+Rating numbers: 145
+Description: Нет описания

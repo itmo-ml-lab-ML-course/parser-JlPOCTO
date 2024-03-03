@@ -1,0 +1,9 @@
+Name: Karma
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.89
+Rating numbers: 312
+Description: Нет описания

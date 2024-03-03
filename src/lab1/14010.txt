@@ -1,0 +1,9 @@
+Name: Chagama Ondo
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Комедия, Сверхъестественное, 
+Rating limit: G
+Rating: 4.86
+Rating numbers: 286
+Description: Нет описания

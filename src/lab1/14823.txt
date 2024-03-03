@@ -1,0 +1,7 @@
+Name: Monkey Peak
+Type: video.tv_show
+Episodes: 20
+Episode length: 60
+Last episode date release: 2019-04-01
+Genres: Сэйнэн, Ужасы, 
+Description: Группа сотрудников фармацевтической компании отправляется в поход в горы. Стоило им только подняться на вершину, как по вине загадочных обезьян происходит трагедия.

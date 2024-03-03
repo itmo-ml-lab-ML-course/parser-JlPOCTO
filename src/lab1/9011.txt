@@ -1,0 +1,7 @@
+Name: Hong Mao Lan Tu: Kaixin Yike
+Type: video.tv_show
+Episodes: 96
+Episode length: 360
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

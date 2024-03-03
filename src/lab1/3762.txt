@@ -1,0 +1,9 @@
+Name: Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu OVA
+Type: video.other
+Episodes: 1
+Episode length: 1560
+Genres: Сёнен, Комедия, Этти, Пародия, Школа, 
+Rating limit: PG-13
+Rating: 6.3
+Rating numbers: 713
+Description: Дополнительный эпизод, вышедший в комплекте с четвертым томом манги.

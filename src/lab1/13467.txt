@@ -1,0 +1,9 @@
+Name: Sema Kuruoshii Ie
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Ужасы, 
+Rating limit: PG
+Rating: 5.23
+Rating numbers: 948
+Description: Нет описания

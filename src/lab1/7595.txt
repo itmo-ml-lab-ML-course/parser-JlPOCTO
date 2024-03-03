@@ -1,0 +1,8 @@
+Name: Catch! Tiniping
+Type: video.tv_show
+Episodes: 52
+Episode length: 660
+Last episode date release: 2021-04-01
+Genres: Детское, Фэнтези, Школа, 
+Rating limit: PG
+Description: Нет описания

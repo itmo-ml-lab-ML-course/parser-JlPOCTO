@@ -1,0 +1,7 @@
+Name: Guoshanche Shou Luo Li
+Type: video.tv_show
+Episodes: 26
+Episode length: 780
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: One Piece Recap
+Type: video.other
+Episodes: 1
+Episode length: 1740
+Genres: Экшен, Приключения, Фэнтези, Сёнен, 
+Rating limit: PG-13
+Rating: 7.13
+Rating numbers: 5886
+Description: Рекап-эпизод, подводящий итоги десятилетней истории оригинального сериала до событий арки «Импел-Даун» (422-425, 430-452 серии).

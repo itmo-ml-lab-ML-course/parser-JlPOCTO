@@ -1,0 +1,9 @@
+Name: Baa-cha no Kingyo
+Type: video.tv_show
+Episodes: 1
+Episode length: 480
+Genres: Повседневность, 
+Rating limit: G
+Rating: 6.12
+Rating numbers: 221
+Description: Нет описания

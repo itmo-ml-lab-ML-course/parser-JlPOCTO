@@ -1,0 +1,9 @@
+Name: Kyoushoku Soukou Guyver
+Type: video.movie
+Episodes: 1
+Episode length: 3240
+Genres: Экшен, Ужасы, Фантастика, Супер сила, 
+Rating limit: R+
+Rating: 6.19
+Rating numbers: 2364
+Description: Нет описания

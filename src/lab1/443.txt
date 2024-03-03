@@ -1,0 +1,9 @@
+Name: Interstella5555: The 5tory of The 5ecret 5tar 5ystem
+Type: video.movie
+Episodes: 1
+Episode length: 3900
+Genres: Приключения, Драма, Фантастика, Музыка, 
+Rating limit: G
+Rating: 8.13
+Rating numbers: 4975
+Description: Японский анимационный мюзикл и видеоряд к альбому «Discovery» хаус-дуэта «Daft Punk». Каждый трек был анимирован как отдельный эпизод в истории похищения и спасения межзвёздной поп-группы.

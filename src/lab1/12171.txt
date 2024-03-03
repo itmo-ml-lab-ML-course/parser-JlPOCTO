@@ -1,0 +1,9 @@
+Name: Maroko
+Type: video.movie
+Episodes: 1
+Episode length: 5340
+Genres: Комедия, Драма, Фантастика, Психологическое, 
+Rating limit: R-17
+Rating: 6.42
+Rating numbers: 483
+Description: Нет описания

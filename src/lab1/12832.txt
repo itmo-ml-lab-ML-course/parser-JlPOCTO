@@ -1,0 +1,9 @@
+Name: Jantama Pong☆ Web Special
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 5.47
+Rating numbers: 429
+Description: Нет описания

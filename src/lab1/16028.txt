@@ -1,0 +1,8 @@
+Name: Senba Xingfu Dao
+Type: video.tv_show
+Episodes: 52
+Episode length: 780
+Last episode date release: 2016-12-22
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Suisei
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Безумие, Комедия, 
+Rating limit: G
+Rating: 4.92
+Rating numbers: 308
+Description: Нет описания

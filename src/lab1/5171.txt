@@ -1,0 +1,10 @@
+Name: Ginga Tetsudou 999 (ONA)
+Type: video.tv_show
+Episodes: 6
+Episode length: 900
+Last episode date release: 2004-07-01
+Genres: Приключения, Драма, Фантастика, Космос, 
+Rating limit: G
+Rating: 6.02
+Rating numbers: 716
+Description: Нет описания

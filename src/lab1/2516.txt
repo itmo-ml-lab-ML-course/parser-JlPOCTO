@@ -1,0 +1,10 @@
+Name: Nekketsu Saikyou Go-Saurer
+Type: video.tv_show
+Episodes: 51
+Episode length: 1380
+Last episode date release: 1994-02-23
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 7.25
+Rating numbers: 259
+Description: Нет описания

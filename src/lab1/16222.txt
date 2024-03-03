@@ -1,0 +1,7 @@
+Name: Shi Shi Feng Bao
+Type: video.movie
+Episodes: 1
+Episode length: 5760
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

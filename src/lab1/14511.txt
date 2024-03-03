@@ -1,0 +1,8 @@
+Name: Me &amp; My Robot
+Type: video.tv_show
+Episodes: 52
+Episode length: 780
+Last episode date release: 2013-11-01
+Genres: Детское, Комедия, Фантастика, Школа, 
+Rating limit: PG
+Description: Нет описания

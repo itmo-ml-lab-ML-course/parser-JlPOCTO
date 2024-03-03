@@ -1,0 +1,7 @@
+Name: Blink in the Desert
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Ужасы, 
+Rating limit: R-17
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Manga Doushite Monogatari
+Type: video.tv_show
+Episodes: 100
+Episode length: 1500
+Last episode date release: 1986-03-29
+Genres: Детское, Приключения, Комедия, 
+Rating limit: G
+Rating: 6.06
+Rating numbers: 241
+Description: Нет описания

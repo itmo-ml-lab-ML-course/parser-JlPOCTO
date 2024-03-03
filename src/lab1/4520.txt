@@ -1,0 +1,10 @@
+Name: Kagaku Kyuujo-tai TechnoVoyager
+Type: video.tv_show
+Episodes: 18
+Episode length: 1500
+Last episode date release: 1982-09-11
+Genres: Экшен, Приключения, Фантастика, Меха, Космос, 
+Rating limit: PG-13
+Rating: 6.15
+Rating numbers: 258
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: X Maiden: Izakaya Tamaki
+Type: video.tv_show
+Episodes: 7
+Episode length: 420
+Last episode date release: 2014-06-13
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Steady x Study
+Type: video.other
+Episodes: 1
+Episode length: 1440
+Genres: Романтика, 
+Rating limit: PG-13
+Rating: 5.06
+Rating numbers: 228
+Description: Нет описания

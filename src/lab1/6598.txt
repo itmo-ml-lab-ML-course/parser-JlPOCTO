@@ -1,0 +1,7 @@
+Name: Wonder 3 Pilot
+Type: video.other
+Episodes: 1
+Episode length: 900
+Genres: Экшен, Приключения, Комедия, Фантастика, 
+Rating limit: G
+Description: Нет описания

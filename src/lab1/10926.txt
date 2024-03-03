@@ -1,0 +1,9 @@
+Name: Maihime
+Type: video.other
+Episodes: 1
+Episode length: 1800
+Genres: Драма, Романтика, Исторический, 
+Rating limit: R+
+Rating: 6.65
+Rating numbers: 786
+Description: Нет описания

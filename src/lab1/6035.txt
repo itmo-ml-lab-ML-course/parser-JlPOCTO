@@ -1,0 +1,8 @@
+Name: Tensai? Dr. Hamax
+Type: video.tv_show
+Episodes: 12
+Episode length: 1380
+Last episode date release: 2007-12-22
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

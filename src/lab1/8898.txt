@@ -1,0 +1,8 @@
+Name: Hello Cocomong
+Type: video.tv_show
+Episodes: 13
+Episode length: 540
+Last episode date release: 2011-02-25
+Genres: Детское, Музыка, 
+Rating limit: G
+Description: Нет описания

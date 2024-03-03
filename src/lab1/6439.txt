@@ -1,0 +1,7 @@
+Name: Wakamono, Gendai, Kougai
+Type: video.movie
+Episodes: 1
+Episode length: 420
+Genres: Комедия, Пародия, 
+Rating limit: PG-13
+Description: Нет описания

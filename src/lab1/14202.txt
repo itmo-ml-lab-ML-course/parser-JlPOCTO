@@ -1,0 +1,9 @@
+Name: DC Super Heroes vs Taka no Tsumedan Promotion Eizou
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Комедия, Пародия, Супер сила, 
+Rating limit: G
+Rating: 4.68
+Rating numbers: 549
+Description: Нет описания

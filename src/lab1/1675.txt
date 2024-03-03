@@ -1,0 +1,9 @@
+Name: Mahou Shoujo Lyrical Nanoha: Detonation
+Type: video.movie
+Episodes: 1
+Episode length: 6660
+Genres: Экшен, Комедия, Драма, Супер сила, 
+Rating limit: PG-13
+Rating: 7.52
+Rating numbers: 1722
+Description: Конфликт продолжает обостряться, и вскоре Наноха вместе с союзниками узнаёт о трагическом прошлом Ирис и Юри. Что же произошло на Элтории?Прямое продолжение фильма «Лиричная волшебница Наноха 3: Отражение».

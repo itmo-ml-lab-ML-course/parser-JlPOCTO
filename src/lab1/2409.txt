@@ -1,0 +1,10 @@
+Name: Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai
+Type: video.tv_show
+Episodes: 33
+Episode length: 120
+Last episode date release: 2023-07-30
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 7.28
+Rating numbers: 914
+Description: Нет описания

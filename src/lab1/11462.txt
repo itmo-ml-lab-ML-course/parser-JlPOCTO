@@ -1,0 +1,10 @@
+Name: Magatsu Wahrheit: Zuerst
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2020-12-29
+Genres: Экшен, Фэнтези, 
+Rating limit: R-17
+Rating: 6.55
+Rating numbers: 8167
+Description: Нет описания

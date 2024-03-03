@@ -1,0 +1,10 @@
+Name: Yatterman
+Type: video.tv_show
+Episodes: 60
+Episode length: 1500
+Last episode date release: 2009-05-11
+Genres: Приключения, Комедия, Пародия, 
+Rating limit: G
+Rating: 6.48
+Rating numbers: 660
+Description: Нет описания

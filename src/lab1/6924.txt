@@ -1,0 +1,7 @@
+Name: Xiong Shi Shaonian
+Type: video.movie
+Episodes: 1
+Episode length: 6240
+Genres: Комедия, Драма, Фэнтези, 
+Rating limit: PG-13
+Description: Нет описания

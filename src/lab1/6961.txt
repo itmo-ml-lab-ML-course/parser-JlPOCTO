@@ -1,0 +1,7 @@
+Name: Xin Qi Bao Long Zhan Che: Bao Long Chuji
+Type: video.tv_show
+Episodes: 16
+Episode length: 420
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

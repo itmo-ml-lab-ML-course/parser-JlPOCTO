@@ -1,0 +1,9 @@
+Name: KochinPa! Dainiki
+Type: video.tv_show
+Episodes: 24
+Last episode date release: 2017-05-16
+Genres: Комедия, 
+Rating limit: G
+Rating: 4.44
+Rating numbers: 496
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Kakushigoto Movie
+Type: video.movie
+Episodes: 1
+Episode length: 4680
+Genres: Комедия, Сёнен, 
+Rating limit: PG-13
+Rating: 7.68
+Rating numbers: 7048
+Description: Нет описания

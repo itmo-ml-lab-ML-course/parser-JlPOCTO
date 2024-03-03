@@ -1,0 +1,9 @@
+Name: Doubutsu Takarajima
+Type: video.movie
+Episodes: 1
+Episode length: 4680
+Genres: Приключения, 
+Rating limit: G
+Rating: 6.29
+Rating numbers: 877
+Description: Нет описания

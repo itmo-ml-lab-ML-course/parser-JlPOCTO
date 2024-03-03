@@ -1,0 +1,9 @@
+Name: Fushigi na Kusuri
+Type: video.movie
+Episodes: 1
+Episode length: 900
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Rating: 5.34
+Rating numbers: 259
+Description: Нет описания

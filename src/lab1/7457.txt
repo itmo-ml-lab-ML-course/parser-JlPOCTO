@@ -1,0 +1,6 @@
+Name: Boku to, Hanasou.
+Type: video.tv_show
+Episodes: 1
+Genres: Безумие, 
+Rating limit: G
+Description: Нет описания

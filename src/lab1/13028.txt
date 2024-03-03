@@ -1,0 +1,9 @@
+Name: Chikara Bashi
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Детское, 
+Rating limit: G
+Rating: 5.4
+Rating numbers: 231
+Description: Нет описания

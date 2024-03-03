@@ -1,0 +1,10 @@
+Name: Medarot
+Type: video.tv_show
+Episodes: 52
+Episode length: 1440
+Last episode date release: 2000-06-30
+Genres: Приключения, Комедия, Фантастика, 
+Rating limit: PG
+Rating: 7.08
+Rating numbers: 643
+Description: Нет описания

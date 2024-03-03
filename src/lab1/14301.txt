@@ -1,0 +1,9 @@
+Name: Osaru no Kantai
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: Военное, Музыка, 
+Rating limit: G
+Rating: 4.53
+Rating numbers: 347
+Description: Нет описания

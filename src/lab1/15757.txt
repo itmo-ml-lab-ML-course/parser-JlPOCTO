@@ -1,0 +1,6 @@
+Name: Ribbon-chan
+Type: video.tv_show
+Episodes: 24
+Last episode date release: 2013-03-27
+Genres: Комедия, 
+Description: Нет описания

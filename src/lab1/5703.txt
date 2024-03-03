@@ -1,0 +1,7 @@
+Name: Son Ogong
+Type: video.movie
+Episodes: 1
+Episode length: 4020
+Genres: Экшен, Приключения, Фэнтези, Боевые искусства, 
+Rating limit: PG
+Description: Нет описания

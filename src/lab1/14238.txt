@@ -1,0 +1,9 @@
+Name: Nani ga Dekiru ka na
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Комедия, 
+Rating limit: G
+Rating: 4.64
+Rating numbers: 161
+Description: Нет описания

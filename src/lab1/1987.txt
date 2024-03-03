@@ -1,0 +1,9 @@
+Name: Tales of Zestiria: Doushi no Yoake
+Type: video.other
+Episodes: 1
+Episode length: 2640
+Genres: Фэнтези, 
+Rating limit: PG-13
+Rating: 7.36
+Rating numbers: 9302
+Description: Специальный эпизод, представляющий собой адаптацию пятнадцатой части ролевой игры из серии «Tales».

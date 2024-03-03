@@ -1,0 +1,9 @@
+Name: Memory of Red
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.02
+Rating numbers: 240
+Description: Короткометражная анимация за авторством Нобухиро Аихары.

@@ -1,0 +1,10 @@
+Name: Kinnikuman
+Type: video.tv_show
+Episodes: 137
+Episode length: 1440
+Last episode date release: 1986-10-01
+Genres: Сёнен, Приключения, Комедия, Спорт, 
+Rating limit: PG-13
+Rating: 7.32
+Rating numbers: 759
+Description: Нет описания

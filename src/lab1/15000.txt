@@ -1,0 +1,6 @@
+Name: Nar Doma Manner Movie
+Type: video.movie
+Episodes: 1
+Genres: Комедия, 
+Rating limit: G
+Description: Короткий видеоролик, который транслировался в 109 кинотеатрах с 1 ноября по 30 ноября 2015 года перед различными фильмами.

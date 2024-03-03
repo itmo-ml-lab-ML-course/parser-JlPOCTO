@@ -1,0 +1,10 @@
+Name: Grander Musashi RV
+Type: video.tv_show
+Episodes: 39
+Episode length: 1500
+Last episode date release: 1998-12-26
+Genres: Приключения, Спорт, 
+Rating limit: PG-13
+Rating: 7.13
+Rating numbers: 297
+Description: Нет описания

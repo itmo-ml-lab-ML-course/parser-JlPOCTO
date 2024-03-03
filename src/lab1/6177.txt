@@ -1,0 +1,7 @@
+Name: Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu Movie
+Type: video.movie
+Episodes: 1
+Episode length: 3420
+Genres: Приключения, Фантастика, Меха, Полиция, 
+Rating limit: PG
+Description: Нет описания

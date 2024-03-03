@@ -1,0 +1,9 @@
+Name: Doraemon Movie 06: Nobita no Little Star Wars
+Type: video.movie
+Episodes: 1
+Episode length: 5880
+Genres: Фэнтези, Космос, 
+Rating limit: PG
+Rating: 7.06
+Rating numbers: 583
+Description: Нет описания

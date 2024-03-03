@@ -1,0 +1,8 @@
+Name: Kowasugimasu.
+Type: video.tv_show
+Episodes: 1
+Genres: Комедия, Ужасы, Музыка, 
+Rating limit: G
+Rating: 4.79
+Rating numbers: 187
+Description: Нет описания

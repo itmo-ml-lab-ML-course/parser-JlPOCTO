@@ -1,0 +1,8 @@
+Name: Sushe Bu Richang
+Type: video.tv_show
+Episodes: 6
+Episode length: 720
+Last episode date release: 2018-03-06
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

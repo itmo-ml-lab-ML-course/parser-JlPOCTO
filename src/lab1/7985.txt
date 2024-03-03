@@ -1,0 +1,7 @@
+Name: Dan Jihua: Ertong Xilie Gushi
+Type: video.tv_show
+Episodes: 52
+Episode length: 360
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

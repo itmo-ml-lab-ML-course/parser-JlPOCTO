@@ -1,0 +1,10 @@
+Name: AOTU Shijie 2
+Type: video.tv_show
+Episodes: 20
+Episode length: 1080
+Last episode date release: 2018-02-18
+Genres: Экшен, Приключения, Фэнтези, Фантастика, 
+Rating limit: PG-13
+Rating: 6.17
+Rating numbers: 557
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Trigger-chan
+Type: video.tv_show
+Episodes: 1
+Genres: Экшен, 
+Rating limit: PG-13
+Rating: 6.2
+Rating numbers: 1884
+Description: Нет описания

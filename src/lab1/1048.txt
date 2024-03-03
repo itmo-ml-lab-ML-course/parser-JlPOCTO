@@ -1,0 +1,10 @@
+Name: Taiyou no Ko Esteban
+Type: video.tv_show
+Episodes: 39
+Episode length: 1620
+Last episode date release: 1983-02-05
+Genres: Приключения, Фантастика, Исторический, 
+Rating limit: PG-13
+Rating: 7.75
+Rating numbers: 834
+Description: Нет описания

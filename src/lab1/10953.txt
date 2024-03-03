@@ -1,0 +1,9 @@
+Name: Edens Zero (Recap Movie)
+Type: video.tv_show
+Episodes: 1
+Episode length: 4260
+Genres: Экшен, Приключения, Фэнтези, Фантастика, Космос, Сёнен, 
+Rating limit: PG-13
+Rating: 6.65
+Rating numbers: 944
+Description: Нет описания

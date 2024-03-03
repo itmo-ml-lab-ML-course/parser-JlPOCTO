@@ -1,0 +1,7 @@
+Name: Da, da Ge da Xigua
+Type: video.movie
+Episodes: 1
+Episode length: 960
+Genres: Экшен, Военное, 
+Rating limit: R-17
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Sonic X Pilot
+Type: video.other
+Episodes: 2
+Episode length: 180
+Last episode date release: 2003-01-01
+Genres: Приключения, Комедия, Фантастика, Меха, 
+Rating limit: G
+Rating: 6.11
+Rating numbers: 1801
+Description: Два пилотных эпизода, в которых показан краткий обзор происходящего в аниме «Соник Икс».

@@ -1,0 +1,9 @@
+Name: Manga Revue Haru
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Детское, 
+Rating limit: G
+Rating: 5.04
+Rating numbers: 279
+Description: Нет описания

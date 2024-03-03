@@ -1,0 +1,7 @@
+Name: Guardy Girls
+Type: video.movie
+Episodes: 1
+Episode length: 4740
+Genres: Экшен, 
+Rating limit: PG-13
+Description: Нет описания

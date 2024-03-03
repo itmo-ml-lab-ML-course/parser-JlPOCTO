@@ -1,0 +1,7 @@
+Name: Train Heroes Movie
+Type: video.movie
+Episodes: 1
+Episode length: 7200
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

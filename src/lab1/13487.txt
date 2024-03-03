@@ -1,0 +1,10 @@
+Name: Mini Moni the TV
+Type: video.tv_show
+Episodes: 15
+Episode length: 60
+Last episode date release: 2003-09-26
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.21
+Rating numbers: 162
+Description: Нет описания

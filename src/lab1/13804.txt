@@ -1,0 +1,9 @@
+Name: Sora no Momotarou
+Type: video.movie
+Episodes: 1
+Episode length: 720
+Genres: Приключения, Комедия, Военное, 
+Rating limit: G
+Rating: 5.03
+Rating numbers: 339
+Description: Нет описания

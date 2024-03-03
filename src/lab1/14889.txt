@@ -1,0 +1,8 @@
+Name: Mukashibanashi Dokkiri Anime
+Type: video.tv_show
+Episodes: 4
+Episode length: 60
+Last episode date release: 2019-05-16
+Genres: Детское, Комедия, Фэнтези, Пародия, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Nijiiro no Mori
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Фэнтези, Повседневность, 
+Rating limit: G
+Description: Нет описания

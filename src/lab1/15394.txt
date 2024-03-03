@@ -1,0 +1,7 @@
+Name: Peace Shitenchou
+Type: video.tv_show
+Episodes: 5
+Last episode date release: 2015-02-13
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

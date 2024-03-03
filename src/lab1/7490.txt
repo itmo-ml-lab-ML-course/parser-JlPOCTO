@@ -1,0 +1,8 @@
+Name: BT21 Universe Animation
+Type: video.tv_show
+Episodes: 8
+Episode length: 120
+Last episode date release: 2020-02-18
+Genres: Фэнтези, Повседневность, 
+Rating limit: G
+Description: Нет описания

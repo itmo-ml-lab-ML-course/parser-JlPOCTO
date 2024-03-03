@@ -1,0 +1,7 @@
+Name: Yamanaka Sadao ni Sasageru Manga Eiga &quot;Nezumikozou Jirokichi&quot;
+Type: video.movie
+Episodes: 1
+Episode length: 1500
+Genres: Исторический, 
+Rating limit: PG-13
+Description: Нет описания

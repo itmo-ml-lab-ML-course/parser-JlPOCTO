@@ -1,0 +1,10 @@
+Name: Man with a Mission The Animation
+Type: video.tv_show
+Episodes: 6
+Episode length: 180
+Last episode date release: 2020-04-15
+Genres: Комедия, Музыка, 
+Rating limit: PG-13
+Rating: 5.53
+Rating numbers: 418
+Description: Нет описания

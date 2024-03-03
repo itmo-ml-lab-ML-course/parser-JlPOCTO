@@ -1,0 +1,8 @@
+Name: Miniforce X
+Type: video.tv_show
+Episodes: 26
+Episode length: 660
+Last episode date release: 2018-08-23
+Genres: Экшен, Меха, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,6 @@
+Name: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V
+Type: video.tv_show
+Episodes: 1
+Genres: Экшен, Приключения, Фэнтези, 
+Rating limit: PG-13
+Description: Нет описания

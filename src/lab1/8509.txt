@@ -1,0 +1,8 @@
+Name: Ganbare! Lulu Lolo 3rd Season
+Type: video.tv_show
+Episodes: 10
+Episode length: 300
+Last episode date release: 2016-03-24
+Genres: Детское, Повседневность, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Cobra The Animation
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2010-03-27
+Genres: Экшен, Приключения, Фантастика, Космос, 
+Rating limit: R+
+Rating: 7.07
+Rating numbers: 1372
+Description: Нет описания

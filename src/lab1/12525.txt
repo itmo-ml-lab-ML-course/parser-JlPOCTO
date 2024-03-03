@@ -1,0 +1,10 @@
+Name: Love Live! The School Idol Movie: Gekijou Manner CMs
+Type: video.movie
+Episodes: 4
+Episode length: 60
+Last episode date release: 2015-06-27
+Genres: Комедия, 
+Rating limit: G
+Rating: 6.35
+Rating numbers: 2795
+Description: Короткие видеоролики, показанные в кинотеатрах перед началом фильма «Живая любовь! Проект "Школьный идол"», которые учат основным правилам поведения в кинотеатре.

@@ -1,0 +1,7 @@
+Name: Congming De Shunliu: Teshu Renwu
+Type: video.tv_show
+Episodes: 10
+Episode length: 780
+Genres: Приключения, Военное, 
+Rating limit: PG-13
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Ninja Box
+Type: video.tv_show
+Episodes: 6
+Episode length: 660
+Last episode date release: 2019-09-12
+Genres: Детское, Экшен, Приключения, Комедия, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

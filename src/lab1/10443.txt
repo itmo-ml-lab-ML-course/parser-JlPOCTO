@@ -1,0 +1,10 @@
+Name: Konnichiwa Anne: Before Green Gables
+Type: video.tv_show
+Episodes: 39
+Episode length: 1200
+Last episode date release: 2009-12-27
+Genres: Драма, Исторический, 
+Rating limit: G
+Rating: 7.6
+Rating numbers: 1658
+Description: Нет описания

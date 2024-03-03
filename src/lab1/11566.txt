@@ -1,0 +1,10 @@
+Name: Momotarou Densetsu
+Type: video.tv_show
+Episodes: 51
+Episode length: 1320
+Last episode date release: 1990-10-01
+Genres: Приключения, Комедия, 
+Rating limit: G
+Rating: 6.53
+Rating numbers: 240
+Description: Нет описания

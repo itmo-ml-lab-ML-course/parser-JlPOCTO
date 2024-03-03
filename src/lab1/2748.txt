@@ -1,0 +1,10 @@
+Name: Kyojin no Hoshi
+Type: video.tv_show
+Episodes: 182
+Episode length: 1500
+Last episode date release: 1971-09-18
+Genres: Драма, Спорт, 
+Rating limit: G
+Rating: 7.2
+Rating numbers: 585
+Description: Нет описания

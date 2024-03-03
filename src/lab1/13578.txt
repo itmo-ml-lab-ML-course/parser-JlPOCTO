@@ -1,0 +1,8 @@
+Name: Robot King
+Type: video.movie
+Episodes: 1
+Episode length: 3900
+Genres: Экшен, Меха, 
+Rating: 5.17
+Rating numbers: 244
+Description: Нет описания

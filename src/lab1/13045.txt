@@ -1,0 +1,9 @@
+Name: Tug-Tug
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: 
+Rating limit: G
+Rating: 5.4
+Rating numbers: 158
+Description: Нет описания

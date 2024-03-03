@@ -1,0 +1,7 @@
+Name: Hong Mao Lan Tu: Ni Wen Wo Da
+Type: video.tv_show
+Episodes: 83
+Episode length: 360
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

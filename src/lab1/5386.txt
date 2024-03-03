@@ -1,0 +1,8 @@
+Name: Ai Sky Tree 21
+Type: video.tv_show
+Episodes: 1
+Genres: Экшен, 
+Rating limit: G
+Rating: 4.37
+Rating numbers: 214
+Description: Нет описания

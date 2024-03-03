@@ -1,0 +1,10 @@
+Name: Takahashi Rumiko Gekijou
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2003-09-28
+Genres: Сёнен, Комедия, Драма, Романтика, Повседневность, Сверхъестественное, 
+Rating limit: PG-13
+Rating: 7.11
+Rating numbers: 1186
+Description: Нет описания

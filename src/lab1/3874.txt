@@ -1,0 +1,9 @@
+Name: One Piece The Planetarium
+Type: video.movie
+Episodes: 1
+Episode length: 1800
+Genres: Приключения, Комедия, Фэнтези, Сёнен, 
+Rating limit: PG-13
+Rating: 6.29
+Rating numbers: 784
+Description: Нет описания

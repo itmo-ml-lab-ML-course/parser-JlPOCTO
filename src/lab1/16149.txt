@@ -1,0 +1,7 @@
+Name: Shen Shou Jin Gang 2: Tianshen De Shou
+Type: video.tv_show
+Episodes: 52
+Episode length: 900
+Genres: Экшен, Фантастика, Детское, 
+Rating limit: G
+Description: Нет описания

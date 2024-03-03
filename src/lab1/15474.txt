@@ -1,0 +1,7 @@
+Name: Pokemon Peaceful Place
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Повседневность, Детское, 
+Rating limit: PG
+Description: Нет описания
