@@ -1,0 +1,6 @@
+Name: Tec-chan no Pet
+Type: video.tv_show
+Episodes: 4
+Genres: Комедия, 
+Rating limit: PG
+Description: Нет описания

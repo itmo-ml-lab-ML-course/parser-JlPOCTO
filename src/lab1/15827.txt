@@ -1,0 +1,7 @@
+Name: Run=Dim: Naeseoseu-ui Banran
+Type: video.movie
+Episodes: 1
+Episode length: 4860
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: G
+Description: Нет описания

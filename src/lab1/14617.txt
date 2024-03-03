@@ -1,0 +1,8 @@
+Name: Metal Cardbot
+Type: video.tv_show
+Episodes: 26
+Episode length: 780
+Last episode date release: 2023-09-13
+Genres: Экшен, Фантастика, Детское, 
+Rating limit: PG
+Description: Нет описания

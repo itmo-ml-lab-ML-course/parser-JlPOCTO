@@ -1,0 +1,10 @@
+Name: Kinnikuman: Kinnikusei Oui Soudatsu-hen
+Type: video.tv_show
+Episodes: 46
+Episode length: 1440
+Last episode date release: 1992-09-27
+Genres: Сёнен, Экшен, Комедия, Спорт, 
+Rating limit: PG-13
+Rating: 7.06
+Rating numbers: 384
+Description: Нет описания

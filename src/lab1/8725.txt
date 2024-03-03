@@ -1,0 +1,7 @@
+Name: Guzu no Soko
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Безумие, 
+Rating limit: PG-13
+Description: Нет описания

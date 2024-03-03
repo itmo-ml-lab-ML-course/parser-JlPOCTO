@@ -1,0 +1,9 @@
+Name: Are wa Dare?
+Type: video.movie
+Episodes: 1
+Episode length: 1260
+Genres: Детское, 
+Rating limit: G
+Rating: 5.34
+Rating numbers: 205
+Description: Нет описания

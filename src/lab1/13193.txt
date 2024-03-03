@@ -1,0 +1,10 @@
+Name: Saiko Robot Kombock
+Type: video.tv_show
+Episodes: 26
+Episode length: 1380
+Last episode date release: 2004-04-26
+Genres: Фантастика, Меха, 
+Rating limit: PG
+Rating: 5.35
+Rating numbers: 186
+Description: Нет описания

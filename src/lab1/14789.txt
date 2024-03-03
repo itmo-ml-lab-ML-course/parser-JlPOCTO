@@ -1,0 +1,8 @@
+Name: Mofang Dasha
+Type: video.tv_show
+Episodes: 10
+Episode length: 1140
+Last episode date release: 1994-01-01
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

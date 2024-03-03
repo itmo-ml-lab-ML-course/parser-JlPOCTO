@@ -1,0 +1,7 @@
+Name: Baobao Bashi: Qimiao Shuxue Da Maoxian
+Type: video.tv_show
+Episodes: 24
+Episode length: 600
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

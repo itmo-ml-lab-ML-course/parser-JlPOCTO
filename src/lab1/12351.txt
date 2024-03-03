@@ -1,0 +1,10 @@
+Name: Hajime Ningen Gon
+Type: video.tv_show
+Episodes: 39
+Episode length: 1500
+Last episode date release: 1997-01-22
+Genres: Комедия, Исторический, 
+Rating limit: G
+Rating: 6.39
+Rating numbers: 205
+Description: Нет описания

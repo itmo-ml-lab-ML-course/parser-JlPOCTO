@@ -1,0 +1,9 @@
+Name: Boku wa Shitteru yo.
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Повседневность, 
+Rating limit: G
+Rating: 5.35
+Rating numbers: 404
+Description: Реклама собачьего корма.

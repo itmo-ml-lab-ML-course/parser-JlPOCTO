@@ -1,0 +1,9 @@
+Name: Xue Haizi
+Type: video.movie
+Episodes: 1
+Episode length: 1260
+Genres: Детское, Фэнтези, 
+Rating limit: G
+Rating: 5.56
+Rating numbers: 212
+Description: Нет описания

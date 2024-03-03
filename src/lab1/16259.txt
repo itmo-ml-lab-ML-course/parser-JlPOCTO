@@ -1,0 +1,5 @@
+Name: Suisou no Tora
+Type: video.movie
+Episodes: 1
+Genres: 
+Description: Нет описания

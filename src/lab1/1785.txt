@@ -1,0 +1,10 @@
+Name: D4DJ All Mix
+Type: video.tv_show
+Episodes: 12
+Episode length: 1380
+Last episode date release: 2023-03-31
+Genres: Музыка, Школа, 
+Rating limit: PG-13
+Rating: 7.41
+Rating numbers: 1856
+Description: Нет описания

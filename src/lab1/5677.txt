@@ -1,0 +1,7 @@
+Name: Sirotsumekusa
+Type: video.movie
+Episodes: 1
+Episode length: 4320
+Genres: Триллер, 
+Rating limit: PG-13
+Description: Нет описания

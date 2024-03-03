@@ -1,0 +1,10 @@
+Name: Getsuyoubi no Tawawa
+Type: video.tv_show
+Episodes: 12
+Episode length: 240
+Last episode date release: 2016-12-26
+Genres: Повседневность, Этти, 
+Rating limit: PG-13
+Rating: 6.41
+Rating numbers: 18210
+Description: Эта история о человеке, который встретил в поезде девушку по имени Ай. Каждый понедельник они видятся в поезде, и молодой человек начинает служить её «телохранителем» в заполненном людьми составе.

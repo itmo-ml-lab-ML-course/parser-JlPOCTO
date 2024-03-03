@@ -1,0 +1,7 @@
+Name: Yeonghongibyeong Lazenca
+Type: video.tv_show
+Episodes: 13
+Episode length: 1200
+Last episode date release: 1998-01-01
+Genres: Экшен, Приключения, Фантастика, Меха, 
+Description: Нет описания

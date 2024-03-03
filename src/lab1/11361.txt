@@ -1,0 +1,9 @@
+Name: Kaguya-hime
+Type: video.movie
+Episodes: 1
+Episode length: 1560
+Genres: Детское, Исторический, 
+Rating limit: G
+Rating: 6.57
+Rating numbers: 1139
+Description: Нет описания

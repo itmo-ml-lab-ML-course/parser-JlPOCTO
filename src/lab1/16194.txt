@@ -1,0 +1,7 @@
+Name: Shenqi Xiongmao
+Type: video.tv_show
+Episodes: 24
+Episode length: 960
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

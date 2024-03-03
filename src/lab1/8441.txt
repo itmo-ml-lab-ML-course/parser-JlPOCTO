@@ -1,0 +1,7 @@
+Name: Fumidukai
+Type: video.movie
+Episodes: 1
+Episode length: 840
+Genres: Романтика, Исторический, 
+Rating limit: G
+Description: Нет описания

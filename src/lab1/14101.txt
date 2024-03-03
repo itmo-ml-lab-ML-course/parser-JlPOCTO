@@ -1,0 +1,9 @@
+Name: Kokka Kimigayo
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Исторический, Музыка, 
+Rating limit: G
+Rating: 4.78
+Rating numbers: 435
+Description: Нет описания

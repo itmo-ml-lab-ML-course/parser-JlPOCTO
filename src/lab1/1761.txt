@@ -1,0 +1,9 @@
+Name: IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD
+Type: video.movie
+Episodes: 2
+Episode length: 5400
+Genres: Музыка, 
+Rating limit: PG-13
+Rating: 7.51
+Rating numbers: 658
+Description: Нет описания

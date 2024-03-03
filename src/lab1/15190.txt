@@ -1,0 +1,7 @@
+Name: Ochibi-san Tanpen Movie
+Type: video.tv_show
+Episodes: 2
+Last episode date release: 2021-06-16
+Genres: Повседневность, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Jormungand: Perfect Order
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2012-12-26
+Genres: Сэйнэн, Экшен, Приключения, 
+Rating limit: R+
+Rating: 7.9
+Rating numbers: 39860
+Description: Талантливая торговка оружием Коко Хекматьяр и её команда наёмников продолжают свои приключения. Их прошлое, судьбы, соперничество с другими агентами и организациями — всё сплетается воедино в этом маленьком крестовом походе Коко за мир во всём мире.

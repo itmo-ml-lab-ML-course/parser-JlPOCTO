@@ -1,0 +1,9 @@
+Name: Star Wars/Force no Kakusei
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Фантастика, 
+Rating limit: G
+Rating: 5.21
+Rating numbers: 600
+Description: Нет описания

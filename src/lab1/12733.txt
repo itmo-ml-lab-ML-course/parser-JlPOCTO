@@ -1,0 +1,9 @@
+Name: Gaikan Chiba
+Type: video.tv_show
+Episodes: 1
+Episode length: 360
+Genres: Драма, 
+Rating limit: G
+Rating: 5.5
+Rating numbers: 362
+Description: Короткометражное рекламное аниме Токийской кольцевой автодороги (GAIKAN).

@@ -1,0 +1,10 @@
+Name: Mach Girl
+Type: video.tv_show
+Episodes: 26
+Episode length: 180
+Last episode date release: 2009-09-14
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.24
+Rating numbers: 319
+Description: Девушка по имени Лип путешествует на трёхколесном автомобиле Mach Pink и участвует в гонках с высокими ставками.

@@ -1,0 +1,7 @@
+Name: Min de 1911
+Type: video.movie
+Episodes: 1
+Episode length: 5400
+Genres: Драма, Исторический, Военное, 
+Rating limit: PG-13
+Description: Нет описания

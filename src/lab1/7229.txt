@@ -1,0 +1,8 @@
+Name: Bai Gui Youeryuan 3rd Season
+Type: video.tv_show
+Episodes: 12
+Episode length: 240
+Last episode date release: 2020-08-06
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

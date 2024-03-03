@@ -1,0 +1,8 @@
+Name: Pittanko!! Nekozakana
+Type: video.tv_show
+Episodes: 93
+Episode length: 300
+Last episode date release: 2019-12-23
+Genres: 
+Rating limit: G
+Description: Нет описания

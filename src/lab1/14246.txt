@@ -1,0 +1,9 @@
+Name: Prison Bear
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Комедия, 
+Rating limit: G
+Rating: 4.63
+Rating numbers: 162
+Description: Нет описания

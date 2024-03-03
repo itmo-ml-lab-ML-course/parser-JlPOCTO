@@ -1,0 +1,8 @@
+Name: Hakata Bus Terminal Gorou
+Type: video.tv_show
+Episodes: 4
+Episode length: 180
+Last episode date release: 2020-01-30
+Genres: Комедия, 
+Rating limit: PG
+Description: Нет описания

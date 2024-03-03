@@ -1,0 +1,9 @@
+Name: Hiyoko no Basket Movie: Last Game 0401
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Спорт, Пародия, 
+Rating limit: G
+Rating: 7.36
+Rating numbers: 8370
+Description: Приуроченный ко дню дурака 2017 года юмористический трейлер фильма «Баскетбол Куроко: Последняя игра», в котором герои сериала перевоплощаются в птиц-маскотов.

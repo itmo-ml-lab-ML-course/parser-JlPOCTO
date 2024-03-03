@@ -1,0 +1,7 @@
+Name: Shenqi Le Lutu
+Type: video.tv_show
+Episodes: 20
+Episode length: 360
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

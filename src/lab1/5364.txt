@@ -1,0 +1,10 @@
+Name: Makyou Densetsu Acrobunch
+Type: video.tv_show
+Episodes: 24
+Episode length: 1500
+Last episode date release: 1982-12-24
+Genres: Сёнен, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 5.97
+Rating numbers: 262
+Description: Нет описания

@@ -1,0 +1,6 @@
+Name: Xiongmao Chuan
+Type: video.movie
+Episodes: 1
+Episode length: 5220
+Genres: Комедия, 
+Description: Нет описания

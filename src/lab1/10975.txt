@@ -1,0 +1,9 @@
+Name: Chibi Maruko-chan Movie: Italia kara Kita Shounen
+Type: video.movie
+Episodes: 1
+Episode length: 5640
+Genres: Детское, Комедия, Повседневность, Школа, 
+Rating limit: G
+Rating: 6.64
+Rating numbers: 318
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Xiao Xian Min Zi
+Type: video.tv_show
+Episodes: 36
+Episode length: 780
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

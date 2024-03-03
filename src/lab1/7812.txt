@@ -1,0 +1,7 @@
+Name: Chuldong! Robot V
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Genres: Детское, Экшен, Фантастика, Меха, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Manhua Tianxia
+Type: video.tv_show
+Episodes: 54
+Episode length: 660
+Genres: Комедия, Детское, 
+Rating limit: G
+Description: Нет описания

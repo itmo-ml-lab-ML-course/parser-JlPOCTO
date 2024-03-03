@@ -1,0 +1,8 @@
+Name: Manga Nihonshi (NHK Han)
+Type: video.tv_show
+Episodes: 40
+Episode length: 1200
+Last episode date release: 1993-03-08
+Genres: Исторический, 
+Rating limit: G
+Description: Нет описания

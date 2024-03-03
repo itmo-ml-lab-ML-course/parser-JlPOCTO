@@ -1,0 +1,6 @@
+Name: Pacalien (Special)
+Type: video.other
+Episodes: 4
+Genres: Комедия, Ужасы, Фантастика, 
+Rating limit: PG-13
+Description: Нет описания

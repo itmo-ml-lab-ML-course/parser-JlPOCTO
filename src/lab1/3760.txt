@@ -1,0 +1,10 @@
+Name: Cluster Edge
+Type: video.tv_show
+Episodes: 25
+Episode length: 1440
+Last episode date release: 2006-03-29
+Genres: Экшен, Фэнтези, Фантастика, Военное, 
+Rating limit: PG-13
+Rating: 6.3
+Rating numbers: 1269
+Description: Нет описания

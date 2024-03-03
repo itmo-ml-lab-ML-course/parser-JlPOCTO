@@ -1,0 +1,10 @@
+Name: Wu Liuqi: Anying Suming
+Type: video.tv_show
+Episodes: 10
+Episode length: 900
+Last episode date release: 2023-03-15
+Genres: Экшен, Приключения, Комедия, Драма, Детектив, Боевые искусства, Супер сила, 
+Rating limit: R-17
+Rating: 8.0
+Rating numbers: 6720
+Description: Нет описания

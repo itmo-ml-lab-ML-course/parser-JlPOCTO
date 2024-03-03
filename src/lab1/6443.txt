@@ -1,0 +1,7 @@
+Name: Wakuwaku Oboeru DVD
+Type: video.other
+Episodes: 5
+Episode length: 1500
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

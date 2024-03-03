@@ -1,0 +1,10 @@
+Name: Beyblade Burst Chouzetsu
+Type: video.tv_show
+Episodes: 51
+Episode length: 1440
+Last episode date release: 2019-03-25
+Genres: Детское, Экшен, Приключения, Фантастика, Спорт, 
+Rating limit: PG
+Rating: 6.55
+Rating numbers: 1896
+Description: Нет описания

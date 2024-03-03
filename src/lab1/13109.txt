@@ -1,0 +1,9 @@
+Name: Makoto-chan
+Type: video.movie
+Episodes: 1
+Episode length: 5040
+Genres: Комедия, Сёнен, 
+Rating limit: R+
+Rating: 5.37
+Rating numbers: 249
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Uchuu Senshi Baldios
+Type: video.tv_show
+Episodes: 34
+Episode length: 1500
+Last episode date release: 1981-01-25
+Genres: Сёнен, Приключения, Драма, Фантастика, Меха, Космос, 
+Rating limit: PG-13
+Rating: 6.54
+Rating numbers: 325
+Description: Нет описания

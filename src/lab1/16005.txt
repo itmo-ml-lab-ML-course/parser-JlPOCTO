@@ -1,0 +1,7 @@
+Name: See You on Our Veranda
+Type: video.tv_show
+Episodes: 10
+Episode length: 240
+Genres: Романтика, 
+Rating limit: PG-13
+Description: Нет описания

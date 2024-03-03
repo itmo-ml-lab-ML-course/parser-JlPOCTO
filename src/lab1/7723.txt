@@ -1,0 +1,7 @@
+Name: Chickip Dancers 3rd Season
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Повседневность, 
+Rating limit: G
+Description: Нет описания

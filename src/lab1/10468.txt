@@ -1,0 +1,9 @@
+Name: Free! Movie 1: Timeless Medley - Kizuna
+Type: video.movie
+Episodes: 1
+Episode length: 5640
+Genres: Спорт, Школа, 
+Rating limit: PG-13
+Rating: 7.59
+Rating numbers: 11450
+Description: Компиляция предыдущих двух сезонов.

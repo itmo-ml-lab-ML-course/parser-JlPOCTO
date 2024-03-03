@@ -1,0 +1,9 @@
+Name: Kogane no Hana
+Type: video.movie
+Episodes: 1
+Episode length: 960
+Genres: Экшен, Приключения, Фэнтези, Исторический, 
+Rating limit: G
+Rating: 4.74
+Rating numbers: 305
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Selepro-chan! Gekijou
+Type: video.tv_show
+Episodes: 13
+Episode length: 60
+Last episode date release: 2021-12-23
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

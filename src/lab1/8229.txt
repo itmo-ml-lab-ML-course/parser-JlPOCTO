@@ -1,0 +1,8 @@
+Name: Dramatic Nounai
+Type: video.tv_show
+Episodes: 4
+Episode length: 120
+Last episode date release: 2022-05-26
+Genres: Комедия, Спорт, 
+Rating limit: PG-13
+Description: Нет описания

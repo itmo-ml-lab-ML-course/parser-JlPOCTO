@@ -1,0 +1,7 @@
+Name: Ye Che
+Type: video.movie
+Episodes: 1
+Episode length: 1140
+Genres: Драма, Ужасы, 
+Rating limit: R-17
+Description: Нет описания

@@ -1,0 +1,6 @@
+Name: The One Piece
+Type: video.tv_show
+Episodes: 1
+Genres: Экшен, Приключения, Фэнтези, Сёнен, 
+Rating limit: PG-13
+Description: Нет описания

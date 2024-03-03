@@ -1,0 +1,10 @@
+Name: Poketoon
+Type: video.tv_show
+Episodes: 8
+Episode length: 480
+Last episode date release: 2021-12-28
+Genres: Детское, Приключения, Комедия, 
+Rating limit: G
+Rating: 7.31
+Rating numbers: 1199
+Description: Нет описания

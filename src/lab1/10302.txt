@@ -1,0 +1,9 @@
+Name: Free! Movie 2: Timeless Medley - Yakusoku
+Type: video.movie
+Episodes: 1
+Episode length: 5820
+Genres: Спорт, Школа, 
+Rating limit: PG-13
+Rating: 7.65
+Rating numbers: 11219
+Description: Фильм-компиляция предыдущих сезонов от лица Рина.

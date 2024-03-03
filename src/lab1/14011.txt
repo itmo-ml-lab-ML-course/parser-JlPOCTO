@@ -1,0 +1,9 @@
+Name: SheepWolf
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Детское, Комедия, 
+Rating limit: G
+Rating: 4.87
+Rating numbers: 159
+Description: Волк выставляет себя дураком, пытаясь съесть овец, которые играют в бейсбол.

@@ -1,0 +1,8 @@
+Name: Bangle School
+Type: video.tv_show
+Episodes: 26
+Episode length: 720
+Last episode date release: 2018-06-30
+Genres: Детское, Комедия, Фэнтези, Школа, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Shi Gou Chuanzhang
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Приключения, 
+Rating limit: PG-13
+Description: Нет описания

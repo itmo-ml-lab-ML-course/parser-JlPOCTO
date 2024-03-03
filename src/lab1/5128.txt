@@ -1,0 +1,9 @@
+Name: Tenjouhen: Utsunomiko
+Type: video.movie
+Episodes: 1
+Episode length: 4440
+Genres: Приключения, Фэнтези, Демоны, 
+Rating limit: PG
+Rating: 6.03
+Rating numbers: 299
+Description: Нет описания

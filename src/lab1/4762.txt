@@ -1,0 +1,10 @@
+Name: Xinghe Zhizun 2nd Season
+Type: video.tv_show
+Episodes: 112
+Episode length: 420
+Last episode date release: 2023-05-07
+Genres: Экшен, Фэнтези, Исторический, 
+Rating limit: PG-13
+Rating: 6.1
+Rating numbers: 588
+Description: Нет описания

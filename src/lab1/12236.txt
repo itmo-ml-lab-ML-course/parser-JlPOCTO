@@ -1,0 +1,10 @@
+Name: Salad Juu Yuushi Tomatoman
+Type: video.tv_show
+Episodes: 50
+Episode length: 1380
+Last episode date release: 1993-03-27
+Genres: Приключения, Комедия, 
+Rating limit: G
+Rating: 6.41
+Rating numbers: 221
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Xing You Ji: Fengbao Famila
+Type: video.tv_show
+Episodes: 1
+Episode length: 4140
+Genres: Приключения, Фэнтези, Фантастика, 
+Rating limit: PG-13
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: ColoColo Animal ABC@Kin Tele
+Type: video.tv_show
+Episodes: 13
+Episode length: 120
+Last episode date release: 2020-01-10
+Genres: Детское, Комедия, 
+Rating limit: G
+Description: Нет описания

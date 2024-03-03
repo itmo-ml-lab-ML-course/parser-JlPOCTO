@@ -1,0 +1,10 @@
+Name: Yawaraka Sensha
+Type: video.tv_show
+Episodes: 53
+Episode length: 420
+Last episode date release: 2011-11-01
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.37
+Rating numbers: 152
+Description: Нет описания

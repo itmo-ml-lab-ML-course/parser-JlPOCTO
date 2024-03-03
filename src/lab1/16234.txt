@@ -1,0 +1,8 @@
+Name: Shi Wangzhe A? 2nd Season
+Type: video.tv_show
+Episodes: 13
+Episode length: 480
+Last episode date release: 2023-10-12
+Genres: Комедия, Фэнтези, 
+Rating limit: PG-13
+Description: Нет описания

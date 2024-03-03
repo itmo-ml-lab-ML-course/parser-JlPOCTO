@@ -1,0 +1,9 @@
+Name: Pokemon: Pikachu Tankentai
+Type: video.movie
+Episodes: 1
+Episode length: 1380
+Genres: Детское, Приключения, Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 6.55
+Rating numbers: 3648
+Description: Пикачу и его друзья должны спасти потерявшегося Тогепи.

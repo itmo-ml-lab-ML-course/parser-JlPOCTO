@@ -1,0 +1,7 @@
+Name: Ningyo no Uta
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Безумие, 
+Rating limit: R-17
+Description: Нет описания

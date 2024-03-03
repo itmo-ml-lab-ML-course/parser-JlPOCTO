@@ -1,0 +1,9 @@
+Name: Panzer Dragoon
+Type: video.other
+Episodes: 1
+Episode length: 1560
+Genres: Экшен, Фэнтези, Фантастика, 
+Rating limit: PG-13
+Rating: 3.25
+Rating numbers: 380
+Description: Нет описания

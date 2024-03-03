@@ -1,0 +1,7 @@
+Name: Fou Fou Zheng Nengliang
+Type: video.tv_show
+Episodes: 10
+Episode length: 420
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

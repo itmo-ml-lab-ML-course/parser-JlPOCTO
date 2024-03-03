@@ -1,0 +1,7 @@
+Name: Chaoji Fei Xia: Kan Zhong Guo
+Type: video.tv_show
+Episodes: 12
+Episode length: 120
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

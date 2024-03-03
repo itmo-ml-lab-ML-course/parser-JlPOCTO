@@ -1,0 +1,9 @@
+Name: Doraemon Movie 30: Nobita no Ningyo Daikaisen
+Type: video.movie
+Episodes: 1
+Episode length: 5940
+Genres: Приключения, Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 7.17
+Rating numbers: 621
+Description: Нет описания

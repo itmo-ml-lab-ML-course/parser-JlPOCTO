@@ -1,0 +1,9 @@
+Name: I-O Data x Taka no Tsume
+Type: video.tv_show
+Episodes: 1
+Episode length: 240
+Genres: Комедия, Пародия, Супер сила, 
+Rating limit: G
+Rating: 5.35
+Rating numbers: 437
+Description: Нет описания

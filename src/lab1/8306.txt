@@ -1,0 +1,8 @@
+Name: En En Nikoli
+Type: video.other
+Episodes: 3
+Episode length: 300
+Last episode date release: 2014-02-20
+Genres: Детское, Приключения, Музыка, 
+Rating limit: G
+Description: Нет описания

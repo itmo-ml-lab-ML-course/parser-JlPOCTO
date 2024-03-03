@@ -1,0 +1,7 @@
+Name: Chao Neng Tu Zhandui
+Type: video.movie
+Episodes: 1
+Episode length: 4860
+Genres: Детское, Приключения, Фэнтези, Фантастика, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Doraemon Movie 25: Nobita no Wan Nyan Jikuuden
+Type: video.movie
+Episodes: 1
+Episode length: 4800
+Genres: Детское, Приключения, Комедия, Фантастика, 
+Rating limit: PG
+Rating: 7.35
+Rating numbers: 663
+Description: Нет описания

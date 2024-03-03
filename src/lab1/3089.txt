@@ -1,0 +1,9 @@
+Name: Oi! Ryouma
+Type: video.tv_show
+Episodes: 39
+Episode length: 1500
+Last episode date release: 1993-03-30
+Genres: Приключения, Драма, Исторический, 
+Rating: 7.14
+Rating numbers: 209
+Description: Нет описания

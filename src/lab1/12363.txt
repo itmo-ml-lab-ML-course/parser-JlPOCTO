@@ -1,0 +1,10 @@
+Name: Tsukipro The Animation 2
+Type: video.tv_show
+Episodes: 13
+Episode length: 1380
+Last episode date release: 2021-12-29
+Genres: Музыка, 
+Rating limit: PG-13
+Rating: 6.39
+Rating numbers: 1613
+Description: Нет описания

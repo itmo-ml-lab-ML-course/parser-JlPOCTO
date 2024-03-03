@@ -1,0 +1,9 @@
+Name: Arcade Gamer Fubuki Extra
+Type: video.other
+Episodes: 1
+Episode length: 360
+Genres: Экшен, Приключения, Комедия, Этти, Игры, Пародия, Школа, 
+Rating limit: PG-13
+Rating: 4.65
+Rating numbers: 345
+Description: Нет описания

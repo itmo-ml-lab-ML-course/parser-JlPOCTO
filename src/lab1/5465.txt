@@ -1,0 +1,9 @@
+Name: Kodomo no Kaitei no Koto
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Психологическое, 
+Rating limit: G
+Rating: 4.05
+Rating numbers: 262
+Description: Нет описания

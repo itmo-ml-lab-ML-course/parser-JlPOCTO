@@ -1,0 +1,9 @@
+Name: Pokemon Introductory Recap
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Детское, Фэнтези, 
+Rating limit: PG
+Rating: 6.43
+Rating numbers: 2373
+Description: Нет описания

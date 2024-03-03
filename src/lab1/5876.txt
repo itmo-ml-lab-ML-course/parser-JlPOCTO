@@ -1,0 +1,7 @@
+Name: Synapusyu The Movie: Push Hoppe New World
+Type: video.movie
+Episodes: 1
+Episode length: 3000
+Genres: Приключения, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

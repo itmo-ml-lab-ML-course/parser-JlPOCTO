@@ -1,0 +1,9 @@
+Name: Muramasa
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Ужасы, Исторический, Боевые искусства, Самураи, 
+Rating limit: PG-13
+Rating: 6.15
+Rating numbers: 1667
+Description: Блуждающий самурай находит соломенное чучело с магическим мечом, который делает его сильным, но постепенно начинает сводить с ума.

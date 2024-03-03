@@ -1,0 +1,7 @@
+Name: Xiao Tu Bandy
+Type: video.tv_show
+Episodes: 52
+Episode length: 900
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

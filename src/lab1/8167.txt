@@ -1,0 +1,8 @@
+Name: Doteraman
+Type: video.tv_show
+Episodes: 20
+Episode length: 1500
+Last episode date release: 1987-02-24
+Genres: Комедия, Фантастика, 
+Rating limit: G
+Description: Нет описания

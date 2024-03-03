@@ -1,0 +1,10 @@
+Name: Neko no Nyagh: Nya Miserables
+Type: video.tv_show
+Episodes: 25
+Episode length: 60
+Last episode date release: 2019-09-18
+Genres: Детское, Игры, 
+Rating limit: G
+Rating: 5.99
+Rating numbers: 345
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Hello Kitty no Fushigi no Kuni no Alice
+Type: video.other
+Episodes: 1
+Episode length: 1800
+Genres: Детское, Фэнтези, 
+Rating limit: G
+Rating: 6.11
+Rating numbers: 328
+Description: Адаптация известной сказки Льюиса Кэрролла «Приключения Алисы в Стране чудес» с Китти Уайт в роли главной героини.

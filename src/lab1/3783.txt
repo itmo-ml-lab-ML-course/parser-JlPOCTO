@@ -1,0 +1,10 @@
+Name: Tondemo Senshi Muteking
+Type: video.tv_show
+Episodes: 56
+Episode length: 1500
+Last episode date release: 1981-09-27
+Genres: Экшен, Комедия, Фантастика, 
+Rating limit: PG-13
+Rating: 6.29
+Rating numbers: 310
+Description: Нет описания

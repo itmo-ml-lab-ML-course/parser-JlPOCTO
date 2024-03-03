@@ -1,0 +1,10 @@
+Name: Beelzebub Specials
+Type: video.other
+Episodes: 16
+Episode length: 180
+Last episode date release: 2012-09-26
+Genres: Экшен, Комедия, Сверхъестественное, Школа, Сёнен, 
+Rating limit: PG-13
+Rating: 7.33
+Rating numbers: 9056
+Description: Короткие эпизоды, включённые в первый выпуск DVD и Blu-Ray изданий аниме  «Beelzebub».

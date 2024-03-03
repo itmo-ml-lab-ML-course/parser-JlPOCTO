@@ -1,0 +1,10 @@
+Name: Watashitachi, Luck Logic-bu!
+Type: video.tv_show
+Episodes: 12
+Episode length: 60
+Last episode date release: 2016-03-26
+Genres: Комедия, Игры, Школа, 
+Rating limit: PG-13
+Rating: 5.42
+Rating numbers: 1712
+Description: Комедийные истории о четырех девушках, которые состоят в клубе «Удача и логика». Сериал расскажет, как эти милые дамы играют в карточную игру «Luck &amp; Logic».

@@ -1,0 +1,10 @@
+Name: Tokyo Mew Mew New ♡
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2022-09-21
+Genres: Фэнтези, Романтика, Фантастика, Сёдзё, 
+Rating limit: PG-13
+Rating: 6.61
+Rating numbers: 3118
+Description: Нет описания

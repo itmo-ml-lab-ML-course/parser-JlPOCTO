@@ -1,0 +1,7 @@
+Name: Tokyo 2164
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Фантастика, 
+Rating limit: G
+Description: Нет описания

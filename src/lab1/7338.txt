@@ -1,0 +1,7 @@
+Name: Baozou Kongbu Gushi 2nd Season
+Type: video.tv_show
+Episodes: 14
+Episode length: 420
+Genres: Ужасы, 
+Rating limit: PG-13
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Malay Oki Kaisen
+Type: video.movie
+Episodes: 1
+Episode length: 1560
+Genres: Исторический, Военное, 
+Rating limit: G
+Rating: 5.0
+Rating numbers: 329
+Description: Военно-пропагандистский фильм Нобуро Офудзи.

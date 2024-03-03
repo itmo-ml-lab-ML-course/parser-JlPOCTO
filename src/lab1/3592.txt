@@ -1,0 +1,9 @@
+Name: Gall Force 2: Destruction
+Type: video.other
+Episodes: 1
+Episode length: 3000
+Genres: Экшен, Фантастика, Военное, Космос, 
+Rating limit: R+
+Rating: 6.33
+Rating numbers: 495
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Haha Hua Xiao Ji Specials
+Type: video.tv_show
+Episodes: 7
+Episode length: 120
+Last episode date release: 2019-02-22
+Genres: Комедия, Детское, 
+Rating limit: G
+Description: Нет описания

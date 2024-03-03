@@ -1,0 +1,8 @@
+Name: Geomjeong Gomusin 4
+Type: video.tv_show
+Episodes: 26
+Episode length: 840
+Last episode date release: 2015-08-10
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

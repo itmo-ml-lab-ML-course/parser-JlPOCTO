@@ -1,0 +1,9 @@
+Name: Gridman Universe
+Type: video.movie
+Episodes: 1
+Episode length: 7020
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 8.18
+Rating numbers: 2342
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Poputepipikku Kinen
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Спорт, Пародия, 
+Rating limit: PG-13
+Rating: 6.3
+Rating numbers: 1506
+Description: Нет описания

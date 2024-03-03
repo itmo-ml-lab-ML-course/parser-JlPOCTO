@@ -1,0 +1,9 @@
+Name: The Curlydog Story
+Type: video.other
+Episodes: 1
+Episode length: 60
+Genres: Детское, 
+Rating limit: G
+Rating: 5.38
+Rating numbers: 211
+Description: Нет описания

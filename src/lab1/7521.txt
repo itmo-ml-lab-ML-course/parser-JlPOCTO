@@ -1,0 +1,7 @@
+Name: Buchou Hashibiro Kousaku
+Type: video.tv_show
+Episodes: 13
+Episode length: 300
+Genres: Комедия, Работа, 
+Rating limit: PG-13
+Description: Нет описания

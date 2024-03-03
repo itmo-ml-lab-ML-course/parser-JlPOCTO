@@ -1,0 +1,7 @@
+Name: Xing Xueyuan 3: Pandora Mijing
+Type: video.tv_show
+Episodes: 26
+Episode length: 1320
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

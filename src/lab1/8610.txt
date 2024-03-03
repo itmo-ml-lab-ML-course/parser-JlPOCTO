@@ -1,0 +1,7 @@
+Name: Goku Yoru
+Type: video.movie
+Episodes: 1
+Episode length: 720
+Genres: Драма, Психологическое, 
+Rating limit: PG-13
+Description: Нет описания

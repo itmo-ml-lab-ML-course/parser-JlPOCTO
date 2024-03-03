@@ -1,0 +1,9 @@
+Name: Itsumo Kokoro ni Ho
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Повседневность, Музыка, 
+Rating limit: G
+Rating: 5.54
+Rating numbers: 242
+Description: Нет описания

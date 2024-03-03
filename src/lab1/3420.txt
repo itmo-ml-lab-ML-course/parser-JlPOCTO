@@ -1,0 +1,10 @@
+Name: Kyattou Ninden Teyandee
+Type: video.tv_show
+Episodes: 54
+Episode length: 1440
+Last episode date release: 1991-02-12
+Genres: Сёнен, Экшен, Комедия, Фантастика, Меха, Супер сила, 
+Rating limit: G
+Rating: 7.07
+Rating numbers: 852
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Omoide wo Hakobu Uta
+Type: video.tv_show
+Episodes: 1
+Episode length: 1440
+Genres: Драма, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Dreams
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Безумие, 
+Rating limit: R+
+Rating: 3.76
+Rating numbers: 259
+Description: Нет описания

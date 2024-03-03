@@ -1,0 +1,9 @@
+Name: Growlanser IV: Wayfarer of the Time
+Type: video.other
+Episodes: 1
+Episode length: 1800
+Genres: Экшен, 
+Rating limit: PG-13
+Rating: 5.38
+Rating numbers: 358
+Description: Нет описания

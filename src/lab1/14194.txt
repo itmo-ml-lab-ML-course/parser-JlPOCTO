@@ -1,0 +1,9 @@
+Name: Greed
+Type: video.other
+Episodes: 1
+Episode length: 3420
+Genres: Приключения, Фэнтези, 
+Rating limit: PG-13
+Rating: 4.69
+Rating numbers: 247
+Description: Нет описания

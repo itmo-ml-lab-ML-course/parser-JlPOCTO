@@ -1,0 +1,10 @@
+Name: Hanoka
+Type: video.tv_show
+Episodes: 12
+Episode length: 300
+Last episode date release: 2006-10-31
+Genres: Фантастика, 
+Rating limit: PG-13
+Rating: 3.33
+Rating numbers: 414
+Description: Нет описания

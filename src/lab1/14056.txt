@@ -1,0 +1,9 @@
+Name: Nisou no Kuzu
+Type: video.movie
+Episodes: 1
+Episode length: 420
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.82
+Rating numbers: 356
+Description: Нет описания

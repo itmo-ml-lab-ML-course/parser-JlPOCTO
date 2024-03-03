@@ -1,0 +1,9 @@
+Name: Grandeek
+Type: video.other
+Episodes: 1
+Episode length: 2700
+Genres: Приключения, Фэнтези, 
+Rating limit: R-17
+Rating: 5.46
+Rating numbers: 408
+Description: Нет описания

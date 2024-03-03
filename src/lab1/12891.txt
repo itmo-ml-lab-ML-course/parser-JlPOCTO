@@ -1,0 +1,9 @@
+Name: Baku Tech! Bakugan Gachi Special
+Type: video.tv_show
+Episodes: 1
+Episode length: 360
+Genres: Сёнен, Экшен, Игры, 
+Rating limit: G
+Rating: 5.45
+Rating numbers: 860
+Description: Нет описания

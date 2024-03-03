@@ -1,0 +1,9 @@
+Name: With All Our Hearts
+Type: video.tv_show
+Episodes: 1
+Episode length: 240
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 6.6
+Rating numbers: 1081
+Description: Нет описания

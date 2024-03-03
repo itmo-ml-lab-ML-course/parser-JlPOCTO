@@ -1,0 +1,9 @@
+Name: Agukaru: Play with Ibaraki-hen Episode 0
+Type: video.tv_show
+Episodes: 1
+Episode length: 840
+Genres: Повседневность, Сверхъестественное, 
+Rating limit: G
+Rating: 5.31
+Rating numbers: 193
+Description: Нет описания

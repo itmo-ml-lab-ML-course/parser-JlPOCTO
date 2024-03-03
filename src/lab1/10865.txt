@@ -1,0 +1,10 @@
+Name: Night Wizard
+Type: video.tv_show
+Episodes: 13
+Episode length: 1500
+Last episode date release: 2007-12-26
+Genres: Приключения, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.66
+Rating numbers: 3797
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Dino Powers 2
+Type: video.tv_show
+Episodes: 0 / 26
+Episode length: 660
+Genres: Экшен, Меха, Детское, 
+Rating limit: PG
+Description: Нет описания

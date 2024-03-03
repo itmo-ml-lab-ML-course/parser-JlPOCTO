@@ -1,0 +1,10 @@
+Name: Kino
+Type: video.tv_show
+Episodes: 2
+Episode length: 120
+Last episode date release: 2014-07-06
+Genres: Повседневность, 
+Rating limit: G
+Rating: 5.48
+Rating numbers: 183
+Description: Нет описания

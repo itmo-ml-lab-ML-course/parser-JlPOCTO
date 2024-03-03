@@ -1,0 +1,8 @@
+Name: Taikong Lixianji
+Type: video.tv_show
+Episodes: 26
+Episode length: 1200
+Last episode date release: 2010-02-01
+Genres: Детское, Экшен, Фантастика, Меха, 
+Rating limit: G
+Description: Нет описания

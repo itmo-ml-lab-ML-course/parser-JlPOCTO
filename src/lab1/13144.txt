@@ -1,0 +1,9 @@
+Name: Oned
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Музыка, 
+Rating limit: G
+Rating: 5.36
+Rating numbers: 120
+Description: Нет описания

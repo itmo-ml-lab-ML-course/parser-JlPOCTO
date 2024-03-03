@@ -1,0 +1,10 @@
+Name: Shi Fang Jian Sheng
+Type: video.tv_show
+Episodes: 18
+Episode length: 780
+Last episode date release: 2023-08-20
+Genres: Экшен, Приключения, Фэнтези, Боевые искусства, 
+Rating limit: PG-13
+Rating: 6.41
+Rating numbers: 556
+Description: Нет описания

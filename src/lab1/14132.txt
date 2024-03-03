@@ -1,0 +1,9 @@
+Name: Hanasaka Jiisan
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Комедия, Драма, 
+Rating limit: G
+Rating: 4.75
+Rating numbers: 346
+Description: Нет описания

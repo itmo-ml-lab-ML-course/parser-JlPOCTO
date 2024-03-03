@@ -1,0 +1,10 @@
+Name: Cinderella Girls Gekijou
+Type: video.tv_show
+Episodes: 13
+Episode length: 180
+Last episode date release: 2017-06-27
+Genres: Комедия, Повседневность, 
+Rating limit: PG-13
+Rating: 6.55
+Rating numbers: 3069
+Description: Нет описания

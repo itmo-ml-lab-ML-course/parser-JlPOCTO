@@ -1,0 +1,7 @@
+Name: Wo Men de Pengyou Xiong Xiaomi
+Type: video.tv_show
+Episodes: 52
+Episode length: 420
+Genres: Детское, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

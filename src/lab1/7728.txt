@@ -1,0 +1,8 @@
+Name: Chickip Dancers 2nd Season
+Type: video.tv_show
+Episodes: 26
+Episode length: 300
+Last episode date release: 2023-03-28
+Genres: Повседневность, 
+Rating limit: G
+Description: Нет описания

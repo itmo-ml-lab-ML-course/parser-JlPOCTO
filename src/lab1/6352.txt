@@ -1,0 +1,8 @@
+Name: Ukkari Penelope
+Type: video.tv_show
+Episodes: 26
+Episode length: 300
+Last episode date release: 2006-12-25
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Description: Нет описания

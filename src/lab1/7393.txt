@@ -1,0 +1,7 @@
+Name: Biancheng Mao: Cheng Chang Riji
+Type: video.tv_show
+Episodes: 10
+Episode length: 240
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

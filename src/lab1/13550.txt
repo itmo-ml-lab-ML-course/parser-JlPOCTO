@@ -1,0 +1,9 @@
+Name: 2.43 Mini Anime: Volleyball Kouza
+Type: video.tv_show
+Episodes: 10
+Episode length: 120
+Last episode date release: 2021-01-03
+Genres: Спорт, Школа, 
+Rating: 5.18
+Rating numbers: 797
+Description: Десять дополнительных эпизодов аниме-сериала «Волейбольный клуб старшей школы Сэйин», выложенные в официальном «Твиттере» и YouTube-канале.

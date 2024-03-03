@@ -1,0 +1,5 @@
+Name: Kimi wa Meido-sama.
+Type: video.tv_show
+Episodes: 1
+Genres: Комедия, 
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Bokura no Ame-iro Protocol Mini Anime
+Type: video.tv_show
+Episodes: 13
+Episode length: 120
+Last episode date release: 2023-12-29
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

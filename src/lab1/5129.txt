@@ -1,0 +1,9 @@
+Name: Tetsuwan Atom: Atom Tanjou no Himitsu
+Type: video.movie
+Episodes: 1
+Episode length: 1200
+Genres: Драма, Фантастика, Меха, 
+Rating limit: G
+Rating: 6.03
+Rating numbers: 465
+Description: Нет описания

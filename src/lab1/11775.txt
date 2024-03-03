@@ -1,0 +1,10 @@
+Name: Estab-Life: Great Escape
+Type: video.tv_show
+Episodes: 12
+Episode length: 1320
+Last episode date release: 2022-06-23
+Genres: Фантастика, 
+Rating limit: PG-13
+Rating: 6.5
+Rating numbers: 1942
+Description: Нет описания

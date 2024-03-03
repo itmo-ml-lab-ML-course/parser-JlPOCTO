@@ -1,0 +1,8 @@
+Name: Seishain Cyborg 003
+Type: video.tv_show
+Episodes: 2
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.21
+Rating numbers: 452
+Description: Нет описания

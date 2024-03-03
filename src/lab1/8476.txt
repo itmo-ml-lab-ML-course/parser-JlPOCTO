@@ -1,0 +1,7 @@
+Name: Gaina Tamager
+Type: video.tv_show
+Episodes: 6 / 13
+Episode length: 240
+Genres: Детское, Фантастика, 
+Rating limit: G
+Description: Нет описания

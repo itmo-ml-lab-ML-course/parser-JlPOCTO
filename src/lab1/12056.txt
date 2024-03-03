@@ -1,0 +1,10 @@
+Name: Paul no Miracle Daisakusen
+Type: video.tv_show
+Episodes: 50
+Episode length: 1500
+Last episode date release: 1977-09-11
+Genres: Детское, Экшен, Приключения, 
+Rating limit: G
+Rating: 6.44
+Rating numbers: 283
+Description: Нет описания

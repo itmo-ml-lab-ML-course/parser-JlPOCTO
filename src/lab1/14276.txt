@@ -1,0 +1,9 @@
+Name: Kyochuu Rettou Movie
+Type: video.movie
+Episodes: 1
+Episode length: 4560
+Genres: Ужасы, Триллер, 
+Rating limit: R+
+Rating: 4.58
+Rating numbers: 4583
+Description: Нет описания

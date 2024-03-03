@@ -1,0 +1,9 @@
+Name: Calicula Machine
+Type: video.movie
+Episodes: 1
+Episode length: 420
+Genres: Безумие, 
+Rating limit: G
+Rating: 5.18
+Rating numbers: 202
+Description: Нет описания

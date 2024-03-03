@@ -1,0 +1,8 @@
+Name: Pororo Donghwanala
+Type: video.tv_show
+Episodes: 10
+Episode length: 540
+Last episode date release: 2020-09-22
+Genres: Детское, Приключения, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

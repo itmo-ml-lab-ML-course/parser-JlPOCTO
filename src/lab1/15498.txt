@@ -1,0 +1,8 @@
+Name: Pont Qiao Booth
+Type: video.tv_show
+Episodes: 22
+Episode length: 180
+Last episode date release: 2021-06-19
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

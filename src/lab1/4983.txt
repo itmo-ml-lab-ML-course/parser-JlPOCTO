@@ -1,0 +1,9 @@
+Name: Tobe! Kujira no Peek
+Type: video.movie
+Episodes: 1
+Episode length: 4800
+Genres: Детское, Приключения, Драма, 
+Rating limit: G
+Rating: 6.06
+Rating numbers: 367
+Description: Нет описания

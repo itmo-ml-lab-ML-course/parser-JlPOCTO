@@ -1,0 +1,10 @@
+Name: Muv-Luv Alternative 2nd Season
+Type: video.tv_show
+Episodes: 12
+Episode length: 1320
+Last episode date release: 2022-12-22
+Genres: Экшен, Драма, Фантастика, Меха, Военное, 
+Rating limit: R+
+Rating: 6.53
+Rating numbers: 2290
+Description: Нет описания

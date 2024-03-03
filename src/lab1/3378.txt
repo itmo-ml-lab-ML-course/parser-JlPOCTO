@@ -1,0 +1,10 @@
+Name: Another World
+Type: video.tv_show
+Episodes: 3
+Episode length: 600
+Last episode date release: 2019-10-04
+Genres: Фантастика, 
+Rating limit: PG-13
+Rating: 7.08
+Rating numbers: 6411
+Description: Ответвление истории Наоми Катагаки и его одноклассницы Рури Итигё. Эпизоды поделены на записи 2027, 2032 и 2036 годов.

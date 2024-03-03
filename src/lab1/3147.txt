@@ -1,0 +1,10 @@
+Name: Mewkledreamy Mix!
+Type: video.tv_show
+Episodes: 50
+Episode length: 1440
+Last episode date release: 2022-03-27
+Genres: Приключения, Фэнтези, Детское, Сёдзё, 
+Rating limit: G
+Rating: 7.13
+Rating numbers: 613
+Description: Нет описания

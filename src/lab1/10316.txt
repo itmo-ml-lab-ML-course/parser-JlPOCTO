@@ -1,0 +1,9 @@
+Name: Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen
+Type: video.movie
+Episodes: 1
+Episode length: 6480
+Genres: Экшен, Приключения, Комедия, Фэнтези, Сёнен, 
+Rating limit: PG-13
+Rating: 7.64
+Rating numbers: 24846
+Description: Нет описания

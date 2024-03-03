@@ -1,0 +1,10 @@
+Name: Zinba
+Type: video.tv_show
+Episodes: 52
+Episode length: 1380
+Last episode date release: 2013-10-13
+Genres: Экшен, Приключения, Комедия, Супер сила, 
+Rating limit: PG
+Rating: 6.53
+Rating numbers: 273
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Lu Shidai
+Type: video.tv_show
+Episodes: 14
+Episode length: 600
+Last episode date release: 2014-09-13
+Genres: Экшен, Приключения, Комедия, Пародия, 
+Rating limit: PG-13
+Rating: 6.41
+Rating numbers: 2682
+Description: Мао Чжицян — обыкновенный студент без планов на будущее. Вместе с друзьями из общежития он прожигает своё время в компьютерной игре League of Legends. Во время игры с ними происходит множество забавных ситуаций, которые в дальнейшем повлияют на их реальную жизнь.

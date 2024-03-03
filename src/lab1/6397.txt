@@ -1,0 +1,7 @@
+Name: Ushiwakamaru
+Type: video.other
+Episodes: 4
+Episode length: 720
+Genres: Детское, Исторический, 
+Rating limit: G
+Description: Нет описания

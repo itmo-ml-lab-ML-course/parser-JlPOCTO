@@ -1,0 +1,9 @@
+Name: Osamu to Musashi
+Type: video.movie
+Episodes: 1
+Episode length: 1080
+Genres: Детское, Приключения, Фэнтези, 
+Rating limit: PG
+Rating: 6.06
+Rating numbers: 216
+Description: Нет описания

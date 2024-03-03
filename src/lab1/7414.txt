@@ -1,0 +1,7 @@
+Name: Binggan Jing Zhang: Leyuan Jihua
+Type: video.tv_show
+Episodes: 52
+Episode length: 780
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

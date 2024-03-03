@@ -1,0 +1,10 @@
+Name: Okawari-Boy Starzan-S
+Type: video.tv_show
+Episodes: 34
+Episode length: 1500
+Last episode date release: 1984-08-25
+Genres: Экшен, Приключения, Фантастика, 
+Rating limit: G
+Rating: 6.53
+Rating numbers: 191
+Description: Нет описания

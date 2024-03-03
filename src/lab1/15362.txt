@@ -1,0 +1,7 @@
+Name: Panpaka Pants
+Type: video.tv_show
+Episodes: 27
+Last episode date release: 2015-10-22
+Genres: Детское, Комедия, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Bugsbot Ignition
+Type: video.tv_show
+Episodes: 26
+Episode length: 1320
+Last episode date release: 2020-01-06
+Genres: Экшен, Приключения, Фантастика, Детское, 
+Rating limit: PG
+Description: Нет описания

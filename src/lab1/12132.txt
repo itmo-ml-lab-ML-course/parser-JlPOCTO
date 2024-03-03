@@ -1,0 +1,10 @@
+Name: Time Bokan
+Type: video.tv_show
+Episodes: 61
+Episode length: 1440
+Last episode date release: 1976-12-25
+Genres: Приключения, Комедия, Меха, 
+Rating limit: G
+Rating: 6.43
+Rating numbers: 713
+Description: Нет описания

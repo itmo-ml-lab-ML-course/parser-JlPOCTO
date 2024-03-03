@@ -1,0 +1,6 @@
+Name: Neko Kikaku
+Type: video.movie
+Episodes: 1
+Episode length: 2220
+Genres: Комедия, 
+Description: Нет описания

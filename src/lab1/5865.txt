@@ -1,0 +1,8 @@
+Name: Susume! Dokan-kun
+Type: video.tv_show
+Episodes: 13
+Episode length: 360
+Last episode date release: 2007-09-29
+Genres: Комедия, Меха, 
+Rating limit: G
+Description: Нет описания

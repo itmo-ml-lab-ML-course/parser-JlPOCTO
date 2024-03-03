@@ -1,0 +1,9 @@
+Name: Hamelin no Violin Hiki: The Movie
+Type: video.movie
+Episodes: 1
+Episode length: 1800
+Genres: Приключения, Комедия, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.33
+Rating numbers: 424
+Description: Нет описания

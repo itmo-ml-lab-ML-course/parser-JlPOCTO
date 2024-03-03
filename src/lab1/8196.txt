@@ -1,0 +1,7 @@
+Name: Dou Long Zhanshi 6
+Type: video.tv_show
+Episodes: 30
+Episode length: 1320
+Genres: Фантастика, Меха, Детское, 
+Rating limit: PG
+Description: Нет описания

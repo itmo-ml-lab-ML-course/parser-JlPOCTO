@@ -1,0 +1,9 @@
+Name: Dirty Pair: The Movie
+Type: video.movie
+Episodes: 1
+Episode length: 4860
+Genres: Экшен, Приключения, Комедия, Фантастика, Полиция, 
+Rating limit: PG-13
+Rating: 7.07
+Rating numbers: 1525
+Description: Нет описания

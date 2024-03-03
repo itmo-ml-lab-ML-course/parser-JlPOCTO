@@ -1,0 +1,9 @@
+Name: Yowai Robot to 10 no Story Project
+Type: video.tv_show
+Episodes: 2
+Episode length: 60
+Genres: Детское, 
+Rating limit: G
+Rating: 5.43
+Rating numbers: 223
+Description: Нет описания

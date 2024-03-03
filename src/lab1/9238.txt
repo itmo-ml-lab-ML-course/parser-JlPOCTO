@@ -1,0 +1,9 @@
+Name: Meitantei Conan Movie 26: Kurogane no Submarine
+Type: video.movie
+Episodes: 1
+Episode length: 6540
+Genres: Детектив, Сёнен, 
+Rating limit: PG-13
+Rating: 8.34
+Rating numbers: 786
+Description: Нет описания

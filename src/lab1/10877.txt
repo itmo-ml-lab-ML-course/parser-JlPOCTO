@@ -1,0 +1,9 @@
+Name: Biohazard: Death Island
+Type: video.movie
+Episodes: 1
+Episode length: 5340
+Genres: Экшен, Ужасы, Фантастика, 
+Rating limit: R-17
+Rating: 6.66
+Rating numbers: 2927
+Description: Нет описания

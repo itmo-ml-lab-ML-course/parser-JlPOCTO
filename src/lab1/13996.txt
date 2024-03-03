@@ -1,0 +1,9 @@
+Name: Mura Matsuri
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Музыка, 
+Rating limit: G
+Rating: 4.88
+Rating numbers: 421
+Description: Несколько минут черно-белого аниме, показывающие традиционный японский праздник урожая, под музыку Эйко Хираи.

@@ -1,0 +1,10 @@
+Name: Yoku Wakaru Mahouka!
+Type: video.tv_show
+Episodes: 6
+Episode length: 180
+Last episode date release: 2014-09-13
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.27
+Rating numbers: 7961
+Description: Серия коротких комедийных роликов, в которых тиби-версии персонажей помогут понять и усвоить зрителю, как устроены некоторые детали мира в аниме-сериале «Непутёвый ученик в школе магии».

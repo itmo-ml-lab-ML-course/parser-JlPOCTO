@@ -1,0 +1,8 @@
+Name: Wanmei Shijie Shuang Shi Ji
+Type: video.tv_show
+Episodes: 6
+Episode length: 300
+Last episode date release: 2016-05-22
+Genres: Комедия, Фэнтези, 
+Rating limit: G
+Description: Нет описания

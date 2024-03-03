@@ -1,0 +1,9 @@
+Name: Opette
+Type: video.other
+Episodes: 1
+Episode length: 60
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 5.39
+Rating numbers: 135
+Description: История об эволюции куска глины по мере того, как он сталкивается с проблемами в разных сферах жизни.Короткая пластилиновая анимация от Асами Икэ.

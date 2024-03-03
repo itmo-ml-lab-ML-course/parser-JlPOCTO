@@ -1,0 +1,10 @@
+Name: Ling Yu
+Type: video.tv_show
+Episodes: 10
+Episode length: 780
+Last episode date release: 2015-12-24
+Genres: Фэнтези, 
+Rating limit: PG-13
+Rating: 6.37
+Rating numbers: 2603
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Hero Circle 2
+Type: video.tv_show
+Episodes: 26
+Episode length: 660
+Last episode date release: 2022-09-21
+Genres: Приключения, Комедия, Супер сила, Детское, 
+Rating limit: PG
+Description: Нет описания

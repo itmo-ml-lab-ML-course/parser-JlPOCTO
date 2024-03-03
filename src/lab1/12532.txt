@@ -1,0 +1,10 @@
+Name: One Piece 4D
+Type: video.other
+Episodes: 1
+Episode length: 300
+Last episode date release: 2020-01-01
+Genres: Экшен, Приключения, Сёнен, 
+Rating limit: PG
+Rating: 6.35
+Rating numbers: 202
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Docchi ni Suru?
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Детское, Комедия, 
+Rating limit: G
+Rating: 5.47
+Rating numbers: 257
+Description: Нет описания

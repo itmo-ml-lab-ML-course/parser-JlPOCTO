@@ -1,0 +1,9 @@
+Name: Obake no Dokurou
+Type: video.tv_show
+Episodes: 1
+Episode length: 660
+Genres: Детское, Сверхъестественное, 
+Rating limit: G
+Rating: 5.43
+Rating numbers: 218
+Description: Нет описания

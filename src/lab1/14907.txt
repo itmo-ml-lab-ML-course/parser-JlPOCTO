@@ -1,0 +1,7 @@
+Name: Muumindani no Aurora
+Type: video.movie
+Episodes: 1
+Episode length: 1200
+Genres: Приключения, Фэнтези, Фантастика, Детское, 
+Rating limit: G
+Description: Нет описания

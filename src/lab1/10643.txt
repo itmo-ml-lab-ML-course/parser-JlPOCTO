@@ -1,0 +1,10 @@
+Name: Shin Tennis no Oujisama
+Type: video.tv_show
+Episodes: 13
+Episode length: 1380
+Last episode date release: 2012-03-29
+Genres: Спорт, Школа, Сёнен, 
+Rating limit: PG-13
+Rating: 7.54
+Rating numbers: 4627
+Description: В Японии начинают формировать команду, состоящую из 50 лучших теннисистов страны. Рёме, его товарищам и многим другим теннисистам придётся приложить немало усилий, что бы пройти все тяжёлые тренировки и вступить в неё.

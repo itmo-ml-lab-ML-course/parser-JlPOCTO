@@ -1,0 +1,9 @@
+Name: Kiddy Grade: Truth Dawn
+Type: video.movie
+Episodes: 1
+Episode length: 5400
+Genres: Экшен, Фантастика, Меха, Супер сила, 
+Rating limit: PG-13
+Rating: 7.05
+Rating numbers: 687
+Description: Нет описания

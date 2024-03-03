@@ -1,0 +1,7 @@
+Name: Baobao Yue Xuetang: Binfen Kuaile Hao
+Type: video.tv_show
+Episodes: 180
+Episode length: 1500
+Genres: Детское, Приключения, Комедия, 
+Rating limit: PG
+Description: Нет описания

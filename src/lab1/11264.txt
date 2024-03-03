@@ -1,0 +1,9 @@
+Name: Ichiban Kuji Natsume Yuujinchou: Nyanko-sensei to Hana Shirabe
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Повседневность, 
+Rating limit: G
+Rating: 6.6
+Rating numbers: 2570
+Description: Мини-эпизод, в котором Когицунэ собирает букет цветов для Такаши Нацумэ, параллельно рассказывая Мадаре о значении каждого цветка.

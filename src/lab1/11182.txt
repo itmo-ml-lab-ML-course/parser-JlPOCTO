@@ -1,0 +1,9 @@
+Name: Chocchan Monogatari
+Type: video.movie
+Episodes: 1
+Episode length: 4500
+Genres: Драма, Повседневность, Исторический, 
+Rating limit: G
+Rating: 6.6
+Rating numbers: 740
+Description: Нет описания

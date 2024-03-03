@@ -1,0 +1,10 @@
+Name: Kigurumikku V3
+Type: video.tv_show
+Episodes: 3
+Episode length: 720
+Last episode date release: 2009-07-16
+Genres: Комедия, Этти, Меха, Пародия, 
+Rating limit: PG-13
+Rating: 5.09
+Rating numbers: 316
+Description: Нет описания

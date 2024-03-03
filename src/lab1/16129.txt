@@ -1,0 +1,7 @@
+Name: Shei Pa Shei
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Триллер, Детское, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Doraemon Movie 21: Nobita no Taiyou Ou Densetsu
+Type: video.movie
+Episodes: 1
+Episode length: 5460
+Genres: Приключения, Комедия, Фэнтези, Исторический, 
+Rating limit: PG
+Rating: 7.33
+Rating numbers: 668
+Description: Нет описания

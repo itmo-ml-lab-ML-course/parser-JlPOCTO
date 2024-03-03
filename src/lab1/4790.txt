@@ -1,0 +1,9 @@
+Name: Oyako wa Tsuzuku yo
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Повседневность, 
+Rating limit: G
+Rating: 6.09
+Rating numbers: 231
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Gamera VS Kozamera
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Комедия, 
+Rating limit: G
+Rating: 6.35
+Rating numbers: 249
+Description: Нет описания

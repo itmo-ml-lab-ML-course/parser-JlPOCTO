@@ -1,0 +1,9 @@
+Name: Ramayana: The Legend of Prince Rama
+Type: video.movie
+Episodes: 1
+Episode length: 8100
+Genres: Приключения, 
+Rating limit: G
+Rating: 8.34
+Rating numbers: 768
+Description: Нет описания

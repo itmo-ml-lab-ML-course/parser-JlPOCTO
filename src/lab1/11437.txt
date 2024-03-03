@@ -1,0 +1,9 @@
+Name: Fuyu no Okurimono
+Type: video.tv_show
+Episodes: 1
+Episode length: 720
+Genres: Фэнтези, 
+Rating limit: PG
+Rating: 6.55
+Rating numbers: 468
+Description: Нет описания

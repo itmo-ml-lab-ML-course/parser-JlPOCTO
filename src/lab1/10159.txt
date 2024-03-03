@@ -1,0 +1,9 @@
+Name: Princess Principal: Crown Handler Movie 2
+Type: video.movie
+Episodes: 1
+Episode length: 3300
+Genres: Экшен, Детектив, Исторический, 
+Rating limit: R-17
+Rating: 7.71
+Rating numbers: 3406
+Description: Нет описания

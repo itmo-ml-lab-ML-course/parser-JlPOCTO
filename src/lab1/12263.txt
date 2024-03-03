@@ -1,0 +1,9 @@
+Name: Jinrui wa Suitai Shimashita: Ningen-san no, Yousei-san Memo
+Type: video.tv_show
+Episodes: 1
+Episode length: 360
+Genres: Фэнтези, 
+Rating limit: PG-13
+Rating: 6.41
+Rating numbers: 1850
+Description: Краткий пересказ событий сериала от лица главной героини, показывающий фей с новой стороны.

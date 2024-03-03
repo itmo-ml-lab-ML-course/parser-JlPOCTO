@@ -1,0 +1,10 @@
+Name: Senkaiden Houshin Engi
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Last episode date release: 1999-12-25
+Genres: Экшен, Приключения, Фэнтези, Исторический, Сёнен, 
+Rating limit: PG-13
+Rating: 7.07
+Rating numbers: 1469
+Description: Нет описания

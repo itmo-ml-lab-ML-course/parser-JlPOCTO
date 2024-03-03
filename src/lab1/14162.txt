@@ -1,0 +1,9 @@
+Name: Animal Dance
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Безумие, Музыка, 
+Rating limit: PG
+Rating: 4.72
+Rating numbers: 358
+Description: Нет описания

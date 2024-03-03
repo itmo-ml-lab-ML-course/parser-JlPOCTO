@@ -1,0 +1,8 @@
+Name: Titipo Titipo
+Type: video.tv_show
+Episodes: 26
+Episode length: 660
+Last episode date release: 2018-03-27
+Genres: Детское, Машины, 
+Rating limit: PG
+Description: Нет описания

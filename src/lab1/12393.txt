@@ -1,0 +1,10 @@
+Name: Shinkansen Henkei Robo Shinkalion Z the Animation
+Type: video.tv_show
+Episodes: 41
+Episode length: 1440
+Last episode date release: 2022-03-18
+Genres: Детское, Экшен, Фантастика, Меха, 
+Rating limit: PG
+Rating: 6.38
+Rating numbers: 551
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Ponkotsu Quest x Digimon Story: Cyber Sleuth - Hacker&#39;s Memory
+Type: video.tv_show
+Episodes: 1
+Episode length: 240
+Genres: Комедия, Фантастика, Пародия, 
+Rating limit: G
+Rating: 5.23
+Rating numbers: 393
+Description: Нет описания

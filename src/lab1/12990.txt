@@ -1,0 +1,10 @@
+Name: Ikeike! Momon-chan
+Type: video.tv_show
+Episodes: 15
+Episode length: 60
+Last episode date release: 2013-03-28
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.41
+Rating numbers: 182
+Description: Нет описания

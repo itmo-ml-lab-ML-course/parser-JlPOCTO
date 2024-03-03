@@ -1,0 +1,7 @@
+Name: Uchi no 3 Shimai Movie
+Type: video.movie
+Episodes: 1
+Episode length: 900
+Genres: Детское, Комедия, Повседневность, 
+Rating limit: G
+Description: Нет описания

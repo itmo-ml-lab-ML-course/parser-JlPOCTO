@@ -1,0 +1,9 @@
+Name: Santa Company: Christmas no Himitsu
+Type: video.movie
+Episodes: 1
+Episode length: 3900
+Genres: Фэнтези, 
+Rating limit: PG
+Rating: 5.99
+Rating numbers: 592
+Description: Нет описания

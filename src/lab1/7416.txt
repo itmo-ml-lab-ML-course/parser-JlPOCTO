@@ -1,0 +1,7 @@
+Name: Binghuo Zhi Jing
+Type: video.tv_show
+Episodes: 26
+Episode length: 1080
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Ashita no Joe (Movie)
+Type: video.movie
+Episodes: 1
+Episode length: 9180
+Genres: Драма, Спорт, Сёнен, 
+Rating limit: PG-13
+Rating: 7.08
+Rating numbers: 1466
+Description: Краткий пересказ сериала «Завтрашний Джо», выпущенный перед выходом продолжения для ознакомления с историей новых зрителей, не знакомых с аниме и оригинальной мангой.

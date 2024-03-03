@@ -1,0 +1,9 @@
+Name: Precure All Stars Movie: Haru no Carnival♪
+Type: video.movie
+Episodes: 1
+Episode length: 4440
+Genres: Экшен, Комедия, Фэнтези, Музыка, 
+Rating limit: G
+Rating: 6.5
+Rating numbers: 850
+Description: Нет описания

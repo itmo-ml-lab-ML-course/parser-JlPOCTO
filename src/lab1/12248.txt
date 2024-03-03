@@ -1,0 +1,10 @@
+Name: Chou Dendou Robo Tetsujin 28-gou FX
+Type: video.tv_show
+Episodes: 47
+Episode length: 1440
+Last episode date release: 1993-03-30
+Genres: Экшен, Приключения, Фантастика, Меха, 
+Rating limit: G
+Rating: 6.41
+Rating numbers: 311
+Description: Нет описания

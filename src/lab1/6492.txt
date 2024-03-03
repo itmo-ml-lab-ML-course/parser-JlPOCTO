@@ -1,0 +1,7 @@
+Name: Wang Xiong Li Xiong Meiwan Meiliao De Gushi
+Type: video.tv_show
+Episodes: 18
+Episode length: 180
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

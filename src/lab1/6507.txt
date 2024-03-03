@@ -1,0 +1,7 @@
+Name: Wuxia
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, 
+Rating limit: PG-13
+Description: Нет описания

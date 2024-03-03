@@ -1,0 +1,9 @@
+Name: Oshiruko
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.04
+Rating numbers: 253
+Description: Нет описания

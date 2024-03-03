@@ -1,0 +1,10 @@
+Name: Puso Ni Comi
+Type: video.tv_show
+Episodes: 20
+Episode length: 180
+Last episode date release: 2019-05-21
+Genres: Экшен, Комедия, Фантастика, Игры, Пародия, Школа, 
+Rating limit: PG-13
+Rating: 6.37
+Rating numbers: 963
+Description: Нет описания

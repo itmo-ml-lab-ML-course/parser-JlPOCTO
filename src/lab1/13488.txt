@@ -1,0 +1,9 @@
+Name: Mr. Shape: High Touch Taisou
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Детское, Музыка, 
+Rating limit: G
+Rating: 5.21
+Rating numbers: 164
+Description: Нет описания

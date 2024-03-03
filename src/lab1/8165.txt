@@ -1,0 +1,7 @@
+Name: Dooppel!
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: Экшен, 
+Rating limit: G
+Description: Нет описания

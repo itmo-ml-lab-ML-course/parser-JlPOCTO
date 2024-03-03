@@ -1,0 +1,10 @@
+Name: Animal 1
+Type: video.tv_show
+Episodes: 27
+Episode length: 1320
+Last episode date release: 1968-09-30
+Genres: Спорт, 
+Rating limit: PG-13
+Rating: 6.03
+Rating numbers: 250
+Description: Нет описания

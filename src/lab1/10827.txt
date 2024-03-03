@@ -1,0 +1,10 @@
+Name: Wild Arms: Twilight Venom
+Type: video.tv_show
+Episodes: 22
+Episode length: 1440
+Last episode date release: 2000-03-27
+Genres: Экшен, Приключения, Фэнтези, Фантастика, Вампиры, 
+Rating limit: PG-13
+Rating: 6.67
+Rating numbers: 892
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Benghuai Xinghe
+Type: video.tv_show
+Episodes: 12
+Episode length: 1020
+Last episode date release: 2019-07-14
+Genres: Экшен, Приключения, Фантастика, 
+Rating limit: R-17
+Rating: 6.0
+Rating numbers: 266
+Description: Нет описания

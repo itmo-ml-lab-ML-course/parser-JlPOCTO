@@ -1,0 +1,9 @@
+Name: Misemono Kenbutsu
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Детское, 
+Rating limit: G
+Rating: 4.74
+Rating numbers: 270
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Shikong Zhi Xi
+Type: video.tv_show
+Episodes: 13
+Episode length: 1260
+Last episode date release: 2022-07-02
+Genres: Экшен, 
+Rating limit: PG-13
+Rating: 6.47
+Rating numbers: 2361
+Description: Нет описания

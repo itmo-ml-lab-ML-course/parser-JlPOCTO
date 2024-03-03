@@ -1,0 +1,7 @@
+Name: Michiru Rescue!
+Type: video.tv_show
+Episodes: 1
+Episode length: 1440
+Genres: 
+Rating limit: G
+Description: Нет описания

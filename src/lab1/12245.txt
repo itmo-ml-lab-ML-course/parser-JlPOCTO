@@ -1,0 +1,10 @@
+Name: Youkai Watch!
+Type: video.tv_show
+Episodes: 36
+Episode length: 1440
+Last episode date release: 2019-12-20
+Genres: Комедия, Сверхъестественное, Детское, 
+Rating limit: G
+Rating: 6.41
+Rating numbers: 681
+Description: Нет описания

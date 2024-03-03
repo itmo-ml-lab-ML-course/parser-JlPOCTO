@@ -1,0 +1,9 @@
+Name: Keroro Gunsou Movie 3: Tenkuu Daikessen de Arimasu!
+Type: video.movie
+Episodes: 1
+Episode length: 5700
+Genres: Сёнен, Комедия, Фантастика, 
+Rating limit: PG
+Rating: 7.38
+Rating numbers: 458
+Description: Нет описания

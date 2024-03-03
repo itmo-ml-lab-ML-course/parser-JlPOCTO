@@ -1,0 +1,10 @@
+Name: Ars no Kyojuu
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2023-03-25
+Genres: Экшен, Приключения, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.08
+Rating numbers: 5797
+Description: Нет описания

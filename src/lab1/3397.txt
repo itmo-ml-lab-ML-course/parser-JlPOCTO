@@ -1,0 +1,9 @@
+Name: Space Adventure Cobra
+Type: video.movie
+Episodes: 1
+Episode length: 5940
+Genres: Экшен, Приключения, Фантастика, Космос, 
+Rating limit: R+
+Rating: 7.08
+Rating numbers: 1805
+Description: Нет описания

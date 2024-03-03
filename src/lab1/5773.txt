@@ -1,0 +1,8 @@
+Name: Sore Ike! Zukkoke Sannin-gumi
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 2004-10-03
+Genres: Детское, Комедия, Школа, 
+Rating limit: PG
+Description: Нет описания

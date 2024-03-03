@@ -1,0 +1,7 @@
+Name: Tiaoyue Zhanshi 2
+Type: video.tv_show
+Episodes: 32
+Episode length: 900
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,6 @@
+Name: Haedori Daemoheom
+Type: video.movie
+Episodes: 1
+Episode length: 3360
+Genres: Приключения, Драма, Военное, 
+Description: Нет описания

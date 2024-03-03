@@ -1,0 +1,9 @@
+Name: Burn Up!
+Type: video.other
+Episodes: 1
+Episode length: 2700
+Genres: Экшен, Комедия, Фантастика, Этти, Полиция, 
+Rating limit: R+
+Rating: 6.07
+Rating numbers: 1303
+Description: Нет описания

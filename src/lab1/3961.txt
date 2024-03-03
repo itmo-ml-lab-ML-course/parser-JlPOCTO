@@ -1,0 +1,9 @@
+Name: Shi Wan Ge Leng Xiaohua Movie 1
+Type: video.movie
+Episodes: 1
+Episode length: 6000
+Genres: Экшен, Приключения, Комедия, Фэнтези, Пародия, 
+Rating limit: PG-13
+Rating: 6.26
+Rating numbers: 425
+Description: Нет описания

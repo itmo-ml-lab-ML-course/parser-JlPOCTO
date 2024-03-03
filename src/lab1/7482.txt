@@ -1,0 +1,8 @@
+Name: Bosanimal
+Type: video.tv_show
+Episodes: 96
+Episode length: 60
+Last episode date release: 2023-09-14
+Genres: 
+Rating limit: G
+Description: Нет описания

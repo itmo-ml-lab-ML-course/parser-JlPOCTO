@@ -1,0 +1,9 @@
+Name: Pianoman Trailer
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Музыка, Психологическое, 
+Rating limit: PG-13
+Rating: 5.35
+Rating numbers: 280
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Mori no Densetsu
+Type: video.movie
+Episodes: 1
+Episode length: 1740
+Genres: Приключения, Драма, Фэнтези, Музыка, 
+Rating limit: G
+Rating: 6.35
+Rating numbers: 409
+Description: Нет описания

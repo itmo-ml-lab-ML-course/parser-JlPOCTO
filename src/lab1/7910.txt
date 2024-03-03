@@ -1,0 +1,7 @@
+Name: Da Erduo Tutu: Tutu Zhihui Wangguo
+Type: video.tv_show
+Episodes: 60
+Episode length: 720
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

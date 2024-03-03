@@ -1,0 +1,8 @@
+Name: Mottainai Baasan
+Type: video.tv_show
+Episodes: 4
+Episode length: 360
+Last episode date release: 2020-06-25
+Genres: Повседневность, 
+Rating limit: G
+Description: Нет описания

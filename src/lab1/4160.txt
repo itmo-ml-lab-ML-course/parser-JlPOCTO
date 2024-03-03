@@ -1,0 +1,9 @@
+Name: Juubee Ninpuuchou Burst
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Экшен, Ужасы, Сверхъестественное, Боевые искусства, Самураи, 
+Rating limit: R-17
+Rating: 6.23
+Rating numbers: 479
+Description: Нет описания

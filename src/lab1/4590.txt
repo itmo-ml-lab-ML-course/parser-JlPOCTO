@@ -1,0 +1,10 @@
+Name: Gegege no Kitarou: Jigoku-hen
+Type: video.tv_show
+Episodes: 7
+Episode length: 1500
+Last episode date release: 1988-03-21
+Genres: Приключения, Комедия, Фэнтези, Ужасы, Сверхъестественное, 
+Rating limit: G
+Rating: 6.13
+Rating numbers: 511
+Description: Нет описания

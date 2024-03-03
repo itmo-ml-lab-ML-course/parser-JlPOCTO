@@ -1,0 +1,7 @@
+Name: Pao Fu Xiaojie 5th Season
+Type: video.tv_show
+Episodes: 12
+Episode length: 660
+Genres: Повседневность, 
+Rating limit: PG-13
+Description: Нет описания

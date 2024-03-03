@@ -1,0 +1,9 @@
+Name: Norakuro Gochou
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Приключения, 
+Rating limit: G
+Rating: 4.98
+Rating numbers: 342
+Description: Нет описания

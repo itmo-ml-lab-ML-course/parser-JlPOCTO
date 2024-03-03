@@ -1,0 +1,9 @@
+Name: Salad Land
+Type: video.tv_show
+Episodes: 1
+Episode length: 240
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 5.24
+Rating numbers: 163
+Description: Нет описания

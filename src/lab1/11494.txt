@@ -1,0 +1,9 @@
+Name: Kimi ni Aeta!
+Type: video.other
+Episodes: 1
+Episode length: 60
+Genres: Детское, 
+Rating limit: G
+Rating: 6.55
+Rating numbers: 352
+Description: Нет описания

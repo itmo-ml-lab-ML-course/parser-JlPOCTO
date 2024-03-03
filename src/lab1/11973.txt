@@ -1,0 +1,10 @@
+Name: Sekai no Owari ni Shiba Inu to
+Type: video.tv_show
+Episodes: 72
+Episode length: 60
+Last episode date release: 2023-02-05
+Genres: Приключения, Повседневность, 
+Rating limit: G
+Rating: 6.46
+Rating numbers: 1292
+Description: Нет описания

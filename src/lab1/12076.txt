@@ -1,0 +1,10 @@
+Name: Binzume Yousei
+Type: video.tv_show
+Episodes: 13
+Episode length: 720
+Last episode date release: 2003-12-27
+Genres: Комедия, Фэнтези, 
+Rating limit: G
+Rating: 6.44
+Rating numbers: 1453
+Description: Нет описания

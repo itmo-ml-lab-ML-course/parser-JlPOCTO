@@ -1,0 +1,7 @@
+Name: Chao Neng Long Qi Xia
+Type: video.movie
+Episodes: 1
+Episode length: 5160
+Genres: Экшен, Приключения, Фэнтези, Фантастика, Детское, 
+Rating limit: PG
+Description: Нет описания

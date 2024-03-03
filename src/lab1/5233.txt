@@ -1,0 +1,10 @@
+Name: Ni Zhenshi Ge Tiancai
+Type: video.tv_show
+Episodes: 24
+Episode length: 600
+Last episode date release: 2022-07-09
+Genres: Комедия, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.0
+Rating numbers: 1045
+Description: Нет описания

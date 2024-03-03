@@ -1,0 +1,10 @@
+Name: Peeping Life
+Type: video.tv_show
+Episodes: 10
+Episode length: 300
+Last episode date release: 2009-08-11
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Rating: 5.13
+Rating numbers: 450
+Description: Нет описания

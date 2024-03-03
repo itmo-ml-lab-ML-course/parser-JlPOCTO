@@ -1,0 +1,9 @@
+Name: Nyago Dance
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Детское, 
+Rating limit: G
+Rating: 4.52
+Rating numbers: 247
+Description: Нет описания

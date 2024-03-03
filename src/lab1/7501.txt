@@ -1,0 +1,8 @@
+Name: Bu Ya Duanpian: Bajiu Buli Shi
+Type: video.tv_show
+Episodes: 10
+Episode length: 60
+Last episode date release: 2022-11-02
+Genres: Гурман, Повседневность, 
+Rating limit: G
+Description: Нет описания

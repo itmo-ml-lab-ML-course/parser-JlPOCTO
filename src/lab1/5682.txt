@@ -1,0 +1,6 @@
+Name: Snowy Land
+Type: video.tv_show
+Episodes: 1
+Genres: 
+Rating limit: G
+Description: Короткая рекламная анимация с рождественским поздравлением от горнолыжного курорта «Вивальди-парк».

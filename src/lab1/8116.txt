@@ -1,0 +1,8 @@
+Name: Dokkan! Robotendon
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 1996-03-28
+Genres: Детское, Приключения, Повседневность, 
+Rating limit: PG
+Description: Нет описания

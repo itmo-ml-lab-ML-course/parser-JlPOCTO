@@ -1,0 +1,7 @@
+Name: Norasco (Movie)
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Description: Нет описания

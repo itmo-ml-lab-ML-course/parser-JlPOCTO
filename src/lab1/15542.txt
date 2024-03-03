@@ -1,0 +1,7 @@
+Name: Pro Golfer Saru
+Type: video.other
+Episodes: 1
+Episode length: 5460
+Genres: Детское, Спорт, 
+Rating limit: PG
+Description: Нет описания

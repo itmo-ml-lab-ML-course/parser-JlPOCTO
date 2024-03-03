@@ -1,0 +1,6 @@
+Name: Shen Cang
+Type: video.tv_show
+Episodes: 10 / 12
+Genres: Приключения, Фэнтези, 
+Rating limit: PG-13
+Description: Нет описания

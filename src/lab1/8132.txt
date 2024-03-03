@@ -1,0 +1,7 @@
+Name: Dongfang Kurhn: Modern Xueyuan
+Type: video.tv_show
+Episodes: 52
+Episode length: 780
+Genres: Фэнтези, Фантастика, Детское, 
+Rating limit: PG
+Description: Нет описания

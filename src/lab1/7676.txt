@@ -1,0 +1,7 @@
+Name: Chaplin to Coogan
+Type: video.movie
+Episodes: 1
+Episode length: 660
+Genres: Комедия, Пародия, 
+Rating limit: G
+Description: Нет описания

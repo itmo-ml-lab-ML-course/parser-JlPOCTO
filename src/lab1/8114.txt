@@ -1,0 +1,7 @@
+Name: Dokkaebi Bangmang-I
+Type: video.movie
+Episodes: 1
+Episode length: 3540
+Genres: Экшен, Сверхъестественное, 
+Rating limit: PG
+Description: Нет описания

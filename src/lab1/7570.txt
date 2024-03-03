@@ -1,0 +1,7 @@
+Name: Cannibal Seijin
+Type: video.movie
+Episodes: 1
+Episode length: 1920
+Genres: Комедия, Ужасы, Фантастика, 
+Rating limit: R+
+Description: Нет описания

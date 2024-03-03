@@ -1,0 +1,9 @@
+Name: Shitcom
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Комедия, Романтика, 
+Rating limit: PG-13
+Rating: 2.76
+Rating numbers: 862
+Description: История настоящей любви.

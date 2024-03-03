@@ -1,0 +1,8 @@
+Name: Geori-eui Mubeopja
+Type: video.movie
+Episodes: 1
+Episode length: 3000
+Genres: Экшен, Боевые искусства, 
+Rating: 5.21
+Rating numbers: 624
+Description: Нет описания

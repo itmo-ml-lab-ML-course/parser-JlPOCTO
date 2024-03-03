@@ -1,0 +1,8 @@
+Name: Green Saver
+Type: video.tv_show
+Episodes: 26
+Episode length: 1800
+Last episode date release: 2010-04-10
+Genres: Детское, Приключения, 
+Rating limit: G
+Description: Нет описания

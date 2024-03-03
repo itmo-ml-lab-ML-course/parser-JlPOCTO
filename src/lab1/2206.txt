@@ -1,0 +1,10 @@
+Name: Tiger Mask
+Type: video.tv_show
+Episodes: 105
+Episode length: 1380
+Last episode date release: 1971-09-30
+Genres: Сёнен, Экшен, Драма, Спорт, 
+Rating limit: PG-13
+Rating: 7.31
+Rating numbers: 908
+Description: Нет описания

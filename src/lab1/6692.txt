@@ -1,0 +1,7 @@
+Name: Xiang Qian Chong, Xiang Qian Chong
+Type: video.movie
+Episodes: 1
+Episode length: 6000
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

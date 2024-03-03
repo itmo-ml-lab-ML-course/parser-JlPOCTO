@@ -1,0 +1,9 @@
+Name: Keroro Gunsou Movie 4: Gekishin Dragon Warriors de Arimasu!
+Type: video.movie
+Episodes: 1
+Episode length: 4680
+Genres: Комедия, 
+Rating limit: PG
+Rating: 7.26
+Rating numbers: 398
+Description: Нет описания

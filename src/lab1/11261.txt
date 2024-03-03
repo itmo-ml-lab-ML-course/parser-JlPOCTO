@@ -1,0 +1,10 @@
+Name: Gregory Horror Show: The Second Guest
+Type: video.tv_show
+Episodes: 25
+Episode length: 180
+Last episode date release: 2000-10-01
+Genres: Комедия, Ужасы, Детектив, Сверхъестественное, Демоны, 
+Rating limit: PG
+Rating: 6.59
+Rating numbers: 363
+Description: Нет описания

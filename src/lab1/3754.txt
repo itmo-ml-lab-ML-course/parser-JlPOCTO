@@ -1,0 +1,10 @@
+Name: Bouken Yuuki Pluster World
+Type: video.tv_show
+Episodes: 52
+Episode length: 1440
+Last episode date release: 2004-03-25
+Genres: Сёнен, Экшен, Приключения, Фантастика, 
+Rating limit: G
+Rating: 6.3
+Rating numbers: 220
+Description: Нет описания

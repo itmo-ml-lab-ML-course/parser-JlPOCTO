@@ -1,0 +1,7 @@
+Name: Bao Bao Wo
+Type: video.tv_show
+Episodes: 52
+Episode length: 360
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

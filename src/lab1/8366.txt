@@ -1,0 +1,7 @@
+Name: Feiwu Xiaoshuo
+Type: video.tv_show
+Episodes: 11
+Episode length: 180
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

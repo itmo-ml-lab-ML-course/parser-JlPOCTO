@@ -1,0 +1,7 @@
+Name: Baobao Bashi: Qimiao de Jieri
+Type: video.tv_show
+Episodes: 9
+Episode length: 540
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

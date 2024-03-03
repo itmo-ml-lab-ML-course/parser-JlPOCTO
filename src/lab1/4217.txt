@@ -1,0 +1,10 @@
+Name: Asari-chan
+Type: video.tv_show
+Episodes: 54
+Episode length: 1440
+Last episode date release: 1983-02-28
+Genres: Сёдзё, Комедия, Повседневность, 
+Rating limit: G
+Rating: 6.21
+Rating numbers: 241
+Description: Нет описания

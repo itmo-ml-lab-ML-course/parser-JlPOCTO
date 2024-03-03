@@ -1,0 +1,8 @@
+Name: Roll
+Type: video.tv_show
+Episodes: 1
+Genres: 
+Rating limit: G
+Rating: 4.57
+Rating numbers: 210
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: &quot;Tokyo&quot;
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: Безумие, 
+Rating limit: G
+Rating: 3.99
+Rating numbers: 508
+Description: Короткометражный фильм о написании слова «Токио» при помощи японской слоговой азбуки «хирагана».

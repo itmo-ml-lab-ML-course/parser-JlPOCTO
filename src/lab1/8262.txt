@@ -1,0 +1,7 @@
+Name: Dummy: No Way Out
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Драма, Фэнтези, 
+Rating limit: PG-13
+Description: Нет описания

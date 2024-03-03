@@ -1,0 +1,7 @@
+Name: Tokio Heidi: Mainichi no Kodomo Uta
+Type: video.tv_show
+Episodes: 15 / ?
+Episode length: 120
+Genres: Детское, Музыка, 
+Rating limit: G
+Description: Нет описания

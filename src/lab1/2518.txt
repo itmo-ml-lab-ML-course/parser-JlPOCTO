@@ -1,0 +1,9 @@
+Name: One Piece: Adventure of Nebulandia
+Type: video.other
+Episodes: 1
+Episode length: 6360
+Genres: Экшен, Приключения, Фэнтези, Сёнен, 
+Rating limit: PG-13
+Rating: 7.25
+Rating numbers: 7841
+Description: Нет описания

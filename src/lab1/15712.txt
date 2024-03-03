@@ -1,0 +1,8 @@
+Name: Ranpou
+Type: video.tv_show
+Episodes: 21
+Episode length: 1500
+Last episode date release: 1984-09-20
+Genres: Комедия, Пародия, Школа, 
+Rating limit: R+
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Hong Gildong Janggun
+Type: video.movie
+Episodes: 1
+Episode length: 4020
+Genres: Экшен, Приключения, Исторический, 
+Rating limit: PG
+Description: Нет описания

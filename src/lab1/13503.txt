@@ -1,0 +1,9 @@
+Name: Afureko! AR
+Type: video.tv_show
+Episodes: 3
+Episode length: 120
+Genres: 
+Rating limit: G
+Rating: 5.2
+Rating numbers: 171
+Description: Нет описания

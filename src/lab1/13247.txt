@@ -1,0 +1,10 @@
+Name: Wish Me Mell
+Type: video.tv_show
+Episodes: 3
+Episode length: 60
+Last episode date release: 2012-07-20
+Genres: Детское, Фэнтези, 
+Rating limit: G
+Rating: 5.38
+Rating numbers: 167
+Description: Нет описания

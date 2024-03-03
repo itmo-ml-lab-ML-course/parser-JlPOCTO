@@ -1,0 +1,10 @@
+Name: Aishang Ta de Liyou
+Type: video.tv_show
+Episodes: 22
+Episode length: 840
+Last episode date release: 2023-06-29
+Genres: Драма, Романтика, Школа, 
+Rating limit: PG-13
+Rating: 7.62
+Rating numbers: 11614
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Weilai Xifu Bendi Lang
+Type: video.tv_show
+Episodes: 33
+Episode length: 240
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

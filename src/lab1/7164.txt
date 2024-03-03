@@ -1,0 +1,7 @@
+Name: You Yao 2
+Type: video.tv_show
+Episodes: 19 / 24
+Episode length: 1500
+Genres: Комедия, Драма, Фэнтези, 
+Rating limit: PG-13
+Description: Нет описания

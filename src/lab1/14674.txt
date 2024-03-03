@@ -1,0 +1,8 @@
+Name: Mim Mam Mint
+Type: video.tv_show
+Episodes: 4
+Episode length: 300
+Last episode date release: 2016-03-25
+Genres: Комедия, 
+Rating limit: G
+Description: Однажды две девочки, Мим и Мам, получили от отца в подарок загадочное существо по имени Чоко Минт — на 70% зайца, на 30% медведя.

@@ -1,0 +1,9 @@
+Name: Yahabe
+Type: video.other
+Episodes: 1
+Episode length: 960
+Genres: Сёнен, 
+Rating limit: PG-13
+Rating: 5.22
+Rating numbers: 74
+Description: Нет описания

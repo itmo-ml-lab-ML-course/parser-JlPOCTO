@@ -1,0 +1,8 @@
+Name: Uwabaki Cook
+Type: video.tv_show
+Episodes: 13
+Episode length: 180
+Last episode date release: 2015-03-30
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

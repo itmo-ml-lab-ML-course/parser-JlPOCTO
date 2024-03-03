@@ -1,0 +1,10 @@
+Name: Miyakawa-ke no Kuufuku
+Type: video.tv_show
+Episodes: 10
+Episode length: 300
+Last episode date release: 2013-07-01
+Genres: Повседневность, 
+Rating limit: PG-13
+Rating: 6.52
+Rating numbers: 4634
+Description: Спин-офф аниме-сериала «Счастливая звезда», рассказывающий о трудностях жизни бедных сестёр Миякава — старшей, Хинаты, спускающей деньги на своё хобби, и младшей, Хикагэ, страдающей от постоянного голода.

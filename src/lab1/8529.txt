@@ -1,0 +1,7 @@
+Name: Gangtie Feilong: Zaijian Ultraman
+Type: video.movie
+Episodes: 1
+Episode length: 5280
+Genres: Экшен, Фантастика, 
+Rating limit: PG-13
+Description: Нет описания

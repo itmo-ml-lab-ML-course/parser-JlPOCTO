@@ -1,0 +1,7 @@
+Name: Bangongshi Na Dian Shi er
+Type: video.tv_show
+Episodes: 8
+Episode length: 120
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

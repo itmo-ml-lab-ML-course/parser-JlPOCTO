@@ -1,0 +1,8 @@
+Name: Dennou Senshi Dokan-kun
+Type: video.tv_show
+Episodes: 11
+Episode length: 360
+Last episode date release: 2007-03-26
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

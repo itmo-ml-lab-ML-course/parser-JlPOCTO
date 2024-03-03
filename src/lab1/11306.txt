@@ -1,0 +1,9 @@
+Name: Youjo Shachou
+Type: video.tv_show
+Episodes: 13
+Episode length: 180
+Genres: Комедия, Работа, 
+Rating limit: PG-13
+Rating: 6.58
+Rating numbers: 568
+Description: Нет описания

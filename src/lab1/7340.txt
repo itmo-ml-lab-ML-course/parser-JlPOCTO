@@ -1,0 +1,7 @@
+Name: Baozou Kongbu Gushi 4th Season
+Type: video.tv_show
+Episodes: 26
+Episode length: 360
+Genres: Ужасы, Триллер, 
+Rating limit: PG-13
+Description: Нет описания

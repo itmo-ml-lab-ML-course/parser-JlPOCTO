@@ -1,0 +1,7 @@
+Name: Sayounara Kaba-kun
+Type: video.movie
+Episodes: 1
+Episode length: 1500
+Genres: Детское, Исторический, 
+Rating limit: PG
+Description: Нет описания

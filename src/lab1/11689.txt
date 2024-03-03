@@ -1,0 +1,10 @@
+Name: Papa to Odorou
+Type: video.tv_show
+Episodes: 16
+Episode length: 360
+Last episode date release: 1999-07-24
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.51
+Rating numbers: 257
+Description: Нет описания

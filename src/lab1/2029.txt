@@ -1,0 +1,10 @@
+Name: Atashin&#39;chi
+Type: video.tv_show
+Episodes: 330
+Episode length: 1500
+Last episode date release: 2009-09-19
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Rating: 7.35
+Rating numbers: 396
+Description: Нет описания

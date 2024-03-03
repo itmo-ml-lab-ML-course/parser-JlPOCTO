@@ -1,0 +1,9 @@
+Name: Inferno Cop: Fact Files
+Type: video.tv_show
+Episodes: 12
+Last episode date release: 2013-03-17
+Genres: Экшен, Комедия, Полиция, 
+Rating limit: R-17
+Rating: 5.37
+Rating numbers: 1273
+Description: Дополнительные эпизоды, которые рассказывают истории отдельных персонажей аниме «Адский полицейский». Транслировались вместе с оригинальным сериалом.

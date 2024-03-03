@@ -1,0 +1,10 @@
+Name: Xian Wang de Richang Shenghuo 3
+Type: video.tv_show
+Episodes: 12
+Episode length: 1080
+Last episode date release: 2022-12-11
+Genres: Приключения, Комедия, Фэнтези, Школа, 
+Rating limit: PG-13
+Rating: 7.33
+Rating numbers: 16382
+Description: Нет описания

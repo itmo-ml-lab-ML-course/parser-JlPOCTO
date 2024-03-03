@@ -1,0 +1,10 @@
+Name: Yuusei Shounen Papii
+Type: video.tv_show
+Episodes: 52
+Episode length: 1500
+Last episode date release: 1966-05-27
+Genres: Экшен, Фантастика, Космос, Супер сила, 
+Rating limit: PG
+Rating: 5.33
+Rating numbers: 266
+Description: Нет описания

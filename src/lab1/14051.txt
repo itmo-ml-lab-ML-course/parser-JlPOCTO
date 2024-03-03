@@ -1,0 +1,9 @@
+Name: Box
+Type: video.movie
+Episodes: 1
+Episode length: 420
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.82
+Rating numbers: 270
+Description: Нет описания

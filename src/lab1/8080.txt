@@ -1,0 +1,7 @@
+Name: Ding Ding Zhan Hou Wang
+Type: video.movie
+Episodes: 1
+Episode length: 1620
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

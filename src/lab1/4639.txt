@@ -1,0 +1,10 @@
+Name: Akahori Gedou Hour Rabuge
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2005-09-27
+Genres: Комедия, Пародия, 
+Rating limit: PG-13
+Rating: 6.12
+Rating numbers: 787
+Description: Нет описания

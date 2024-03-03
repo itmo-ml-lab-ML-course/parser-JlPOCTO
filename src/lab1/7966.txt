@@ -1,0 +1,8 @@
+Name: Daisuki! Nendomama
+Type: video.tv_show
+Episodes: 9
+Episode length: 300
+Last episode date release: 1995-03-13
+Genres: Детское, Фэнтези, Повседневность, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Dead Heat
+Type: video.other
+Episodes: 1
+Episode length: 1860
+Genres: Экшен, Фантастика, Спорт, Меха, 
+Rating limit: PG-13
+Rating: 5.37
+Rating numbers: 294
+Description: Нет описания

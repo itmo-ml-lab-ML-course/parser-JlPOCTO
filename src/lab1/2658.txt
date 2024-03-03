@@ -1,0 +1,10 @@
+Name: Kyouryuu Boukenki Jura Tripper
+Type: video.tv_show
+Episodes: 39
+Episode length: 1500
+Last episode date release: 1995-12-24
+Genres: Приключения, Драма, Фэнтези, Фантастика, 
+Rating limit: G
+Rating: 7.22
+Rating numbers: 335
+Description: Нет описания

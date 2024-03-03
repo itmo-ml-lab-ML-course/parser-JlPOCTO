@@ -1,0 +1,7 @@
+Name: Sheng Guang Bu Hao Re
+Type: video.tv_show
+Episodes: 6
+Episode length: 780
+Genres: Приключения, Комедия, Фэнтези, 
+Rating limit: PG-13
+Description: Нет описания

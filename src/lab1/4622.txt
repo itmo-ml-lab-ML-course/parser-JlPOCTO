@@ -1,0 +1,9 @@
+Name: Little Nemo Pilot
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Приключения, 
+Rating limit: G
+Rating: 6.12
+Rating numbers: 166
+Description: Нет описания

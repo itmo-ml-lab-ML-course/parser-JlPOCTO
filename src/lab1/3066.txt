@@ -1,0 +1,10 @@
+Name: Renou Xueyuan
+Type: video.tv_show
+Episodes: 10
+Episode length: 300
+Last episode date release: 2021-09-04
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 7.15
+Rating numbers: 688
+Description: Нет описания

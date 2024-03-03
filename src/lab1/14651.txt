@@ -1,0 +1,7 @@
+Name: Midnight: Eraser Wars Spin-off
+Type: video.movie
+Episodes: 1
+Episode length: 660
+Genres: Экшен, Триллер, 
+Rating limit: PG-13
+Description: Нет описания

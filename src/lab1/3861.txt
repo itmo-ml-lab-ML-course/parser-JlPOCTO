@@ -1,0 +1,10 @@
+Name: Tatakae!! Ramenman
+Type: video.tv_show
+Episodes: 35
+Episode length: 1380
+Last episode date release: 1988-09-11
+Genres: Сёнен, Экшен, Приключения, Боевые искусства, 
+Rating limit: R-17
+Rating: 6.28
+Rating numbers: 419
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Ninja Bugei-chou
+Type: video.movie
+Episodes: 1
+Episode length: 8100
+Genres: Экшен, 
+Rating limit: R-17
+Rating: 5.47
+Rating numbers: 386
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Blassreiter: Navi
+Type: video.other
+Episodes: 1
+Episode length: 1080
+Genres: Экшен, Фантастика, 
+Rating limit: R-17
+Rating: 6.24
+Rating numbers: 1165
+Description: Специальный эпизод, между 11 и 12. Состоит из событий первых 11 эпизодов.

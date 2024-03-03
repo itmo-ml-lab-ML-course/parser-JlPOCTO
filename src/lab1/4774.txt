@@ -1,0 +1,9 @@
+Name: Mini Toji
+Type: video.tv_show
+Episodes: 10
+Episode length: 300
+Last episode date release: 2019-03-17
+Genres: Экшен, Комедия, Фэнтези, 
+Rating: 6.1
+Rating numbers: 1349
+Description: Нет описания

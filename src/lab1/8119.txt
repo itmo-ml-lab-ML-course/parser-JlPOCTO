@@ -1,0 +1,8 @@
+Name: Dolittle-sensei Monogatari
+Type: video.tv_show
+Episodes: 13
+Episode length: 1320
+Last episode date release: 1998-04-01
+Genres: Детское, Приключения, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Ousama no Shippo
+Type: video.movie
+Episodes: 1
+Episode length: 1980
+Genres: Фэнтези, 
+Rating limit: G
+Description: Нет описания

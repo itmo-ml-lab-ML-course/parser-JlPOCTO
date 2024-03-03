@@ -1,0 +1,7 @@
+Name: Chuukan Senshi Mr. Chun
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Комедия, Пародия, Супер сила, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Tou Xing Jiu Yue Tian: Tongnian Gushi
+Type: video.tv_show
+Episodes: 26
+Episode length: 300
+Genres: Комедия, Детское, 
+Rating limit: G
+Description: Нет описания

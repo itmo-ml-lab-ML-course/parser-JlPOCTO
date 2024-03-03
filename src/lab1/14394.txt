@@ -1,0 +1,10 @@
+Name: Peeping Life: YouTuber-kun
+Type: video.tv_show
+Episodes: 4
+Episode length: 300
+Last episode date release: 2013-08-29
+Genres: Комедия, 
+Rating limit: G
+Rating: 4.31
+Rating numbers: 297
+Description: Нет описания

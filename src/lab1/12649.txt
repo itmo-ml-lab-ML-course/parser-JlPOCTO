@@ -1,0 +1,9 @@
+Name: Gokicha!!
+Type: video.tv_show
+Episodes: 2
+Episode length: 480
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.53
+Rating numbers: 2144
+Description: Трогательная история про девочку-таракана, которая пытается понравиться людям, но всё время вынуждена убегать от травли инсектицидами.

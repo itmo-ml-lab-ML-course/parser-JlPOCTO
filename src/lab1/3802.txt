@@ -1,0 +1,10 @@
+Name: Actors: Songs Connection
+Type: video.tv_show
+Episodes: 12
+Episode length: 1380
+Last episode date release: 2019-12-22
+Genres: Музыка, Школа, 
+Rating limit: PG-13
+Rating: 6.29
+Rating numbers: 3341
+Description: Нет описания

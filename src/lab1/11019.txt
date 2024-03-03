@@ -1,0 +1,10 @@
+Name: Mamotte Shugogetten!
+Type: video.tv_show
+Episodes: 22
+Episode length: 1440
+Last episode date release: 1999-04-03
+Genres: Сёнен, Комедия, Фэнтези, Романтика, 
+Rating limit: PG-13
+Rating: 6.63
+Rating numbers: 1007
+Description: Нет описания

@@ -1,0 +1,5 @@
+Name: Kijin Gentoushou
+Type: video.tv_show
+Episodes: 1
+Genres: Фэнтези, Исторический, 
+Description: Нет описания

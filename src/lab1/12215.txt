@@ -1,0 +1,10 @@
+Name: Kara no Kyoukai: Manner Movies
+Type: video.movie
+Episodes: 7
+Episode length: 60
+Last episode date release: 2009-08-08
+Genres: Экшен, Комедия, 
+Rating limit: G
+Rating: 6.41
+Rating numbers: 6331
+Description: Семь кино-интро, которые были показаны вместе с семью фильмами серии Kara no Kyoukai и включенные в качестве бонуса к Blu-Ray/DVD-релизам.

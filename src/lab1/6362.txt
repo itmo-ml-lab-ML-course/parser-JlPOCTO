@@ -1,0 +1,7 @@
+Name: Umbrella Fighter!
+Type: video.other
+Episodes: 4
+Episode length: 180
+Genres: Повседневность, 
+Rating limit: G
+Description: Нет описания

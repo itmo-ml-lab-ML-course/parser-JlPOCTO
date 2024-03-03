@@ -1,0 +1,9 @@
+Name: Pokemon Movie 21: Minna no Monogatari
+Type: video.movie
+Episodes: 1
+Episode length: 6300
+Genres: Детское, Экшен, Приключения, Комедия, Фэнтези, Игры, 
+Rating limit: PG
+Rating: 7.18
+Rating numbers: 3249
+Description: Нет описания

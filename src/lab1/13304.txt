@@ -1,0 +1,9 @@
+Name: Blame! Special
+Type: video.other
+Episodes: 1
+Episode length: 240
+Genres: Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 5.3
+Rating numbers: 2880
+Description: Дополнительный эпизод-продолжение оригинальной ONA  «Блейм!»

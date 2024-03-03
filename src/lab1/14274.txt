@@ -1,0 +1,8 @@
+Name: Usa Weather Show
+Type: video.other
+Episodes: 1
+Genres: Повседневность, 
+Rating limit: G
+Rating: 4.59
+Rating numbers: 316
+Description: Нет описания

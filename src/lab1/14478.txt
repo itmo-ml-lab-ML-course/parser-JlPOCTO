@@ -1,0 +1,8 @@
+Name: Marumofubiyori
+Type: video.tv_show
+Episodes: 8
+Episode length: 120
+Last episode date release: 2019-11-08
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

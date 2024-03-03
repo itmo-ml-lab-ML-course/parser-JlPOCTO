@@ -1,0 +1,9 @@
+Name: Kangaeru Renshuu
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.01
+Rating numbers: 266
+Description: Нет описания

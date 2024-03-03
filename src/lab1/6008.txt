@@ -1,0 +1,7 @@
+Name: Te Gong Mingxing
+Type: video.movie
+Episodes: 1
+Episode length: 5400
+Genres: 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Coffee Tadaiku
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Повседневность, 
+Rating limit: G
+Rating: 4.95
+Rating numbers: 246
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Yakan Gakkou no Ura-sensei
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Сверхъестественное, Школа, 
+Rating limit: G
+Rating: 4.89
+Rating numbers: 378
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Pinky Wakuwaku Tabi Stroll
+Type: video.tv_show
+Episodes: 7
+Episode length: 60
+Last episode date release: 2000-12-25
+Genres: Повседневность, 
+Rating limit: G
+Rating: 4.75
+Rating numbers: 165
+Description: Нет описания

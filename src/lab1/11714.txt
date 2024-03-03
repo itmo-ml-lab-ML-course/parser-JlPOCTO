@@ -1,0 +1,10 @@
+Name: Ginga Reppuu Baxingar
+Type: video.tv_show
+Episodes: 39
+Episode length: 1500
+Last episode date release: 1983-03-29
+Genres: Экшен, Приключения, Меха, 
+Rating limit: PG-13
+Rating: 6.51
+Rating numbers: 251
+Description: Нет описания

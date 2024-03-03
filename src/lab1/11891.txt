@@ -1,0 +1,9 @@
+Name: Windaria
+Type: video.movie
+Episodes: 1
+Episode length: 6000
+Genres: Экшен, Драма, Фэнтези, Романтика, Фантастика, 
+Rating limit: R+
+Rating: 6.48
+Rating numbers: 1624
+Description: Нет описания

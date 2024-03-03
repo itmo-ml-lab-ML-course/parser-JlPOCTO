@@ -1,0 +1,9 @@
+Name: Hibike! Euphonium Movie: Photo Session e Youkoso
+Type: video.movie
+Episodes: 3
+Episode length: 240
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.12
+Rating numbers: 2229
+Description: Короткие видеоролики, показанные в кинотеатрах перед началом фильма «Звучи, эуфониум! Пусть мелодия дойдёт до тебя», которые учат основным правилам поведения в кинотеатре.

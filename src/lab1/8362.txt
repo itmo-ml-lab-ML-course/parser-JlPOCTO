@@ -1,0 +1,7 @@
+Name: Feitian Pangxie: Datong Wangguo
+Type: video.tv_show
+Episodes: 13
+Episode length: 600
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

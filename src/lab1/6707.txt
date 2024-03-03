@@ -1,0 +1,7 @@
+Name: Xiao Ban Long Ai Tanxian
+Type: video.tv_show
+Episodes: 10
+Episode length: 720
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

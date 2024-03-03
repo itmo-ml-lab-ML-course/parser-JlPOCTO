@@ -1,0 +1,8 @@
+Name: Nuiguru Papa
+Type: video.tv_show
+Episodes: 2
+Episode length: 240
+Last episode date release: 2017-11-26
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

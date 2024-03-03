@@ -1,0 +1,10 @@
+Name: Tantei Kageki Milky Holmes TD
+Type: video.tv_show
+Episodes: 12
+Episode length: 1320
+Last episode date release: 2015-03-28
+Genres: Комедия, Детектив, Супер сила, 
+Rating limit: PG-13
+Rating: 6.45
+Rating numbers: 1238
+Description: Нет описания

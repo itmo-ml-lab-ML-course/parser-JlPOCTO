@@ -1,0 +1,7 @@
+Name: Dokgo PV
+Type: video.other
+Episodes: 1
+Episode length: 60
+Genres: Экшен, Драма, Школа, 
+Rating limit: R-17
+Description: Нет описания

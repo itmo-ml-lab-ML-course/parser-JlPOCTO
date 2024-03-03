@@ -1,0 +1,9 @@
+Name: A-Channel+smile
+Type: video.other
+Episodes: 2
+Episode length: 1500
+Genres: Комедия, Школа, 
+Rating limit: PG-13
+Rating: 7.09
+Rating numbers: 1812
+Description: Нет описания

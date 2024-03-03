@@ -1,0 +1,7 @@
+Name: Saero Doljanchi
+Type: video.tv_show
+Episodes: 1
+Episode length: 420
+Genres: Комедия, Фэнтези, 
+Rating limit: G
+Description: Нет описания

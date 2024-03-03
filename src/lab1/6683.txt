@@ -1,0 +1,8 @@
+Name: Xia Gu Zhong An Zu
+Type: video.tv_show
+Episodes: 12
+Episode length: 480
+Last episode date release: 2017-09-08
+Genres: Фэнтези, 
+Rating limit: PG-13
+Description: Нет описания

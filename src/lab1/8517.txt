@@ -1,0 +1,8 @@
+Name: Ganbare-bu Next!
+Type: video.tv_show
+Episodes: 6
+Episode length: 120
+Last episode date release: 2015-07-13
+Genres: Комедия, Спорт, 
+Rating limit: G
+Description: Нет описания

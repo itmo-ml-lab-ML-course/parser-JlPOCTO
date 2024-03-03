@@ -1,0 +1,10 @@
+Name: Ozmafia!!
+Type: video.tv_show
+Episodes: 12
+Episode length: 300
+Last episode date release: 2016-09-22
+Genres: Фэнтези, Романтика, Исторический, Дзёсей, 
+Rating limit: PG-13
+Rating: 5.46
+Rating numbers: 3893
+Description: Нет описания

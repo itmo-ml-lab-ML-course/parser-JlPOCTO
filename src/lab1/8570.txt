@@ -1,0 +1,7 @@
+Name: Getter Robo Memorial
+Type: video.other
+Episodes: 1
+Episode length: 3480
+Genres: Сёнен, Экшен, Фантастика, Меха, 
+Rating limit: PG-13
+Description: Нет описания

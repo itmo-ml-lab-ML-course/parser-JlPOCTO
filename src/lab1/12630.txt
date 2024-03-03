@@ -1,0 +1,9 @@
+Name: Hyoutan Suzume
+Type: video.movie
+Episodes: 1
+Episode length: 3240
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 5.54
+Rating numbers: 221
+Description: Нет описания

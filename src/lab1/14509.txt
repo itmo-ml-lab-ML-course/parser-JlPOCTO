@@ -1,0 +1,7 @@
+Name: McDull: Xiang Dang Dang
+Type: video.movie
+Episodes: 1
+Episode length: 4800
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

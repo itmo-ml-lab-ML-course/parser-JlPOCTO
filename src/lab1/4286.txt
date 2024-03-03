@@ -1,0 +1,9 @@
+Name: Hula Fulla Dance
+Type: video.movie
+Episodes: 1
+Episode length: 6480
+Genres: 
+Rating limit: PG-13
+Rating: 6.2
+Rating numbers: 1708
+Description: Нет описания

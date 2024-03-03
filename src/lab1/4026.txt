@@ -1,0 +1,10 @@
+Name: Majokko Tickle
+Type: video.tv_show
+Episodes: 45
+Episode length: 1440
+Last episode date release: 1979-01-29
+Genres: Комедия, 
+Rating limit: G
+Rating: 6.25
+Rating numbers: 312
+Description: Нет описания

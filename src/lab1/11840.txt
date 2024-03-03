@@ -1,0 +1,10 @@
+Name: Aikatsu Planet!
+Type: video.tv_show
+Episodes: 24
+Episode length: 600
+Last episode date release: 2021-06-27
+Genres: Повседневность, Музыка, Школа, 
+Rating limit: PG
+Rating: 6.48
+Rating numbers: 840
+Description: Нет описания

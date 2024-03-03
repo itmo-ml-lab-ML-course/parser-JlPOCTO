@@ -1,0 +1,10 @@
+Name: The☆Ultraman
+Type: video.tv_show
+Episodes: 50
+Episode length: 1500
+Last episode date release: 1980-03-26
+Genres: Экшен, Фантастика, Космос, Супер сила, 
+Rating limit: PG-13
+Rating: 6.41
+Rating numbers: 825
+Description: Нет описания

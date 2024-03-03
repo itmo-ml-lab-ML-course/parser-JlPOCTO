@@ -1,0 +1,7 @@
+Name: Changjiang 7 Hao: Qi Zi Ai Diqiu
+Type: video.tv_show
+Episodes: 45
+Episode length: 780
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

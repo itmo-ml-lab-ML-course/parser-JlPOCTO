@@ -1,0 +1,7 @@
+Name: Baozou LOL 2nd Season
+Type: video.tv_show
+Episodes: 12
+Episode length: 180
+Genres: Комедия, Фэнтези, Пародия, 
+Rating limit: PG-13
+Description: Нет описания

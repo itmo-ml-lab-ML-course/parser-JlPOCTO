@@ -1,0 +1,9 @@
+Name: Galerians: Rion
+Type: video.other
+Episodes: 3
+Episode length: 1440
+Genres: Сёнен, Приключения, Драма, Ужасы, Детектив, Фантастика, Сверхъестественное, Военное, Психологическое, 
+Rating limit: R-17
+Rating: 5.32
+Rating numbers: 639
+Description: Нет описания

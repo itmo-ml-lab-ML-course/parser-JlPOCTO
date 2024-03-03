@@ -1,0 +1,10 @@
+Name: Line Town
+Type: video.tv_show
+Episodes: 50
+Episode length: 1440
+Last episode date release: 2014-03-26
+Genres: Детское, Комедия, 
+Rating limit: PG-13
+Rating: 6.19
+Rating numbers: 240
+Description: Нет описания

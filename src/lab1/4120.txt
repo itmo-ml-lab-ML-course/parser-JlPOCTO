@@ -1,0 +1,10 @@
+Name: Calimero
+Type: video.tv_show
+Episodes: 45
+Episode length: 1500
+Last episode date release: 1975-09-30
+Genres: Комедия, 
+Rating limit: G
+Rating: 6.23
+Rating numbers: 273
+Description: Нет описания

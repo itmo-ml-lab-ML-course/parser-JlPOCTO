@@ -1,0 +1,7 @@
+Name: Tsumurin: Funkoro Yakata ni Okurimono
+Type: video.tv_show
+Episodes: 1
+Episode length: 600
+Genres: Приключения, 
+Rating limit: G
+Description: Нет описания

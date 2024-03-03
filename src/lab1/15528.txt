@@ -1,0 +1,8 @@
+Name: Power Battle Watch Car Season 2
+Type: video.tv_show
+Episodes: 13
+Episode length: 1560
+Last episode date release: 2016-11-15
+Genres: Детское, Машины, 
+Rating limit: G
+Description: Нет описания

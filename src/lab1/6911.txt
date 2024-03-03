@@ -1,0 +1,6 @@
+Name: Xiaoqiang Yijia
+Type: video.tv_show
+Episodes: 6
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

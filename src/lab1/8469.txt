@@ -1,0 +1,8 @@
+Name: Fuwa no Go Renkan
+Type: video.tv_show
+Episodes: 54
+Episode length: 660
+Last episode date release: 2008-08-24
+Genres: Исторический, 
+Rating limit: PG
+Description: Нет описания

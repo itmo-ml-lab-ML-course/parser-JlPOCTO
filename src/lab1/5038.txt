@@ -1,0 +1,10 @@
+Name: Blood-C: None-None Gekijou
+Type: video.tv_show
+Episodes: 7
+Episode length: 120
+Last episode date release: 2012-10-07
+Genres: Комедия, Пародия, 
+Rating limit: PG-13
+Rating: 6.04
+Rating numbers: 2630
+Description: Нет описания

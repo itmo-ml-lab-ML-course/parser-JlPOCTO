@@ -1,0 +1,9 @@
+Name: The King of Fighters XV
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Экшен, Боевые искусства, Супер сила, 
+Rating limit: PG-13
+Rating: 6.49
+Rating numbers: 344
+Description: Нет описания

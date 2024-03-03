@@ -1,0 +1,10 @@
+Name: Shin Dokonjou Gaeru
+Type: video.tv_show
+Episodes: 30
+Episode length: 1500
+Last episode date release: 1982-03-29
+Genres: Сёнен, Комедия, Повседневность, 
+Rating limit: G
+Rating: 6.28
+Rating numbers: 210
+Description: Нет описания

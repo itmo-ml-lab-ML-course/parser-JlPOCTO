@@ -1,0 +1,10 @@
+Name: RabbiTube: Creator ni Challenge!
+Type: video.tv_show
+Episodes: 16
+Episode length: 540
+Last episode date release: 2021-12-05
+Genres: Комедия, 
+Rating limit: G
+Rating: 7.11
+Rating numbers: 943
+Description: Нет описания

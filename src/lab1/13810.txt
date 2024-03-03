@@ -1,0 +1,10 @@
+Name: Mini Moni Yaru no da Pyon!
+Type: video.tv_show
+Episodes: 66
+Episode length: 60
+Last episode date release: 2001-10-26
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.03
+Rating numbers: 154
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Glamorous Heroes
+Type: video.tv_show
+Episodes: 10
+Episode length: 360
+Last episode date release: 2017-12-09
+Genres: Экшен, 
+Rating limit: PG-13
+Rating: 4.27
+Rating numbers: 2225
+Description: Нет описания

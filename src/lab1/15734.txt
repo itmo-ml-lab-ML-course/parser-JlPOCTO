@@ -1,0 +1,7 @@
+Name: Renwu Dashi
+Type: video.tv_show
+Episodes: 6
+Episode length: 960
+Last episode date release: 2020-09-12
+Genres: Экшен, Приключения, Фэнтези, 
+Description: Нет описания

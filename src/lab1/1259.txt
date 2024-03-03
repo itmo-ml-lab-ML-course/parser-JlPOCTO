@@ -1,0 +1,9 @@
+Name: Doraemon (2005)
+Type: video.tv_show
+Episodes: 529 / ?
+Episode length: 1500
+Genres: Комедия, Фантастика, 
+Rating limit: PG
+Rating: 7.66
+Rating numbers: 1527
+Description: Нет описания

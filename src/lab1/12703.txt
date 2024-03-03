@@ -1,0 +1,9 @@
+Name: Usakame Special
+Type: video.other
+Episodes: 1
+Episode length: 180
+Genres: Сёнен, Комедия, Спорт, 
+Rating limit: PG-13
+Rating: 5.52
+Rating numbers: 1714
+Description: Нет описания

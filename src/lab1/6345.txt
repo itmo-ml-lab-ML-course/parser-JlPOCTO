@@ -1,0 +1,7 @@
+Name: UFO-koku no Koutsuu Anzen
+Type: video.movie
+Episodes: 1
+Episode length: 840
+Genres: Детское, Фантастика, 
+Rating limit: G
+Description: Нет описания

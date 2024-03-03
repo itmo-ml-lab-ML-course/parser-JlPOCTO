@@ -1,0 +1,9 @@
+Name: Airy Me
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Безумие, Драма, Ужасы, Музыка, 
+Rating limit: PG-13
+Rating: 6.31
+Rating numbers: 903
+Description: Нет описания

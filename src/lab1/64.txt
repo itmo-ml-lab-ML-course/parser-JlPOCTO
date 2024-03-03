@@ -1,0 +1,9 @@
+Name: Fate/stay night Movie: Heaven&#39;s Feel - III. Spring Song
+Type: video.movie
+Episodes: 1
+Episode length: 7320
+Genres: Экшен, Фэнтези, Сверхъестественное, 
+Rating limit: R-17
+Rating: 8.67
+Rating numbers: 32927
+Description: Завершающий третий фильм аниме-адаптации «Судьба/Ночь схватки: Прикосновение небес».

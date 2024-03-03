@@ -1,0 +1,9 @@
+Name: 100%
+Type: video.other
+Episodes: 1
+Episode length: 3180
+Genres: Драма, 
+Rating limit: R+
+Rating: 5.26
+Rating numbers: 220
+Description: Нет описания

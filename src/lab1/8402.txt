@@ -1,0 +1,8 @@
+Name: Fengzi Wuyu: Xian Luo Pian
+Type: video.tv_show
+Episodes: 20
+Episode length: 1200
+Last episode date release: 2023-02-06
+Genres: Экшен, Приключения, Фэнтези, 
+Rating limit: PG-13
+Description: Нет описания

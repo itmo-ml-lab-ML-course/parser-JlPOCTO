@@ -1,0 +1,10 @@
+Name: Turning Girls
+Type: video.tv_show
+Episodes: 7
+Episode length: 300
+Last episode date release: 2013-07-30
+Genres: Комедия, Повседневность, 
+Rating limit: PG-13
+Rating: 6.02
+Rating numbers: 665
+Description: Нет описания

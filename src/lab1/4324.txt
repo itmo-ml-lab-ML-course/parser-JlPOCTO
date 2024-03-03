@@ -1,0 +1,10 @@
+Name: Knights of the Zodiac: Saint Seiya - Battle for Sanctuary
+Type: video.tv_show
+Episodes: 12
+Episode length: 1380
+Last episode date release: 2022-10-09
+Genres: Приключения, Фэнтези, Фантастика, Сёнен, 
+Rating limit: PG-13
+Rating: 6.19
+Rating numbers: 409
+Description: Нет описания

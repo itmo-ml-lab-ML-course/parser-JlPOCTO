@@ -1,0 +1,10 @@
+Name: 2.43 Mini Anime: Fukui-ben Kouza
+Type: video.tv_show
+Episodes: 8
+Episode length: 60
+Last episode date release: 2021-02-26
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 5.16
+Rating numbers: 595
+Description: Нет описания

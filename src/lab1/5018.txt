@@ -1,0 +1,10 @@
+Name: Danchi Tomoo
+Type: video.tv_show
+Episodes: 78
+Episode length: 1440
+Last episode date release: 2015-02-07
+Genres: Сэйнэн, Комедия, 
+Rating limit: G
+Rating: 6.05
+Rating numbers: 247
+Description: Нет описания

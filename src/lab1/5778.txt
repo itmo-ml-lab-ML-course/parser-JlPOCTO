@@ -1,0 +1,7 @@
+Name: Soujiu Quan Ahoo
+Type: video.tv_show
+Episodes: 20
+Episode length: 1320
+Genres: Драма, Детское, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Congming De Shunliu
+Type: video.tv_show
+Episodes: 52
+Episode length: 780
+Genres: Экшен, Приключения, Фантастика, Военное, 
+Rating limit: PG-13
+Description: Нет описания

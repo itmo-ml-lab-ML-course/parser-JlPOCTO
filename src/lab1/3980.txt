@@ -1,0 +1,10 @@
+Name: Heibai Wushang 2nd Season
+Type: video.tv_show
+Episodes: 12
+Episode length: 900
+Last episode date release: 2017-10-14
+Genres: Экшен, Комедия, Сверхъестественное, 
+Rating limit: PG-13
+Rating: 6.26
+Rating numbers: 1317
+Description: Нет описания

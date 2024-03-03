@@ -1,0 +1,7 @@
+Name: Oshiete♡Namie-sensei!
+Type: video.tv_show
+Episodes: 2
+Episode length: 240
+Genres: Школа, 
+Rating limit: G
+Description: Нет описания

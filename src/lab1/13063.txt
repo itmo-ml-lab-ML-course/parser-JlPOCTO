@@ -1,0 +1,10 @@
+Name: X Maiden
+Type: video.tv_show
+Episodes: 8
+Episode length: 660
+Last episode date release: 2014-06-20
+Genres: Комедия, Повседневность, Школа, 
+Rating limit: PG-13
+Rating: 5.44
+Rating numbers: 318
+Description: Нет описания

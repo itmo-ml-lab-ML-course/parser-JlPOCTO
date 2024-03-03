@@ -1,0 +1,7 @@
+Name: Ryoku Tama Shinshi
+Type: video.movie
+Episodes: 1
+Episode length: 2880
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

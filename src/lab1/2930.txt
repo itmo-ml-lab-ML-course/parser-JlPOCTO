@@ -1,0 +1,10 @@
+Name: Mikan Enikki
+Type: video.tv_show
+Episodes: 30
+Episode length: 1380
+Last episode date release: 1993-06-18
+Genres: Сёдзё, Комедия, Романтика, Повседневность, 
+Rating limit: G
+Rating: 7.17
+Rating numbers: 720
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Keitai Shoujo
+Type: video.tv_show
+Episodes: 6
+Episode length: 420
+Last episode date release: 2007-04-17
+Genres: Комедия, Драма, Романтика, Школа, 
+Rating limit: PG-13
+Rating: 5.21
+Rating numbers: 662
+Description: Нет описания

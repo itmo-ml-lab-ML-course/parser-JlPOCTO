@@ -1,0 +1,8 @@
+Name: Petting a Dog
+Type: video.tv_show
+Episodes: 1
+Genres: Повседневность, 
+Rating limit: G
+Rating: 3.79
+Rating numbers: 200
+Description: Нет описания

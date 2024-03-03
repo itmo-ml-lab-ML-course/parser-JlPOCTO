@@ -1,0 +1,8 @@
+Name: Precure kara Minna e no Ouen Movie
+Type: video.tv_show
+Episodes: 1
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 6.03
+Rating numbers: 668
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Goblin Slayer II
+Type: video.tv_show
+Episodes: 12
+Episode length: 1380
+Last episode date release: 2023-12-22
+Genres: Экшен, Приключения, Фэнтези, 
+Rating limit: R-17
+Rating: 7.27
+Rating numbers: 34233
+Description: Нет описания

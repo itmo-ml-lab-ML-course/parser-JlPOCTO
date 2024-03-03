@@ -1,0 +1,9 @@
+Name: Sojunghan Nal-ui Kkum
+Type: video.movie
+Episodes: 1
+Episode length: 5940
+Genres: Комедия, Драма, Романтика, 
+Rating limit: PG-13
+Rating: 6.25
+Rating numbers: 879
+Description: Нет описания

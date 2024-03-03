@@ -1,0 +1,7 @@
+Name: Mo He Yu Gesheng
+Type: video.tv_show
+Episodes: 365
+Episode length: 900
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

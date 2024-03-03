@@ -1,0 +1,10 @@
+Name: Suzakinishi The Animation
+Type: video.tv_show
+Episodes: 12
+Episode length: 180
+Last episode date release: 2015-09-23
+Genres: Комедия, Повседневность, 
+Rating limit: PG-13
+Rating: 5.37
+Rating numbers: 829
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: gdgd Fairies Movie Specials
+Type: video.other
+Episodes: 2
+Episode length: 300
+Genres: Комедия, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

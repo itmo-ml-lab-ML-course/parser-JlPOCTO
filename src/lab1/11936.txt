@@ -1,0 +1,9 @@
+Name: Gundam Build Divers Prologue
+Type: video.tv_show
+Episodes: 1
+Episode length: 840
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: G
+Rating: 6.46
+Rating numbers: 1121
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Sonic: Night of the WereHog
+Type: video.tv_show
+Episodes: 1
+Episode length: 660
+Genres: Экшен, 
+Rating limit: G
+Rating: 6.51
+Rating numbers: 2384
+Description: ONA, приуроченная к выходу игры Sonic Unleashed.Дождливая ночь. Единственное место, где Соник и Чип смогли от него укрыться — это заброшенный особняк. Вскоре выясняется, что кое-кто в нём всё-таки живёт.

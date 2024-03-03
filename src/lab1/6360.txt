@@ -1,0 +1,7 @@
+Name: Ultraman Company
+Type: video.movie
+Episodes: 1
+Episode length: 1800
+Genres: Комедия, Фантастика, Пародия, Космос, Супер сила, 
+Rating limit: G
+Description: Нет описания

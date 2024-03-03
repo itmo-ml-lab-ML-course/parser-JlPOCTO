@@ -1,0 +1,9 @@
+Name: Tokyo Vice
+Type: video.other
+Episodes: 1
+Episode length: 3180
+Genres: Экшен, Детектив, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 5.24
+Rating numbers: 570
+Description: Нет описания

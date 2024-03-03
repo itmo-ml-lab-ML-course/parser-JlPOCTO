@@ -1,0 +1,7 @@
+Name: Xiao Po Hai: You Neihan
+Type: video.tv_show
+Episodes: 30
+Episode length: 120
+Genres: Комедия, 
+Rating limit: PG
+Description: Нет описания

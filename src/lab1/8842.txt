@@ -1,0 +1,8 @@
+Name: Hatara Kids Mai Ham Gumi
+Type: video.tv_show
+Episodes: 50
+Episode length: 1500
+Last episode date release: 2008-10-05
+Genres: Детское, Экшен, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Saint Seiya Recap
+Type: video.other
+Episodes: 1
+Episode length: 1500
+Genres: Сёнен, Приключения, Фэнтези, Фантастика, 
+Rating limit: PG-13
+Rating: 7.13
+Rating numbers: 697
+Description: Краткий пересказ аниме-сериала «Рыцари Зодиака».

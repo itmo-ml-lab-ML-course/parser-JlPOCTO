@@ -1,0 +1,10 @@
+Name: Toutotsu ni Egypt Shin
+Type: video.tv_show
+Episodes: 10
+Episode length: 300
+Last episode date release: 2021-02-08
+Genres: Комедия, Фэнтези, 
+Rating limit: G
+Rating: 6.57
+Rating numbers: 1588
+Description: Нет описания

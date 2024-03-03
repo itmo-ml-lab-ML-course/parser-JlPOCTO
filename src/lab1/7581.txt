@@ -1,0 +1,7 @@
+Name: Caoyuan Dou Si: Dou Si Niu Yu Gui Huli
+Type: video.tv_show
+Episodes: 26
+Episode length: 720
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Monster Strike The Animation
+Type: video.tv_show
+Episodes: 63
+Episode length: 600
+Last episode date release: 2019-12-31
+Genres: Экшен, Фэнтези, Игры, 
+Rating limit: PG-13
+Rating: 6.63
+Rating numbers: 2534
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Wudi Xiaolu Gushi Pian
+Type: video.tv_show
+Episodes: 120
+Episode length: 240
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

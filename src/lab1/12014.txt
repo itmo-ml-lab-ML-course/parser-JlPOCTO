@@ -1,0 +1,9 @@
+Name: SmaSTATION-3 SMAnime
+Type: video.other
+Episodes: 3
+Episode length: 60
+Genres: Экшен, Комедия, 
+Rating limit: R+
+Rating: 6.45
+Rating numbers: 468
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Super Dragon Ball Heroes
+Type: video.tv_show
+Episodes: 52 / ?
+Episode length: 480
+Genres: Сёнен, Экшен, Комедия, Фэнтези, Боевые искусства, Супер сила, 
+Rating limit: PG-13
+Rating: 5.32
+Rating numbers: 3048
+Description: Нет описания

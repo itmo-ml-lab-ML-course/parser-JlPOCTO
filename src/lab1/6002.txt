@@ -1,0 +1,8 @@
+Name: Tatakae! Osper
+Type: video.tv_show
+Episodes: 52
+Episode length: 1440
+Last episode date release: 1967-10-11
+Genres: Сёнен, Экшен, Фантастика, 
+Rating limit: PG-13
+Description: Нет описания

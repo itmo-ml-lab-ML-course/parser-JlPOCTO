@@ -1,0 +1,9 @@
+Name: Chibi Godzilla
+Type: video.tv_show
+Episodes: 4
+Last episode date release: 2023-04-27
+Genres: Детское, 
+Rating limit: G
+Rating: 5.47
+Rating numbers: 325
+Description: Нет описания

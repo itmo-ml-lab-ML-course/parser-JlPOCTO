@@ -1,0 +1,9 @@
+Name: Yuukai Anna
+Type: video.movie
+Episodes: 1
+Episode length: 1560
+Genres: Сэйнэн, Экшен, Приключения, Романтика, 
+Rating limit: R-17
+Rating: 4.62
+Rating numbers: 936
+Description: Нет описания

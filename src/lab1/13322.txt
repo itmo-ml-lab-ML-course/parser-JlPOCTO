@@ -1,0 +1,9 @@
+Name: Kipling Jr.
+Type: video.movie
+Episodes: 1
+Episode length: 840
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.29
+Rating numbers: 206
+Description: Нет описания

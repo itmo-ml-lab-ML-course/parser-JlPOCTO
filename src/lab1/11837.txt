@@ -1,0 +1,10 @@
+Name: Love Get Chu
+Type: video.tv_show
+Episodes: 25
+Episode length: 1440
+Last episode date release: 2006-09-27
+Genres: Комедия, Романтика, 
+Rating limit: PG-13
+Rating: 6.48
+Rating numbers: 870
+Description: Нет описания

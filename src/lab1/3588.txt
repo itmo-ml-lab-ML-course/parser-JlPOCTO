@@ -1,0 +1,9 @@
+Name: Cyborg 009: Call of Justice 3
+Type: video.movie
+Episodes: 1
+Episode length: 7200
+Genres: Сёнен, Экшен, Приключения, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.33
+Rating numbers: 835
+Description: Нет описания

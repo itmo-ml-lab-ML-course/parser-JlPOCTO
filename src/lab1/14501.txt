@@ -1,0 +1,6 @@
+Name: Mazica Party Movie
+Type: video.movie
+Episodes: 1
+Genres: Фэнтези, Игры, 
+Rating limit: G
+Description: Нет описания

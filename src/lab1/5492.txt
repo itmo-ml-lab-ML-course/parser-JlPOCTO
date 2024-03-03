@@ -1,0 +1,9 @@
+Name: Requiem (ONA)
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Безумие, 
+Rating limit: R+
+Rating: 3.82
+Rating numbers: 325
+Description: Нет описания

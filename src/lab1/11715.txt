@@ -1,0 +1,9 @@
+Name: Gyakuten Saiban 6 Prologue
+Type: video.tv_show
+Episodes: 1
+Episode length: 480
+Genres: Детектив, Работа, 
+Rating limit: PG-13
+Rating: 6.51
+Rating numbers: 1706
+Description: Нет описания

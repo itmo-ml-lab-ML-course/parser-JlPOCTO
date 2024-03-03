@@ -1,0 +1,10 @@
+Name: Nyanpire The Animation
+Type: video.tv_show
+Episodes: 12
+Episode length: 240
+Last episode date release: 2011-09-21
+Genres: Комедия, Сверхъестественное, Вампиры, 
+Rating limit: G
+Rating: 6.65
+Rating numbers: 4463
+Description: Сюжет повествует о маленьком чёрном котёнке, которого спас от голодной смерти вампир, даровав ему немного своей крови. Вскоре его приютила девочка по имени Мисаки. Отныне любимой фразой котёнка является: «Хочу кровушки, мяу!».

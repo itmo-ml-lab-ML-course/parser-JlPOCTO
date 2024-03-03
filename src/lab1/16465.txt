@@ -1,0 +1,5 @@
+Name: Yuuki Bakuhatsu Bang Bravern
+Type: video.tv_show
+Episodes: 1
+Genres: Экшен, Меха, 
+Description: Нет описания

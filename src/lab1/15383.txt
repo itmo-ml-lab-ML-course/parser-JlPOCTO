@@ -1,0 +1,7 @@
+Name: Pao Pao Meirenyu 2nd Season
+Type: video.tv_show
+Episodes: 26
+Episode length: 960
+Genres: Приключения, 
+Rating limit: G
+Description: Нет описания

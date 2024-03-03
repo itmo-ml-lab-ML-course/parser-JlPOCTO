@@ -1,0 +1,10 @@
+Name: Tetsujin 28-gou
+Type: video.tv_show
+Episodes: 96
+Episode length: 1500
+Last episode date release: 1965-05-27
+Genres: Сёнен, Приключения, Фантастика, Меха, 
+Rating limit: G
+Rating: 6.49
+Rating numbers: 431
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Beast Wars Second Chou Seimeitai Transformers
+Type: video.tv_show
+Episodes: 43
+Episode length: 1440
+Last episode date release: 1999-01-27
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: G
+Rating: 6.36
+Rating numbers: 883
+Description: Нет описания

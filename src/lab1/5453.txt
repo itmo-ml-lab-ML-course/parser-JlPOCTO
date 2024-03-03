@@ -1,0 +1,9 @@
+Name: Fue
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Безумие, 
+Rating limit: PG
+Rating: 4.12
+Rating numbers: 229
+Description: Нет описания

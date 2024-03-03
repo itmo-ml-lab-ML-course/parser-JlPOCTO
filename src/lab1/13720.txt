@@ -1,0 +1,10 @@
+Name: Chou Zenmairobo: Patrasche
+Type: video.tv_show
+Episodes: 13
+Episode length: 120
+Last episode date release: 2014-03-15
+Genres: Комедия, Фантастика, Исторический, Меха, Пародия, 
+Rating limit: G
+Rating: 5.09
+Rating numbers: 323
+Description: Нет описания

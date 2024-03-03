@@ -1,0 +1,9 @@
+Name: Pokemon: Pikachu no Dokidoki Kakurenbo
+Type: video.movie
+Episodes: 1
+Episode length: 1380
+Genres: Детское, Приключения, Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 6.49
+Rating numbers: 2985
+Description: Пикачу и другие покемоны играют в прятки, которые неожиданно превращаются в весьма опасное приключение.

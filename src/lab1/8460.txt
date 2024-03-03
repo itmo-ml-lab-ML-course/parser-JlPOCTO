@@ -1,0 +1,7 @@
+Name: FutureNova: Image Album
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Фантастика, 
+Rating limit: R+
+Description: Нет описания

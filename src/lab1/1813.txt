@@ -1,0 +1,10 @@
+Name: Urusei Yatsura (2022)
+Type: video.tv_show
+Episodes: 23
+Episode length: 1320
+Last episode date release: 2023-03-24
+Genres: Сёнен, Комедия, Романтика, Фантастика, 
+Rating limit: PG-13
+Rating: 7.41
+Rating numbers: 15044
+Description: Нет описания

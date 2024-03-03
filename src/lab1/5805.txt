@@ -1,0 +1,7 @@
+Name: Star Card Dream Girls
+Type: video.tv_show
+Episodes: 1
+Episode length: 480
+Genres: Сверхъестественное, Детское, 
+Rating limit: PG
+Description: Нет описания

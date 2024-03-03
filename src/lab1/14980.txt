@@ -1,0 +1,6 @@
+Name: Nanchatte!
+Type: video.tv_show
+Episodes: 2
+Genres: Комедия, Пародия, 
+Rating limit: G
+Description: Нет описания

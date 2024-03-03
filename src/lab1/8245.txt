@@ -1,0 +1,7 @@
+Name: Duel Masters Win: Duel Wars-hen
+Type: video.tv_show
+Episodes: 28 / ?
+Episode length: 1440
+Genres: Экшен, Приключения, Комедия, Фэнтези, Детское, 
+Rating limit: G
+Description: Нет описания

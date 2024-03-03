@@ -1,0 +1,9 @@
+Name: Kakegae no
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Драма, 
+Rating limit: PG
+Rating: 4.89
+Rating numbers: 235
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Ojamanga Yamada-kun (Movie)
+Type: video.movie
+Episodes: 1
+Episode length: 1620
+Genres: Комедия, Повседневность, 
+Rating: 6.0
+Rating numbers: 206
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Wake up!! Tamala
+Type: video.movie
+Episodes: 1
+Episode length: 1020
+Genres: Фэнтези, Психологическое, 
+Rating limit: G
+Rating: 5.24
+Rating numbers: 389
+Description: Нет описания

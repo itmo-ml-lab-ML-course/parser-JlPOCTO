@@ -1,0 +1,8 @@
+Name: Extreme Hearts S×S×S
+Type: video.tv_show
+Episodes: 13
+Episode length: 480
+Last episode date release: 2022-09-25
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

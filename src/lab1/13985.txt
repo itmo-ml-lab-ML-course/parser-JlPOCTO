@@ -1,0 +1,9 @@
+Name: Shogi Hour
+Type: video.tv_show
+Episodes: 1
+Episode length: 420
+Genres: Комедия, Пародия, 
+Rating limit: G
+Rating: 4.89
+Rating numbers: 211
+Description: Нет описания

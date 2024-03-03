@@ -1,0 +1,7 @@
+Name: Rusuban
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Детское, Фэнтези, 
+Rating limit: G
+Description: Нет описания

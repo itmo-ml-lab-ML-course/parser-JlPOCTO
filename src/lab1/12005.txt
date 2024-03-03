@@ -1,0 +1,9 @@
+Name: Digimon Survive: Prologue Movie
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Фэнтези, Детектив, Школа, 
+Rating limit: G
+Rating: 6.45
+Rating numbers: 804
+Description: Нет описания

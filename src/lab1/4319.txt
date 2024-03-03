@@ -1,0 +1,9 @@
+Name: Uma no Friends
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Комедия, Фэнтези, Спорт, 
+Rating limit: G
+Rating: 6.19
+Rating numbers: 1374
+Description: Особая коллаборация между аниме «Друзья-зверушки» и Японской ассоциацией конных скачек «Japan Racing Association».

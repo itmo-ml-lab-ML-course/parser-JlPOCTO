@@ -1,0 +1,10 @@
+Name: Great Mazinger
+Type: video.tv_show
+Episodes: 56
+Episode length: 1500
+Last episode date release: 1975-09-28
+Genres: Сёнен, Экшен, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 7.07
+Rating numbers: 853
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Scared Rider Xechs
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2016-09-21
+Genres: Приключения, Романтика, Фантастика, Гарем, 
+Rating limit: PG-13
+Rating: 5.25
+Rating numbers: 4583
+Description: Нет описания

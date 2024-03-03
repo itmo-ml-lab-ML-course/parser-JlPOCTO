@@ -1,0 +1,7 @@
+Name: Xiao Yu Ren Mojimusi Yijia 3rd Season
+Type: video.tv_show
+Episodes: 26
+Episode length: 300
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

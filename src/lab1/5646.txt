@@ -1,0 +1,8 @@
+Name: Si Wuxie
+Type: video.tv_show
+Episodes: 12
+Episode length: 480
+Last episode date release: 2022-09-17
+Genres: Фэнтези, Повседневность, 
+Rating limit: G
+Description: Нет описания

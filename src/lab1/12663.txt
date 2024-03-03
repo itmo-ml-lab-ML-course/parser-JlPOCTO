@@ -1,0 +1,10 @@
+Name: Mahoutsukai Reimeiki Mini Anime
+Type: video.tv_show
+Episodes: 21
+Episode length: 60
+Last episode date release: 2022-04-07
+Genres: Комедия, Фэнтези, 
+Rating limit: PG-13
+Rating: 5.53
+Rating numbers: 1099
+Description: Нет описания

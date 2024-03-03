@@ -1,0 +1,10 @@
+Name: Mini Dragon
+Type: video.tv_show
+Episodes: 13
+Episode length: 60
+Last episode date release: 2021-06-30
+Genres: Фэнтези, Повседневность, 
+Rating limit: PG-13
+Rating: 7.35
+Rating numbers: 6851
+Description: Серия коротких роликов, выходивших на официальном канале Kyoto Animation в преддверии показа основного сериала «Дракон-горничная госпожи Кобаяси 2».

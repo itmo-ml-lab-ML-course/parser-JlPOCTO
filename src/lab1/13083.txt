@@ -1,0 +1,9 @@
+Name: Kappa Kawatarou
+Type: video.movie
+Episodes: 1
+Episode length: 1080
+Genres: Детское, Сверхъестественное, 
+Rating limit: G
+Rating: 5.38
+Rating numbers: 250
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Nanami-chan 5th Series
+Type: video.tv_show
+Episodes: 16
+Episode length: 300
+Last episode date release: 2008-10-12
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

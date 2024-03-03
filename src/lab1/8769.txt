@@ -1,0 +1,6 @@
+Name: Haitun Bang Bang Hao
+Type: video.tv_show
+Episodes: 52
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

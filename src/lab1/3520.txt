@@ -1,0 +1,10 @@
+Name: Aikatsu on Parade!
+Type: video.tv_show
+Episodes: 25
+Episode length: 1440
+Last episode date release: 2020-03-28
+Genres: Повседневность, Музыка, Школа, 
+Rating limit: PG
+Rating: 7.05
+Rating numbers: 1236
+Description: Нет описания

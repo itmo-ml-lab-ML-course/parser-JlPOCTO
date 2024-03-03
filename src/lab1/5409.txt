@@ -1,0 +1,9 @@
+Name: Bara Bara Film
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, 
+Rating limit: R+
+Rating: 4.31
+Rating numbers: 207
+Description: Нет описания

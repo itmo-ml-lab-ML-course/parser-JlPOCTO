@@ -1,0 +1,10 @@
+Name: Nono-chan
+Type: video.tv_show
+Episodes: 61
+Episode length: 1500
+Last episode date release: 2002-09-28
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Rating: 6.09
+Rating numbers: 312
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Abciee Shuugyou Nikki
+Type: video.tv_show
+Episodes: 12
+Episode length: 120
+Last episode date release: 2021-03-25
+Genres: Комедия, Работа, 
+Rating limit: PG
+Rating: 5.45
+Rating numbers: 435
+Description: Нет описания

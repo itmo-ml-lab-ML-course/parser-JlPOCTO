@@ -1,0 +1,7 @@
+Name: Dudu Xiao Riji
+Type: video.tv_show
+Episodes: 8
+Episode length: 360
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

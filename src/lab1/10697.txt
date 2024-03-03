@@ -1,0 +1,10 @@
+Name: Mitsume ga Tooru
+Type: video.tv_show
+Episodes: 48
+Episode length: 1440
+Last episode date release: 1991-09-26
+Genres: Приключения, 
+Rating limit: G
+Rating: 7.52
+Rating numbers: 398
+Description: Нет описания

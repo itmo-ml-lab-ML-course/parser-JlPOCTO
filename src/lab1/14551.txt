@@ -1,0 +1,7 @@
+Name: Meitantei Pork
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Комедия, Детектив, 
+Rating limit: G
+Description: Нет описания

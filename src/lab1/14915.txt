@@ -1,0 +1,7 @@
+Name: Muzhi Zong Dong Yuan: Yulin Qiyu
+Type: video.tv_show
+Episodes: 10
+Episode length: 180
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Da Nao Hua Shi
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

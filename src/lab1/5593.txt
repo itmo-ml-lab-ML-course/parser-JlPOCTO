@@ -1,0 +1,7 @@
+Name: Shuimu Baobao Kan Shijie
+Type: video.tv_show
+Episodes: 800
+Episode length: 300
+Genres: Детское, Комедия, 
+Rating limit: PG
+Description: Нет описания

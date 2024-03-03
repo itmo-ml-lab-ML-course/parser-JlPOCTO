@@ -1,0 +1,8 @@
+Name: Go! Go! Tokyo MER: Kinkyuujitai to Tatakau Nakama-tachi
+Type: video.tv_show
+Episodes: 30
+Episode length: 120
+Last episode date release: 2023-01-01
+Genres: Комедия, Работа, 
+Rating limit: G
+Description: Нет описания

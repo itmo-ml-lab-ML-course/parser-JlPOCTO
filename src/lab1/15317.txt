@@ -1,0 +1,8 @@
+Name: Otoko Doahou! Koushien
+Type: video.tv_show
+Episodes: 156
+Episode length: 600
+Last episode date release: 1971-03-27
+Genres: Экшен, Спорт, 
+Rating limit: G
+Description: Нет описания

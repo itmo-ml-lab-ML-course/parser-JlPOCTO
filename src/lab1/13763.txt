@@ -1,0 +1,9 @@
+Name: Bunbuku Chagama (1958)
+Type: video.movie
+Episodes: 1
+Episode length: 780
+Genres: 
+Rating limit: G
+Rating: 5.06
+Rating numbers: 282
+Description: Нет описания

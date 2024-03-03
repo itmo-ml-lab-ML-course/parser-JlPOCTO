@@ -1,0 +1,7 @@
+Name: Confucius
+Type: video.tv_show
+Episodes: 104
+Episode length: 780
+Genres: Детское, Исторический, 
+Rating limit: PG
+Description: Нет описания

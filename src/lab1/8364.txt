@@ -1,0 +1,7 @@
+Name: Fei Xiang Yueqiu
+Type: video.movie
+Episodes: 1
+Episode length: 5280
+Genres: Фантастика, Космос, 
+Rating limit: G
+Description: Нет описания

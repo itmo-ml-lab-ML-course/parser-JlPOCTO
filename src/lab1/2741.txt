@@ -1,0 +1,9 @@
+Name: Saint Seiya: Tenkai-hen Josou - Overture
+Type: video.movie
+Episodes: 1
+Episode length: 4800
+Genres: Экшен, Приключения, Фэнтези, Фантастика, Сёнен, 
+Rating limit: PG-13
+Rating: 7.21
+Rating numbers: 1084
+Description: Нет описания

@@ -1,0 +1,6 @@
+Name: Bocchi the Rock! Movie
+Type: video.movie
+Episodes: 2
+Genres: Комедия, Музыка, 
+Rating limit: PG-13
+Description: Нет описания

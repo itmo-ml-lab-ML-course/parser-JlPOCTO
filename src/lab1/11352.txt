@@ -1,0 +1,10 @@
+Name: Gundam vs Hello Kitty
+Type: video.tv_show
+Episodes: 3
+Episode length: 120
+Last episode date release: 2020-01-15
+Genres: Детское, Комедия, Фэнтези, Фантастика, Меха, Космос, 
+Rating limit: G
+Rating: 6.57
+Rating numbers: 1175
+Description: Нет описания

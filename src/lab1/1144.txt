@@ -1,0 +1,9 @@
+Name: BanG Dream! Film Live
+Type: video.movie
+Episodes: 1
+Episode length: 4320
+Genres: Музыка, 
+Rating limit: PG-13
+Rating: 7.71
+Rating numbers: 2005
+Description: Нет описания

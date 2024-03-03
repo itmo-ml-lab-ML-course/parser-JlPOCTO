@@ -1,0 +1,9 @@
+Name: Digital Juice
+Type: video.other
+Episodes: 6
+Episode length: 180
+Genres: Комедия, Психологическое, 
+Rating limit: R+
+Rating: 5.44
+Rating numbers: 1100
+Description: Серия коротких анимационных фильмов, которые показывают различные миры и их героев. Эти эпизоды созданы, чтобы погрузить зрителя в психологический мир фантазий и мистики.

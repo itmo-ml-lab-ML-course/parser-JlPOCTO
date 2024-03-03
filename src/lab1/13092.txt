@@ -1,0 +1,9 @@
+Name: Lord of Vermilion IV
+Type: video.tv_show
+Episodes: 16
+Last episode date release: 2017-10-26
+Genres: Фэнтези, Игры, 
+Rating limit: G
+Rating: 5.38
+Rating numbers: 975
+Description: Нет описания

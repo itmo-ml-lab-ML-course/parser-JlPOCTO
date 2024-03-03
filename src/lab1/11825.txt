@@ -1,0 +1,10 @@
+Name: Ring ni Kakero 1: Sekai Taikai-hen
+Type: video.tv_show
+Episodes: 6
+Episode length: 1440
+Last episode date release: 2011-06-12
+Genres: Спорт, 
+Rating limit: PG-13
+Rating: 6.49
+Rating numbers: 326
+Description: Нет описания

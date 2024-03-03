@@ -1,0 +1,9 @@
+Name: Lian Qi Shi Wan Nian
+Type: video.tv_show
+Episodes: 96 / 160
+Episode length: 660
+Genres: Экшен, Приключения, Фэнтези, Исторический, Боевые искусства, 
+Rating limit: PG-13
+Rating: 7.24
+Rating numbers: 1313
+Description: Нет описания

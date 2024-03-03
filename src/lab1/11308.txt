@@ -1,0 +1,10 @@
+Name: Pure-tou no Nakama-tachi
+Type: video.tv_show
+Episodes: 26
+Episode length: 1800
+Last episode date release: 1983-12-23
+Genres: Детское, Фэнтези, 
+Rating limit: G
+Rating: 6.58
+Rating numbers: 209
+Description: Нет описания

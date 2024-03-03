@@ -1,0 +1,8 @@
+Name: Tamagotchi! Tamatomo Daishuu GO
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Last episode date release: 2015-09-24
+Genres: Детское, Комедия, Фэнтези, 
+Rating limit: G
+Description: Нет описания

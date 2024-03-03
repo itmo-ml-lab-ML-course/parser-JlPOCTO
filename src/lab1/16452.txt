@@ -1,0 +1,5 @@
+Name: Hidari
+Type: video.movie
+Episodes: 1
+Genres: Экшен, Исторический, Самураи, 
+Description: Нет описания

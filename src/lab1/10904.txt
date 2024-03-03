@@ -1,0 +1,10 @@
+Name: Suteki Tantei Labyrinth
+Type: video.tv_show
+Episodes: 25
+Episode length: 1380
+Last episode date release: 2008-03-26
+Genres: Детектив, Фантастика, 
+Rating limit: PG-13
+Rating: 6.66
+Rating numbers: 1544
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: La Seine no Hoshi
+Type: video.tv_show
+Episodes: 39
+Episode length: 1380
+Last episode date release: 1975-12-26
+Genres: Сёдзё, Приключения, Драма, Исторический, 
+Rating limit: G
+Rating: 6.53
+Rating numbers: 380
+Description: Нет описания

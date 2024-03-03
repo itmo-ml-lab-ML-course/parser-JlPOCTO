@@ -1,0 +1,7 @@
+Name: Battle Mode
+Type: video.other
+Episodes: 1
+Episode length: 60
+Genres: Экшен, Пародия, 
+Rating limit: PG-13
+Description: Рекламное видео, снятое для аниме-магазина Parody, расположенного в префектуре Нара.

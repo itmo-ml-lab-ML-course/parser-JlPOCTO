@@ -1,0 +1,9 @@
+Name: Kataku
+Type: video.movie
+Episodes: 1
+Episode length: 1140
+Genres: Сверхъестественное, Демоны, Исторический, 
+Rating limit: PG-13
+Rating: 6.03
+Rating numbers: 692
+Description: Нет описания

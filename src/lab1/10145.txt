@@ -1,0 +1,9 @@
+Name: Kyoukai no Kanata Movie 1: I&#39;ll Be Here - Kako-hen
+Type: video.movie
+Episodes: 1
+Episode length: 4920
+Genres: Экшен, Фэнтези, Школа, 
+Rating limit: PG-13
+Rating: 7.72
+Rating numbers: 39032
+Description: Краткий пересказ событий аниме-сериала «По ту сторону границы».

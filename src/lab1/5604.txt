@@ -1,0 +1,7 @@
+Name: Shuimu Wawa Shi Wan Ge Weisheme
+Type: video.tv_show
+Episodes: 365
+Episode length: 300
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

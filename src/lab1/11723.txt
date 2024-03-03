@@ -1,0 +1,10 @@
+Name: Shuukan Storyland
+Type: video.tv_show
+Episodes: 56
+Episode length: 1500
+Last episode date release: 2001-09-13
+Genres: Сэйнэн, Комедия, Драма, Повседневность, 
+Rating limit: PG-13
+Rating: 6.51
+Rating numbers: 286
+Description: Нет описания

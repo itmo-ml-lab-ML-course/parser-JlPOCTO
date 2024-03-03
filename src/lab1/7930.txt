@@ -1,0 +1,7 @@
+Name: Da Sao Chu
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

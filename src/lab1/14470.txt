@@ -1,0 +1,7 @@
+Name: Maple Town Monogatari (Movie)
+Type: video.movie
+Episodes: 1
+Episode length: 1560
+Genres: Фэнтези, Повседневность, 
+Rating limit: G
+Description: Нет описания

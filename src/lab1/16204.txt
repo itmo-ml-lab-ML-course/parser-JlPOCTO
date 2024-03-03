@@ -1,0 +1,8 @@
+Name: Shi Er Shengxiao
+Type: video.tv_show
+Episodes: 13
+Episode length: 660
+Last episode date release: 1995-01-01
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

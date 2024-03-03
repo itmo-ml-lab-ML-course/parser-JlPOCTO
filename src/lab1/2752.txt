@@ -1,0 +1,10 @@
+Name: Mermaid Melody Pichi Pichi Pitch Pure
+Type: video.tv_show
+Episodes: 39
+Episode length: 1500
+Last episode date release: 2004-12-25
+Genres: Приключения, Комедия, Фэнтези, Романтика, Музыка, Сёдзё, 
+Rating limit: PG
+Rating: 7.2
+Rating numbers: 1955
+Description: Нет описания

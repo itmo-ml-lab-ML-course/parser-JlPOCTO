@@ -1,0 +1,7 @@
+Name: Xunbao Ji
+Type: video.tv_show
+Episodes: 20
+Episode length: 360
+Genres: Детское, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Life of the Dead
+Type: video.tv_show
+Episodes: 4
+Episode length: 1020
+Last episode date release: 2012-01-01
+Genres: Комедия, Ужасы, 
+Rating limit: R-17
+Rating: 5.13
+Rating numbers: 311
+Description: Пластилиновый мультфильм о парне, что застрял в помещении во время зомби-апокалипсиса.

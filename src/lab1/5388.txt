@@ -1,0 +1,9 @@
+Name: Kaitei no Boukun
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: Приключения, 
+Rating limit: G
+Rating: 4.37
+Rating numbers: 319
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Bogeul Bogeul Bomulseon
+Type: video.movie
+Episodes: 1
+Episode length: 3300
+Genres: Приключения, Фэнтези, 
+Rating limit: PG-13
+Description: Нет описания

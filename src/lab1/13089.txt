@@ -1,0 +1,10 @@
+Name: KJ File 2nd Season
+Type: video.tv_show
+Episodes: 13
+Episode length: 300
+Last episode date release: 2023-04-03
+Genres: Экшен, Фантастика, 
+Rating limit: PG-13
+Rating: 5.38
+Rating numbers: 1001
+Description: Нет описания

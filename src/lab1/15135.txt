@@ -1,0 +1,7 @@
+Name: Nono Zu
+Type: video.tv_show
+Episodes: 380
+Episode length: 180
+Genres: Детское, Комедия, 
+Rating limit: PG
+Description: Нет описания

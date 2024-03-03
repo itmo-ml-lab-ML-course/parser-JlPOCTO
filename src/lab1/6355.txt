@@ -1,0 +1,7 @@
+Name: Ukkari Penelope OVA
+Type: video.other
+Episodes: 2
+Episode length: 300
+Genres: Фэнтези, 
+Rating limit: G
+Description: Нет описания

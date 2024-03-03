@@ -1,0 +1,8 @@
+Name: Chuizhi Shijie
+Type: video.tv_show
+Episodes: 12
+Episode length: 240
+Last episode date release: 2019-08-27
+Genres: Комедия, Фэнтези, Сверхъестественное, 
+Rating limit: PG-13
+Description: Нет описания

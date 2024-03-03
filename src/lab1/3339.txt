@@ -1,0 +1,9 @@
+Name: Ishura
+Type: video.tv_show
+Episodes: 1 / ?
+Episode length: 1380
+Genres: Экшен, Приключения, Фэнтези, 
+Rating limit: R-17
+Rating: 7.1
+Rating numbers: 5965
+Description: Нет описания

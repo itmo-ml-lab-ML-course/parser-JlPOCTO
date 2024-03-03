@@ -1,0 +1,7 @@
+Name: Gangtie Feilong 3: Shanhai Shenshou Lu
+Type: video.tv_show
+Episodes: 52
+Episode length: 780
+Genres: Экшен, Фантастика, 
+Rating limit: PG-13
+Description: Нет описания

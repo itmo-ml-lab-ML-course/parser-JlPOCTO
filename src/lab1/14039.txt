@@ -1,0 +1,9 @@
+Name: Chameko no Ichinichi
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Комедия, 
+Rating limit: G
+Rating: 4.83
+Rating numbers: 282
+Description: Нет описания

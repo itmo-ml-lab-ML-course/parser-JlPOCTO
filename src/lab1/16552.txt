@@ -1,0 +1,6 @@
+Name: World End Economica
+Type: video.movie
+Episodes: 1
+Genres: Приключения, Романтика, Фантастика, 
+Rating limit: PG-13
+Description: Нет описания

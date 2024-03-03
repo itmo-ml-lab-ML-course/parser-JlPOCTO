@@ -1,0 +1,6 @@
+Name: C. Y.
+Type: video.other
+Episodes: 1
+Episode length: 900
+Genres: Драма, Фантастика, 
+Description: Нет описания

@@ -1,0 +1,6 @@
+Name: Yankee Hamster Season 4
+Type: video.tv_show
+Episodes: 1
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

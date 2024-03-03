@@ -1,0 +1,8 @@
+Name: Spicy Boy
+Type: video.tv_show
+Episodes: 42
+Episode length: 360
+Last episode date release: 2019-07-13
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Xiao Xing de Zhongguo Mingzhu Zhi Lu
+Type: video.tv_show
+Episodes: 100
+Episode length: 600
+Genres: Приключения, Детское, 
+Rating limit: PG
+Description: Нет описания

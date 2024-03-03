@@ -1,0 +1,9 @@
+Name: Koukaku Kidoutai Arise [.jp]
+Type: video.other
+Episodes: 1
+Episode length: 180
+Genres: Экшен, 
+Rating limit: R-17
+Rating: 6.26
+Rating numbers: 3944
+Description: Короткий ролик о переезде сайта «kokaku-jprs» из доменной зоны «.com» в «.jp». Создан для содействия японской службе реестров (JPRS).

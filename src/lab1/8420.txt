@@ -1,0 +1,7 @@
+Name: Freaky Highschool
+Type: video.tv_show
+Episodes: 69
+Last episode date release: 2017-09-29
+Genres: Ужасы, Школа, 
+Rating limit: PG
+Description: Нет описания

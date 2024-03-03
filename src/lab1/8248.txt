@@ -1,0 +1,8 @@
+Name: Duel Masters King Max
+Type: video.tv_show
+Episodes: 17
+Episode length: 1440
+Last episode date release: 2022-08-28
+Genres: Детское, Экшен, Приключения, Комедия, Фэнтези, 
+Rating limit: G
+Description: Нет описания

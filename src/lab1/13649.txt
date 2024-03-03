@@ -1,0 +1,9 @@
+Name: Real Koke-kun
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.13
+Rating numbers: 132
+Description: Нет описания

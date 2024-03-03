@@ -1,0 +1,10 @@
+Name: Hajime Ningen Gyatoruz
+Type: video.tv_show
+Episodes: 77
+Episode length: 1440
+Last episode date release: 1976-03-27
+Genres: Комедия, Исторический, 
+Rating limit: PG-13
+Rating: 6.33
+Rating numbers: 256
+Description: Нет описания

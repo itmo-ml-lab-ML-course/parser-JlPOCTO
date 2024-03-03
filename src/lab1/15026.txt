@@ -1,0 +1,7 @@
+Name: Neko Neko Nihonshi Movie: Ryouma no Hachamecha Time Travel ze yo!
+Type: video.movie
+Episodes: 1
+Episode length: 7200
+Genres: Детское, Исторический, Пародия, 
+Rating limit: G
+Description: Нет описания

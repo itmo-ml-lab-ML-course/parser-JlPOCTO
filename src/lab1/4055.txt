@@ -1,0 +1,10 @@
+Name: Oraa Guzura Dado (1987)
+Type: video.tv_show
+Episodes: 44
+Episode length: 1800
+Last episode date release: 1988-09-20
+Genres: Детское, Комедия, 
+Rating limit: PG
+Rating: 6.24
+Rating numbers: 262
+Description: Нет описания

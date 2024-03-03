@@ -1,0 +1,9 @@
+Name: Oshizuka ni
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Детское, 
+Rating limit: G
+Rating: 5.33
+Rating numbers: 230
+Description: Нет описания

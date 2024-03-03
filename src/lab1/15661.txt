@@ -1,0 +1,7 @@
+Name: Qinggan Dongwuyuan
+Type: video.tv_show
+Episodes: 5
+Last episode date release: 2008-01-01
+Genres: Комедия, Романтика, 
+Rating limit: PG
+Description: Нет описания

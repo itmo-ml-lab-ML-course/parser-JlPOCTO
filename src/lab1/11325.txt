@@ -1,0 +1,9 @@
+Name: &quot;Uchuu Senkan Yamato&quot; to Iu Jidai: Seireki 2202-nen no Sentaku
+Type: video.movie
+Episodes: 1
+Episode length: 7200
+Genres: Экшен, Драма, Фантастика, Военное, Космос, 
+Rating limit: PG-13
+Rating: 6.57
+Rating numbers: 1583
+Description: Нет описания

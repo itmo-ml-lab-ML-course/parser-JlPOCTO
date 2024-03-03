@@ -1,0 +1,6 @@
+Name: Bingtai Jianzhu Zhengouqun
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, Ужасы, 
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Takarajima Movie
+Type: video.movie
+Episodes: 1
+Episode length: 5280
+Genres: Приключения, Драма, Детектив, Сверхъестественное, Исторический, 
+Rating limit: PG
+Rating: 6.14
+Rating numbers: 448
+Description: Нет описания

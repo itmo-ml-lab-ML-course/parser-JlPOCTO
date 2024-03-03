@@ -1,0 +1,9 @@
+Name: Hanoka Recap
+Type: video.other
+Episodes: 1
+Episode length: 600
+Genres: Фантастика, 
+Rating limit: PG-13
+Rating: 3.85
+Rating numbers: 201
+Description: Краткий пересказ аниме-сериала «Ханока».

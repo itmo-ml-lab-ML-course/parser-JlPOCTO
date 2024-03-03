@@ -1,0 +1,7 @@
+Name: Caribadix
+Type: video.tv_show
+Episodes: 46
+Last episode date release: 2018-03-25
+Genres: Комедия, Музыка, 
+Rating limit: PG
+Description: Нет описания

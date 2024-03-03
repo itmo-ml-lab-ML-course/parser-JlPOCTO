@@ -1,0 +1,10 @@
+Name: Cheburashka Arere?
+Type: video.tv_show
+Episodes: 26
+Episode length: 180
+Last episode date release: 2010-03-31
+Genres: Детское, Комедия, Повседневность, 
+Rating limit: G
+Rating: 6.42
+Rating numbers: 2363
+Description: На основе русского "национального героя" Чебурашки, персонажа истории Эдуарда Успенского о неизвестном науке существе, который случайно привезён в Россию в ящике с апельсинами.

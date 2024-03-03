@@ -1,0 +1,7 @@
+Name: San Mao Liu Lang Ji (2006)
+Type: video.tv_show
+Episodes: 25
+Episode length: 1500
+Genres: Детское, Комедия, Исторический, 
+Rating limit: PG
+Description: Нет описания

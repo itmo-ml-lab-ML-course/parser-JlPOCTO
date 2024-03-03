@@ -1,0 +1,9 @@
+Name: Bibury
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Повседневность, 
+Rating limit: G
+Rating: 5.41
+Rating numbers: 881
+Description: Рекламный ролик анимационной студии Bibury повествует о повседневной жизни двух девушек, живущих в Бибери, маленькой деревушке в Англии, в честь которой названа студия.

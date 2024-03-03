@@ -1,0 +1,9 @@
+Name: Rockman.EXE Movie: Hikari to Yami no Program
+Type: video.movie
+Episodes: 1
+Episode length: 2880
+Genres: Детское, Экшен, Приключения, Игры, 
+Rating limit: PG
+Rating: 7.18
+Rating numbers: 348
+Description: Нет описания

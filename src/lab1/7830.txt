@@ -1,0 +1,7 @@
+Name: Chuukichi wa Kaetta
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Исторический, 
+Rating limit: G
+Description: Нет описания

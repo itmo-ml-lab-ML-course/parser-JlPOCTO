@@ -1,0 +1,9 @@
+Name: Yuki no Yoru no Yume
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Драма, 
+Rating limit: G
+Rating: 5.22
+Rating numbers: 295
+Description: Молодая девушка блуждает снежной ночью в поисках ночлега.

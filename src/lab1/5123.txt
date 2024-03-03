@@ -1,0 +1,10 @@
+Name: Jinzou Konchuu Kabutoborg VxV
+Type: video.tv_show
+Episodes: 52
+Episode length: 1440
+Last episode date release: 2007-10-11
+Genres: Экшен, Комедия, Фэнтези, 
+Rating limit: G
+Rating: 6.03
+Rating numbers: 249
+Description: Нет описания

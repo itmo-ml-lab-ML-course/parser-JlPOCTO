@@ -1,0 +1,10 @@
+Name: Ginga Shippuu Sasuraiger
+Type: video.tv_show
+Episodes: 43
+Episode length: 1500
+Last episode date release: 1984-01-31
+Genres: Экшен, Приключения, Меха, 
+Rating limit: PG-13
+Rating: 6.56
+Rating numbers: 269
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Master of Torque 2
+Type: video.tv_show
+Episodes: 1
+Episode length: 1380
+Genres: Экшен, Фантастика, 
+Rating limit: G
+Rating: 4.75
+Rating numbers: 341
+Description: Нет описания

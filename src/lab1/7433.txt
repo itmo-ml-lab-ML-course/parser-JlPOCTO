@@ -1,0 +1,7 @@
+Name: Bloom
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Фэнтези, Триллер, 
+Rating limit: PG
+Description: Нет описания

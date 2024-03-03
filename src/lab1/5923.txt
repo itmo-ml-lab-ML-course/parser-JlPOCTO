@@ -1,0 +1,7 @@
+Name: Taiyang Baobei: Chengyu Xin Shuo
+Type: video.tv_show
+Episodes: 150
+Episode length: 360
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

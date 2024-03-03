@@ -1,0 +1,7 @@
+Name: OL Kaizou Kouza
+Type: video.other
+Episodes: 1
+Episode length: 5400
+Genres: Комедия, Повседневность, 
+Rating limit: R+
+Description: Нет описания

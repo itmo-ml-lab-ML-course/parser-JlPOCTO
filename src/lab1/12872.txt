@@ -1,0 +1,9 @@
+Name: Kakusansei Million Arthur
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Фэнтези, Игры, Музыка, 
+Rating limit: G
+Rating: 5.45
+Rating numbers: 652
+Description: Презентация карточной RPG-игры «Kakusansei Million Arthur» от компании Squre Enix, выпущенной 9 апреля 2012 года для iOS и 24 мая 2012 года для Android. Программная поддержка игры была прекращена 30 марта 2015 года.

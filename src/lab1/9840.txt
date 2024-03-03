@@ -1,0 +1,9 @@
+Name: New Initial D Movie: Legend 3 - Mugen
+Type: video.movie
+Episodes: 1
+Episode length: 3600
+Genres: Сэйнэн, 
+Rating limit: PG-13
+Rating: 7.86
+Rating numbers: 9287
+Description: Новый герой гонок на горе Акина Такуми Фудживара готовится к финальной схватке с непобедимым лидером «Red Suns» и самым быстрым гонщиком Акаги Рёскэ Такахаши.

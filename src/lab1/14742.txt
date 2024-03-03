@@ -1,0 +1,7 @@
+Name: Mirror
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Безумие, 
+Rating limit: PG-13
+Description: Нет описания

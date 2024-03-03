@@ -1,0 +1,7 @@
+Name: Cha A Er Zhong: Gaga Yi Ga Si
+Type: video.tv_show
+Episodes: 20
+Episode length: 120
+Genres: Детское, Комедия, Школа, 
+Rating limit: G
+Description: Нет описания

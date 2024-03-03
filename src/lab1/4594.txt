@@ -1,0 +1,10 @@
+Name: Hello Kitty: Ringo no Mori to Parallel Town
+Type: video.tv_show
+Episodes: 27
+Episode length: 540
+Last episode date release: 2008-03-25
+Genres: Детское, Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 6.13
+Rating numbers: 271
+Description: Нет описания

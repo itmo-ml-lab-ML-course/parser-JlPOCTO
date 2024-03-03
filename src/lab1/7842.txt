@@ -1,0 +1,8 @@
+Name: Clover 4/3
+Type: video.tv_show
+Episodes: 24
+Episode length: 180
+Last episode date release: 2000-12-01
+Genres: Драма, Школа, 
+Rating limit: PG-13
+Description: Нет описания

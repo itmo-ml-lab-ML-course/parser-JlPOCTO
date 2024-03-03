@@ -1,0 +1,10 @@
+Name: Ginga Nagareboshi Gin
+Type: video.tv_show
+Episodes: 21
+Episode length: 1380
+Last episode date release: 1986-08-22
+Genres: Сёнен, Экшен, Приключения, Драма, 
+Rating limit: PG-13
+Rating: 8.02
+Rating numbers: 2793
+Description: Нет описания

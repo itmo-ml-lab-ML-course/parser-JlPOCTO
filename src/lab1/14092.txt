@@ -1,0 +1,9 @@
+Name: Gunnm 3D Special
+Type: video.other
+Episodes: 1
+Episode length: 180
+Genres: Экшен, Фантастика, Спорт, 
+Rating limit: PG-13
+Rating: 4.79
+Rating numbers: 1809
+Description: Видеоклип в формате 3D-CGI, включающий в себя серию отрывков из матчей по моторболу с участием Гали.

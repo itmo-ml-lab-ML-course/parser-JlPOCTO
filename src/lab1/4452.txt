@@ -1,0 +1,10 @@
+Name: Gakkyuu Ou Yamazaki
+Type: video.tv_show
+Episodes: 53
+Episode length: 1440
+Last episode date release: 1998-04-09
+Genres: Комедия, 
+Rating limit: G
+Rating: 6.16
+Rating numbers: 187
+Description: Нет описания

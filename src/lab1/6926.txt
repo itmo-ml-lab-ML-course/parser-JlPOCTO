@@ -1,0 +1,7 @@
+Name: Xifan Yuyan
+Type: video.tv_show
+Episodes: 25
+Episode length: 120
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

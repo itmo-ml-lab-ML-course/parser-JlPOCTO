@@ -1,0 +1,10 @@
+Name: Battle Athletess Daiundoukai ReSTART!
+Type: video.tv_show
+Episodes: 12
+Episode length: 1380
+Last episode date release: 2021-06-27
+Genres: Экшен, Приключения, Комедия, Фантастика, Спорт, Школа, 
+Rating limit: PG-13
+Rating: 5.1
+Rating numbers: 1228
+Description: Нет описания

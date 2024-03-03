@@ -1,0 +1,8 @@
+Name: Wo Shi Xuexiao Weiyi de Renlei
+Type: video.tv_show
+Episodes: 52
+Episode length: 360
+Last episode date release: 2023-07-04
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

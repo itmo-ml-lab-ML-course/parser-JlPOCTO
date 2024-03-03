@@ -1,0 +1,7 @@
+Name: Nae Chingu Ubisonyeon
+Type: video.tv_show
+Episodes: 28
+Episode length: 420
+Genres: Комедия, Школа, Детское, 
+Rating limit: PG
+Description: Нет описания

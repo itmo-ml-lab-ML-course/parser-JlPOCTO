@@ -1,0 +1,7 @@
+Name: Wedding Park
+Type: video.tv_show
+Episodes: 2
+Last episode date release: 2019-01-08
+Genres: Романтика, 
+Rating limit: G
+Description: Нет описания

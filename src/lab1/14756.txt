@@ -1,0 +1,8 @@
+Name: Mo Jing Lieren 2nd Season
+Type: video.tv_show
+Episodes: 26
+Episode length: 720
+Last episode date release: 2015-12-31
+Genres: Приключения, Фэнтези, 
+Rating limit: PG-13
+Description: Нет описания

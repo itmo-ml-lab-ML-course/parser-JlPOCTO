@@ -1,0 +1,9 @@
+Name: Sakura Taisen: Katsudou Shashin
+Type: video.movie
+Episodes: 1
+Episode length: 5100
+Genres: Приключения, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.43
+Rating numbers: 1647
+Description: Нет описания

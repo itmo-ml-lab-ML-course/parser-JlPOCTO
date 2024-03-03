@@ -1,0 +1,10 @@
+Name: Pucca 3
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Last episode date release: 2019-10-31
+Genres: Детское, Экшен, Комедия, Романтика, 
+Rating limit: G
+Rating: 6.47
+Rating numbers: 251
+Description: Нет описания

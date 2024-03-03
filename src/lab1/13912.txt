@@ -1,0 +1,8 @@
+Name: Yaseruyagi
+Type: video.tv_show
+Episodes: 1
+Genres: 
+Rating limit: G
+Rating: 5.08
+Rating numbers: 340
+Description: История о бабушке, её внучке и козе.

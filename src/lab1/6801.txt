@@ -1,0 +1,7 @@
+Name: Xiao Shu Luo Fu Tiaozhan Ji
+Type: video.tv_show
+Episodes: 32
+Episode length: 180
+Genres: Детское, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

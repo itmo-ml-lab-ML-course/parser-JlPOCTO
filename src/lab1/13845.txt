@@ -1,0 +1,10 @@
+Name: Girl X
+Type: video.tv_show
+Episodes: 5
+Episode length: 60
+Last episode date release: 2021-12-02
+Genres: Комедия, Ужасы, 
+Rating limit: PG-13
+Rating: 5.01
+Rating numbers: 557
+Description: Нет описания

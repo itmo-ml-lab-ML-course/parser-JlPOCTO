@@ -1,0 +1,10 @@
+Name: Zhu Xian
+Type: video.tv_show
+Episodes: 26
+Episode length: 1200
+Last episode date release: 2023-01-17
+Genres: Приключения, Фэнтези, Исторический, 
+Rating limit: PG-13
+Rating: 7.34
+Rating numbers: 2169
+Description: Нет описания

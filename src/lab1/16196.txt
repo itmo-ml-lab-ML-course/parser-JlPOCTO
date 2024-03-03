@@ -1,0 +1,7 @@
+Name: Shentan Chou Lian Mao
+Type: video.tv_show
+Episodes: 100
+Episode length: 660
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

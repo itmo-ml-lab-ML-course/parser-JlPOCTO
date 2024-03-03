@@ -1,0 +1,9 @@
+Name: Halloween Pajama
+Type: video.tv_show
+Episodes: 1
+Episode length: 420
+Genres: Сверхъестественное, Музыка, 
+Rating limit: PG-13
+Rating: 6.1
+Rating numbers: 427
+Description: Нет описания

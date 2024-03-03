@@ -1,0 +1,7 @@
+Name: Xiao Mao Tang Mi 2nd Season
+Type: video.tv_show
+Episodes: 26
+Episode length: 360
+Genres: Фэнтези, Детское, 
+Rating limit: G
+Description: Нет описания

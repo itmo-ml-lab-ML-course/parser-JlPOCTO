@@ -1,0 +1,9 @@
+Name: Iryou Keiei Consultant
+Type: video.tv_show
+Episodes: 1
+Episode length: 240
+Genres: Повседневность, Музыка, 
+Rating limit: G
+Rating: 5.35
+Rating numbers: 317
+Description: Нет описания

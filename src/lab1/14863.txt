@@ -1,0 +1,8 @@
+Name: Mr. Shadow
+Type: video.tv_show
+Episodes: 10
+Episode length: 120
+Last episode date release: 2020-01-01
+Genres: Сверхъестественное, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Dian Dian Gou
+Type: video.tv_show
+Episodes: 65
+Episode length: 1320
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

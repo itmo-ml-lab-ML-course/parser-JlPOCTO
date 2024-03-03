@@ -1,0 +1,5 @@
+Name: Delico&#39;s Nursery
+Type: video.tv_show
+Episodes: 1
+Genres: Фэнтези, Вампиры, 
+Description: Нет описания

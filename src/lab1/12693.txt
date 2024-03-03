@@ -1,0 +1,10 @@
+Name: Shinkai Densetsu Meremanoid
+Type: video.tv_show
+Episodes: 24
+Episode length: 1500
+Last episode date release: 1998-04-02
+Genres: Приключения, Фэнтези, 
+Rating limit: PG-13
+Rating: 5.52
+Rating numbers: 281
+Description: Нет описания

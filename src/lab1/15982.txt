@@ -1,0 +1,7 @@
+Name: Sanzijing Li De Gushi
+Type: video.tv_show
+Episodes: 22
+Episode length: 720
+Genres: Фэнтези, Исторический, Детское, 
+Rating limit: PG
+Description: Нет описания

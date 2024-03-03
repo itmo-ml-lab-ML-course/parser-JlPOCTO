@@ -1,0 +1,10 @@
+Name: Ring ni Kakero 1
+Type: video.tv_show
+Episodes: 12
+Episode length: 1380
+Last episode date release: 2004-12-15
+Genres: Сёнен, Экшен, Спорт, 
+Rating limit: PG
+Rating: 6.4
+Rating numbers: 491
+Description: Нет описания

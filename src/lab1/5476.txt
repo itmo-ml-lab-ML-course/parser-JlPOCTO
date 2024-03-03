@@ -1,0 +1,9 @@
+Name: Bloody Night
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Ужасы, Сверхъестественное, Триллер, 
+Rating limit: R-17
+Rating: 3.89
+Rating numbers: 748
+Description: Ночь. Улица. Злобный монстр и маленькая девочка, которая просто оказалась не в том месте и не в то время.

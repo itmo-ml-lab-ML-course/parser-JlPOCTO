@@ -1,0 +1,7 @@
+Name: Penguin Boy Lulu to Kiki
+Type: video.movie
+Episodes: 1
+Episode length: 1020
+Genres: 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Kenju Giga
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Пародия, Психологическое, 
+Rating limit: PG-13
+Rating: 4.86
+Rating numbers: 376
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Hibari no Yadogae
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Экшен, 
+Rating limit: G
+Rating: 4.74
+Rating numbers: 298
+Description: Нет описания

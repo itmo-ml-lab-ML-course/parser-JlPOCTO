@@ -1,0 +1,6 @@
+Name: Mujeokcheorin Rambot
+Type: video.movie
+Episodes: 1
+Episode length: 4200
+Genres: Сёнен, Экшен, Меха, Космос, 
+Description: Нет описания

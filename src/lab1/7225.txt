@@ -1,0 +1,7 @@
+Name: Bai Bian Xiao Jia: Xiao Jia Xiang Qian Chong
+Type: video.tv_show
+Episodes: 52
+Episode length: 180
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

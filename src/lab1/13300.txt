@@ -1,0 +1,9 @@
+Name: Nihonichi Momotarou
+Type: video.movie
+Episodes: 1
+Episode length: 660
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 5.3
+Rating numbers: 421
+Description: Нет описания

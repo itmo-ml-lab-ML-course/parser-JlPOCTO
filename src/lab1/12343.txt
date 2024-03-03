@@ -1,0 +1,10 @@
+Name: Code-E
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2007-09-19
+Genres: Комедия, Романтика, Фантастика, Школа, 
+Rating limit: G
+Rating: 6.39
+Rating numbers: 1282
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Niantu Xiongmei
+Type: video.tv_show
+Episodes: 26
+Episode length: 180
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

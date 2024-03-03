@@ -1,0 +1,9 @@
+Name: Machikado Mazoku Mini
+Type: video.tv_show
+Episodes: 36
+Last episode date release: 2019-09-30
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.04
+Rating numbers: 829
+Description: Дополнительные эпизоды аниме-сериала «Городская дьяволица», вышедшие в официальном твиттере. Позднее были включены в BD и DVD издания.

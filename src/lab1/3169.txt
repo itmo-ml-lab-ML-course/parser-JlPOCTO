@@ -1,0 +1,9 @@
+Name: Doraemon Movie 01: Nobita no Kyouryuu
+Type: video.movie
+Episodes: 1
+Episode length: 5520
+Genres: Приключения, Комедия, 
+Rating limit: PG
+Rating: 7.13
+Rating numbers: 677
+Description: Нет описания

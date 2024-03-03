@@ -1,0 +1,7 @@
+Name: Menghuan Shuyuan 6th Season
+Type: video.tv_show
+Episodes: 12
+Episode length: 120
+Last episode date release: 2022-01-10
+Genres: Комедия, Фэнтези, 
+Description: Нет описания

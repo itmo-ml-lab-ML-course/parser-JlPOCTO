@@ -1,0 +1,10 @@
+Name: Puchimas!: Petit iDOLM@STER
+Type: video.tv_show
+Episodes: 64
+Episode length: 120
+Last episode date release: 2013-03-29
+Genres: Комедия, Повседневность, 
+Rating limit: PG-13
+Rating: 7.12
+Rating numbers: 1492
+Description: Нет описания

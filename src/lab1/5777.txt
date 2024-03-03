@@ -1,0 +1,7 @@
+Name: Sou Shen Ji
+Type: video.tv_show
+Episodes: 52
+Episode length: 1500
+Genres: Приключения, Фэнтези, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Norakuro Nitouhei
+Type: video.movie
+Episodes: 1
+Episode length: 660
+Genres: Детское, 
+Rating limit: G
+Rating: 5.42
+Rating numbers: 296
+Description: Нет описания

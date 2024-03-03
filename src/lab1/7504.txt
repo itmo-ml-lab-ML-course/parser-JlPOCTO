@@ -1,0 +1,7 @@
+Name: Bu Yiyang de Tuzi Shizi Pian
+Type: video.tv_show
+Episodes: 39
+Episode length: 1620
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

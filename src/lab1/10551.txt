@@ -1,0 +1,9 @@
+Name: Higashi no Eden: Air Communication
+Type: video.movie
+Episodes: 1
+Episode length: 7380
+Genres: Детектив, Романтика, Фантастика, Триллер, 
+Rating limit: PG-13
+Rating: 7.56
+Rating numbers: 10776
+Description: Отредактированная версия оригинального сериала.

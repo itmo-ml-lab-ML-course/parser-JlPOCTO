@@ -1,0 +1,10 @@
+Name: Ganso Tensai Bakabon
+Type: video.tv_show
+Episodes: 103
+Episode length: 1440
+Last episode date release: 1977-09-26
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Rating: 6.39
+Rating numbers: 688
+Description: Нет описания

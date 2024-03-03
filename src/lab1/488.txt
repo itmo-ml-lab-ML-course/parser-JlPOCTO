@@ -1,0 +1,10 @@
+Name: Baccano! Specials
+Type: video.other
+Episodes: 3
+Episode length: 1680
+Last episode date release: 2008-05-28
+Genres: Экшен, Комедия, Детектив, Сверхъестественное, Исторический, 
+Rating limit: R-17
+Rating: 8.09
+Rating numbers: 14263
+Description: Три дополнительных эпизода, вышедших только на DVD, рассказывают более подробно о событиях, произошедших после возврата Кэрол и вице-президента в Нью-Йорк.

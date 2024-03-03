@@ -1,0 +1,10 @@
+Name: Nekketsu Tantei Jimusho
+Type: video.tv_show
+Episodes: 5
+Episode length: 180
+Last episode date release: 2013-10-15
+Genres: Комедия, Детектив, Пародия, 
+Rating limit: PG-13
+Rating: 5.2
+Rating numbers: 260
+Description: Нет описания

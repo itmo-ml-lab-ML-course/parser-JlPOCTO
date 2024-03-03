@@ -1,0 +1,7 @@
+Name: Destiny
+Type: video.movie
+Episodes: 1
+Episode length: 420
+Genres: Безумие, Комедия, Романтика, 
+Rating limit: PG-13
+Description: Нет описания

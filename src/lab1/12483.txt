@@ -1,0 +1,10 @@
+Name: Qiang Shen Ji
+Type: video.tv_show
+Episodes: 12
+Episode length: 1260
+Last episode date release: 2018-02-23
+Genres: Экшен, Фантастика, 
+Rating limit: PG-13
+Rating: 6.36
+Rating numbers: 613
+Description: Нет описания

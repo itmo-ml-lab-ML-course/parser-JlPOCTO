@@ -1,0 +1,9 @@
+Name: Hi no Tori: Eden no Sora
+Type: video.tv_show
+Episodes: 4
+Episode length: 1440
+Genres: Драма, Романтика, Фантастика, Сверхъестественное, Триллер, Психологическое, Космос, Сёнен, 
+Rating limit: R+
+Rating: 6.64
+Rating numbers: 1465
+Description: Нет описания

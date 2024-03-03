@@ -1,0 +1,10 @@
+Name: Cardfight!! Vanguard Gaiden: If
+Type: video.tv_show
+Episodes: 25
+Episode length: 1440
+Last episode date release: 2020-11-28
+Genres: Экшен, Приключения, Комедия, Демоны, Игры, Пародия, 
+Rating limit: PG-13
+Rating: 6.47
+Rating numbers: 1028
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Hokuto no Ken Movie
+Type: video.movie
+Episodes: 1
+Episode length: 6600
+Genres: Сёнен, Приключения, Фантастика, 
+Rating limit: R-17
+Rating: 7.22
+Rating numbers: 2548
+Description: Нет описания

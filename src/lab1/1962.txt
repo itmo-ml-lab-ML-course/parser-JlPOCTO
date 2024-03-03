@@ -1,0 +1,10 @@
+Name: Futatsu no Spica
+Type: video.tv_show
+Episodes: 20
+Episode length: 1500
+Last episode date release: 2004-03-27
+Genres: Драма, Фантастика, Сверхъестественное, Школа, 
+Rating limit: PG-13
+Rating: 7.37
+Rating numbers: 760
+Description: Нет описания

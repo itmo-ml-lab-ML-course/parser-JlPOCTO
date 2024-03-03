@@ -1,0 +1,9 @@
+Name: Arabian Night: Sindbad no Bouken
+Type: video.movie
+Episodes: 1
+Episode length: 4860
+Genres: Экшен, Приключения, Фэнтези, 
+Rating limit: PG-13
+Rating: 5.42
+Rating numbers: 477
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Okuni no Tame ni
+Type: video.movie
+Episodes: 1
+Episode length: 420
+Genres: Исторический, Военное, 
+Rating limit: G
+Rating: 5.01
+Rating numbers: 344
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: SNS Police
+Type: video.tv_show
+Episodes: 24
+Episode length: 300
+Last episode date release: 2018-05-21
+Genres: Полиция, 
+Rating limit: G
+Description: Нет описания

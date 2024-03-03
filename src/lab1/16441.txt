@@ -1,0 +1,9 @@
+Name: High Card Season 2
+Type: video.tv_show
+Episodes: 1 / 12
+Episode length: 1380
+Genres: Экшен, Фэнтези, Супер сила, 
+Rating limit: R-17
+Rating: 7.09
+Rating numbers: 3122
+Description: Нет описания

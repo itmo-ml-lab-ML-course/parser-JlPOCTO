@@ -1,0 +1,9 @@
+Name: Dragon Ball Z: Atsumare! Gokuu World
+Type: video.other
+Episodes: 1
+Episode length: 1800
+Genres: Сёнен, Экшен, Приключения, Комедия, Фэнтези, Боевые искусства, Супер сила, 
+Rating limit: G
+Rating: 6.43
+Rating numbers: 2119
+Description: Пересказ некоторых отрывков из аниме-сериала «Драконий жемчуг Зет» в виде интерактивной телевикторины, эксклюзивно выпущенной в Японии.

@@ -1,0 +1,10 @@
+Name: Cinderella Girls Gekijou: Kayou Cinderella Theater 3rd Season
+Type: video.tv_show
+Episodes: 7
+Episode length: 60
+Last episode date release: 2018-09-25
+Genres: Комедия, Повседневность, 
+Rating limit: PG-13
+Rating: 6.35
+Rating numbers: 1323
+Description: Короткие дополнительные эпизоды аниме «Девушки-золушки 3», идущие по ТВ сразу после серии.

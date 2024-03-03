@@ -1,0 +1,9 @@
+Name: Pikachu, Pochama to Fushigi na Nendo
+Type: video.tv_show
+Episodes: 1
+Episode length: 480
+Genres: Детское, 
+Rating limit: PG
+Rating: 5.52
+Rating numbers: 523
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: 7 Seeds 2nd Season
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Genres: Сёдзё, Приключения, Драма, Детектив, Романтика, Фантастика, Психологическое, 
+Rating limit: R+
+Rating: 7.05
+Rating numbers: 6198
+Description: Нет описания

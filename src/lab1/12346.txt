@@ -1,0 +1,9 @@
+Name: Eden (ONA)
+Type: video.tv_show
+Episodes: 4
+Episode length: 1500
+Genres: Фэнтези, Фантастика, Повседневность, 
+Rating limit: PG-13
+Rating: 6.39
+Rating numbers: 1941
+Description: Нет описания

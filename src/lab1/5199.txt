@@ -1,0 +1,10 @@
+Name: Wan Jie Chun Qiu
+Type: video.tv_show
+Episodes: 56
+Episode length: 480
+Last episode date release: 2020-10-15
+Genres: Экшен, Приключения, Фэнтези, Романтика, Исторический, Боевые искусства, 
+Rating limit: PG-13
+Rating: 6.02
+Rating numbers: 1250
+Description: Нет описания

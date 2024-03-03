@@ -1,0 +1,9 @@
+Name: Benkei tai Ushiwaka
+Type: video.movie
+Episodes: 1
+Episode length: 780
+Genres: Экшен, Комедия, 
+Rating limit: G
+Rating: 5.25
+Rating numbers: 269
+Description: Нет описания

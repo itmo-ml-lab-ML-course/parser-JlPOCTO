@@ -1,0 +1,9 @@
+Name: Fengshen Bang
+Type: video.movie
+Episodes: 1
+Episode length: 5400
+Genres: Экшен, Фэнтези, Боевые искусства, 
+Rating limit: PG
+Rating: 4.9
+Rating numbers: 309
+Description: Нет описания

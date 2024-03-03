@@ -1,0 +1,7 @@
+Name: Tamagawa Kyoudai
+Type: video.other
+Episodes: 1
+Episode length: 1080
+Genres: Исторический, 
+Rating limit: PG-13
+Description: Нет описания

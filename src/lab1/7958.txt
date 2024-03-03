@@ -1,0 +1,7 @@
+Name: Dai Meng Wai Xing Ren
+Type: video.tv_show
+Episodes: 78
+Episode length: 60
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

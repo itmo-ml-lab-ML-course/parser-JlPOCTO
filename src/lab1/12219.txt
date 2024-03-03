@@ -1,0 +1,9 @@
+Name: Kinnikuman II Sei: Second Generations
+Type: video.movie
+Episodes: 1
+Episode length: 1800
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.41
+Rating numbers: 278
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Chiisana Viking Vickie
+Type: video.tv_show
+Episodes: 78
+Episode length: 1440
+Last episode date release: 1975-09-24
+Genres: Детское, Приключения, Комедия, Исторический, 
+Rating limit: G
+Rating: 6.64
+Rating numbers: 332
+Description: Нет описания

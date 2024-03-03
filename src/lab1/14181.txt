@@ -1,0 +1,9 @@
+Name: Yadokari
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Музыка, 
+Rating limit: G
+Rating: 4.88
+Rating numbers: 146
+Description: Нет описания

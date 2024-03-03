@@ -1,0 +1,7 @@
+Name: Ryuusatsu no Kyoukotsu
+Type: video.tv_show
+Episodes: 1
+Episode length: 600
+Genres: Фэнтези, 
+Rating limit: PG-13
+Description: Нет описания

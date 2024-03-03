@@ -1,0 +1,9 @@
+Name: Magical★Taruruuto-kun Movie
+Type: video.movie
+Episodes: 1
+Episode length: 3000
+Genres: Приключения, Комедия, Фэнтези, Этти, Школа, 
+Rating limit: G
+Rating: 6.23
+Rating numbers: 225
+Description: Нет описания

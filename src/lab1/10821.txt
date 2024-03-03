@@ -1,0 +1,10 @@
+Name: Souten no Ken
+Type: video.tv_show
+Episodes: 22
+Episode length: 1620
+Last episode date release: 2007-03-15
+Genres: Экшен, Исторический, Боевые искусства, 
+Rating limit: R-17
+Rating: 6.67
+Rating numbers: 2181
+Description: Нет описания

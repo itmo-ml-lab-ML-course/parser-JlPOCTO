@@ -1,0 +1,8 @@
+Name: Wo Wei Ge Kuang: Xuanlu Chongqi
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2020-12-11
+Genres: Музыка, Школа, 
+Rating limit: PG-13
+Description: Нет описания

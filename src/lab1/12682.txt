@@ -1,0 +1,9 @@
+Name: Monster ni Natta Domerica
+Type: video.tv_show
+Episodes: 1
+Episode length: 240
+Genres: Экшен, Фэнтези, 
+Rating limit: G
+Rating: 5.52
+Rating numbers: 165
+Description: Нет описания

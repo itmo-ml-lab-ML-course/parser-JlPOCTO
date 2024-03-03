@@ -1,0 +1,8 @@
+Name: Morizo to Kikkoro
+Type: video.tv_show
+Episodes: 52
+Episode length: 300
+Last episode date release: 2004-09-24
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

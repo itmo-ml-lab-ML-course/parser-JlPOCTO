@@ -1,0 +1,7 @@
+Name: Chaofan Chong Chong Dui
+Type: video.tv_show
+Episodes: 26
+Episode length: 660
+Genres: Детское, Приключения, 
+Rating limit: PG
+Description: Нет описания

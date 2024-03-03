@@ -1,0 +1,8 @@
+Name: Ohayou Hakushon Daimaou
+Type: video.tv_show
+Episodes: 237
+Episode length: 60
+Last episode date release: 2015-03-27
+Genres: Комедия, Пародия, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Hakuouki: Otogisoushi
+Type: video.tv_show
+Episodes: 12
+Episode length: 180
+Last episode date release: 2016-06-28
+Genres: Дзёсей, Фэнтези, Исторический, Самураи, 
+Rating limit: PG-13
+Rating: 6.58
+Rating numbers: 3873
+Description: Занимательные короткометражки с тиби-персонажами, выступающие комедийным дополнением к основной истории о жизни Тидзуру среди Синсэнгуми.

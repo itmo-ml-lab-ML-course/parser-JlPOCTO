@@ -1,0 +1,7 @@
+Name: Rexue Sanguo: Guandu Zhi Zhan
+Type: video.tv_show
+Episodes: 64
+Episode length: 720
+Genres: Исторический, Детское, 
+Rating limit: PG
+Description: Нет описания

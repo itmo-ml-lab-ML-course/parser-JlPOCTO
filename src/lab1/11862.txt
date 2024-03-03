@@ -1,0 +1,9 @@
+Name: K: Missing Kings - Manner Movie
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: Комедия, 
+Rating limit: G
+Rating: 6.48
+Rating numbers: 4670
+Description: Видеоролик, показанный в кинотеатрах перед началом фильма «Проект Кей: Пропавшие Короли», который учит основным правилам поведения в кинотеатре. Позднее был включён в Blu-ray/DVD.

@@ -1,0 +1,7 @@
+Name: Minna no Doutoku
+Type: video.other
+Episodes: 6
+Episode length: 1200
+Genres: Детское, Драма, Фэнтези, Исторический, Школа, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Koneko no Studio
+Type: video.movie
+Episodes: 1
+Episode length: 960
+Genres: Комедия, 
+Rating limit: G
+Rating: 6.07
+Rating numbers: 596
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Uchi no Oochopus
+Type: video.tv_show
+Episodes: 38
+Episode length: 300
+Last episode date release: 2018-09-25
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Hyakka Zukan
+Type: video.movie
+Episodes: 1
+Episode length: 720
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.12
+Rating numbers: 248
+Description: Нет описания

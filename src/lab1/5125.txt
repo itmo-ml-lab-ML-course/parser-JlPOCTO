@@ -1,0 +1,10 @@
+Name: Yurei Deco
+Type: video.tv_show
+Episodes: 12
+Episode length: 1380
+Last episode date release: 2022-09-18
+Genres: Фантастика, 
+Rating limit: PG-13
+Rating: 6.03
+Rating numbers: 1831
+Description: Нет описания

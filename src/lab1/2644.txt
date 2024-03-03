@@ -1,0 +1,9 @@
+Name: Ultraman Final
+Type: video.tv_show
+Episodes: 12
+Episode length: 1500
+Genres: Экшен, Фантастика, Супер сила, Сэйнэн, 
+Rating limit: R-17
+Rating: 7.23
+Rating numbers: 773
+Description: Нет описания

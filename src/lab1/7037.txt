@@ -1,0 +1,7 @@
+Name: Xingji Xiao Mayi: Wuhang Guilai
+Type: video.tv_show
+Episodes: 25
+Episode length: 780
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

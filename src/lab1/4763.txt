@@ -1,0 +1,9 @@
+Name: TV-ban Pokemon Special Masara Town-hen Recaps
+Type: video.other
+Episodes: 3
+Episode length: 2820
+Genres: Детское, Экшен, Приключения, Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 6.1
+Rating numbers: 1990
+Description: Краткий пересказ первого сезона сериала.

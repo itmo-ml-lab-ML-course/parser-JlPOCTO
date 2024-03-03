@@ -1,0 +1,7 @@
+Name: Qi Yu Chengyu Gushi Guwu Pian
+Type: video.tv_show
+Episodes: 24
+Episode length: 240
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

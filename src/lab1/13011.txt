@@ -1,0 +1,9 @@
+Name: Moving Colors
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Безумие, 
+Rating limit: G
+Rating: 5.4
+Rating numbers: 463
+Description: Нет описания

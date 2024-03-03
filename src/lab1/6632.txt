@@ -1,0 +1,7 @@
+Name: Wulin Waizhuan
+Type: video.tv_show
+Episodes: 100
+Episode length: 1320
+Genres: Детское, Комедия, 
+Rating limit: G
+Description: Нет описания

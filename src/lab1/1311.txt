@@ -1,0 +1,9 @@
+Name: Drifters: Special Edition
+Type: video.other
+Episodes: 1
+Episode length: 2460
+Genres: Сэйнэн, Экшен, Приключения, Комедия, Фэнтези, Исторический, Самураи, 
+Rating limit: R-17
+Rating: 7.64
+Rating numbers: 16278
+Description: Приложение к пятому тому манги «Скитальцы». Представляет собой немного изменённую версию первых двух эпизодов вышедшего позже аниме-сериала.

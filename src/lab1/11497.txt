@@ -1,0 +1,10 @@
+Name: Muumin (1972)
+Type: video.tv_show
+Episodes: 52
+Episode length: 1500
+Last episode date release: 1972-12-31
+Genres: Приключения, Комедия, Фэнтези, Повседневность, 
+Rating limit: G
+Rating: 6.54
+Rating numbers: 960
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Lovely Movie: Itoshi no Muco
+Type: video.tv_show
+Episodes: 20
+Episode length: 120
+Last episode date release: 2013-12-23
+Genres: Повседневность, 
+Rating limit: PG
+Rating: 6.4
+Rating numbers: 400
+Description: Нет описания

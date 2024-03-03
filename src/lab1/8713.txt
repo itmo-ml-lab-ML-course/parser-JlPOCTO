@@ -1,0 +1,7 @@
+Name: Guodong San Jianke
+Type: video.tv_show
+Episodes: 20
+Episode length: 1440
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

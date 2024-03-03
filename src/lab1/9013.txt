@@ -1,0 +1,7 @@
+Name: Hong Mao Lan Tu: Kuaile Shizi
+Type: video.tv_show
+Episodes: 80
+Episode length: 1020
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

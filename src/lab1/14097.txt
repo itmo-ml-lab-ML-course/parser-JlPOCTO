@@ -1,0 +1,9 @@
+Name: Fusuma 2
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.78
+Rating numbers: 136
+Description: Нет описания

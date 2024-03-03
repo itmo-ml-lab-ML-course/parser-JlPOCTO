@@ -1,0 +1,7 @@
+Name: Taiji Xiao Zi
+Type: video.tv_show
+Episodes: 26
+Episode length: 480
+Genres: Детское, Боевые искусства, 
+Rating limit: PG
+Description: Нет описания

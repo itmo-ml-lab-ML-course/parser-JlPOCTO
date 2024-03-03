@@ -1,0 +1,9 @@
+Name: DPR Special Movie
+Type: video.other
+Episodes: 1
+Episode length: 360
+Genres: Повседневность, Космос, 
+Rating limit: G
+Rating: 5.38
+Rating numbers: 600
+Description: Нет описания

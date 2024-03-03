@@ -1,0 +1,8 @@
+Name: Yeongsimi
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 1991-01-01
+Genres: Детское, Комедия, Повседневность, Школа, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: M3: Sono Kuroki Hagane Recap
+Type: video.tv_show
+Episodes: 1
+Episode length: 1440
+Genres: Экшен, Меха, 
+Rating limit: PG-13
+Rating: 6.0
+Rating numbers: 1096
+Description: Рекап первых 13-ти эпизодов аниме-сериала «М3: Эта чёрная сталь».

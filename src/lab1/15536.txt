@@ -1,0 +1,7 @@
+Name: Precure All Stars Movie F
+Type: video.movie
+Episodes: 1
+Episode length: 4380
+Genres: Экшен, Фэнтези, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Ganbare! Lulu Lolo 2nd Season
+Type: video.tv_show
+Episodes: 26
+Episode length: 300
+Last episode date release: 2015-03-26
+Genres: Детское, Повседневность, 
+Rating limit: PG
+Description: Нет описания

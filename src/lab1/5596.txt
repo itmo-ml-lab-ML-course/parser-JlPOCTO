@@ -1,0 +1,7 @@
+Name: Shuimu Juchang 365 Ye Gushi
+Type: video.tv_show
+Episodes: 365
+Episode length: 720
+Genres: Детское, Комедия, 
+Rating limit: PG
+Description: Нет описания

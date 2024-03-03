@@ -1,0 +1,9 @@
+Name: 84 Taekwon V
+Type: video.movie
+Episodes: 1
+Episode length: 4680
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: PG
+Rating: 4.85
+Rating numbers: 183
+Description: Нет описания

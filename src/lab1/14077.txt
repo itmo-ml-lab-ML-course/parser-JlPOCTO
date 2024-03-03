@@ -1,0 +1,10 @@
+Name: Double Circle
+Type: video.tv_show
+Episodes: 6
+Episode length: 360
+Last episode date release: 2014-09-26
+Genres: Фантастика, Супер сила, 
+Rating limit: PG-13
+Rating: 4.8
+Rating numbers: 959
+Description: Нет описания

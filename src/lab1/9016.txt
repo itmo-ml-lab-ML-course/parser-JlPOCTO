@@ -1,0 +1,7 @@
+Name: Hong Mao Lan Tu: Meng Guo Li Xian Ji
+Type: video.tv_show
+Episodes: 56
+Episode length: 1020
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Turning Mecard R
+Type: video.tv_show
+Episodes: 26
+Episode length: 660
+Last episode date release: 2018-04-05
+Genres: Детское, Машины, Игры, Меха, 
+Rating limit: G
+Description: Нет описания

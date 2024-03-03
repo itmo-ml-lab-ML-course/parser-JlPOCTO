@@ -1,0 +1,7 @@
+Name: Hai! Bei Le Hu
+Type: video.tv_show
+Episodes: 26
+Episode length: 300
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

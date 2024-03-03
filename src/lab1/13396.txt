@@ -1,0 +1,9 @@
+Name: Mushiba Tetsudou
+Type: video.movie
+Episodes: 1
+Episode length: 660
+Genres: Детское, Приключения, Фэнтези, 
+Rating limit: G
+Rating: 5.25
+Rating numbers: 161
+Description: Нет описания

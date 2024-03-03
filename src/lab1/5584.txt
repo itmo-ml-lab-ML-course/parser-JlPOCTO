@@ -1,0 +1,7 @@
+Name: Shui Shen Wa
+Type: video.movie
+Episodes: 1
+Episode length: 5640
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

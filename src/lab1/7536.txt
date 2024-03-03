@@ -1,0 +1,7 @@
+Name: Butazuka
+Type: video.tv_show
+Episodes: 13
+Episode length: 120
+Genres: Повседневность, 
+Rating limit: PG
+Description: Нет описания

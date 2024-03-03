@@ -1,0 +1,9 @@
+Name: Baka Baka Baka na Sekai
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Безумие, Комедия, Военное, 
+Rating limit: G
+Rating: 4.23
+Rating numbers: 502
+Description: Сюрреалистический фильм Ёдзи Кури.

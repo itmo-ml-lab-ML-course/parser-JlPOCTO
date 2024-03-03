@@ -1,0 +1,10 @@
+Name: Shaonian Jinyiwei 2nd Season
+Type: video.tv_show
+Episodes: 13
+Episode length: 1200
+Last episode date release: 2018-01-11
+Genres: Приключения, Детектив, Романтика, Исторический, Боевые искусства, 
+Rating limit: PG-13
+Rating: 6.23
+Rating numbers: 365
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Count Down
+Type: video.movie
+Episodes: 1
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.07
+Rating numbers: 207
+Description: Рекламный ролик, посвящённый выставке Токийского университета искусств «ArtPath 2011».

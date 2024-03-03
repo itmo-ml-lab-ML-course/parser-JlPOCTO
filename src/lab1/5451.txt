@@ -1,0 +1,9 @@
+Name: Calligraffiti
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 4.12
+Rating numbers: 232
+Description: Нет описания

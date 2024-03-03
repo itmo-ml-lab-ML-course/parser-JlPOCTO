@@ -1,0 +1,10 @@
+Name: GO-GO Tamagotchi!
+Type: video.tv_show
+Episodes: 50
+Episode length: 1440
+Last episode date release: 2015-03-26
+Genres: Детское, Комедия, Фэнтези, 
+Rating limit: G
+Rating: 6.03
+Rating numbers: 256
+Description: Нет описания

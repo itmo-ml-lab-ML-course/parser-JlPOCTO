@@ -1,0 +1,7 @@
+Name: Gangtie Feilong: Ultraman Jueqi
+Type: video.movie
+Episodes: 1
+Episode length: 5400
+Genres: Экшен, Фантастика, 
+Rating limit: G
+Description: Нет описания

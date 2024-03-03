@@ -1,0 +1,10 @@
+Name: Kakumeiki Valvrave Recaps
+Type: video.tv_show
+Episodes: 3
+Episode length: 3900
+Last episode date release: 2013-09-22
+Genres: Экшен, Фантастика, Меха, Космос, 
+Rating limit: R-17
+Rating: 6.14
+Rating numbers: 1102
+Description: Нет описания

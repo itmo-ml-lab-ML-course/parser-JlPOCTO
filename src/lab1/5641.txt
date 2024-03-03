@@ -1,0 +1,7 @@
+Name: Si Du Chishui
+Type: video.movie
+Episodes: 1
+Episode length: 5100
+Genres: Исторический, Военное, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Bakutsuri Bar Hunter
+Type: video.tv_show
+Episodes: 25
+Episode length: 1440
+Last episode date release: 2019-03-26
+Genres: Детское, Приключения, 
+Rating limit: PG
+Description: Нет описания

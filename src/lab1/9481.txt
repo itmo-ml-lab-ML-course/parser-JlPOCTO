@@ -1,0 +1,9 @@
+Name: Meitantei Conan Movie 14: Tenkuu no Lost Ship
+Type: video.movie
+Episodes: 1
+Episode length: 6120
+Genres: Сёнен, Экшен, Детектив, Полиция, 
+Rating limit: G
+Rating: 8.11
+Rating numbers: 3389
+Description: Нет описания

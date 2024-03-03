@@ -1,0 +1,9 @@
+Name: Doraemon Movie 03: Nobita no Daimakyou
+Type: video.movie
+Episodes: 1
+Episode length: 5520
+Genres: Приключения, 
+Rating limit: PG
+Rating: 7.07
+Rating numbers: 585
+Description: Нет описания

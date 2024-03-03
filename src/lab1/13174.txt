@@ -1,0 +1,9 @@
+Name: Hanaori
+Type: video.movie
+Episodes: 1
+Episode length: 780
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.35
+Rating numbers: 323
+Description: Нет описания

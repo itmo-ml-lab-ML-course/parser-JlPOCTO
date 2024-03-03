@@ -1,0 +1,10 @@
+Name: Nanatsu no Bitoku
+Type: video.tv_show
+Episodes: 10
+Episode length: 240
+Last episode date release: 2018-03-31
+Genres: Фэнтези, Этти, 
+Rating limit: R+
+Rating: 5.25
+Rating numbers: 9591
+Description: Сюжет повествует о группе ангелов, посланных с Небес на Землю, дабы присмотреть потенциального «Мессию» и с его помощью нанести ответный удар демоническим ордам, распространяемым Люцифером, и другим воплощениям Ада.

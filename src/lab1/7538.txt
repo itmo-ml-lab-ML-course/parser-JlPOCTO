@@ -1,0 +1,8 @@
+Name: Butten Monogatari
+Type: video.other
+Episodes: 10
+Episode length: 1800
+Last episode date release: 1990-02-01
+Genres: Исторический, 
+Rating limit: G
+Description: Нет описания

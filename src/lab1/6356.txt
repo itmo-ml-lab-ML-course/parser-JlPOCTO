@@ -1,0 +1,6 @@
+Name: Uli Chingu Kkachi
+Type: video.movie
+Episodes: 1
+Episode length: 1200
+Genres: Повседневность, Школа, 
+Description: Нет описания

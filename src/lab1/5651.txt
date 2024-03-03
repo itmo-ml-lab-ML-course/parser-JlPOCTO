@@ -1,0 +1,8 @@
+Name: Sigan Yeohaengja Luke
+Type: video.tv_show
+Episodes: 52
+Episode length: 660
+Last episode date release: 2021-07-10
+Genres: Детское, Экшен, Приключения, Фантастика, 
+Rating limit: PG
+Description: Нет описания

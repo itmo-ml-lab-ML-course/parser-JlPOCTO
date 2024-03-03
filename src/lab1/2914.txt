@@ -1,0 +1,10 @@
+Name: Puchimas!!: Petit Petit iDOLM@STER
+Type: video.tv_show
+Episodes: 74
+Episode length: 120
+Last episode date release: 2014-06-30
+Genres: Комедия, Повседневность, 
+Rating limit: PG-13
+Rating: 7.18
+Rating numbers: 1441
+Description: Спин-офф популярной игры «THE IDOLM@STER», в котором все девушки изображены как тиби-персонажи (отсюда и название — «petit» с французского означает «маленький»). Как и в играх, действие происходит в агентстве «765 -про».

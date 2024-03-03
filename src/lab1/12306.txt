@@ -1,0 +1,9 @@
+Name: Omoigumo
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Драма, Школа, 
+Rating limit: PG-13
+Rating: 6.4
+Rating numbers: 141
+Description: Нет описания

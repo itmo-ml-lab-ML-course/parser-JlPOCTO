@@ -1,0 +1,10 @@
+Name: Puchitto Gargantia
+Type: video.tv_show
+Episodes: 13
+Episode length: 60
+Last episode date release: 2013-07-03
+Genres: Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.26
+Rating numbers: 2407
+Description: Короткие эпизоды, показываемые на официальном сайте после выхода каждой серии основного сериала в качестве справочной информации.

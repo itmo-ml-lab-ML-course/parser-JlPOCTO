@@ -1,0 +1,8 @@
+Name: Matsuinu
+Type: video.tv_show
+Episodes: 12
+Episode length: 180
+Last episode date release: 2023-12-23
+Genres: 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Naengjang-go Nala Cocomong
+Type: video.tv_show
+Episodes: 26
+Episode length: 720
+Last episode date release: 2008-08-27
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

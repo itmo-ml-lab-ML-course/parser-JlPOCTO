@@ -1,0 +1,9 @@
+Name: Xanadu Dragonslayer Densetsu
+Type: video.other
+Episodes: 1
+Episode length: 3000
+Genres: Приключения, Комедия, Фэнтези, 
+Rating limit: R+
+Rating: 5.2
+Rating numbers: 359
+Description: Нет описания

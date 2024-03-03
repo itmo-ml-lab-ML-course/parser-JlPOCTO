@@ -1,0 +1,7 @@
+Name: Shu Lao San Jin Cheng Ji 2
+Type: video.movie
+Episodes: 1
+Episode length: 900
+Genres: Приключения, Фэнтези, 
+Rating limit: G
+Description: Нет описания

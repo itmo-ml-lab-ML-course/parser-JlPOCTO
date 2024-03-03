@@ -1,0 +1,9 @@
+Name: Fumiko no Kokuhaku
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.6
+Rating numbers: 3615
+Description: Короткая история о стеснительной девочке Фумико, которая признаётся мальчику в любви. Собственно, как это произошло и что из этого вышло, мы и увидим. Сделана одним человеком — Хироясу Исидой, студентом Института Анимации, входящим в состав Kyoto Seika University.

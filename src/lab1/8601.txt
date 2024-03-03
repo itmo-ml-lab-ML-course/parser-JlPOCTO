@@ -1,0 +1,7 @@
+Name: Go! Go! Veggie-tan
+Type: video.other
+Episodes: 1
+Episode length: 300
+Genres: Детское, Фантастика, Космос, 
+Rating limit: PG
+Description: Нет описания

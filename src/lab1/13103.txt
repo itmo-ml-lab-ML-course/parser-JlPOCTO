@@ -1,0 +1,9 @@
+Name: Saru Masamune
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Приключения, Военное, 
+Rating limit: G
+Rating: 5.38
+Rating numbers: 373
+Description: Нет описания

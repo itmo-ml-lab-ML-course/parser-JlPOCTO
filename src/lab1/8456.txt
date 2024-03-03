@@ -1,0 +1,8 @@
+Name: Futago no Monchhichi
+Type: video.tv_show
+Episodes: 130
+Episode length: 180
+Last episode date release: 1980-08-01
+Genres: Детское, Комедия, 
+Rating limit: PG
+Description: Нет описания

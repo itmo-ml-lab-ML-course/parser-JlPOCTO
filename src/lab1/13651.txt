@@ -1,0 +1,8 @@
+Name: Spring has come!
+Type: video.tv_show
+Episodes: 1
+Genres: Музыка, 
+Rating limit: G
+Rating: 5.13
+Rating numbers: 140
+Description: Нет описания

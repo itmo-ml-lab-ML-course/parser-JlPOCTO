@@ -1,0 +1,7 @@
+Name: Yu Sheng
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Драма, Гурман, 
+Rating limit: PG-13
+Description: Нет описания

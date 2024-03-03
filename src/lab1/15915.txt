@@ -1,0 +1,6 @@
+Name: Sameyo Yuukensha
+Type: video.movie
+Episodes: 1
+Genres: 
+Rating limit: G
+Description: Нет описания

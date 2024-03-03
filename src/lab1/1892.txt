@@ -1,0 +1,9 @@
+Name: Aikatsu Stars! Movie
+Type: video.movie
+Episodes: 1
+Episode length: 3540
+Genres: Повседневность, Музыка, Школа, 
+Rating limit: PG
+Rating: 7.38
+Rating numbers: 1431
+Description: Нет описания

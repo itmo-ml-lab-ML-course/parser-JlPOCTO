@@ -1,0 +1,7 @@
+Name: Oumaga Parade
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Сверхъестественное, 
+Rating limit: PG-13
+Description: Нет описания

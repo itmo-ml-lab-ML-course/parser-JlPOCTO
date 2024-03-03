@@ -1,0 +1,9 @@
+Name: Seikaisuru Kado: Beyond Information
+Type: video.tv_show
+Episodes: 1
+Episode length: 7200
+Genres: Фантастика, 
+Rating limit: PG-13
+Rating: 6.06
+Rating numbers: 2218
+Description: Нет описания

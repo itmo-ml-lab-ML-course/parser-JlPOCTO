@@ -1,0 +1,10 @@
+Name: Shiguang Zhaoxiangguan de Richang
+Type: video.tv_show
+Episodes: 18
+Episode length: 480
+Last episode date release: 2023-03-10
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.49
+Rating numbers: 4007
+Description: Нет описания

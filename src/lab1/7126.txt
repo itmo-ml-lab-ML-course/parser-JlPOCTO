@@ -1,0 +1,7 @@
+Name: Yong Zhi Cheng
+Type: video.movie
+Episodes: 1
+Episode length: 6660
+Genres: Экшен, Приключения, Фэнтези, 
+Rating limit: PG-13
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Fei Mao Shou Gou Jingling Shu
+Type: video.tv_show
+Episodes: 26
+Episode length: 780
+Genres: Комедия, Детское, 
+Rating limit: G
+Description: Нет описания

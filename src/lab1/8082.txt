@@ -1,0 +1,7 @@
+Name: Dingding Mao Chengzhang Leyuan: Anquan Zhi Duoshao
+Type: video.tv_show
+Episodes: 100
+Episode length: 660
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Eily wa Ousama!
+Type: video.tv_show
+Episodes: 10
+Last episode date release: 2019-12-10
+Genres: Комедия, Фэнтези, 
+Rating limit: G
+Description: Нет описания

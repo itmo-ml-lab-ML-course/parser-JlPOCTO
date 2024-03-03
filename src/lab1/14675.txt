@@ -1,0 +1,7 @@
+Name: Mimi Jihua
+Type: video.tv_show
+Episodes: 104
+Episode length: 600
+Genres: Комедия, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

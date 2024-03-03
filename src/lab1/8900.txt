@@ -1,0 +1,8 @@
+Name: Hello Cocomong 2
+Type: video.tv_show
+Episodes: 13
+Episode length: 540
+Last episode date release: 2014-11-28
+Genres: Детское, Музыка, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Bungou Stray Dogs Wan!
+Type: video.tv_show
+Episodes: 12
+Episode length: 660
+Last episode date release: 2021-03-31
+Genres: Комедия, Сверхъестественное, 
+Rating limit: PG-13
+Rating: 7.98
+Rating numbers: 18690
+Description: Небольшие зарисовки из повседневной жизни героев аниме ‎«Великий из бродячих псов», выполненные в чиби-стиле.

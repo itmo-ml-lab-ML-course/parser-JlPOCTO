@@ -1,0 +1,9 @@
+Name: Kappa no Sanpei
+Type: video.movie
+Episodes: 1
+Episode length: 5400
+Genres: Детское, Приключения, Сверхъестественное, 
+Rating limit: G
+Rating: 6.09
+Rating numbers: 164
+Description: Нет описания

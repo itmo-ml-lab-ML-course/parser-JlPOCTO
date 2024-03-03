@@ -1,0 +1,8 @@
+Name: Origami Warriors
+Type: video.tv_show
+Episodes: 52
+Episode length: 1800
+Genres: Экшен, Приключения, 
+Rating: 6.29
+Rating numbers: 185
+Description: Нет описания

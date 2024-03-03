@@ -1,0 +1,6 @@
+Name: Deko Boko Friends 2
+Type: video.tv_show
+Episodes: 49
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

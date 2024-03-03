@@ -1,0 +1,7 @@
+Name: Chisong Wei Long
+Type: video.movie
+Episodes: 1
+Episode length: 4800
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

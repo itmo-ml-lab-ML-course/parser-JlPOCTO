@@ -1,0 +1,10 @@
+Name: Duel Masters VSRF
+Type: video.tv_show
+Episodes: 51
+Episode length: 1440
+Last episode date release: 2017-03-26
+Genres: Детское, Экшен, Приключения, Комедия, Фэнтези, 
+Rating limit: PG-13
+Rating: 5.39
+Rating numbers: 553
+Description: Нет описания

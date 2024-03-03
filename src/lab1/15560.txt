@@ -1,0 +1,7 @@
+Name: Q Ban Sanguo
+Type: video.tv_show
+Episodes: 39
+Episode length: 720
+Genres: Комедия, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

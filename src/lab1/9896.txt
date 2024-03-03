@@ -1,0 +1,9 @@
+Name: Seitokai Yakuindomo Movie
+Type: video.movie
+Episodes: 1
+Episode length: 3600
+Genres: Сёнен, Комедия, Школа, 
+Rating limit: R-17
+Rating: 7.83
+Rating numbers: 14750
+Description: Фильм продолжит рассказ о приключениях членов студсовета, раз за разом попадающих в нелепые и двусмысленные ситуации.

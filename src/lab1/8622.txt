@@ -1,0 +1,8 @@
+Name: Gon de Hanta 3rd Season
+Type: video.tv_show
+Episodes: 20
+Episode length: 60
+Last episode date release: 2019-07-15
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Wheels
+Type: video.other
+Episodes: 1
+Episode length: 180
+Genres: Комедия, 
+Rating limit: G
+Rating: 4.48
+Rating numbers: 177
+Description: Нет описания

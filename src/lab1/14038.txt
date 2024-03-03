@@ -1,0 +1,8 @@
+Name: Asobuild Concept Video
+Type: video.tv_show
+Episodes: 1
+Genres: Повседневность, Спорт, 
+Rating limit: PG
+Rating: 4.83
+Rating numbers: 283
+Description: Нет описания

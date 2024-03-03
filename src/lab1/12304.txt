@@ -1,0 +1,9 @@
+Name: Nezha Nao Hai
+Type: video.movie
+Episodes: 1
+Episode length: 3480
+Genres: Детское, 
+Rating limit: G
+Rating: 6.4
+Rating numbers: 451
+Description: Нет описания

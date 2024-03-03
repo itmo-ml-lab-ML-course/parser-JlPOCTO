@@ -1,0 +1,6 @@
+Name: Peter Pan no Bouken (Movie)
+Type: video.movie
+Episodes: 1
+Episode length: 1500
+Genres: Приключения, Фантастика, Космос, Детское, 
+Description: Нет описания

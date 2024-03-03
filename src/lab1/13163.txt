@@ -1,0 +1,9 @@
+Name: I Love Picnic
+Type: video.other
+Episodes: 1
+Episode length: 240
+Genres: Детское, Комедия, 
+Rating limit: G
+Rating: 5.36
+Rating numbers: 459
+Description: Нет описания

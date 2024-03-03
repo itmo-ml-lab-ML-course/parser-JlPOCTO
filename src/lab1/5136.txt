@@ -1,0 +1,10 @@
+Name: Tamagotchi! Yume Kira Dream
+Type: video.tv_show
+Episodes: 49
+Episode length: 1380
+Last episode date release: 2013-08-29
+Genres: Детское, Комедия, 
+Rating limit: G
+Rating: 6.02
+Rating numbers: 269
+Description: Нет описания

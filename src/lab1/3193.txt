@@ -1,0 +1,9 @@
+Name: Doraemon Movie 11: Nobita to Animal Planet
+Type: video.movie
+Episodes: 1
+Episode length: 6000
+Genres: Приключения, Комедия, Фэнтези, Фантастика, 
+Rating limit: PG
+Rating: 7.12
+Rating numbers: 608
+Description: Нет описания

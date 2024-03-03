@@ -1,0 +1,10 @@
+Name: Oyayubi Hime Monogatari
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Last episode date release: 1993-03-31
+Genres: Сёдзё, Приключения, Фэнтези, 
+Rating limit: G
+Rating: 6.65
+Rating numbers: 322
+Description: Нет описания

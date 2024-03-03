@@ -1,0 +1,9 @@
+Name: Puparia
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Безумие, 
+Rating limit: PG-13
+Rating: 7.61
+Rating numbers: 8753
+Description: Вот-вот что-то кардинально изменится, и мы можем стать свидетелями этого.

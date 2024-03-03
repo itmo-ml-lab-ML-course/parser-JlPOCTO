@@ -1,0 +1,10 @@
+Name: Wellber no Monogatari: Sisters of Wellber
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2007-06-27
+Genres: Экшен, Приключения, Комедия, Драма, Фэнтези, Исторический, 
+Rating limit: PG-13
+Rating: 6.59
+Rating numbers: 1796
+Description: Нет описания

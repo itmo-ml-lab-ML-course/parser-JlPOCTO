@@ -1,0 +1,10 @@
+Name: One Room: Second Season
+Type: video.tv_show
+Episodes: 12
+Episode length: 240
+Last episode date release: 2018-09-24
+Genres: Повседневность, 
+Rating limit: PG-13
+Rating: 6.09
+Rating numbers: 6523
+Description: Три девушки, три истории, но общее одно — комната в жилом районе.

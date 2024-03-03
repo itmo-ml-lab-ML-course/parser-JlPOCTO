@@ -1,0 +1,8 @@
+Name: W Professors
+Type: video.tv_show
+Episodes: 3
+Episode length: 180
+Last episode date release: 2018-10-24
+Genres: 
+Rating limit: G
+Description: Нет описания

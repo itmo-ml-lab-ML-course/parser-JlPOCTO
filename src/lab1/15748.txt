@@ -1,0 +1,7 @@
+Name: Rexue Sanguo: San Gu Maolu
+Type: video.tv_show
+Episodes: 38
+Episode length: 660
+Genres: Комедия, Исторический, Детское, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Crayon Shin-chan
+Type: video.tv_show
+Episodes: 999 / ?
+Episode length: 1260
+Genres: Комедия, Этти, Школа, Сэйнэн, 
+Rating limit: G
+Rating: 7.78
+Rating numbers: 1794
+Description: Нет описания

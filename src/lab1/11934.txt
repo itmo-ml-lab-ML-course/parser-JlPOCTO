@@ -1,0 +1,10 @@
+Name: Ginga Hyouryuu Vifam 13
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Last episode date release: 1998-10-03
+Genres: Экшен, Приключения, Фантастика, Меха, 
+Rating limit: G
+Rating: 6.46
+Rating numbers: 238
+Description: Нет описания

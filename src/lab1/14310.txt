@@ -1,0 +1,9 @@
+Name: PistStar
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Музыка, 
+Rating limit: PG-13
+Rating: 4.52
+Rating numbers: 161
+Description: Нет описания

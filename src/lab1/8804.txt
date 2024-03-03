@@ -1,0 +1,8 @@
+Name: Hanitarou desu.
+Type: video.tv_show
+Episodes: 70
+Episode length: 300
+Last episode date release: 1998-01-22
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Description: Нет описания

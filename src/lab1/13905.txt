@@ -1,0 +1,9 @@
+Name: Start
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Повседневность, 
+Rating limit: G
+Rating: 4.96
+Rating numbers: 510
+Description: Промо-ролик, посвященный городу Мачида. В видео рассказывается, как хорошо город подходит молодым семьям.

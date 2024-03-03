@@ -1,0 +1,8 @@
+Name: Miniforce V Rangers
+Type: video.tv_show
+Episodes: 26
+Episode length: 660
+Last episode date release: 2023-02-23
+Genres: Экшен, Меха, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Potecco Babies
+Type: video.tv_show
+Episodes: 2
+Episode length: 180
+Last episode date release: 2010-09-04
+Genres: Комедия, 
+Rating limit: G
+Rating: 4.91
+Rating numbers: 191
+Description: Нет описания

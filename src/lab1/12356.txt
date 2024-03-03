@@ -1,0 +1,10 @@
+Name: Hulu Xiongdi
+Type: video.tv_show
+Episodes: 13
+Episode length: 600
+Last episode date release: 1987-01-01
+Genres: Супер сила, 
+Rating limit: PG
+Rating: 6.39
+Rating numbers: 208
+Description: Нет описания

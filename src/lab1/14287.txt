@@ -1,0 +1,9 @@
+Name: Five Fire Fish
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.55
+Rating numbers: 267
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Runningman
+Type: video.tv_show
+Episodes: 1
+Episode length: 240
+Genres: Повседневность, Музыка, 
+Rating limit: G
+Rating: 5.44
+Rating numbers: 155
+Description: Нет описания

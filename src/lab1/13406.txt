@@ -1,0 +1,10 @@
+Name: Scandal
+Type: video.tv_show
+Episodes: 12
+Episode length: 60
+Last episode date release: 2009-05-12
+Genres: Повседневность, Музыка, 
+Rating limit: G
+Rating: 5.25
+Rating numbers: 232
+Description: Нет описания

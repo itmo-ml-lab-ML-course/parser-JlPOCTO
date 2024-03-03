@@ -1,0 +1,9 @@
+Name: 48x61
+Type: video.tv_show
+Episodes: 1
+Episode length: 360
+Genres: Комедия, Спорт, 
+Rating limit: PG-13
+Rating: 5.18
+Rating numbers: 467
+Description: Нет описания

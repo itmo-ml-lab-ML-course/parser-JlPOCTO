@@ -1,0 +1,10 @@
+Name: Turning Mecard W
+Type: video.tv_show
+Episodes: 26
+Episode length: 1680
+Last episode date release: 2016-11-17
+Genres: Детское, Приключения, Машины, Игры, Меха, 
+Rating limit: PG
+Rating: 5.99
+Rating numbers: 258
+Description: Нет описания

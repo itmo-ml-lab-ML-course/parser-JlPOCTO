@@ -1,0 +1,10 @@
+Name: Future Card Buddyfight Triple D
+Type: video.tv_show
+Episodes: 51
+Episode length: 1380
+Last episode date release: 2017-03-25
+Genres: Игры, 
+Rating limit: PG
+Rating: 6.54
+Rating numbers: 610
+Description: Нет описания

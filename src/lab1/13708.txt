@@ -1,0 +1,9 @@
+Name: Rescue YoYo
+Type: video.other
+Episodes: 1
+Episode length: 300
+Genres: Детское, Меха, 
+Rating limit: PG
+Rating: 5.1
+Rating numbers: 174
+Description: Нет описания

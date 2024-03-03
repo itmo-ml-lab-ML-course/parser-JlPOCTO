@@ -1,0 +1,9 @@
+Name: Onikiri Shoujo
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Экшен, Самураи, 
+Rating limit: G
+Rating: 4.9
+Rating numbers: 242
+Description: Черновая версия «Демон и девочка: Реванш».

@@ -1,0 +1,8 @@
+Name: Gunma-chan Season 2
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2023-07-01
+Genres: Повседневность, 
+Rating limit: G
+Description: Нет описания

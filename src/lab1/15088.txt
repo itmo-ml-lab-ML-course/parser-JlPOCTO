@@ -1,0 +1,8 @@
+Name: Ninja Tamamaru
+Type: video.tv_show
+Episodes: 26
+Episode length: 300
+Last episode date release: 2008-10-25
+Genres: Детское, Боевые искусства, 
+Rating limit: G
+Description: Небольшой сериал про ниндзя по имени Тамамару, который с упорством и энтузиазмом тренируется, чтобы стать настоящим ниндзя, но раз за разом терпит неудачу.

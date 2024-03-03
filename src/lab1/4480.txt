@@ -1,0 +1,10 @@
+Name: Neko Ramen
+Type: video.tv_show
+Episodes: 13
+Episode length: 120
+Last episode date release: 2007-03-23
+Genres: Комедия, Гурман, 
+Rating limit: PG
+Rating: 6.16
+Rating numbers: 573
+Description: Нет описания

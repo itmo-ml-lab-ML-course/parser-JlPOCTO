@@ -1,0 +1,6 @@
+Name: Teikou Penguin
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Работа, 
+Description: Нет описания

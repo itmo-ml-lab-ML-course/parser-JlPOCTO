@@ -1,0 +1,7 @@
+Name: Osamu Tezuka Academy Award
+Type: video.other
+Episodes: 1
+Episode length: 1500
+Genres: Фэнтези, 
+Rating limit: G
+Description: Нет описания

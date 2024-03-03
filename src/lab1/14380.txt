@@ -1,0 +1,9 @@
+Name: Shousei Shikisai Gensou
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Музыка, 
+Rating limit: G
+Rating: 4.35
+Rating numbers: 216
+Description: Нет описания

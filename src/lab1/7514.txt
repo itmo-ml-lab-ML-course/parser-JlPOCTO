@@ -1,0 +1,8 @@
+Name: Budai Xiao Heshang
+Type: video.tv_show
+Episodes: 52
+Episode length: 600
+Last episode date release: 2014-11-21
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

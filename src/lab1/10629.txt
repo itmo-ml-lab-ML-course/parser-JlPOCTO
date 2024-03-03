@@ -1,0 +1,10 @@
+Name: Xingchen Bian 5th Season
+Type: video.tv_show
+Episodes: 28
+Episode length: 1500
+Last episode date release: 2023-07-31
+Genres: Экшен, Приключения, Фэнтези, Романтика, Боевые искусства, 
+Rating limit: PG-13
+Rating: 7.55
+Rating numbers: 1094
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Hot Minute: Aggretsuko
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Комедия, Детское, 
+Rating limit: G
+Rating: 5.98
+Rating numbers: 445
+Description: Нет описания

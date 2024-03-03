@@ -1,0 +1,9 @@
+Name: Gundam Build Divers: Battlogue
+Type: video.tv_show
+Episodes: 1
+Episode length: 660
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: G
+Rating: 6.52
+Rating numbers: 671
+Description: Нет описания

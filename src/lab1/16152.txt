@@ -1,0 +1,7 @@
+Name: Shen Shou Jin Gang 5: Chao Neng Jing Jia
+Type: video.tv_show
+Episodes: 45
+Episode length: 780
+Genres: Экшен, Фантастика, Меха, Детское, 
+Rating limit: G
+Description: Нет описания

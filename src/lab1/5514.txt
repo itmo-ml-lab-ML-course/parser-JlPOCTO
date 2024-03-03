@@ -1,0 +1,9 @@
+Name: Red Colored Bridge
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Безумие, 
+Rating limit: R+
+Rating: 3.56
+Rating numbers: 271
+Description: Нет описания

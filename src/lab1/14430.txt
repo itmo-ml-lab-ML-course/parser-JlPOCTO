@@ -1,0 +1,9 @@
+Name: Maid of the Dead
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Комедия, Ужасы, 
+Rating limit: R-17
+Rating: 4.15
+Rating numbers: 725
+Description: Нет описания

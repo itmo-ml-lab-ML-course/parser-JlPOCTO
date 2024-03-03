@@ -1,0 +1,9 @@
+Name: Fireball Special
+Type: video.other
+Episodes: 1
+Episode length: 180
+Genres: Комедия, Фантастика, 
+Rating limit: G
+Rating: 6.25
+Rating numbers: 509
+Description: Специальный эпизод, посвящённый неудачным дублям во время съёмок и интервью с главными героями.

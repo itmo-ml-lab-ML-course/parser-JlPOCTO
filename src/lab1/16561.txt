@@ -1,0 +1,6 @@
+Name: Princess Principal: Crown Handler Movie 4
+Type: video.movie
+Episodes: 1
+Genres: Экшен, Детектив, Исторический, 
+Rating limit: R-17
+Description: Нет описания

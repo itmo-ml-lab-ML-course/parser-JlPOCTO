@@ -1,0 +1,7 @@
+Name: Mengxiang Zhi Lu
+Type: video.tv_show
+Episodes: 100
+Episode length: 300
+Genres: Школа, Детское, 
+Rating limit: PG
+Description: Нет описания

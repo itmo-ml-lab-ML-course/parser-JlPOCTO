@@ -1,0 +1,9 @@
+Name: Grick no Bouken
+Type: video.movie
+Episodes: 1
+Episode length: 5040
+Genres: Детское, Приключения, Драма, Фэнтези, 
+Rating limit: G
+Rating: 6.01
+Rating numbers: 184
+Description: Нет описания

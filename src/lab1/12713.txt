@@ -1,0 +1,10 @@
+Name: Aozora Under Girls!
+Type: video.tv_show
+Episodes: 2
+Episode length: 120
+Last episode date release: 2018-08-28
+Genres: Музыка, 
+Rating limit: G
+Rating: 5.51
+Rating numbers: 458
+Description: Клип опенинга для мобильной игры «Aozora Under Girls», выход которой ожидается в 2017 году.Игра, согласно данным Square Enix, станет игрой Youth x Idol x Battle. Это означает, что игрок должен будет заботиться о повседневной жизни девушек и об их карьере идола, а также ему предстоят сражения на сцене в реальном времени против других команд, как в играх «The iDOLM@STER» от Bandai.

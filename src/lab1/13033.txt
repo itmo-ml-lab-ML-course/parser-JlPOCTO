@@ -1,0 +1,9 @@
+Name: Gakufu no Rakugakichou
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Музыка, 
+Rating limit: G
+Rating: 5.4
+Rating numbers: 161
+Description: Нет описания

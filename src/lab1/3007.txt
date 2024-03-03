@@ -1,0 +1,9 @@
+Name: Digimon Adventure tri. 5: Kyousei
+Type: video.movie
+Episodes: 1
+Episode length: 5760
+Genres: Экшен, Приключения, Комедия, Драма, 
+Rating limit: PG-13
+Rating: 7.16
+Rating numbers: 1322
+Description: Нет описания

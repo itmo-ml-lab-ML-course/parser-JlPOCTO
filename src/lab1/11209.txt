@@ -1,0 +1,10 @@
+Name: Star Ocean EX
+Type: video.tv_show
+Episodes: 26
+Episode length: 1320
+Last episode date release: 2001-09-25
+Genres: Сёнен, Приключения, Фэнтези, Фантастика, 
+Rating limit: PG-13
+Rating: 6.59
+Rating numbers: 901
+Description: Нет описания

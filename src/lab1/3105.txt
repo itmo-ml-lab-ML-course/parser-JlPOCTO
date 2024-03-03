@@ -1,0 +1,9 @@
+Name: Doraemon Movie 05: Nobita no Makai Daibouken
+Type: video.movie
+Episodes: 1
+Episode length: 5880
+Genres: Фэнтези, 
+Rating limit: PG
+Rating: 7.14
+Rating numbers: 618
+Description: Нет описания

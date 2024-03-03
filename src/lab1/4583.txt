@@ -1,0 +1,10 @@
+Name: Yama Nezumi Rocky Chuck
+Type: video.tv_show
+Episodes: 52
+Episode length: 1500
+Last episode date release: 1973-12-30
+Genres: Детское, Приключения, Фэнтези, 
+Rating limit: G
+Rating: 6.15
+Rating numbers: 306
+Description: Нет описания

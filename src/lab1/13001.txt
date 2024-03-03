@@ -1,0 +1,9 @@
+Name: Ongeki
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Повседневность, 
+Rating limit: G
+Rating: 5.41
+Rating numbers: 625
+Description: Промо-ролик для «Ongeki» — новой музыкальной игры от компании «Sega», выпуск которой планируется на лето 2018-го года.

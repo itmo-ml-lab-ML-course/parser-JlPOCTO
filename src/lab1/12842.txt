@@ -1,0 +1,9 @@
+Name: Waiter
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Безумие, 
+Rating limit: PG-13
+Rating: 5.47
+Rating numbers: 178
+Description: Нет описания

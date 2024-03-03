@@ -1,0 +1,7 @@
+Name: Qingwa Wangzi
+Type: video.tv_show
+Episodes: 80
+Episode length: 900
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

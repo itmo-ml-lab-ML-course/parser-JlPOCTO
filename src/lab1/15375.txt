@@ -1,0 +1,8 @@
+Name: Pao Fu Xiaojie 7th Season
+Type: video.tv_show
+Episodes: 12
+Episode length: 540
+Last episode date release: 2016-10-19
+Genres: Повседневность, 
+Rating limit: PG-13
+Description: Нет описания

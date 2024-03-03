@@ -1,0 +1,7 @@
+Name: Xiongmao Dou Bi
+Type: video.tv_show
+Episodes: 12
+Episode length: 240
+Genres: Детское, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

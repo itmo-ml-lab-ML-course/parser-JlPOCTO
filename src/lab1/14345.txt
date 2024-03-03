@@ -1,0 +1,9 @@
+Name: Shinsatsushitsu
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Безумие, Ужасы, 
+Rating limit: PG-13
+Rating: 4.44
+Rating numbers: 742
+Description: В мрачной «Комнате консультаций» Кэя Оямы медицинский диагноз вызывает волну травматических фантазий, отображающихся в серых карандашных рисунках, которые будто очень долго пролежали под дождем.

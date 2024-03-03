@@ -1,0 +1,7 @@
+Name: Xiao Tu Demi
+Type: video.tv_show
+Episodes: 21
+Episode length: 240
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

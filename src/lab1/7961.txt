@@ -1,0 +1,8 @@
+Name: Daifuku-kun@Kin Tele
+Type: video.tv_show
+Episodes: 12
+Episode length: 300
+Last episode date release: 2018-12-21
+Genres: Комедия, 
+Rating limit: PG
+Description: Нет описания

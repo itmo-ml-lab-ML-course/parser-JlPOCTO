@@ -1,0 +1,9 @@
+Name: Maison Ikkoku: Kanketsu-hen
+Type: video.movie
+Episodes: 1
+Episode length: 3960
+Genres: Сэйнэн, Комедия, Драма, Романтика, 
+Rating limit: PG-13
+Rating: 7.14
+Rating numbers: 1193
+Description: Этот фильм является прямым продолжением сериала (не считая последний эпизод) и рассказывает, что же произошло в дальнейшем с  Юсаку, Кёко и другими героями.

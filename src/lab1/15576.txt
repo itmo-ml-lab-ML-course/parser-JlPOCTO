@@ -1,0 +1,6 @@
+Name: Qi Qi Ping Ping
+Type: video.tv_show
+Episodes: 26
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

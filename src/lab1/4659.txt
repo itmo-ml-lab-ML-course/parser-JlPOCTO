@@ -1,0 +1,9 @@
+Name: Houkago no Pleiades
+Type: video.tv_show
+Episodes: 4
+Episode length: 300
+Genres: Экшен, Фантастика, Космос, 
+Rating limit: G
+Rating: 6.12
+Rating numbers: 1286
+Description: Нет описания

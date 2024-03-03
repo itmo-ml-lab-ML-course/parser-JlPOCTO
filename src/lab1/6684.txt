@@ -1,0 +1,7 @@
+Name: Xia Qiao Jie
+Type: video.tv_show
+Episodes: 100
+Episode length: 720
+Genres: Комедия, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

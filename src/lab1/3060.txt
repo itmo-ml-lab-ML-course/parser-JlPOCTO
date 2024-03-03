@@ -1,0 +1,10 @@
+Name: One Piece: Glorious Island
+Type: video.tv_show
+Episodes: 2
+Episode length: 300
+Last episode date release: 2012-12-30
+Genres: Экшен, Приключения, Фэнтези, Сёнен, 
+Rating limit: PG-13
+Rating: 7.15
+Rating numbers: 7120
+Description: Нет описания

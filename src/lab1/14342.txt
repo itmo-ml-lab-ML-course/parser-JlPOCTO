@@ -1,0 +1,9 @@
+Name: Chou Futsuu Toshi Kashiwa Densetsu R
+Type: video.tv_show
+Episodes: 10
+Episode length: 300
+Last episode date release: 2020-09-28
+Genres: Комедия, Фэнтези, 
+Rating: 4.44
+Rating numbers: 1559
+Description: Нет описания

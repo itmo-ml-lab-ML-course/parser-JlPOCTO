@@ -1,0 +1,7 @@
+Name: Fiction Shigi Yama
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Комедия, Исторический, 
+Rating limit: G
+Description: Нет описания

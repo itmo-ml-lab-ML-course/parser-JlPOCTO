@@ -1,0 +1,9 @@
+Name: Souseiki
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Пародия, 
+Rating limit: PG
+Rating: 5.41
+Rating numbers: 422
+Description: Нет описания

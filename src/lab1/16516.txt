@@ -1,0 +1,5 @@
+Name: Haigakura
+Type: video.tv_show
+Episodes: 1
+Genres: Фэнтези, Дзёсей, 
+Description: Нет описания

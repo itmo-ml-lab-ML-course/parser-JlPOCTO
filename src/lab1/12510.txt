@@ -1,0 +1,9 @@
+Name: Hello Kitty no Cinderella
+Type: video.movie
+Episodes: 1
+Episode length: 1800
+Genres: Детское, Фэнтези, 
+Rating limit: PG
+Rating: 6.36
+Rating numbers: 425
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: McDull: Wo He Wo Mama
+Type: video.movie
+Episodes: 1
+Episode length: 4860
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

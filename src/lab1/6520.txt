@@ -1,0 +1,8 @@
+Name: Warera Salaryman Tou
+Type: video.tv_show
+Episodes: 26
+Episode length: 240
+Last episode date release: 1971-03-31
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Description: Нет описания

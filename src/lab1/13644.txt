@@ -1,0 +1,9 @@
+Name: Hairpin Double
+Type: video.other
+Episodes: 1
+Episode length: 420
+Genres: Экшен, Фэнтези, Музыка, 
+Rating limit: PG-13
+Rating: 5.14
+Rating numbers: 758
+Description: Нет описания

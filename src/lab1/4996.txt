@@ -1,0 +1,9 @@
+Name: Kidou Senshi Gundam G40
+Type: video.tv_show
+Episodes: 1
+Episode length: 600
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.05
+Rating numbers: 966
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Wu Ren Dao Da Maoxian
+Type: video.tv_show
+Episodes: 26
+Episode length: 720
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

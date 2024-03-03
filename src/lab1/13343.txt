@@ -1,0 +1,9 @@
+Name: Fukusuke
+Type: video.movie
+Episodes: 1
+Episode length: 1080
+Genres: 
+Rating limit: G
+Rating: 5.28
+Rating numbers: 232
+Description: Нет описания

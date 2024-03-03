@@ -1,0 +1,10 @@
+Name: Infini-T Force
+Type: video.tv_show
+Episodes: 12
+Episode length: 1320
+Last episode date release: 2017-12-19
+Genres: Экшен, Фантастика, Супер сила, 
+Rating limit: PG-13
+Rating: 6.41
+Rating numbers: 2614
+Description: Нет описания

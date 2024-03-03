@@ -1,0 +1,10 @@
+Name: Kairisei Million Arthur
+Type: video.tv_show
+Episodes: 2
+Episode length: 60
+Last episode date release: 2018-07-06
+Genres: Фэнтези, Игры, Музыка, 
+Rating limit: G
+Rating: 5.52
+Rating numbers: 563
+Description: Презентация карточной RPG-игры «Kairisei Million Arthur» от компании Squre Enix, выпущенной для Android и iOS 19 ноября 2014 года.

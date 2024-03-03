@@ -1,0 +1,6 @@
+Name: Beompeoking Jaepeo
+Type: video.tv_show
+Episodes: 26
+Episode length: 1800
+Genres: Экшен, Машины, 
+Description: Нет описания

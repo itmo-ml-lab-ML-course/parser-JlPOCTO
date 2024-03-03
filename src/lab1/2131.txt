@@ -1,0 +1,10 @@
+Name: Kaitou Joker 4th Season
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2016-12-26
+Genres: Детское, Приключения, Комедия, Детектив, 
+Rating limit: PG
+Rating: 7.33
+Rating numbers: 1131
+Description: Нет описания

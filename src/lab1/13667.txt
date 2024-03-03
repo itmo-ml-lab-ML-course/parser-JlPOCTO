@@ -1,0 +1,9 @@
+Name: Color Cycling
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Безумие, 
+Rating limit: G
+Rating: 5.12
+Rating numbers: 395
+Description: Нет описания

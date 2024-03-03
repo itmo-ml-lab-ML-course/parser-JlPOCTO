@@ -1,0 +1,8 @@
+Name: Wena Wrist
+Type: video.other
+Episodes: 1
+Genres: Военное, Музыка, 
+Rating limit: G
+Rating: 5.15
+Rating numbers: 350
+Description: Нет описания

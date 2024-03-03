@@ -1,0 +1,7 @@
+Name: Susie-chan to Marvy
+Type: video.tv_show
+Episodes: 104
+Episode length: 900
+Last episode date release: 2000-02-03
+Genres: Детское, Комедия, 
+Description: Нет описания

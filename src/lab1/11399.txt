@@ -1,0 +1,9 @@
+Name: Bear Bear Bear Kuma!
+Type: video.tv_show
+Episodes: 12
+Last episode date release: 2020-12-25
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.56
+Rating numbers: 1515
+Description: Короткие дополнительные серии к основному сериалу Ми-ми-ми-мишка, выходившие на официальном канале KADOKAWA с персонажами в тиби-стиле.

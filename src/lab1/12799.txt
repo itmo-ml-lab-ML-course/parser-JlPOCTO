@@ -1,0 +1,9 @@
+Name: Yoligongju Loopy
+Type: video.tv_show
+Episodes: 6
+Episode length: 300
+Genres: Детское, Гурман, 
+Rating limit: G
+Rating: 5.53
+Rating numbers: 355
+Description: Нет описания

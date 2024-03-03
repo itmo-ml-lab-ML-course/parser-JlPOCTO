@@ -1,0 +1,9 @@
+Name: Umi no Uta
+Type: video.movie
+Episodes: 1
+Episode length: 1800
+Genres: Безумие, 
+Rating limit: G
+Rating: 5.45
+Rating numbers: 242
+Description: Нет описания

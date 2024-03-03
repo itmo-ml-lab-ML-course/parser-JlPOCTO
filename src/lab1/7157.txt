@@ -1,0 +1,7 @@
+Name: Xun Ling Da Maoxian
+Type: video.tv_show
+Episodes: 78
+Episode length: 720
+Genres: Приключения, Фэнтези, Фантастика, Детское, 
+Rating limit: PG
+Description: Нет описания

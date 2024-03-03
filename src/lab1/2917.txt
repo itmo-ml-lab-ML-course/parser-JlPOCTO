@@ -1,0 +1,10 @@
+Name: Red Baron
+Type: video.tv_show
+Episodes: 49
+Episode length: 1440
+Last episode date release: 1995-03-28
+Genres: Сёнен, Экшен, Фантастика, Спорт, Боевые искусства, Меха, 
+Rating limit: PG-13
+Rating: 7.18
+Rating numbers: 374
+Description: Нет описания

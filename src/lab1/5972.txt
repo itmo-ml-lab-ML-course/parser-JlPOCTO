@@ -1,0 +1,8 @@
+Name: Tantei Shounen Kageman
+Type: video.tv_show
+Episodes: 39
+Episode length: 660
+Last episode date release: 2002-01-16
+Genres: Комедия, Детектив, 
+Rating limit: G
+Description: Нет описания

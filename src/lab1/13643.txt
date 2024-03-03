@@ -1,0 +1,10 @@
+Name: Pastel Memories
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2019-03-26
+Genres: Экшен, Приключения, Фантастика, 
+Rating limit: PG-13
+Rating: 5.13
+Rating numbers: 3610
+Description: Нет описания

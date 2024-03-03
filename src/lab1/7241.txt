@@ -1,0 +1,7 @@
+Name: Bai Xiang Zheme Duo
+Type: video.tv_show
+Episodes: 30
+Episode length: 180
+Genres: Детское, Комедия, 
+Rating limit: PG
+Description: Нет описания

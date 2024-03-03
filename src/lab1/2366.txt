@@ -1,0 +1,9 @@
+Name: Precure Miracle Leap Movie: Minna to no Fushigi na Ichinichi
+Type: video.movie
+Episodes: 1
+Episode length: 4200
+Genres: Экшен, Фэнтези, 
+Rating limit: G
+Rating: 7.28
+Rating numbers: 724
+Description: Нет описания

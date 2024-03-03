@@ -1,0 +1,7 @@
+Name: Wareware no Heya
+Type: video.movie
+Episodes: 1
+Episode length: 720
+Genres: 
+Rating limit: G
+Description: Нет описания

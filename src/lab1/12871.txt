@@ -1,0 +1,9 @@
+Name: TWD Express Rolling Takeoff
+Type: video.movie
+Episodes: 1
+Episode length: 3300
+Genres: Приключения, Фантастика, 
+Rating limit: R+
+Rating: 5.45
+Rating numbers: 217
+Description: Нет описания

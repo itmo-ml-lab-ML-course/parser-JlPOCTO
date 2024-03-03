@@ -1,0 +1,9 @@
+Name: Kuroko no Basket Movie 2: Winter Cup - Namida no Saki e
+Type: video.movie
+Episodes: 1
+Episode length: 5220
+Genres: Сёнен, Спорт, Школа, 
+Rating limit: PG-13
+Rating: 7.74
+Rating numbers: 17246
+Description: Второй полнометражный фильм-рекап оригинального аниме-сериала «Баскетбол Куроко», охватывающий матчи команды «Сэйрин» против команд старших школ «Йосэн» и «Кайджо».

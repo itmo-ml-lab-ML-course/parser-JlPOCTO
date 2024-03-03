@@ -1,0 +1,7 @@
+Name: Bonta
+Type: video.movie
+Episodes: 1
+Episode length: 4920
+Genres: Детское, Приключения, Комедия, 
+Rating limit: G
+Description: Нет описания

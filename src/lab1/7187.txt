@@ -1,0 +1,7 @@
+Name: Yang Jia Jiang: Pan Yang An
+Type: video.tv_show
+Episodes: 41
+Episode length: 900
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Kaidan
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Сверхъестественное, 
+Rating limit: G
+Rating: 4.74
+Rating numbers: 282
+Description: Нет описания

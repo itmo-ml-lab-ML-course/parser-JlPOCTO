@@ -1,0 +1,10 @@
+Name: Kyoukai no Kanata: Idol Saiban! Mayoi Nagara mo Kimi wo Sabaku Tami
+Type: video.tv_show
+Episodes: 5
+Episode length: 480
+Last episode date release: 2014-07-02
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.55
+Rating numbers: 11705
+Description: В данных эпизодах будут показаны чиби-версии девушек из сериала, вершащих суд над другими героями.

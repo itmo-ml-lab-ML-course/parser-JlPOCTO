@@ -1,0 +1,9 @@
+Name: Destiny Child
+Type: video.tv_show
+Episodes: 1
+Episode length: 1560
+Genres: Экшен, Сверхъестественное, Демоны, 
+Rating limit: PG-13
+Rating: 5.5
+Rating numbers: 245
+Description: Нет описания

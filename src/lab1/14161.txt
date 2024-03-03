@@ -1,0 +1,10 @@
+Name: Room Mate
+Type: video.tv_show
+Episodes: 12
+Episode length: 240
+Last episode date release: 2017-06-28
+Genres: Повседневность, 
+Rating limit: PG-13
+Rating: 4.73
+Rating numbers: 5948
+Description: Три истории, три парня, три времени и одно место действия — обычная комната в жилом доме.

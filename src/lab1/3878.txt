@@ -1,0 +1,10 @@
+Name: Qian Cong Shou
+Type: video.tv_show
+Episodes: 16
+Episode length: 1140
+Last episode date release: 2022-04-28
+Genres: Экшен, Фэнтези, Фантастика, 
+Rating limit: PG-13
+Rating: 6.28
+Rating numbers: 940
+Description: Нет описания

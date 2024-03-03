@@ -1,0 +1,10 @@
+Name: Chicchana Yukitsukai Sugar
+Type: video.tv_show
+Episodes: 24
+Episode length: 1440
+Last episode date release: 2002-03-27
+Genres: Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 7.08
+Rating numbers: 927
+Description: Нет описания

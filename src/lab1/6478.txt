@@ -1,0 +1,8 @@
+Name: Wonder Balls Season 2
+Type: video.tv_show
+Episodes: 26
+Episode length: 180
+Last episode date release: 2019-06-24
+Genres: Детское, Комедия, 
+Rating limit: PG
+Description: Нет описания

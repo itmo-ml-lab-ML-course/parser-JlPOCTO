@@ -1,0 +1,8 @@
+Name: Mugen Senki Portriss
+Type: video.tv_show
+Episodes: 52
+Episode length: 1500
+Last episode date release: 2004-03-27
+Genres: Сёнен, Экшен, Фантастика, Меха, 
+Rating limit: PG
+Description: Нет описания

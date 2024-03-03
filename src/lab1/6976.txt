@@ -1,0 +1,7 @@
+Name: Xing Mao Katong Tiandi 2nd Season
+Type: video.tv_show
+Episodes: 10
+Episode length: 720
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

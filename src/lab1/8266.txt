@@ -1,0 +1,7 @@
+Name: Duo Le Yijia
+Type: video.tv_show
+Episodes: 8
+Episode length: 300
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

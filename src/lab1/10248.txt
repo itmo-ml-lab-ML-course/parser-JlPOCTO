@@ -1,0 +1,9 @@
+Name: Macross F: Close Encounter - Deculture Edition
+Type: video.other
+Episodes: 1
+Episode length: 1620
+Genres: Экшен, Фантастика, Меха, Военное, Музыка, Космос, 
+Rating limit: PG-13
+Rating: 7.67
+Rating numbers: 2652
+Description: Расширенная версия первого эпизода Macross Frontier.

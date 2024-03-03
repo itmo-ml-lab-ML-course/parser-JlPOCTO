@@ -1,0 +1,6 @@
+Name: Shaman King: Flowers
+Type: video.tv_show
+Episodes: 1
+Genres: Приключения, Комедия, Сверхъестественное, Супер сила, Сёнен, 
+Rating limit: PG-13
+Description: Нет описания

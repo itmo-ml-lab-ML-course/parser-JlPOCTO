@@ -1,0 +1,7 @@
+Name: Qin Shi Ming Yue: Yi Zhe Ru Shi
+Type: video.tv_show
+Episodes: 1
+Episode length: 960
+Genres: Драма, Исторический, 
+Rating limit: PG-13
+Description: Нет описания

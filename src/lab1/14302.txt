@@ -1,0 +1,9 @@
+Name: Pinky Street
+Type: video.other
+Episodes: 2
+Episode length: 720
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Rating: 4.53
+Rating numbers: 261
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Roly Poly Peoples
+Type: video.tv_show
+Episodes: 30
+Episode length: 180
+Last episode date release: 2023-06-16
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

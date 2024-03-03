@@ -1,0 +1,7 @@
+Name: Xiong Hai Zi Anquan Xiao Jiangtang
+Type: video.tv_show
+Episodes: 17
+Episode length: 180
+Genres: Детское, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

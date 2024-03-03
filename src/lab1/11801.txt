@@ -1,0 +1,10 @@
+Name: Imouto sae Ireba Ii. (ONA)
+Type: video.tv_show
+Episodes: 6
+Episode length: 120
+Last episode date release: 2017-12-10
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.49
+Rating numbers: 3086
+Description: Шесть коротких эпизодов в тиби-стиле, включённых в BD/DVD диски и размещённых на официальном аниме-канале в Twitter.

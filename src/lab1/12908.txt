@@ -1,0 +1,9 @@
+Name: Byeolnala Samchongsa
+Type: video.movie
+Episodes: 1
+Episode length: 4380
+Genres: Приключения, Фантастика, 
+Rating limit: PG
+Rating: 5.44
+Rating numbers: 213
+Description: Нет описания

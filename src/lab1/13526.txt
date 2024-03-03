@@ -1,0 +1,9 @@
+Name: Afro-Ken
+Type: video.other
+Episodes: 1
+Episode length: 1680
+Genres: Детское, Комедия, 
+Rating limit: G
+Rating: 5.19
+Rating numbers: 236
+Description: Нет описания

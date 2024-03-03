@@ -1,0 +1,10 @@
+Name: Mashin Eiyuuden Wataru
+Type: video.tv_show
+Episodes: 45
+Episode length: 1440
+Last episode date release: 1989-03-31
+Genres: Приключения, Комедия, Фантастика, Меха, 
+Rating limit: G
+Rating: 7.05
+Rating numbers: 437
+Description: Нет описания

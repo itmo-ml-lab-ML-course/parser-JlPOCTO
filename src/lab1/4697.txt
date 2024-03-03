@@ -1,0 +1,9 @@
+Name: Little Nemo Pilot (1984)
+Type: video.other
+Episodes: 1
+Episode length: 180
+Genres: Приключения, 
+Rating limit: G
+Rating: 6.11
+Rating numbers: 329
+Description: Нет описания

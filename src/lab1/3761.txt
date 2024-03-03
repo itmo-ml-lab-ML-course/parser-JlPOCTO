@@ -1,0 +1,10 @@
+Name: Daisuki! Hello Kitty
+Type: video.tv_show
+Episodes: 26
+Episode length: 1260
+Last episode date release: 1994-03-29
+Genres: Детское, Фэнтези, 
+Rating limit: G
+Rating: 6.3
+Rating numbers: 483
+Description: Нет описания

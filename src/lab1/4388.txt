@@ -1,0 +1,9 @@
+Name: Tsuki no Sango
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Драма, 
+Rating limit: G
+Rating: 6.17
+Rating numbers: 1674
+Description: Нет описания

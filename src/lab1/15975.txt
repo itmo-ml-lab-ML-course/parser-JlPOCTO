@@ -1,0 +1,8 @@
+Name: Sansan de Ezuoju Chufang
+Type: video.tv_show
+Episodes: 10
+Episode length: 60
+Last episode date release: 2020-10-01
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Description: Нет описания

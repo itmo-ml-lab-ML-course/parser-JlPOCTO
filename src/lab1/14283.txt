@@ -1,0 +1,9 @@
+Name: Trip Trek
+Type: video.tv_show
+Episodes: 4
+Episode length: 300
+Genres: Приключения, Комедия, Фэнтези, 
+Rating limit: G
+Rating: 4.57
+Rating numbers: 244
+Description: Нет описания

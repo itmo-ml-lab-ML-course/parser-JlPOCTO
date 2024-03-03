@@ -1,0 +1,7 @@
+Name: Tang Dou Wawa
+Type: video.tv_show
+Episodes: 20
+Episode length: 240
+Genres: Комедия, Детское, 
+Rating limit: PG
+Description: Нет описания

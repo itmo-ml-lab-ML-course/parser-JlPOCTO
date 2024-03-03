@@ -1,0 +1,7 @@
+Name: Xihu Chuanqi
+Type: video.movie
+Episodes: 1
+Episode length: 5760
+Genres: Фэнтези, Романтика, 
+Rating limit: PG-13
+Description: Нет описания

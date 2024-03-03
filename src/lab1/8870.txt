@@ -1,0 +1,7 @@
+Name: Hei! Xingxing Hu
+Type: video.tv_show
+Episodes: 26
+Episode length: 660
+Genres: Приключения, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

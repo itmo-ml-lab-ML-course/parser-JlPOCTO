@@ -1,0 +1,10 @@
+Name: Touma Kishinden Oni
+Type: video.tv_show
+Episodes: 25
+Episode length: 480
+Last episode date release: 1996-03-21
+Genres: Сверхъестественное, 
+Rating limit: PG-13
+Rating: 6.35
+Rating numbers: 281
+Description: Нет описания

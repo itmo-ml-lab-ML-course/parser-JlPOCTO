@@ -1,0 +1,7 @@
+Name: Da Xiongmao Chuanqi
+Type: video.movie
+Episodes: 1
+Episode length: 5220
+Genres: Приключения, Детское, 
+Rating limit: G
+Description: Нет описания

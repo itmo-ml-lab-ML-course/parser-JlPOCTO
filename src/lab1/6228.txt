@@ -1,0 +1,8 @@
+Name: Trip Trek (2010)
+Type: video.tv_show
+Episodes: 8
+Episode length: 420
+Last episode date release: 2011-01-26
+Genres: Приключения, Комедия, Фэнтези, 
+Rating limit: G
+Description: Нет описания

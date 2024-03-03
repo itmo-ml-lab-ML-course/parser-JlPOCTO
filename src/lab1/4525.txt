@@ -1,0 +1,9 @@
+Name: Tiger Mask (Movie)
+Type: video.movie
+Episodes: 1
+Episode length: 2820
+Genres: Сёнен, Спорт, 
+Rating limit: PG-13
+Rating: 6.15
+Rating numbers: 355
+Description: Нет описания

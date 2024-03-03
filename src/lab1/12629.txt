@@ -1,0 +1,10 @@
+Name: WIXOSS Diva(A)Live
+Type: video.tv_show
+Episodes: 12
+Episode length: 1380
+Last episode date release: 2021-03-27
+Genres: 
+Rating limit: PG-13
+Rating: 5.58
+Rating numbers: 2176
+Description: Нет описания

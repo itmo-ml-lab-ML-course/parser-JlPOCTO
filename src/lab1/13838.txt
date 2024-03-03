@@ -1,0 +1,9 @@
+Name: Shin Saru Kani Gassen
+Type: video.movie
+Episodes: 1
+Episode length: 660
+Genres: Драма, 
+Rating limit: G
+Rating: 5.02
+Rating numbers: 287
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Marumaru Manul
+Type: video.tv_show
+Episodes: 50
+Episode length: 60
+Last episode date release: 2020-12-15
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

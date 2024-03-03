@@ -1,0 +1,10 @@
+Name: Yatogame-chan Kansatsu Nikki
+Type: video.tv_show
+Episodes: 12
+Episode length: 180
+Last episode date release: 2019-06-20
+Genres: Сёнен, Комедия, Повседневность, Школа, 
+Rating limit: PG-13
+Rating: 6.26
+Rating numbers: 4795
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Hal &amp; Bons
+Type: video.other
+Episodes: 5
+Episode length: 480
+Genres: Комедия, Повседневность, 
+Rating limit: PG-13
+Rating: 4.86
+Rating numbers: 186
+Description: Нет описания

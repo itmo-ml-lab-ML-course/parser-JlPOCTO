@@ -1,0 +1,9 @@
+Name: Jikuu Bouken Nuumamonjaa
+Type: video.other
+Episodes: 1
+Episode length: 960
+Genres: Экшен, Комедия, Фэнтези, 
+Rating limit: PG-13
+Rating: 5.25
+Rating numbers: 305
+Description: Нет описания

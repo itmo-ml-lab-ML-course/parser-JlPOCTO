@@ -1,0 +1,7 @@
+Name: Xin Datou Er Zi He Xiao Tou Baba 6th Season
+Type: video.tv_show
+Episodes: 100
+Episode length: 600
+Genres: Повседневность, Детское, 
+Rating limit: G
+Description: Нет описания

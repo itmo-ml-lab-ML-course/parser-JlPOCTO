@@ -1,0 +1,7 @@
+Name: Oshiri Tantei Movie 4: Shiriarty
+Type: video.movie
+Episodes: 1
+Episode length: 4200
+Genres: Экшен, Комедия, Фэнтези, Детектив, Детское, 
+Rating limit: PG
+Description: Нет описания

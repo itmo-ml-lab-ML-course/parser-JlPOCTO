@@ -1,0 +1,10 @@
+Name: Inferno Cop Specials
+Type: video.other
+Episodes: 3
+Episode length: 120
+Last episode date release: 2017-07-02
+Genres: Экшен, Комедия, 
+Rating limit: PG-13
+Rating: 6.01
+Rating numbers: 1052
+Description: Нет описания

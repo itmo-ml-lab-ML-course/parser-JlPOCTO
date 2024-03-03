@@ -1,0 +1,9 @@
+Name: Kaumori
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Драма, Самураи, 
+Rating limit: G
+Rating: 5.36
+Rating numbers: 366
+Description: Нет описания

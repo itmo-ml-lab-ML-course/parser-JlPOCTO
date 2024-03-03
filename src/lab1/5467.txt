@@ -1,0 +1,9 @@
+Name: Okaasan ni Naisho
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Комедия, Этти, 
+Rating limit: R+
+Rating: 4.06
+Rating numbers: 369
+Description: Клип, в котором в развлекательной форме представлена тема сексуального образования.

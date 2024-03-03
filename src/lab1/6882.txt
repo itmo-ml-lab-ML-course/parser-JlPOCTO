@@ -1,0 +1,8 @@
+Name: Xiaobing Yang Lai Xi
+Type: video.tv_show
+Episodes: 52
+Episode length: 540
+Last episode date release: 2018-04-28
+Genres: Исторический, Детское, 
+Rating limit: PG
+Description: Нет описания

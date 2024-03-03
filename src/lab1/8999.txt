@@ -1,0 +1,7 @@
+Name: Hong Jun Qiao
+Type: video.movie
+Episodes: 1
+Episode length: 1080
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

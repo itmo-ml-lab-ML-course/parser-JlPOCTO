@@ -1,0 +1,7 @@
+Name: Chong Chong
+Type: video.tv_show
+Episodes: 294
+Episode length: 300
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

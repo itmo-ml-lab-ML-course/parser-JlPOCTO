@@ -1,0 +1,9 @@
+Name: A Smart Experiment
+Type: video.other
+Episodes: 1
+Episode length: 180
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.1
+Rating numbers: 214
+Description: Нет описания

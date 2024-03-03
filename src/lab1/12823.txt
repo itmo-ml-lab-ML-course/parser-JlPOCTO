@@ -1,0 +1,10 @@
+Name: Fruity Samurai
+Type: video.tv_show
+Episodes: 13
+Episode length: 180
+Last episode date release: 2013-12-14
+Genres: Экшен, Комедия, Исторический, Самураи, 
+Rating limit: PG
+Rating: 5.47
+Rating numbers: 330
+Description: Короткометражное аниме о самураях с головами из фруктов и ягод.

@@ -1,0 +1,10 @@
+Name: Knights of the Zodiac: Saint Seiya
+Type: video.tv_show
+Episodes: 12
+Episode length: 1380
+Last episode date release: 2020-01-23
+Genres: Сёнен, Приключения, Фэнтези, Фантастика, 
+Rating limit: PG-13
+Rating: 5.16
+Rating numbers: 1607
+Description: Нет описания

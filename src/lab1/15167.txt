@@ -1,0 +1,8 @@
+Name: Nyanfuru
+Type: video.tv_show
+Episodes: 124
+Episode length: 60
+Last episode date release: 2016-09-29
+Genres: Комедия, Музыка, 
+Rating limit: G
+Description: Нет описания

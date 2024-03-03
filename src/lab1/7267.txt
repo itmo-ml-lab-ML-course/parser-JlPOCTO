@@ -1,0 +1,7 @@
+Name: Balabang
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

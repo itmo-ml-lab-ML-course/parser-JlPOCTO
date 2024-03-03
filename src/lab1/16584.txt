@@ -1,0 +1,5 @@
+Name: Astro Note
+Type: video.tv_show
+Episodes: 1
+Genres: Комедия, Романтика, Фантастика, 
+Description: Нет описания

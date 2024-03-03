@@ -1,0 +1,8 @@
+Name: Wa Wa Wa Wappi-chan
+Type: video.tv_show
+Episodes: 26
+Episode length: 1800
+Last episode date release: 2006-10-01
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

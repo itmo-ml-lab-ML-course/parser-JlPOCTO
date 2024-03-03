@@ -1,0 +1,10 @@
+Name: Ashita Tenki ni Naare
+Type: video.tv_show
+Episodes: 47
+Episode length: 1320
+Last episode date release: 1985-09-27
+Genres: Сёнен, Спорт, 
+Rating limit: G
+Rating: 6.45
+Rating numbers: 222
+Description: Нет описания

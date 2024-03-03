@@ -1,0 +1,9 @@
+Name: Cornelis
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.23
+Rating numbers: 227
+Description: Нет описания

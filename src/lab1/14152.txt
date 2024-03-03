@@ -1,0 +1,9 @@
+Name: S=13
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.74
+Rating numbers: 190
+Description: Нет описания

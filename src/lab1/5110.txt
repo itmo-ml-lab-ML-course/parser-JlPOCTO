@@ -1,0 +1,9 @@
+Name: Cyborg 009
+Type: video.movie
+Episodes: 1
+Episode length: 3900
+Genres: Сёнен, Экшен, Приключения, Драма, Фантастика, 
+Rating limit: G
+Rating: 6.03
+Rating numbers: 926
+Description: Нет описания

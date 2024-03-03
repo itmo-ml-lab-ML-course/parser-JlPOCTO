@@ -1,0 +1,10 @@
+Name: Duel Masters!!
+Type: video.tv_show
+Episodes: 51
+Episode length: 1440
+Last episode date release: 2020-03-29
+Genres: Детское, Экшен, Приключения, Комедия, Фэнтези, 
+Rating limit: G
+Rating: 5.45
+Rating numbers: 647
+Description: Нет описания

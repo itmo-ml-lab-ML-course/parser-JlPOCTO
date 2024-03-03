@@ -1,0 +1,7 @@
+Name: Qiche Ren Zongdongyuan
+Type: video.movie
+Episodes: 1
+Episode length: 5040
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Chao Wa Zhanshi: Xingji Jiayuan
+Type: video.tv_show
+Episodes: 25
+Episode length: 840
+Genres: Экшен, Фантастика, Военное, Космос, 
+Rating limit: PG-13
+Description: Нет описания

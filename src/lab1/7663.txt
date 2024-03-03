@@ -1,0 +1,7 @@
+Name: Chaoji Da Lotto
+Type: video.tv_show
+Episodes: 325
+Episode length: 600
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

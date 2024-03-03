@@ -1,0 +1,5 @@
+Name: Ao no Miburo
+Type: video.tv_show
+Episodes: 1
+Genres: Экшен, Исторический, Самураи, Сёнен, 
+Description: Нет описания

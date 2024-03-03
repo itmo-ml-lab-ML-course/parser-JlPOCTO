@@ -1,0 +1,7 @@
+Name: Xiao Huli Faming Ji
+Type: video.tv_show
+Episodes: 52
+Episode length: 1320
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

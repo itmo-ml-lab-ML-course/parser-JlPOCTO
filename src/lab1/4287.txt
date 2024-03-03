@@ -1,0 +1,10 @@
+Name: Wakusei Robo Danguard Ace
+Type: video.tv_show
+Episodes: 56
+Episode length: 1500
+Last episode date release: 1978-03-26
+Genres: Сёнен, Фантастика, Меха, Военное, Космос, 
+Rating limit: PG-13
+Rating: 6.2
+Rating numbers: 363
+Description: Нет описания

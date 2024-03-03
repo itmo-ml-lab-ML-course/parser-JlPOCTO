@@ -1,0 +1,8 @@
+Name: Wanwanwan Coin
+Type: video.tv_show
+Episodes: 15
+Episode length: 180
+Last episode date release: 2016-06-20
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Mahouka x Mameshiba
+Type: video.tv_show
+Episodes: 4
+Last episode date release: 2017-06-27
+Genres: Комедия, Пародия, 
+Rating limit: G
+Rating: 5.17
+Rating numbers: 3510
+Description: Нет описания

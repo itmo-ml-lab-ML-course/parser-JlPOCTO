@@ -1,0 +1,7 @@
+Name: Cupid Da Nao Shi Er Xingzuo
+Type: video.tv_show
+Episodes: 48
+Episode length: 1380
+Genres: Приключения, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

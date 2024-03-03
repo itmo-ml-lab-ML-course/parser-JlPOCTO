@@ -1,0 +1,10 @@
+Name: Arabian Nights: Sindbad no Bouken (TV)
+Type: video.tv_show
+Episodes: 52
+Episode length: 1440
+Last episode date release: 1976-09-29
+Genres: Приключения, Фэнтези, Романтика, 
+Rating limit: R+
+Rating: 7.21
+Rating numbers: 467
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Sarutobi Ecchan
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 1972-03-27
+Genres: Детское, Комедия, Школа, 
+Rating limit: PG
+Rating: 6.31
+Rating numbers: 338
+Description: Нет описания

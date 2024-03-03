@@ -1,0 +1,9 @@
+Name: Fukashigi no Kazoekata
+Type: video.tv_show
+Episodes: 1
+Episode length: 480
+Genres: Детское, 
+Rating limit: G
+Rating: 5.11
+Rating numbers: 142
+Description: Нет описания

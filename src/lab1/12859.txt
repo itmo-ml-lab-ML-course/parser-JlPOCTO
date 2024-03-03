@@ -1,0 +1,9 @@
+Name: Ryou
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 5.46
+Rating numbers: 157
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Doraemon Movie 23: Nobita to Robot Kingdom
+Type: video.movie
+Episodes: 1
+Episode length: 4860
+Genres: Приключения, Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 7.2
+Rating numbers: 585
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Wudi Xiaolu: Anquan Chengzhang
+Type: video.tv_show
+Episodes: 144
+Episode length: 360
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

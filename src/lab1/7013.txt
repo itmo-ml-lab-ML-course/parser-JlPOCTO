@@ -1,0 +1,6 @@
+Name: Xing You Ji: Fengbao Famila 2
+Type: video.tv_show
+Episodes: 1
+Episode length: 5280
+Genres: Экшен, Приключения, Фантастика, 
+Description: Нет описания

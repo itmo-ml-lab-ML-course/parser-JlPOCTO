@@ -1,0 +1,9 @@
+Name: Iron Man: Rise of Technovore
+Type: video.other
+Episodes: 1
+Episode length: 5280
+Genres: Экшен, Меха, 
+Rating limit: PG-13
+Rating: 6.15
+Rating numbers: 2318
+Description: Фильм раскрывает противостояние Железного Человека и злодея Ezekiel Stane, разрабатывающего новые био-технологии, которые должны превзойти броню Железного Человека. Stane организовывает теракт и подставляет Тони Старка, Железный Человек должен победить S.H.I.E.L.D и найти способ очистить своё имя.

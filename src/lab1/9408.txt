@@ -1,0 +1,9 @@
+Name: Digimon Adventure: Last Evolution Kizuna
+Type: video.movie
+Episodes: 1
+Episode length: 5640
+Genres: Экшен, Приключения, Комедия, Драма, 
+Rating limit: PG-13
+Rating: 8.17
+Rating numbers: 1405
+Description: Нет описания

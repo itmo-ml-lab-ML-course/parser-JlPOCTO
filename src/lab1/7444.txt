@@ -1,0 +1,7 @@
+Name: Bobo Lixian Ji
+Type: video.tv_show
+Episodes: 52
+Episode length: 780
+Genres: Детское, Приключения, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

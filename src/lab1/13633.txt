@@ -1,0 +1,9 @@
+Name: Sakura
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 5.14
+Rating numbers: 321
+Description: Нет описания

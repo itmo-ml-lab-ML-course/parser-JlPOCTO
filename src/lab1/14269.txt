@@ -1,0 +1,9 @@
+Name: Samuroid Zero
+Type: video.other
+Episodes: 1
+Episode length: 120
+Genres: Экшен, Самураи, 
+Rating limit: PG-13
+Rating: 4.59
+Rating numbers: 209
+Description: Нет описания

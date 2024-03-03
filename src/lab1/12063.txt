@@ -1,0 +1,9 @@
+Name: Precure Miracle Universe Movie
+Type: video.movie
+Episodes: 1
+Episode length: 4260
+Genres: Экшен, Фэнтези, 
+Rating limit: G
+Rating: 6.44
+Rating numbers: 880
+Description: Нет описания

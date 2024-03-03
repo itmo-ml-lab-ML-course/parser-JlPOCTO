@@ -1,0 +1,10 @@
+Name: Massugu ni Ikou.
+Type: video.tv_show
+Episodes: 4
+Episode length: 1260
+Last episode date release: 2003-08-21
+Genres: Дзёсей, Комедия, Романтика, Повседневность, 
+Rating limit: PG
+Rating: 6.36
+Rating numbers: 963
+Description: Нет описания

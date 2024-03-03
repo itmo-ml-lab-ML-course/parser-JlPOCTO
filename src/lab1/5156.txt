@@ -1,0 +1,8 @@
+Name: Sengoku Majin Goushougun (Movie)
+Type: video.movie
+Episodes: 1
+Episode length: 3900
+Genres: Фантастика, Меха, Пародия, 
+Rating: 6.02
+Rating numbers: 271
+Description: Нет описания

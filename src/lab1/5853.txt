@@ -1,0 +1,6 @@
+Name: Super Samchongsa
+Type: video.movie
+Episodes: 1
+Episode length: 4560
+Genres: Сёнен, Экшен, Меха, Космос, 
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Animagear
+Type: video.tv_show
+Episodes: 1
+Genres: Детское, Меха, 
+Rating limit: G
+Rating: 5.26
+Rating numbers: 381
+Description: Нет описания

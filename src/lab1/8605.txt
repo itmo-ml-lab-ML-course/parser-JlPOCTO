@@ -1,0 +1,6 @@
+Name: Goesu Daejeonjaeng
+Type: video.movie
+Episodes: 1
+Episode length: 3960
+Genres: Сёнен, Экшен, Сверхъестественное, 
+Description: Нет описания

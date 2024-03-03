@@ -1,0 +1,7 @@
+Name: Tianchi Shuiguai
+Type: video.movie
+Episodes: 1
+Episode length: 5220
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: G
+Description: Нет описания

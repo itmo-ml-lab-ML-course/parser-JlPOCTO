@@ -1,0 +1,10 @@
+Name: Get Ride! AMDriver
+Type: video.tv_show
+Episodes: 51
+Episode length: 1440
+Last episode date release: 2005-03-28
+Genres: Сёнен, Приключения, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.19
+Rating numbers: 373
+Description: Нет описания

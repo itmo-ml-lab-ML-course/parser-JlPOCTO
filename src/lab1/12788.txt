@@ -1,0 +1,9 @@
+Name: Koukyousei Million Arthur
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Фэнтези, Игры, Музыка, 
+Rating limit: G
+Rating: 5.48
+Rating numbers: 806
+Description: Нет описания

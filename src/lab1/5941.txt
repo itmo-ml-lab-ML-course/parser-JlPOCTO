@@ -1,0 +1,7 @@
+Name: Takoru the Movie
+Type: video.movie
+Episodes: 1
+Episode length: 1200
+Genres: Повседневность, 
+Rating limit: G
+Description: Нет описания

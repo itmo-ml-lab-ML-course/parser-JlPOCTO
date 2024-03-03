@@ -1,0 +1,9 @@
+Name: Rurouni Kenshin Recap
+Type: video.other
+Episodes: 1
+Episode length: 2820
+Genres: Экшен, Приключения, Комедия, Романтика, Исторический, Самураи, 
+Rating limit: PG-13
+Rating: 7.17
+Rating numbers: 3297
+Description: Дополнительный эпизод, кратко пересказывающий события аниме-сериала «Бродяга Кэнсин».

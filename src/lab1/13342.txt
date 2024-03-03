@@ -1,0 +1,9 @@
+Name: Connected...
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Фантастика, 
+Rating limit: PG-13
+Rating: 5.28
+Rating numbers: 478
+Description: Нет описания

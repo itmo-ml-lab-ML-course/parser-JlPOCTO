@@ -1,0 +1,7 @@
+Name: Qiao Xia Shi Lu
+Type: video.movie
+Episodes: 1
+Episode length: 1080
+Genres: Исторический, Детское, 
+Rating limit: G
+Description: Нет описания

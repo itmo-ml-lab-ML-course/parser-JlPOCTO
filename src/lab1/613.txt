@@ -1,0 +1,10 @@
+Name: Cang Yuan Tu
+Type: video.tv_show
+Episodes: 26
+Episode length: 1380
+Last episode date release: 2023-12-07
+Genres: Экшен, Приключения, Фэнтези, Исторический, Боевые искусства, 
+Rating limit: PG-13
+Rating: 8.01
+Rating numbers: 1201
+Description: Нет описания

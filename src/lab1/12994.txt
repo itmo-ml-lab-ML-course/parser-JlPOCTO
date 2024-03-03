@@ -1,0 +1,9 @@
+Name: Sonoda
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Повседневность, 
+Rating limit: G
+Rating: 5.41
+Rating numbers: 430
+Description: Нет описания

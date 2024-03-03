@@ -1,0 +1,9 @@
+Name: Kintarou Taiiku Nikki
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Комедия, 
+Rating limit: G
+Rating: 4.79
+Rating numbers: 228
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: B: The Beginning Succession
+Type: video.tv_show
+Episodes: 6
+Episode length: 1380
+Genres: Экшен, Детектив, Сверхъестественное, Триллер, Полиция, Психологическое, 
+Rating limit: R+
+Rating: 6.2
+Rating numbers: 11443
+Description: Нет описания

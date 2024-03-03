@@ -1,0 +1,8 @@
+Name: &quot;Kinako&quot; Movie x Mameshiba
+Type: video.other
+Episodes: 1
+Genres: Комедия, Пародия, 
+Rating limit: G
+Rating: 5.07
+Rating numbers: 319
+Description: Нет описания

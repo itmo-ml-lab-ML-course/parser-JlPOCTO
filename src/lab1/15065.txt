@@ -1,0 +1,8 @@
+Name: Niguang Zhi Chan
+Type: video.tv_show
+Episodes: 3
+Episode length: 1320
+Last episode date release: 2018-04-13
+Genres: Приключения, Фэнтези, 
+Rating limit: PG-13
+Description: Нет описания

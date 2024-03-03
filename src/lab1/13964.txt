@@ -1,0 +1,9 @@
+Name: Geki Drive
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Экшен, Машины, 
+Rating limit: G
+Rating: 4.9
+Rating numbers: 216
+Description: Нет описания

@@ -1,0 +1,6 @@
+Name: Haikyuu!! Movie: Gomisuteba no Kessen
+Type: video.movie
+Episodes: 2
+Genres: Сёнен, Спорт, Школа, 
+Rating limit: PG-13
+Description: Нет описания

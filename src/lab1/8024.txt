@@ -1,0 +1,7 @@
+Name: Dazhi You Huashuo
+Type: video.tv_show
+Episodes: 360
+Episode length: 600
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

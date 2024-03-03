@@ -1,0 +1,9 @@
+Name: Break Go!Ga!
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Сёнен, 
+Rating limit: G
+Rating: 5.42
+Rating numbers: 269
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: 100% Pascal-sensei
+Type: video.tv_show
+Episodes: 6
+Episode length: 240
+Last episode date release: 2017-03-15
+Genres: Детское, Комедия, 
+Rating limit: G
+Rating: 5.33
+Rating numbers: 244
+Description: Нет описания

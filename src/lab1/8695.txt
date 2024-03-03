@@ -1,0 +1,7 @@
+Name: Guli Guli: Hao Xiguan
+Type: video.tv_show
+Episodes: 182
+Episode length: 180
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

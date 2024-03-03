@@ -1,0 +1,9 @@
+Name: Haikyuu!! Movie 2: Shousha to Haisha
+Type: video.movie
+Episodes: 1
+Episode length: 5280
+Genres: Спорт, Школа, Сёнен, 
+Rating limit: PG-13
+Rating: 8.05
+Rating numbers: 24258
+Description: Второй полнометражный фильм-рекап первого сезона оригинального аниме-сериала «Волейбол!!».

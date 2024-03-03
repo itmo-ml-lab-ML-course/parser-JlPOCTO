@@ -1,0 +1,7 @@
+Name: Shadow Fighter
+Type: video.tv_show
+Episodes: 26
+Last episode date release: 2006-01-12
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

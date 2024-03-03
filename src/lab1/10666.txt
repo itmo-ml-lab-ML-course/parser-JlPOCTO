@@ -1,0 +1,10 @@
+Name: Hakumei no Tsubasa
+Type: video.tv_show
+Episodes: 7
+Episode length: 360
+Last episode date release: 2020-08-06
+Genres: Детское, Экшен, Приключения, Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 7.53
+Rating numbers: 3316
+Description: Нет описания

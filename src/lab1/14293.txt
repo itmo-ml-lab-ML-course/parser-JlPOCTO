@@ -1,0 +1,9 @@
+Name: Portrait
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.55
+Rating numbers: 222
+Description: Нет описания

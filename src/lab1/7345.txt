@@ -1,0 +1,7 @@
+Name: Baozou LOL 3rd Season
+Type: video.tv_show
+Episodes: 13
+Episode length: 600
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

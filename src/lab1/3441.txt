@@ -1,0 +1,10 @@
+Name: Di Gi Charat Nyo
+Type: video.tv_show
+Episodes: 104
+Episode length: 720
+Last episode date release: 2004-03-28
+Genres: Комедия, Фэнтези, Фантастика, 
+Rating limit: G
+Rating: 7.07
+Rating numbers: 962
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Na Nian Na Tu Naxie Shi Er
+Type: video.tv_show
+Episodes: 12
+Episode length: 420
+Last episode date release: 2015-08-06
+Genres: Комедия, Военное, 
+Rating limit: PG-13
+Description: Нет описания

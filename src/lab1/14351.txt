@@ -1,0 +1,9 @@
+Name: Anomalies
+Type: video.other
+Episodes: 1
+Episode length: 180
+Genres: Психологическое, 
+Rating limit: G
+Rating: 4.4
+Rating numbers: 514
+Description: Нет описания

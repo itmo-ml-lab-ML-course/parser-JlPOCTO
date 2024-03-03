@@ -1,0 +1,9 @@
+Name: Ie Naki Ko (Movie)
+Type: video.movie
+Episodes: 1
+Episode length: 5760
+Genres: Приключения, Драма, Детское, 
+Rating limit: PG
+Rating: 6.55
+Rating numbers: 448
+Description: Нет описания

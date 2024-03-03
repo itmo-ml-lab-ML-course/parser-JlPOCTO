@@ -1,0 +1,7 @@
+Name: Oh! My Friends
+Type: video.tv_show
+Episodes: 10
+Episode length: 180
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

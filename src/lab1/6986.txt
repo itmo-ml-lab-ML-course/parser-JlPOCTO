@@ -1,0 +1,8 @@
+Name: Xing Mao Man Youji
+Type: video.tv_show
+Episodes: 26
+Episode length: 720
+Last episode date release: 2010-02-01
+Genres: Приключения, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

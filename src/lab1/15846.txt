@@ -1,0 +1,8 @@
+Name: Ruyi Ku Bao: Xi Ou Tu
+Type: video.tv_show
+Episodes: 52
+Episode length: 720
+Last episode date release: 2014-01-01
+Genres: Приключения, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

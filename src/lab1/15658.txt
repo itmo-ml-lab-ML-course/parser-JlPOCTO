@@ -1,0 +1,7 @@
+Name: Qing Ping Chuanshuo: Dao Tu
+Type: video.tv_show
+Episodes: 1
+Episode length: 360
+Genres: Фэнтези, 
+Rating limit: PG-13
+Description: Нет описания

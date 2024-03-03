@@ -1,0 +1,7 @@
+Name: Quwei Heshang
+Type: video.tv_show
+Episodes: 100
+Episode length: 600
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

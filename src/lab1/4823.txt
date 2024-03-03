@@ -1,0 +1,9 @@
+Name: Soba e
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Фэнтези, Музыка, 
+Rating limit: G
+Rating: 6.09
+Rating numbers: 762
+Description: В дождливый день главный герой теряет зонт – подарок от подруги. Тем временем зонтик превращается в жизнерадостную девушку.

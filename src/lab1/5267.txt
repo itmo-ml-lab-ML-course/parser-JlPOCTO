@@ -1,0 +1,9 @@
+Name: Kabushikigaisha G-angle Saiyou Concept Movie
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Повседневность, 
+Rating limit: PG-13
+Rating: 6.0
+Rating numbers: 186
+Description: Нет описания

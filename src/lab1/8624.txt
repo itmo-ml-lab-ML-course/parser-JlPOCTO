@@ -1,0 +1,7 @@
+Name: Gonfu Tu Yu Cai Bao Gou 2nd Season
+Type: video.tv_show
+Episodes: 10
+Episode length: 300
+Genres: Комедия, 
+Rating limit: PG
+Description: Нет описания

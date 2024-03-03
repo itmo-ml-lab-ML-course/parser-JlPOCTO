@@ -1,0 +1,7 @@
+Name: San Mao Liu Lang Ji
+Type: video.movie
+Episodes: 1
+Episode length: 1920
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

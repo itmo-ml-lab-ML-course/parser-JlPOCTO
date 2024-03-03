@@ -1,0 +1,7 @@
+Name: Xiongmao Jiazu
+Type: video.tv_show
+Episodes: 26
+Episode length: 1380
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

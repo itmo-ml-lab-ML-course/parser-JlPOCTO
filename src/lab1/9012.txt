@@ -1,0 +1,7 @@
+Name: Hong Mao Lan Tu: Konglong Shijie
+Type: video.tv_show
+Episodes: 90
+Episode length: 360
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: G
+Description: Нет описания

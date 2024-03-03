@@ -1,0 +1,9 @@
+Name: Ari Ningen Monogatari
+Type: video.movie
+Episodes: 1
+Episode length: 420
+Genres: Фэнтези, 
+Rating limit: R-17
+Rating: 4.68
+Rating numbers: 169
+Description: Нет описания

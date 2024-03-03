@@ -1,0 +1,10 @@
+Name: Papuwa
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 2004-03-30
+Genres: Приключения, Комедия, 
+Rating limit: R+
+Rating: 6.67
+Rating numbers: 284
+Description: Нет описания

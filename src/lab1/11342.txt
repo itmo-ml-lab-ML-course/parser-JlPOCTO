@@ -1,0 +1,10 @@
+Name: Choujikuu Kidan Southern Cross
+Type: video.tv_show
+Episodes: 23
+Episode length: 1380
+Last episode date release: 1984-09-30
+Genres: Экшен, Драма, Фантастика, Меха, 
+Rating limit: R+
+Rating: 6.57
+Rating numbers: 537
+Description: Нет описания

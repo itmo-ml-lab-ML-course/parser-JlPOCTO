@@ -1,0 +1,7 @@
+Name: Baobao Yue Xuetang: Qimiao Wanhuatong
+Type: video.tv_show
+Episodes: 150
+Episode length: 1500
+Genres: Детское, Приключения, Комедия, 
+Rating limit: PG
+Description: Нет описания

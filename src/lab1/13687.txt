@@ -1,0 +1,10 @@
+Name: Komachi to Dangorou
+Type: video.tv_show
+Episodes: 4
+Episode length: 480
+Last episode date release: 2015-10-28
+Genres: Детское, Приключения, Комедия, Фантастика, 
+Rating limit: PG
+Rating: 5.11
+Rating numbers: 251
+Description: Маскоты города Нигата, Комати Ханано и Дангоро Саса, ищут камень, упавший с неба, а затем похищенный неизвестными.

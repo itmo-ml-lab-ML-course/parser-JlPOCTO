@@ -1,0 +1,6 @@
+Name: Ousama Ranking Movie
+Type: video.movie
+Episodes: 1
+Genres: Приключения, Фэнтези, 
+Rating limit: PG-13
+Description: Нет описания

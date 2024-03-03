@@ -1,0 +1,7 @@
+Name: Spy Penguin (ONA): White Christmas
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Приключения, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

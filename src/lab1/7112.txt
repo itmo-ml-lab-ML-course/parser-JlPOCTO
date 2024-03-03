@@ -1,0 +1,8 @@
+Name: Xiongmao Sanbao: Meng Chong Weishi
+Type: video.tv_show
+Episodes: 26
+Episode length: 780
+Last episode date release: 2020-01-01
+Genres: Детское, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

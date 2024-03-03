@@ -1,0 +1,9 @@
+Name: Knyacki!
+Type: video.tv_show
+Episodes: 45 / ?
+Episode length: 300
+Genres: Детское, Комедия, Драма, Фэнтези, 
+Rating limit: PG
+Rating: 6.21
+Rating numbers: 528
+Description: Нет описания

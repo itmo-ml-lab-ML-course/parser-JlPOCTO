@@ -1,0 +1,8 @@
+Name: Tobidase! Bacchiri
+Type: video.tv_show
+Episodes: 132
+Episode length: 600
+Last episode date release: 1967-04-15
+Genres: Детское, Комедия, Детектив, 
+Rating limit: PG
+Description: Нет описания

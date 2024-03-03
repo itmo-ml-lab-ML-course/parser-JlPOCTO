@@ -1,0 +1,9 @@
+Name: Bemubemu Hunter Kotengu Tenmaru
+Type: video.tv_show
+Episodes: 19
+Episode length: 1500
+Last episode date release: 1983-10-27
+Genres: Приключения, Фэнтези, 
+Rating: 6.29
+Rating numbers: 198
+Description: Нет описания

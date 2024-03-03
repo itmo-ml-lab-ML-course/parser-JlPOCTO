@@ -1,0 +1,9 @@
+Name: Hokuro Kyoudai Full Throttle!!!!
+Type: video.tv_show
+Episodes: 7
+Episode length: 300
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 4.8
+Rating numbers: 170
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: MILPOM★
+Type: video.tv_show
+Episodes: 6
+Episode length: 360
+Last episode date release: 2017-09-29
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 5.11
+Rating numbers: 462
+Description: Нет описания

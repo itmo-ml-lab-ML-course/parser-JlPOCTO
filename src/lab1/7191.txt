@@ -1,0 +1,8 @@
+Name: Yuan Shen Haojie
+Type: video.tv_show
+Episodes: 52
+Episode length: 660
+Last episode date release: 2022-06-20
+Genres: Экшен, Фантастика, 
+Rating limit: PG-13
+Description: Нет описания

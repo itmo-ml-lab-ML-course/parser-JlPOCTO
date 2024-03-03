@@ -1,0 +1,9 @@
+Name: Tekusuke Monogatari
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Исторический, 
+Rating limit: G
+Rating: 5.23
+Rating numbers: 255
+Description: Нет описания

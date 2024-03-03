@@ -1,0 +1,10 @@
+Name: Sukuwareru Ramiris
+Type: video.tv_show
+Episodes: 2
+Episode length: 180
+Last episode date release: 2022-07-21
+Genres: Комедия, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.52
+Rating numbers: 4491
+Description: Нет описания

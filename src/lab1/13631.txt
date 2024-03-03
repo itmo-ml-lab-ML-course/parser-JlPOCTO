@@ -1,0 +1,9 @@
+Name: Kataribe Shoujo Honoka
+Type: video.tv_show
+Episodes: 1
+Episode length: 600
+Genres: Повседневность, Сверхъестественное, 
+Rating limit: G
+Rating: 5.13
+Rating numbers: 271
+Description: Нет описания

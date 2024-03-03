@@ -1,0 +1,7 @@
+Name: Nagisa no Peppy
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: Музыка, 
+Rating limit: G
+Description: Нет описания

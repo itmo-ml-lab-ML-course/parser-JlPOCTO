@@ -1,0 +1,8 @@
+Name: Rokudou Juku
+Type: video.other
+Episodes: 1
+Genres: Музыка, 
+Rating limit: G
+Rating: 4.8
+Rating numbers: 251
+Description: Телевизионный рекламный ролик для школы Рокудо-дзюку, расположенной в Нэрима, Токио.

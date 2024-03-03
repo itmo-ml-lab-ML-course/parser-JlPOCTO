@@ -1,0 +1,6 @@
+Name: Nekoronde ID
+Type: video.other
+Episodes: 4
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

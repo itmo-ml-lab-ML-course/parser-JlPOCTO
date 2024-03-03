@@ -1,0 +1,10 @@
+Name: Cinderella Boy
+Type: video.tv_show
+Episodes: 13
+Episode length: 1500
+Last episode date release: 2003-09-13
+Genres: Сэйнэн, Экшен, Приключения, Комедия, Детектив, 
+Rating limit: PG-13
+Rating: 6.29
+Rating numbers: 745
+Description: Нет описания

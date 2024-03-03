@@ -1,0 +1,9 @@
+Name: Kyouryuu Shoujo Gauko
+Type: video.tv_show
+Episodes: 20
+Episode length: 420
+Genres: Комедия, Супер сила, 
+Rating limit: G
+Rating: 6.25
+Rating numbers: 271
+Description: Нет описания

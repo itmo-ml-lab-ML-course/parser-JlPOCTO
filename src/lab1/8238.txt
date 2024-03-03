@@ -1,0 +1,7 @@
+Name: Du Mu Qiao
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

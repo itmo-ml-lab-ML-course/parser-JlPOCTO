@@ -1,0 +1,9 @@
+Name: Kagami
+Type: video.movie
+Episodes: 1
+Episode length: 720
+Genres: Романтика, 
+Rating limit: G
+Rating: 5.24
+Rating numbers: 227
+Description: Нет описания

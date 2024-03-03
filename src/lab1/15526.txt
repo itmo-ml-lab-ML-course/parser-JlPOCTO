@@ -1,0 +1,8 @@
+Name: Poten Dogs Season 2
+Type: video.tv_show
+Episodes: 18
+Episode length: 540
+Last episode date release: 2021-07-02
+Genres: Экшен, Фантастика, Супер сила, Детское, 
+Rating limit: PG
+Description: Нет описания

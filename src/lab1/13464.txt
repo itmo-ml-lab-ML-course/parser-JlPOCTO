@@ -1,0 +1,10 @@
+Name: Qiang Niang
+Type: video.tv_show
+Episodes: 12
+Episode length: 840
+Last episode date release: 2017-10-27
+Genres: Экшен, Комедия, Фантастика, Повседневность, Военное, Космос, 
+Rating limit: PG-13
+Rating: 5.23
+Rating numbers: 296
+Description: Нет описания

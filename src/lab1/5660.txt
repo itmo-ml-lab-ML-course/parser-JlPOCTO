@@ -1,0 +1,7 @@
+Name: Sinbi Apateu Movie: Haneuldokkaebi Dae Yoleumungandeu
+Type: video.movie
+Episodes: 1
+Episode length: 5820
+Genres: Детектив, Сверхъестественное, Детское, 
+Rating limit: G
+Description: Нет описания

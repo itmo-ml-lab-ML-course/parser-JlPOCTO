@@ -1,0 +1,10 @@
+Name: Onara Gorou
+Type: video.tv_show
+Episodes: 13
+Episode length: 180
+Last episode date release: 2016-09-24
+Genres: Комедия, 
+Rating limit: PG
+Rating: 5.53
+Rating numbers: 2287
+Description: Мистер Горо — самый замечательный пук из всех возможных. Он поможет решить все Ваши проблемы всеми возможными путями... которыми способен решать пук.

@@ -1,0 +1,7 @@
+Name: Xingji Xiao Mayi: Gongyi Pian
+Type: video.tv_show
+Episodes: 48
+Episode length: 60
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

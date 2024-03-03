@@ -1,0 +1,10 @@
+Name: Neon The Animation
+Type: video.tv_show
+Episodes: 6
+Episode length: 300
+Last episode date release: 2015-04-03
+Genres: Комедия, Повседневность, Исторический, Меха, Полиция, 
+Rating limit: G
+Rating: 5.17
+Rating numbers: 332
+Description: Рекламные анимационные видеоролики о развлекательном торговом районе Осаки — Ниппомбаси, снятые с участием талисманов района — Неон-тян и её сестрой Хикари-тян.

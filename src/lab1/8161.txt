@@ -1,0 +1,7 @@
+Name: Doron Coron
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Детское, Повседневность, 
+Rating limit: G
+Description: Нет описания

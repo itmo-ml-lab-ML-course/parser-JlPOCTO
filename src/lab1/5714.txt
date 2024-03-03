@@ -1,0 +1,9 @@
+Name: Yasashii Kinyoubi
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, 
+Rating limit: R+
+Rating: 3.68
+Rating numbers: 376
+Description: Нет описания

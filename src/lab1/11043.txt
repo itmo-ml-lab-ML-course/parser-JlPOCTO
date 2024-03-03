@@ -1,0 +1,10 @@
+Name: Dondon Dommel to Ron
+Type: video.tv_show
+Episodes: 52
+Episode length: 1500
+Last episode date release: 1989-03-27
+Genres: Детское, Комедия, 
+Rating limit: G
+Rating: 6.63
+Rating numbers: 212
+Description: Нет описания

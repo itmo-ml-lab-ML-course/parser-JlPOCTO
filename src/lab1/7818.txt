@@ -1,0 +1,7 @@
+Name: Chunfen
+Type: video.movie
+Episodes: 1
+Episode length: 420
+Genres: Безумие, Триллер, 
+Rating limit: PG-13
+Description: Нет описания

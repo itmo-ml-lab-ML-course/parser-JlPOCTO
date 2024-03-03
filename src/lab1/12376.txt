@@ -1,0 +1,10 @@
+Name: Kurenai Sanshirou
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 1969-09-24
+Genres: Экшен, Спорт, Боевые искусства, 
+Rating limit: PG-13
+Rating: 6.38
+Rating numbers: 368
+Description: Нет описания

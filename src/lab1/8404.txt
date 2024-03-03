@@ -1,0 +1,7 @@
+Name: Fettu to Ccine to Gummi Seijin
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

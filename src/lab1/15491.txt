@@ -1,0 +1,7 @@
+Name: Pole Princess!! Movie
+Type: video.movie
+Episodes: 1
+Episode length: 4500
+Genres: 
+Rating limit: PG-13
+Description: Нет описания

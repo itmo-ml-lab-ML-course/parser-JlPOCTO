@@ -1,0 +1,9 @@
+Name: Tiger &amp; Bunny 2 Part 2
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Genres: Экшен, Комедия, Детектив, Супер сила, 
+Rating limit: PG-13
+Rating: 7.51
+Rating numbers: 1367
+Description: Нет описания

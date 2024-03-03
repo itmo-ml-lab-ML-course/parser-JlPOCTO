@@ -1,0 +1,7 @@
+Name: The Mob
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

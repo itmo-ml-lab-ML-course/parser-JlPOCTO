@@ -1,0 +1,9 @@
+Name: Asylum Session
+Type: video.movie
+Episodes: 1
+Episode length: 3900
+Genres: Сэйнэн, Фантастика, 
+Rating limit: R-17
+Rating: 4.87
+Rating numbers: 1445
+Description: Нет описания

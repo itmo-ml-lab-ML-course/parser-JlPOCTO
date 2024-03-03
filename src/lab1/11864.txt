@@ -1,0 +1,9 @@
+Name: SSSS.Dynazenon Movie
+Type: video.movie
+Episodes: 1
+Episode length: 7260
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.49
+Rating numbers: 627
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Li Shi Zhentan Shiwusuo: A Day in Lungmen
+Type: video.tv_show
+Episodes: 6
+Episode length: 600
+Last episode date release: 2023-02-03
+Genres: Комедия, Детектив, 
+Rating limit: PG-13
+Rating: 6.52
+Rating numbers: 1850
+Description: Нет описания

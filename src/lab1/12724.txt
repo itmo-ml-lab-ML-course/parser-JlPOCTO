@@ -1,0 +1,10 @@
+Name: Hei Mao Jing Zhang
+Type: video.tv_show
+Episodes: 5
+Episode length: 1080
+Last episode date release: 1984-12-01
+Genres: Детское, Экшен, Приключения, Комедия, Машины, Полиция, 
+Rating limit: PG
+Rating: 5.51
+Rating numbers: 248
+Description: Нет описания

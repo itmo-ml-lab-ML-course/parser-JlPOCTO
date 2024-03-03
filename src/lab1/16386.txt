@@ -1,0 +1,5 @@
+Name: #Compass 2.0: Sentou Setsuri Kaiseki System
+Type: video.tv_show
+Episodes: 1
+Genres: 
+Description: Нет описания

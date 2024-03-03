@@ -1,0 +1,9 @@
+Name: Kiseki
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 4.6
+Rating numbers: 320
+Description: Нет описания

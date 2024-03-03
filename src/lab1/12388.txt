@@ -1,0 +1,10 @@
+Name: Chao Zhi Neng Zu Qiu
+Type: video.tv_show
+Episodes: 52
+Episode length: 1320
+Last episode date release: 2014-06-10
+Genres: Комедия, Спорт, 
+Rating limit: G
+Rating: 6.38
+Rating numbers: 234
+Description: Нет описания

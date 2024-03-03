@@ -1,0 +1,7 @@
+Name: Mikan Seijin Arawaru
+Type: video.tv_show
+Episodes: 58
+Last episode date release: 2017-09-29
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

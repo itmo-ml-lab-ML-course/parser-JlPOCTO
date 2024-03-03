@@ -1,0 +1,7 @@
+Name: Heroes: Battle Disk Densetsu
+Type: video.tv_show
+Episodes: 26
+Episode length: 1380
+Genres: Фантастика, Меха, 
+Rating limit: G
+Description: Нет описания

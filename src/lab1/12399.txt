@@ -1,0 +1,9 @@
+Name: Etotama: Nyankyaku Banrai
+Type: video.tv_show
+Episodes: 1
+Episode length: 1680
+Genres: Экшен, Комедия, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.38
+Rating numbers: 1360
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Kyokou Uranai
+Type: video.tv_show
+Episodes: 12
+Last episode date release: 2020-04-03
+Genres: Сверхъестественное, 
+Rating limit: G
+Rating: 6.08
+Rating numbers: 2042
+Description: Нет описания

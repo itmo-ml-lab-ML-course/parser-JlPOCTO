@@ -1,0 +1,7 @@
+Name: Binggan Jing Zhang
+Type: video.tv_show
+Episodes: 104
+Episode length: 780
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

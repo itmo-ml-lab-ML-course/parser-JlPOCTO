@@ -1,0 +1,10 @@
+Name: Chouriki Robo Galatt
+Type: video.tv_show
+Episodes: 25
+Episode length: 1500
+Last episode date release: 1985-04-05
+Genres: Экшен, Приключения, Комедия, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.54
+Rating numbers: 204
+Description: Нет описания

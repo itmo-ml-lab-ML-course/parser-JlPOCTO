@@ -1,0 +1,8 @@
+Name: Ousama Monogatari
+Type: video.tv_show
+Episodes: 11
+Episode length: 300
+Last episode date release: 2018-11-30
+Genres: Детское, Приключения, 
+Rating limit: G
+Description: Нет описания

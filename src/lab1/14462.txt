@@ -1,0 +1,7 @@
+Name: Maomao Wang Xingqiu Xunbao
+Type: video.tv_show
+Episodes: 26
+Episode length: 780
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

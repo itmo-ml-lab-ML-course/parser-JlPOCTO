@@ -1,0 +1,8 @@
+Name: Dot Bit Retro: Boku Dake no Kusoge
+Type: video.tv_show
+Episodes: 10
+Episode length: 420
+Last episode date release: 2018-08-10
+Genres: Комедия, Фэнтези, Повседневность, 
+Rating limit: G
+Description: Нет описания

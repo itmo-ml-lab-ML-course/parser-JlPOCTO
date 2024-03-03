@@ -1,0 +1,10 @@
+Name: Ashita e Attack!
+Type: video.tv_show
+Episodes: 23
+Episode length: 1440
+Last episode date release: 1977-09-05
+Genres: Драма, Спорт, Школа, 
+Rating limit: PG-13
+Rating: 6.35
+Rating numbers: 376
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Ling Yu 2nd Season
+Type: video.tv_show
+Episodes: 10
+Episode length: 840
+Last episode date release: 2016-04-21
+Genres: Фэнтези, 
+Rating limit: PG-13
+Rating: 6.56
+Rating numbers: 1527
+Description: Нет описания

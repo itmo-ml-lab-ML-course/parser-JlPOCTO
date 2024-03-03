@@ -1,0 +1,9 @@
+Name: Genius Party Beyond
+Type: video.movie
+Episodes: 5
+Episode length: 960
+Genres: Безумие, Фэнтези, Фантастика, Музыка, 
+Rating limit: R-17
+Rating: 7.17
+Rating numbers: 3852
+Description: Продолжение серии короткометражных фильмов Genius Party. Включает в себя произведения, не вошедшие в оригинальный сборник.1. Gala (Махиро Маэда)2. Moondrive (Кадзуто Накадзава)3. Wanwa the Puppy (Синъя Охира)4. Tojin Kit (Тацуюки Танака) 5. Dimension Bomb (Кодзи Моримото)

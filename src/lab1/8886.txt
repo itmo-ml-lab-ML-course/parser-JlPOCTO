@@ -1,0 +1,8 @@
+Name: Hello Carbot Season 12
+Type: video.tv_show
+Episodes: 39
+Episode length: 660
+Last episode date release: 2023-03-26
+Genres: Экшен, Меха, Детское, 
+Rating limit: PG
+Description: Нет описания

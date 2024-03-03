@@ -1,0 +1,9 @@
+Name: Wushen Zhuzai
+Type: video.tv_show
+Episodes: 400 / 496
+Episode length: 480
+Genres: Экшен, Драма, Фэнтези, Исторический, Боевые искусства, 
+Rating limit: PG-13
+Rating: 7.38
+Rating numbers: 2704
+Description: Нет описания

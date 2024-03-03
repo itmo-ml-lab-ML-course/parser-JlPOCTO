@@ -1,0 +1,7 @@
+Name: Chel-in sacheon-wang
+Type: video.movie
+Episodes: 1
+Episode length: 4500
+Genres: Экшен, Фантастика, 
+Rating limit: PG-13
+Description: Нет описания

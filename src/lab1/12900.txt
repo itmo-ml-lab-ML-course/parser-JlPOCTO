@@ -1,0 +1,9 @@
+Name: Gattai Robot Atranger
+Type: video.other
+Episodes: 1
+Episode length: 780
+Genres: Меха, 
+Rating limit: PG-13
+Rating: 5.45
+Rating numbers: 169
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Geunyeoneun Yeppeotda
+Type: video.movie
+Episodes: 1
+Episode length: 5640
+Genres: Комедия, Драма, Романтика, 
+Rating limit: R-17
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Guo Guo Biedongdui
+Type: video.tv_show
+Episodes: 26
+Episode length: 360
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

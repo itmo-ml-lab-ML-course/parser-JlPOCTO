@@ -1,0 +1,8 @@
+Name: Kihei Senki Legacies
+Type: video.tv_show
+Episodes: 1
+Genres: Фэнтези, Меха, 
+Rating limit: G
+Rating: 4.36
+Rating numbers: 230
+Description: Нет описания

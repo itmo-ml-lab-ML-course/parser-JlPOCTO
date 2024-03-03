@@ -1,0 +1,10 @@
+Name: Jian Xian Zai Ci
+Type: video.tv_show
+Episodes: 36
+Episode length: 720
+Last episode date release: 2022-09-21
+Genres: Экшен, Комедия, Фэнтези, Боевые искусства, Школа, 
+Rating limit: PG-13
+Rating: 6.24
+Rating numbers: 727
+Description: Нет описания

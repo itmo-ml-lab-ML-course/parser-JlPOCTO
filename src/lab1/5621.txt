@@ -1,0 +1,6 @@
+Name: Shuo Guo Lei Lei
+Type: video.tv_show
+Episodes: 26
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

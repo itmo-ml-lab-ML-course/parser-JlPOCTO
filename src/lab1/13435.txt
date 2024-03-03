@@ -1,0 +1,9 @@
+Name: Ari-chan
+Type: video.movie
+Episodes: 1
+Episode length: 660
+Genres: Комедия, Музыка, 
+Rating limit: G
+Rating: 5.24
+Rating numbers: 289
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Armored Core: Fort Tower Song
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 4.52
+Rating numbers: 305
+Description: Нет описания

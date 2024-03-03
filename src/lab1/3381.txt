@@ -1,0 +1,10 @@
+Name: Sasuga no Sarutobi
+Type: video.tv_show
+Episodes: 69
+Episode length: 1500
+Last episode date release: 1984-03-11
+Genres: Экшен, Приключения, Комедия, Романтика, Спорт, Боевые искусства, 
+Rating limit: G
+Rating: 7.08
+Rating numbers: 307
+Description: Нет описания

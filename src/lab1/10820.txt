@@ -1,0 +1,10 @@
+Name: Xiaoke de Huatu Xie Hua
+Type: video.tv_show
+Episodes: 12
+Episode length: 240
+Last episode date release: 2023-01-05
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.85
+Rating numbers: 803
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Chuanyue Shihun De Lilian
+Type: video.tv_show
+Episodes: 6
+Episode length: 240
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

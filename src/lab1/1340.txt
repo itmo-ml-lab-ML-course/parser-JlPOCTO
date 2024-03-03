@@ -1,0 +1,9 @@
+Name: Manga de Wakaru! Fate/Grand Order
+Type: video.other
+Episodes: 1
+Episode length: 840
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 7.63
+Rating numbers: 5918
+Description: Экранизация нескольких глав манги «Судьба/Великий приказ: В манге всё яснее!» от иллюстратора Riyo, изначально являвшейся веб-мангой, выходящей на официальном сайте игры и посвящённой высмеиванию внутриигровых механик, гачи, технических неполадок и других неотъемлемых составляющих игры «Fate/Grand Order».

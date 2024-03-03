@@ -1,0 +1,10 @@
+Name: High School Agent
+Type: video.other
+Episodes: 2
+Episode length: 1680
+Last episode date release: 1987-10-02
+Genres: Экшен, Драма, Военное, 
+Rating limit: PG-13
+Rating: 5.4
+Rating numbers: 467
+Description: Нет описания

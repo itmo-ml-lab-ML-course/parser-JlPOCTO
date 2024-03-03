@@ -1,0 +1,10 @@
+Name: Funny Pets 2nd Season
+Type: video.tv_show
+Episodes: 12
+Episode length: 360
+Last episode date release: 2006-12-25
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 5.53
+Rating numbers: 195
+Description: Нет описания

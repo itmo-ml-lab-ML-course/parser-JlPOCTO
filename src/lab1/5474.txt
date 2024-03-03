@@ -1,0 +1,9 @@
+Name: An Expression
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, 
+Rating limit: G
+Rating: 3.92
+Rating numbers: 268
+Description: Нет описания

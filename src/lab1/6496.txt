@@ -1,0 +1,7 @@
+Name: Wang Zi Quan Zhidao
+Type: video.tv_show
+Episodes: 75
+Episode length: 120
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

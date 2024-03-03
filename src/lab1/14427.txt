@@ -1,0 +1,9 @@
+Name: The Bathroom
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Безумие, Комедия, 
+Rating limit: R-17
+Rating: 4.18
+Rating numbers: 478
+Description: Нет описания

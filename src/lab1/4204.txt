@@ -1,0 +1,9 @@
+Name: Nanatsu no Umi no Tico Specials
+Type: video.other
+Episodes: 2
+Episode length: 2700
+Genres: Приключения, Повседневность, 
+Rating limit: G
+Rating: 6.21
+Rating numbers: 220
+Description: Нет описания

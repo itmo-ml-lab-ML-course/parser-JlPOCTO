@@ -1,0 +1,10 @@
+Name: Futari Daka
+Type: video.tv_show
+Episodes: 36
+Episode length: 1500
+Last episode date release: 1985-07-12
+Genres: Сёнен, Спорт, Машины, 
+Rating limit: G
+Rating: 6.06
+Rating numbers: 261
+Description: Нет описания

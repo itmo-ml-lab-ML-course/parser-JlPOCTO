@@ -1,0 +1,8 @@
+Name: Brave Fire S0.9
+Type: video.other
+Episodes: 1
+Episode length: 360
+Genres: Фантастика, Меха, 
+Rating: 5.08
+Rating numbers: 253
+Description: Нет описания

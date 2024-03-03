@@ -1,0 +1,7 @@
+Name: Tensai Bakabon Pilot
+Type: video.other
+Episodes: 1
+Episode length: 840
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Choro Q Dagram
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Экшен, Комедия, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 5.32
+Rating numbers: 336
+Description: Нет описания

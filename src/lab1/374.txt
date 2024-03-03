@@ -1,0 +1,9 @@
+Name: Stand By Me Doraemon 2
+Type: video.movie
+Episodes: 1
+Episode length: 5700
+Genres: Комедия, Фантастика, 
+Rating limit: PG
+Rating: 8.18
+Rating numbers: 797
+Description: Нет описания

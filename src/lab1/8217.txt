@@ -1,0 +1,7 @@
+Name: Douya Xiansheng
+Type: video.tv_show
+Episodes: 10
+Episode length: 660
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Saishuu Shiken Kujira
+Type: video.tv_show
+Episodes: 12
+Episode length: 300
+Last episode date release: 2007-11-10
+Genres: Комедия, Детектив, Сверхъестественное, Этти, Школа, 
+Rating limit: PG-13
+Rating: 4.96
+Rating numbers: 737
+Description: Нет описания

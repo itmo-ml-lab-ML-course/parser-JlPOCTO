@@ -1,0 +1,10 @@
+Name: Yume Senshi Wingman
+Type: video.tv_show
+Episodes: 47
+Episode length: 1440
+Last episode date release: 1985-02-26
+Genres: Экшен, Комедия, Романтика, Школа, Супер сила, 
+Rating limit: R+
+Rating: 7.08
+Rating numbers: 392
+Description: Нет описания

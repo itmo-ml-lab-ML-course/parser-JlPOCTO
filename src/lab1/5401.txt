@@ -1,0 +1,10 @@
+Name: 6 Angels
+Type: video.tv_show
+Episodes: 6
+Episode length: 900
+Last episode date release: 2002-07-06
+Genres: Экшен, Фантастика, 
+Rating limit: R+
+Rating: 4.32
+Rating numbers: 381
+Description: Нет описания

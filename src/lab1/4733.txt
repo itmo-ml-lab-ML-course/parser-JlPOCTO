@@ -1,0 +1,9 @@
+Name: Bao Lian Deng
+Type: video.movie
+Episodes: 1
+Episode length: 5100
+Genres: Экшен, Приключения, Фэнтези, 
+Rating limit: G
+Rating: 6.1
+Rating numbers: 222
+Description: Нет описания

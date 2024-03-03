@@ -1,0 +1,7 @@
+Name: Cha A Er Zhong: Pao Mian Fan
+Type: video.tv_show
+Episodes: 21
+Episode length: 180
+Genres: Детское, Комедия, Школа, 
+Rating limit: G
+Description: Нет описания

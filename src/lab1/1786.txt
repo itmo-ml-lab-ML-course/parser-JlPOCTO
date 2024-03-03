@@ -1,0 +1,9 @@
+Name: Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen
+Type: video.other
+Episodes: 1
+Episode length: 1440
+Genres: Экшен, Ужасы, Детектив, Психологическое, 
+Rating limit: R-17
+Rating: 7.41
+Rating numbers: 28360
+Description: Специальный эпизод, завершающий основную сюжетную линию оригинального аниме «Данганронпа 3: Конец школы надежды — Будущее».

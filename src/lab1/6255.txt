@@ -1,0 +1,7 @@
+Name: Ttoli Janggun
+Type: video.movie
+Episodes: 1
+Episode length: 4500
+Genres: Экшен, Драма, 
+Rating limit: PG
+Description: Нет описания

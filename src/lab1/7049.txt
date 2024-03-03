@@ -1,0 +1,7 @@
+Name: Yaoguai Senlin
+Type: video.movie
+Episodes: 1
+Episode length: 4800
+Genres: Приключения, Фэнтези, 
+Rating limit: PG-13
+Description: Нет описания

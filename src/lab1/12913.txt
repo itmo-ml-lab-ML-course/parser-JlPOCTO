@@ -1,0 +1,9 @@
+Name: Fushigi na Taiko
+Type: video.movie
+Episodes: 1
+Episode length: 1080
+Genres: Детское, 
+Rating limit: G
+Rating: 5.44
+Rating numbers: 239
+Description: Нет описания

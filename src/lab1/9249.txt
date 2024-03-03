@@ -1,0 +1,9 @@
+Name: Tian Guan Cifu Special
+Type: video.tv_show
+Episodes: 1
+Episode length: 1260
+Genres: Экшен, Приключения, Драма, Фэнтези, Исторический, 
+Rating limit: PG-13
+Rating: 8.32
+Rating numbers: 13591
+Description: Нет описания

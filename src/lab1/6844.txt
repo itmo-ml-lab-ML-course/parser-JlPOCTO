@@ -1,0 +1,7 @@
+Name: Xiao Xiong De Lu Xing
+Type: video.movie
+Episodes: 1
+Episode length: 1080
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

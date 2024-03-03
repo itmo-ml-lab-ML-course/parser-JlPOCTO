@@ -1,0 +1,7 @@
+Name: Tamagotchi Movie: Tanpen Himitsu no Otodoke Daisakusen!
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Детское, Машины, 
+Rating limit: G
+Description: Нет описания

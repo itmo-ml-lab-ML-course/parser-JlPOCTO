@@ -1,0 +1,7 @@
+Name: He De Chuanshuo
+Type: video.movie
+Episodes: 1
+Episode length: 1200
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

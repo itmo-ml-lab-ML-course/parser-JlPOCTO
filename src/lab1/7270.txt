@@ -1,0 +1,7 @@
+Name: Bakeneko Dance
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Фэнтези, Музыка, 
+Rating limit: PG-13
+Description: Нет описания

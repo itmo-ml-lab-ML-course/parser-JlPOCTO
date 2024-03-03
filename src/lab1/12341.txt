@@ -1,0 +1,10 @@
+Name: Choujin Sentai Baratack
+Type: video.tv_show
+Episodes: 31
+Episode length: 1500
+Last episode date release: 1978-03-05
+Genres: Приключения, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.39
+Rating numbers: 270
+Description: Нет описания

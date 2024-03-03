@@ -1,0 +1,7 @@
+Name: Mei Shaonu Da Picha 3rd Season
+Type: video.tv_show
+Episodes: 17
+Episode length: 240
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

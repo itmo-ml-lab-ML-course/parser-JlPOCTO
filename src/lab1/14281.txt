@@ -1,0 +1,9 @@
+Name: Maabou no Daikyousou
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: Комедия, Спорт, 
+Rating limit: G
+Rating: 4.56
+Rating numbers: 319
+Description: Мальчик участвует в различных соревнованиях во время Олимпийских игр.

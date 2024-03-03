@@ -1,0 +1,10 @@
+Name: Hello! Lady Lynn
+Type: video.tv_show
+Episodes: 36
+Episode length: 1440
+Last episode date release: 1989-01-26
+Genres: Сёдзё, Драма, 
+Rating limit: G
+Rating: 7.51
+Rating numbers: 722
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Hell Target
+Type: video.other
+Episodes: 1
+Episode length: 3000
+Genres: Ужасы, Фантастика, Космос, 
+Rating limit: R-17
+Rating: 4.55
+Rating numbers: 483
+Description: Нет описания

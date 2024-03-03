@@ -1,0 +1,9 @@
+Name: New Initial D Movie: Battle Digest
+Type: video.other
+Episodes: 1
+Episode length: 2820
+Genres: Сэйнэн, 
+Rating limit: PG-13
+Rating: 7.38
+Rating numbers: 2098
+Description: Компиляция фильмов Новый инициал Ди: Легенда первая, Новый инициал Ди: Легенда вторая и Новый инициал Ди: Легенда третья.

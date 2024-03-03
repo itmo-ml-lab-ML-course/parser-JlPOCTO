@@ -1,0 +1,9 @@
+Name: Wonder Egg Priority: Watashi no Priority
+Type: video.other
+Episodes: 1
+Episode length: 2760
+Genres: Драма, Фэнтези, Психологическое, 
+Rating limit: R-17
+Rating: 5.13
+Rating numbers: 13469
+Description: Специальный эпизод, содержащий в себе краткий пересказ аниме-сериала «Приоритет чудо-яйца» и дополнительный материал, завершающий историю.

@@ -1,0 +1,9 @@
+Name: Kamiusagi Rope x Boruto: Naruto Next Generations
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.49
+Rating numbers: 3270
+Description: Короткий рекламный ролик, представляющий из себя коллаборацию аниме-сериалов «Боруто: Новое поколение Наруто», «Бумажный кролик» и сети кинотеатров TOHO Cinemas. Приурочен к открытию нового театра в Уэно.

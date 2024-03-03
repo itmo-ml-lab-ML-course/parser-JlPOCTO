@@ -1,0 +1,9 @@
+Name: Sazae-san
+Type: video.tv_show
+Episodes: 2553 / ?
+Episode length: 1440
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Rating: 6.13
+Rating numbers: 1092
+Description: Нет описания

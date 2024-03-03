@@ -1,0 +1,9 @@
+Name: Master of Torque 3
+Type: video.tv_show
+Episodes: 1
+Episode length: 1200
+Genres: Экшен, Фантастика, 
+Rating limit: G
+Rating: 4.88
+Rating numbers: 391
+Description: Нет описания

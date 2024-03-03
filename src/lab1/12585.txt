@@ -1,0 +1,10 @@
+Name: Gowapper 5 Gordam
+Type: video.tv_show
+Episodes: 36
+Episode length: 1440
+Last episode date release: 1976-12-29
+Genres: Экшен, Приключения, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.34
+Rating numbers: 263
+Description: Нет описания

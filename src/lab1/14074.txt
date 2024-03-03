@@ -1,0 +1,9 @@
+Name: Columbos
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Драма, Детектив, Полиция, 
+Rating limit: G
+Rating: 4.8
+Rating numbers: 239
+Description: Нет описания

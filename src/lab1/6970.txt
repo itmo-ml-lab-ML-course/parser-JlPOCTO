@@ -1,0 +1,7 @@
+Name: Xing Da Xing Donghua Xilie Zhi Huanle Xiu
+Type: video.tv_show
+Episodes: 18
+Episode length: 660
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

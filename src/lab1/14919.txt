@@ -1,0 +1,7 @@
+Name: My Exercise
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Безумие, Комедия, 
+Rating limit: PG-13
+Description: Нет описания

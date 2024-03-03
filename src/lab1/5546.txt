@@ -1,0 +1,9 @@
+Name: Aki no Puzzle
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Безумие, 
+Rating limit: R+
+Rating: 2.38
+Rating numbers: 338
+Description: Нет описания

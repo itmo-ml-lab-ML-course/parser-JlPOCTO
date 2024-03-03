@@ -1,0 +1,10 @@
+Name: Bokura no Ame-iro Protocol
+Type: video.tv_show
+Episodes: 12
+Episode length: 1380
+Last episode date release: 2023-12-24
+Genres: Экшен, 
+Rating limit: PG-13
+Rating: 6.12
+Rating numbers: 5217
+Description: Нет описания

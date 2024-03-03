@@ -1,0 +1,9 @@
+Name: Xiao Qian
+Type: video.movie
+Episodes: 1
+Episode length: 5040
+Genres: Экшен, Драма, Фэнтези, Романтика, 
+Rating limit: PG
+Rating: 6.36
+Rating numbers: 493
+Description: Нет описания

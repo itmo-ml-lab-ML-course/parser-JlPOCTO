@@ -1,0 +1,9 @@
+Name: Frypan Jiisan
+Type: video.movie
+Episodes: 1
+Episode length: 1260
+Genres: Детское, Приключения, 
+Rating limit: G
+Rating: 5.45
+Rating numbers: 192
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Tsuru ga Mau Yoru ni
+Type: video.tv_show
+Episodes: 1
+Episode length: 600
+Genres: Фэнтези, 
+Rating limit: G
+Description: Нет описания

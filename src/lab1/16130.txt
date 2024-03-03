@@ -1,0 +1,7 @@
+Name: Shei Shi Guanjun
+Type: video.movie
+Episodes: 1
+Episode length: 1020
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

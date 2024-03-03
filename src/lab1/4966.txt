@@ -1,0 +1,9 @@
+Name: Captain Movie
+Type: video.movie
+Episodes: 1
+Episode length: 5880
+Genres: Сёнен, Спорт, 
+Rating limit: G
+Rating: 6.06
+Rating numbers: 214
+Description: Нет описания

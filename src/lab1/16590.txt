@@ -1,0 +1,5 @@
+Name: Fureru.
+Type: video.movie
+Episodes: 1
+Genres: Драма, 
+Description: Нет описания

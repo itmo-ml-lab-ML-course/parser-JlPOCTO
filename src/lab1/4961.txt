@@ -1,0 +1,10 @@
+Name: An Jie Shen Shi
+Type: video.tv_show
+Episodes: 22
+Episode length: 1380
+Last episode date release: 2021-05-21
+Genres: Экшен, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.06
+Rating numbers: 882
+Description: Нет описания

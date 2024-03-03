@@ -1,0 +1,7 @@
+Name: Tian Qi Ri
+Type: video.tv_show
+Episodes: 1
+Episode length: 1140
+Genres: Экшен, Комедия, Фантастика, Супер сила, 
+Rating limit: PG-13
+Description: Нет описания

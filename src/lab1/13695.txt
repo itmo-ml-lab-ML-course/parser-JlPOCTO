@@ -1,0 +1,9 @@
+Name: Pole Princess!! Prologue
+Type: video.tv_show
+Episodes: 1
+Episode length: 360
+Genres: 
+Rating limit: PG-13
+Rating: 5.11
+Rating numbers: 500
+Description: Нет описания

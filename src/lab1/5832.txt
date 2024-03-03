@@ -1,0 +1,7 @@
+Name: Suijungenten​
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: 
+Rating limit: G
+Description: Нет описания

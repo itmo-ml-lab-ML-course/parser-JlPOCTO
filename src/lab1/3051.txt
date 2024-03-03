@@ -1,0 +1,10 @@
+Name: Kyoukai no Rinne 2nd Season
+Type: video.tv_show
+Episodes: 25
+Episode length: 1440
+Last episode date release: 2016-09-24
+Genres: Комедия, Сверхъестественное, Школа, Сёнен, 
+Rating limit: PG-13
+Rating: 7.15
+Rating numbers: 4624
+Description: Нет описания

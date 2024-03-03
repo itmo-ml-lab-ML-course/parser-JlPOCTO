@@ -1,0 +1,7 @@
+Name: Sentou Yousei Yukikaze: Experimental Movie
+Type: video.other
+Episodes: 1
+Episode length: 300
+Genres: Экшен, Фантастика, Военное, 
+Rating limit: PG-13
+Description: Нет описания

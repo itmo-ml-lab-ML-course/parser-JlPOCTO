@@ -1,0 +1,7 @@
+Name: Fu Wu Shu: Zhanguo Fengyun
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Super Zugan
+Type: video.tv_show
+Episodes: 21
+Episode length: 1500
+Last episode date release: 1993-03-13
+Genres: Сёнен, Комедия, Игры, 
+Rating limit: PG-13
+Rating: 6.29
+Rating numbers: 233
+Description: Нет описания

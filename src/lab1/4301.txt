@@ -1,0 +1,8 @@
+Name: Cosmos Trailer
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Повседневность, Музыка, 
+Rating: 6.19
+Rating numbers: 656
+Description: Нет описания

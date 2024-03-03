@@ -1,0 +1,7 @@
+Name: Nar Doma Special
+Type: video.other
+Episodes: 1
+Episode length: 300
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

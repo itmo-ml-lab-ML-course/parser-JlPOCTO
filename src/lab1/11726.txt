@@ -1,0 +1,9 @@
+Name: Sorairo Utility
+Type: video.other
+Episodes: 1
+Episode length: 840
+Genres: Спорт, 
+Rating limit: PG-13
+Rating: 6.51
+Rating numbers: 1479
+Description: Нет описания

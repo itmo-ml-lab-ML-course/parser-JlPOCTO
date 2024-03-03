@@ -1,0 +1,9 @@
+Name: The Place Where We Were
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Безумие, 
+Rating limit: R+
+Rating: 5.54
+Rating numbers: 306
+Description: Нет описания

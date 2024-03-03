@@ -1,0 +1,9 @@
+Name: Urarochi Diamond
+Type: video.other
+Episodes: 1
+Episode length: 2400
+Genres: Приключения, 
+Rating limit: PG-13
+Rating: 5.52
+Rating numbers: 680
+Description: Нет описания

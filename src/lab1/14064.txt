@@ -1,0 +1,10 @@
+Name: Love &amp; Gift
+Type: video.tv_show
+Episodes: 2
+Episode length: 60
+Last episode date release: 2015-11-10
+Genres: Повседневность, 
+Rating limit: G
+Rating: 4.81
+Rating numbers: 208
+Description: Нет описания

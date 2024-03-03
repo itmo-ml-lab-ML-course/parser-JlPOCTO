@@ -1,0 +1,9 @@
+Name: Roboteuwang Sseonsyakeu
+Type: video.movie
+Episodes: 1
+Episode length: 3780
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: PG
+Rating: 4.83
+Rating numbers: 179
+Description: Нет описания

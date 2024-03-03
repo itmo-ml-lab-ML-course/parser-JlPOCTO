@@ -1,0 +1,7 @@
+Name: Meiken Lassie Specials
+Type: video.other
+Episodes: 2
+Episode length: 2700
+Genres: Приключения, Повседневность, 
+Rating limit: G
+Description: Нет описания

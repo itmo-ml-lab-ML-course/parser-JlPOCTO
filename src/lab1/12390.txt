@@ -1,0 +1,10 @@
+Name: Chou Seimeitai Transformers Beast Wars Neo
+Type: video.tv_show
+Episodes: 35
+Episode length: 1380
+Last episode date release: 1999-09-29
+Genres: Сёнен, Экшен, Приключения, Меха, Космос, 
+Rating limit: G
+Rating: 6.38
+Rating numbers: 560
+Description: Нет описания

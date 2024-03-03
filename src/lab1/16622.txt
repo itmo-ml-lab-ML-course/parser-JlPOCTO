@@ -1,0 +1,6 @@
+Name: Kui Cheng Shoufu Cong Youxi Kaishi
+Type: video.tv_show
+Episodes: 1
+Genres: Комедия, Фэнтези, 
+Rating limit: PG-13
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Honobono Log
+Type: video.tv_show
+Episodes: 10
+Episode length: 120
+Last episode date release: 2016-06-18
+Genres: Романтика, Повседневность, 
+Rating limit: G
+Rating: 7.33
+Rating numbers: 15831
+Description: Аниме по книге с иллюстрациями Наки Фукамати о душевных ситуациях близких людей, романтических пар и семей.

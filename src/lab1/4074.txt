@@ -1,0 +1,9 @@
+Name: Dog Signal
+Type: video.tv_show
+Episodes: 11 / 20
+Episode length: 1500
+Genres: Повседневность, Дзёсей, 
+Rating limit: PG-13
+Rating: 6.23
+Rating numbers: 940
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: BOY&#39;s LOVE Nitro+CHiRAL
+Type: video.tv_show
+Episodes: 5
+Episode length: 240
+Genres: Комедия, Пародия, 
+Rating limit: G
+Rating: 4.86
+Rating numbers: 1404
+Description: Нет описания

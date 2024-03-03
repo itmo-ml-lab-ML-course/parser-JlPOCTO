@@ -1,0 +1,10 @@
+Name: Onipan!
+Type: video.tv_show
+Episodes: 60
+Episode length: 180
+Last episode date release: 2022-07-01
+Genres: Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 6.53
+Rating numbers: 2052
+Description: Нет описания

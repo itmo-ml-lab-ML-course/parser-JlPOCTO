@@ -1,0 +1,9 @@
+Name: Spy x Family Movie: Code: White
+Type: video.movie
+Episodes: 1
+Episode length: 6600
+Genres: Экшен, Комедия, Сёнен, 
+Rating limit: PG-13
+Rating: 7.65
+Rating numbers: 14310
+Description: Нет описания

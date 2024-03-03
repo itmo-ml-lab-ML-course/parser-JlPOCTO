@@ -1,0 +1,9 @@
+Name: Junod
+Type: video.movie
+Episodes: 1
+Episode length: 3840
+Genres: Драма, Исторический, 
+Rating limit: PG-13
+Rating: 6.18
+Rating numbers: 320
+Description: Нет описания

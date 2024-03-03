@@ -1,0 +1,6 @@
+Name: Manzai Taikouki
+Type: video.movie
+Episodes: 1
+Episode length: 6000
+Genres: Сэйнэн, Комедия, Исторический, 
+Description: Нет описания

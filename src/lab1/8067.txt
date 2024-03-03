@@ -1,0 +1,7 @@
+Name: Dica Tejing Dui: Di Xin Chuanqi
+Type: video.tv_show
+Episodes: 21
+Episode length: 900
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

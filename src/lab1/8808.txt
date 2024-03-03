@@ -1,0 +1,7 @@
+Name: Hantou no Tori
+Type: video.movie
+Episodes: 1
+Episode length: 900
+Genres: Безумие, 
+Rating limit: PG-13
+Description: Нет описания

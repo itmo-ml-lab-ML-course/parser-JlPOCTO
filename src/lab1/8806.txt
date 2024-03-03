@@ -1,0 +1,6 @@
+Name: Hannyashingyou
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Безумие, 
+Description: Нет описания

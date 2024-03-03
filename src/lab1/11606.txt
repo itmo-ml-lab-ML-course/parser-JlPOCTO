@@ -1,0 +1,10 @@
+Name: Extreme Hearts
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2022-09-25
+Genres: Спорт, Музыка, 
+Rating limit: PG-13
+Rating: 6.53
+Rating numbers: 1683
+Description: Нет описания

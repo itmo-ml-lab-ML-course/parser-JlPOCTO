@@ -1,0 +1,8 @@
+Name: Japanda
+Type: video.tv_show
+Episodes: 1
+Genres: Музыка, 
+Rating limit: G
+Rating: 4.9
+Rating numbers: 445
+Description: Нет описания

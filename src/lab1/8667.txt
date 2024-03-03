@@ -1,0 +1,7 @@
+Name: Guaidao Kongkong
+Type: video.tv_show
+Episodes: 12
+Episode length: 180
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

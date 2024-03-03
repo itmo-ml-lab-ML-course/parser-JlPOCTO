@@ -1,0 +1,9 @@
+Name: Out of My Mind
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Безумие, 
+Rating limit: G
+Rating: 5.51
+Rating numbers: 195
+Description: Нет описания

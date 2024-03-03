@@ -1,0 +1,9 @@
+Name: Meitantei Conan Movie 12: Senritsu no Full Score
+Type: video.movie
+Episodes: 1
+Episode length: 6960
+Genres: Сёнен, Приключения, Комедия, Детектив, Полиция, 
+Rating limit: PG-13
+Rating: 7.78
+Rating numbers: 2345
+Description: Нет описания

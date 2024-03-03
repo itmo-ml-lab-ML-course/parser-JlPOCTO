@@ -1,0 +1,7 @@
+Name: Xiaobao Bianxing Ji
+Type: video.tv_show
+Episodes: 25
+Episode length: 720
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

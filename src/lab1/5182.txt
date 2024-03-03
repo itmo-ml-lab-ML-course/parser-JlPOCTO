@@ -1,0 +1,10 @@
+Name: dMatsu-san
+Type: video.tv_show
+Episodes: 12
+Episode length: 60
+Last episode date release: 2018-03-27
+Genres: Комедия, Пародия, 
+Rating limit: PG-13
+Rating: 6.01
+Rating numbers: 1262
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Mellow
+Type: video.other
+Episodes: 1
+Episode length: 2640
+Genres: Сэйнэн, Комедия, Школа, 
+Rating limit: R+
+Rating: 5.38
+Rating numbers: 295
+Description: Нет описания

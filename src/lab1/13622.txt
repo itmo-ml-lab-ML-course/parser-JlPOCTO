@@ -1,0 +1,9 @@
+Name: Hentatsu (TV) Recap
+Type: video.other
+Episodes: 1
+Episode length: 60
+Genres: Приключения, Детектив, 
+Rating limit: G
+Rating: 5.14
+Rating numbers: 479
+Description: Краткий пересказ аниме-сериала «Хэнтацу».

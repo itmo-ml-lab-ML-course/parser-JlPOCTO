@@ -1,0 +1,7 @@
+Name: Xiao Fa Ming Jia
+Type: video.movie
+Episodes: 1
+Episode length: 900
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

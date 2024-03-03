@@ -1,0 +1,10 @@
+Name: Saikyou Robot Daiouja
+Type: video.tv_show
+Episodes: 50
+Episode length: 1440
+Last episode date release: 1982-01-30
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.5
+Rating numbers: 221
+Description: Нет описания

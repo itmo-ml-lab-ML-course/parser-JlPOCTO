@@ -1,0 +1,9 @@
+Name: Doraemon Movie 42: Nobita to Sora no Utopia
+Type: video.movie
+Episodes: 1
+Episode length: 6420
+Genres: Приключения, Комедия, Фантастика, 
+Rating limit: PG
+Rating: 7.24
+Rating numbers: 418
+Description: Нет описания

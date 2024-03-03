@@ -1,0 +1,10 @@
+Name: Bullbuster
+Type: video.tv_show
+Episodes: 12
+Episode length: 1380
+Last episode date release: 2023-12-20
+Genres: Экшен, Фантастика, Меха, Работа, 
+Rating limit: PG-13
+Rating: 6.17
+Rating numbers: 2359
+Description: Нет описания

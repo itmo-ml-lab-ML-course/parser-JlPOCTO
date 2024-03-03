@@ -1,0 +1,10 @@
+Name: au x Rope
+Type: video.tv_show
+Episodes: 3
+Episode length: 120
+Last episode date release: 2012-08-31
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Rating: 5.06
+Rating numbers: 230
+Description: Ещё одна рекламная коллаборация между аниме «Бумажный кролик» и японской компанией мобильных телефонов «au».

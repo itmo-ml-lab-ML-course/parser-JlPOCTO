@@ -1,0 +1,9 @@
+Name: Poron Guitar
+Type: video.movie
+Episodes: 1
+Episode length: 1560
+Genres: Детское, 
+Rating limit: G
+Rating: 5.16
+Rating numbers: 227
+Description: Нет описания

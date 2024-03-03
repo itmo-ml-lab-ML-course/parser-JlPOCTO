@@ -1,0 +1,9 @@
+Name: Air Recap
+Type: video.other
+Episodes: 1
+Episode length: 1320
+Genres: Драма, Романтика, Сверхъестественное, 
+Rating limit: PG-13
+Rating: 6.23
+Rating numbers: 1496
+Description: Эпизод-обобщение оригинальной истории «Высь».

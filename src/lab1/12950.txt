@@ -1,0 +1,10 @@
+Name: Fussa-shi PR Anime
+Type: video.tv_show
+Episodes: 2
+Episode length: 240
+Last episode date release: 2017-12-04
+Genres: Повседневность, 
+Rating limit: G
+Rating: 5.43
+Rating numbers: 493
+Description: Нет описания

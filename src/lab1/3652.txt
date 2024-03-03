@@ -1,0 +1,9 @@
+Name: Cyborg 009: Chou Ginga Densetsu
+Type: video.movie
+Episodes: 1
+Episode length: 7800
+Genres: Экшен, Фантастика, Космос, 
+Rating limit: PG-13
+Rating: 6.32
+Rating numbers: 663
+Description: Нет описания

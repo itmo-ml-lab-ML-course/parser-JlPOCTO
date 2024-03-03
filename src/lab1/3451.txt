@@ -1,0 +1,9 @@
+Name: Hinamatsuri
+Type: video.other
+Episodes: 1
+Episode length: 1080
+Genres: Детское, Исторический, 
+Rating limit: G
+Rating: 7.07
+Rating numbers: 227
+Description: Нет описания

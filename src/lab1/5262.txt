@@ -1,0 +1,9 @@
+Name: Haguregumo
+Type: video.movie
+Episodes: 1
+Episode length: 5460
+Genres: Сэйнэн, Комедия, Исторический, Самураи, 
+Rating limit: R+
+Rating: 6.0
+Rating numbers: 446
+Description: Нет описания

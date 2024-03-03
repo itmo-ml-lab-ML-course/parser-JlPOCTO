@@ -1,0 +1,9 @@
+Name: Pastel Kazoku
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.21
+Rating numbers: 147
+Description: Нет описания

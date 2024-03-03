@@ -1,0 +1,8 @@
+Name: Paniponi
+Type: video.tv_show
+Episodes: 48
+Episode length: 300
+Last episode date release: 2003-02-21
+Genres: Детское, Повседневность, 
+Rating limit: PG
+Description: Нет описания

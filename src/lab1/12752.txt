@@ -1,0 +1,9 @@
+Name: Life no Color
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Музыка, Школа, 
+Rating limit: G
+Rating: 5.5
+Rating numbers: 387
+Description: Нет описания

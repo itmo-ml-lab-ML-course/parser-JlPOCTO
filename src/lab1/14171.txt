@@ -1,0 +1,9 @@
+Name: Shashinki
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.72
+Rating numbers: 273
+Description: Нет описания

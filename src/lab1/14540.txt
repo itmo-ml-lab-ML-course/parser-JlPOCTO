@@ -1,0 +1,8 @@
+Name: Meisaku World
+Type: video.tv_show
+Episodes: 41
+Episode length: 1500
+Last episode date release: 1989-03-23
+Genres: Детское, Приключения, Фэнтези, Сверхъестественное, Исторический, 
+Rating limit: G
+Description: Нет описания

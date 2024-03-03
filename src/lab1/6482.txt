@@ -1,0 +1,8 @@
+Name: Wala! Pyeon-uijeom The Animation
+Type: video.tv_show
+Episodes: 24
+Episode length: 1440
+Last episode date release: 2010-04-02
+Genres: Повседневность, 
+Rating limit: G
+Description: Нет описания

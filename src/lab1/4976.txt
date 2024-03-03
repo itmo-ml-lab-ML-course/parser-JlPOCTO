@@ -1,0 +1,9 @@
+Name: Inga Nikki
+Type: video.tv_show
+Episodes: 10
+Last episode date release: 2011-12-22
+Genres: Пародия, 
+Rating limit: G
+Rating: 6.06
+Rating numbers: 3291
+Description: Нет описания

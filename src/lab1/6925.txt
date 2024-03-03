@@ -1,0 +1,7 @@
+Name: Xifan Shi Wan Ge Weisheme
+Type: video.tv_show
+Episodes: 100
+Episode length: 180
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

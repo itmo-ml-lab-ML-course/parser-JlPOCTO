@@ -1,0 +1,7 @@
+Name: Saru Getchu Movie: Ougon no Pipo Helmet - Ukki Battle
+Type: video.movie
+Episodes: 1
+Episode length: 1260
+Genres: Сёнен, Приключения, Комедия, 
+Rating limit: PG
+Description: Нет описания

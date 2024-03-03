@@ -1,0 +1,8 @@
+Name: Nohjima Jeongsinjul
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Last episode date release: 2014-09-05
+Genres: Комедия, Детское, 
+Rating limit: G
+Description: Нет описания

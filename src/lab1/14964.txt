@@ -1,0 +1,7 @@
+Name: Nan Fang Shao Nian
+Type: video.movie
+Episodes: 1
+Episode length: 2400
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

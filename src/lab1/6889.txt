@@ -1,0 +1,7 @@
+Name: Xiaohu Banban
+Type: video.movie
+Episodes: 1
+Episode length: 4680
+Genres: Приключения, Детское, 
+Rating limit: PG
+Description: Нет описания

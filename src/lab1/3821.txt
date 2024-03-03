@@ -1,0 +1,10 @@
+Name: Wanpaku Tanteidan
+Type: video.tv_show
+Episodes: 35
+Episode length: 1500
+Last episode date release: 1968-09-26
+Genres: Экшен, Детектив, 
+Rating limit: PG-13
+Rating: 6.29
+Rating numbers: 352
+Description: Нет описания

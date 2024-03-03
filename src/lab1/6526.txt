@@ -1,0 +1,8 @@
+Name: Washimo 3rd Season
+Type: video.tv_show
+Episodes: 44
+Episode length: 600
+Last episode date release: 2015-09-22
+Genres: Детское, Комедия, Фантастика, Повседневность, Школа, 
+Rating limit: G
+Description: Нет описания

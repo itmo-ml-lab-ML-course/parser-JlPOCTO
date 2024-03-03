@@ -1,0 +1,10 @@
+Name: 30-pun de Wakaru! Kore made no Love Live!
+Type: video.tv_show
+Episodes: 2
+Episode length: 1800
+Last episode date release: 2015-05-22
+Genres: Повседневность, Музыка, Школа, 
+Rating limit: PG-13
+Rating: 7.1
+Rating numbers: 4457
+Description: Рекап сериала «Love Live! School Idol Project 2nd Season», представленный в формате ONA.

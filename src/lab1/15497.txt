@@ -1,0 +1,7 @@
+Name: Ponsuke no Udekurabe
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Экшен, 
+Rating limit: G
+Description: Нет описания

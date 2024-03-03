@@ -1,0 +1,10 @@
+Name: Da Li Si Rizhi 2nd Season
+Type: video.tv_show
+Episodes: 12
+Episode length: 1620
+Last episode date release: 2023-01-28
+Genres: Экшен, Комедия, Фэнтези, Детектив, Исторический, Боевые искусства, 
+Rating limit: PG-13
+Rating: 7.25
+Rating numbers: 1434
+Description: Нет описания

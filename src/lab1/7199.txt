@@ -1,0 +1,7 @@
+Name: Yasai no Yousei: N.Y. Salad The Movie
+Type: video.movie
+Episodes: 1
+Episode length: 1260
+Genres: Детское, Фэнтези, 
+Rating limit: G
+Description: Нет описания

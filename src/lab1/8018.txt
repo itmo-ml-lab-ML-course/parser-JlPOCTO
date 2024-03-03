@@ -1,0 +1,7 @@
+Name: David gwa Goliath
+Type: video.movie
+Episodes: 1
+Episode length: 4500
+Genres: Детское, Приключения, Исторический, 
+Rating limit: PG
+Description: Корейская адаптация библейской истории Давида и Голиафа.

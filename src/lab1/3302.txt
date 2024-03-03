@@ -1,0 +1,9 @@
+Name: Chirin no Suzu
+Type: video.movie
+Episodes: 1
+Episode length: 2760
+Genres: Приключения, Драма, Фэнтези, 
+Rating limit: PG-13
+Rating: 7.1
+Rating numbers: 1052
+Description: Ягнёнок Тирин живёт вместе с матерью. Время для него проходит беззаботно день за днём, пока однажды ночью на ферму не нападает волк...

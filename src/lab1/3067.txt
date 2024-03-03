@@ -1,0 +1,9 @@
+Name: Seikai no Senki Special
+Type: video.other
+Episodes: 1
+Episode length: 7200
+Genres: Экшен, Романтика, Фантастика, Военное, Космос, 
+Rating limit: PG-13
+Rating: 7.15
+Rating numbers: 914
+Description: Обобщение второго сезона Seikai no Monshou с некоторыми дополнительными сценами и диалогами.

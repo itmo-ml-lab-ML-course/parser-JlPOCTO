@@ -1,0 +1,10 @@
+Name: Ongaku Shoujo (TV)
+Type: video.tv_show
+Episodes: 12
+Episode length: 1380
+Last episode date release: 2018-09-21
+Genres: Повседневность, Музыка, 
+Rating limit: PG-13
+Rating: 6.0
+Rating numbers: 2245
+Description: Нет описания

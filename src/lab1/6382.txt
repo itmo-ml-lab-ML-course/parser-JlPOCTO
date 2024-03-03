@@ -1,0 +1,7 @@
+Name: UP Miao Zhiwu Kepu
+Type: video.tv_show
+Episodes: 30
+Episode length: 60
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

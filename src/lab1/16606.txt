@@ -1,0 +1,6 @@
+Name: Kage no Jitsuryokusha ni Naritakute! Movie: Zankyou-hen
+Type: video.movie
+Episodes: 1
+Genres: Экшен, Комедия, Фэнтези, 
+Rating limit: R-17
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Songdai Zuqiu Xiaojiang
+Type: video.tv_show
+Episodes: 40
+Episode length: 840
+Genres: Детское, Спорт, Исторический, 
+Rating limit: PG
+Description: Нет описания

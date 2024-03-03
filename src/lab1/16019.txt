@@ -1,0 +1,7 @@
+Name: Sekai no Fushigi Tanken Series
+Type: video.tv_show
+Episodes: 10
+Episode length: 1500
+Genres: Приключения, Фэнтези, Исторический, 
+Rating limit: G
+Description: Нет описания

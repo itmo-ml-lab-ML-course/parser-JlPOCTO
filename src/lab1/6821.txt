@@ -1,0 +1,7 @@
+Name: Xiao Tu Xia: Kung Fu Xuexiao 2nd Season
+Type: video.tv_show
+Episodes: 104
+Episode length: 360
+Genres: Комедия, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

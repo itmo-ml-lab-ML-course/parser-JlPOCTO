@@ -1,0 +1,9 @@
+Name: Sketch
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Музыка, 
+Rating limit: G
+Rating: 5.53
+Rating numbers: 203
+Description: Нет описания

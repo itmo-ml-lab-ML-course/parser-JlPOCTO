@@ -1,0 +1,9 @@
+Name: Monster Strike: Mermaid Rhapsody
+Type: video.tv_show
+Episodes: 1
+Episode length: 3060
+Genres: Экшен, Фэнтези, Игры, 
+Rating limit: PG-13
+Rating: 6.6
+Rating numbers: 1105
+Description: Нет описания

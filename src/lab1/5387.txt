@@ -1,0 +1,9 @@
+Name: Seiyuu Deka
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Комедия, 
+Rating limit: G
+Rating: 4.38
+Rating numbers: 225
+Description: Нет описания

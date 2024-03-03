@@ -1,0 +1,9 @@
+Name: Shanshui Qing
+Type: video.movie
+Episodes: 1
+Episode length: 1140
+Genres: Музыка, 
+Rating limit: G
+Rating: 6.51
+Rating numbers: 408
+Description: Нет описания

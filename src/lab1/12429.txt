@@ -1,0 +1,10 @@
+Name: Hoshi no Ko Chobin
+Type: video.tv_show
+Episodes: 26
+Episode length: 1260
+Last episode date release: 1974-09-27
+Genres: Приключения, Фантастика, 
+Rating limit: G
+Rating: 6.37
+Rating numbers: 241
+Description: Нет описания

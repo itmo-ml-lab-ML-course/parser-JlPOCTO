@@ -1,0 +1,10 @@
+Name: B-Legend! Battle B-Daman
+Type: video.tv_show
+Episodes: 52
+Episode length: 1320
+Last episode date release: 2004-12-27
+Genres: Детское, Приключения, Фэнтези, Игры, 
+Rating limit: PG
+Rating: 6.3
+Rating numbers: 392
+Description: Нет описания

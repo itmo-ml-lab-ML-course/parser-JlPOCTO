@@ -1,0 +1,7 @@
+Name: Mu Wang Zhi Wang: You Du Zhan
+Type: video.tv_show
+Episodes: 26
+Episode length: 1260
+Genres: Экшен, Приключения, Романтика, Исторический, 
+Rating limit: PG-13
+Description: Нет описания

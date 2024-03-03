@@ -1,0 +1,6 @@
+Name: Sabikui Bisco Season 2
+Type: video.tv_show
+Episodes: 1
+Genres: Экшен, Приключения, Фэнтези, Фантастика, 
+Rating limit: PG-13
+Description: Нет описания

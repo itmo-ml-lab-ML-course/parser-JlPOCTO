@@ -1,0 +1,7 @@
+Name: Tu Xiao Bei Gushi
+Type: video.tv_show
+Episodes: 284
+Episode length: 180
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

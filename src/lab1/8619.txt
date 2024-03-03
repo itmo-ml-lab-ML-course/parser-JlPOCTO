@@ -1,0 +1,7 @@
+Name: Gon de Hanta
+Type: video.tv_show
+Episodes: 20
+Episode length: 60
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

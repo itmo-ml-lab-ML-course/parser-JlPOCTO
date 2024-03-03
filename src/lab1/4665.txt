@@ -1,0 +1,9 @@
+Name: Kagaku Ninja-tai Gatchaman (Movie)
+Type: video.movie
+Episodes: 1
+Episode length: 6660
+Genres: Сёнен, Экшен, Приключения, Фантастика, 
+Rating limit: PG-13
+Rating: 6.12
+Rating numbers: 636
+Description: Нет описания

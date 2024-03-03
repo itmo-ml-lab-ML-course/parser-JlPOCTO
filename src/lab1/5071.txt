@@ -1,0 +1,10 @@
+Name: Mars
+Type: video.other
+Episodes: 2
+Episode length: 1800
+Last episode date release: 1994-08-05
+Genres: Сёнен, Экшен, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.04
+Rating numbers: 216
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Katsura Hime
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Экшен, Комедия, 
+Rating limit: G
+Rating: 5.05
+Rating numbers: 334
+Description: Короткометражный фильм о похищении принцессы.

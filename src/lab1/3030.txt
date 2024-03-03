@@ -1,0 +1,9 @@
+Name: Genshiken Nidaime OVA
+Type: video.other
+Episodes: 1
+Episode length: 1380
+Genres: Комедия, Пародия, Сэйнэн, 
+Rating limit: R-17
+Rating: 7.15
+Rating numbers: 2942
+Description: Эпизод-связка, вышедший с ограниченным изданием 6-го тома манги, о времени между вторым и третьим ТВ-сезонами.

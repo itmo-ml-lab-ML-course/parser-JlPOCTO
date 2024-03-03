@@ -1,0 +1,10 @@
+Name: Firestorm
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 2003-09-28
+Genres: Экшен, Приключения, Фантастика, Меха, Военное, 
+Rating limit: PG-13
+Rating: 5.39
+Rating numbers: 315
+Description: Нет описания

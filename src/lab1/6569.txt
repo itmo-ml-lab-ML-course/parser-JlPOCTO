@@ -1,0 +1,7 @@
+Name: Xia Chong Guo
+Type: video.tv_show
+Episodes: 1
+Episode length: 960
+Genres: Фэнтези, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Beuledeu Ibalso 3
+Type: video.tv_show
+Episodes: 25
+Episode length: 600
+Last episode date release: 2022-10-20
+Genres: Комедия, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

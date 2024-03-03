@@ -1,0 +1,5 @@
+Name: Junk World
+Type: video.movie
+Episodes: 1
+Genres: Экшен, Приключения, Комедия, Фантастика, Триллер, 
+Description: Нет описания

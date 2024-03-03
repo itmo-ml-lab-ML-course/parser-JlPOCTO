@@ -1,0 +1,10 @@
+Name: Cap Kakumei Bottleman
+Type: video.tv_show
+Episodes: 25
+Episode length: 300
+Last episode date release: 2021-02-05
+Genres: Детское, Экшен, Игры, 
+Rating limit: G
+Rating: 5.45
+Rating numbers: 389
+Description: Нет описания

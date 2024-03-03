@@ -1,0 +1,7 @@
+Name: Xiaohe Li Beva
+Type: video.tv_show
+Episodes: 24
+Episode length: 300
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

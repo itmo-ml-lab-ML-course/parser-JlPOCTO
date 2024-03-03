@@ -1,0 +1,10 @@
+Name: Higanjima X
+Type: video.tv_show
+Episodes: 12
+Episode length: 180
+Last episode date release: 2017-03-25
+Genres: Сэйнэн, Фэнтези, Ужасы, Вампиры, 
+Rating limit: R-17
+Rating: 5.53
+Rating numbers: 836
+Description: Нет описания

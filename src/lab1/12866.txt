@@ -1,0 +1,9 @@
+Name: Toukiden Kiwami
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Экшен, Фэнтези, Боевые искусства, 
+Rating limit: PG-13
+Rating: 5.46
+Rating numbers: 668
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Toshishun
+Type: video.other
+Episodes: 1
+Episode length: 1200
+Genres: Приключения, Драма, Фэнтези, Сверхъестественное, Исторический, 
+Rating limit: PG
+Rating: 5.5
+Rating numbers: 184
+Description: Нет описания

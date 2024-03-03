@@ -1,0 +1,5 @@
+Name: Rinkai!
+Type: video.tv_show
+Episodes: 1
+Genres: Спорт, 
+Description: Нет описания

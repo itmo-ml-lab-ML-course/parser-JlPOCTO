@@ -1,0 +1,10 @@
+Name: Ohayou Ninja-tai Gatchaman
+Type: video.tv_show
+Episodes: 475
+Episode length: 60
+Last episode date release: 2013-03-29
+Genres: Комедия, Пародия, 
+Rating limit: G
+Rating: 5.48
+Rating numbers: 603
+Description: Нет описания

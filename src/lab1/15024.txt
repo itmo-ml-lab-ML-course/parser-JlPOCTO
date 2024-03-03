@@ -1,0 +1,8 @@
+Name: Neko Neko Nihonshi 4th Season
+Type: video.tv_show
+Episodes: 32
+Episode length: 540
+Last episode date release: 2020-02-26
+Genres: Детское, Исторический, Пародия, Самураи, 
+Rating limit: G
+Description: Нет описания

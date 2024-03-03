@@ -1,0 +1,6 @@
+Name: Marin X
+Type: video.movie
+Episodes: 1
+Episode length: 4800
+Genres: Сёнен, Экшен, Приключения, Фантастика, Меха, 
+Description: Нет описания

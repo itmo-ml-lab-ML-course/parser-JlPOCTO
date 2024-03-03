@@ -1,0 +1,9 @@
+Name: Taka no Tsume: Tokyo Comic Con 2017 no Ouendan ni Shuunin Kettei!
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Комедия, Пародия, 
+Rating limit: G
+Rating: 4.94
+Rating numbers: 460
+Description: Нет описания

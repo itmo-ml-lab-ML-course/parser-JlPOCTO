@@ -1,0 +1,9 @@
+Name: History of Les Merveilleuses: Brand Movie
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Исторический, 
+Rating limit: G
+Rating: 5.44
+Rating numbers: 172
+Description: Нет описания

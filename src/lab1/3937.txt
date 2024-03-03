@@ -1,0 +1,10 @@
+Name: Tondera House no Daibouken
+Type: video.tv_show
+Episodes: 52
+Episode length: 1440
+Last episode date release: 1983-03-28
+Genres: Приключения, Фантастика, Исторический, 
+Rating limit: G
+Rating: 6.26
+Rating numbers: 380
+Description: Нет описания

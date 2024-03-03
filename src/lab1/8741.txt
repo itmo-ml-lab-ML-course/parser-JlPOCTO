@@ -1,0 +1,7 @@
+Name: Haha Mimi Xiu
+Type: video.tv_show
+Episodes: 200
+Episode length: 300
+Genres: Комедия, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Uchuu Densetsu Ulysses 31
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 1982-11-30
+Genres: Экшен, Приключения, Фантастика, Космос, 
+Rating limit: G
+Rating: 7.08
+Rating numbers: 384
+Description: Нет описания

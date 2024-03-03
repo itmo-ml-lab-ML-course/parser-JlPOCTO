@@ -1,0 +1,7 @@
+Name: Miniforce: Gonglyongwang Dino
+Type: video.movie
+Episodes: 1
+Episode length: 4380
+Genres: Экшен, Меха, Детское, 
+Rating limit: PG
+Description: Нет описания

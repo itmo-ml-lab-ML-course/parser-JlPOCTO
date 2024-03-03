@@ -1,0 +1,10 @@
+Name: Popotan
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2003-10-03
+Genres: Комедия, Драма, Сверхъестественное, Этти, 
+Rating limit: R+
+Rating: 6.25
+Rating numbers: 1802
+Description: Нет описания

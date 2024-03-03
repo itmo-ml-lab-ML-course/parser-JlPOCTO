@@ -1,0 +1,6 @@
+Name: Tu Xiao Bei Gongyi Guanggao
+Type: video.tv_show
+Episodes: 177
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

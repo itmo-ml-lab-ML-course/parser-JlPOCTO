@@ -1,0 +1,9 @@
+Name: Moyashimon CGI Anime
+Type: video.other
+Episodes: 1
+Episode length: 360
+Genres: Комедия, Сверхъестественное, Школа, 
+Rating limit: PG-13
+Rating: 6.07
+Rating numbers: 775
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Ochibi-san
+Type: video.tv_show
+Episodes: 11 / 24
+Episode length: 300
+Genres: Повседневность, 
+Rating limit: G
+Rating: 6.17
+Rating numbers: 210
+Description: Нет описания

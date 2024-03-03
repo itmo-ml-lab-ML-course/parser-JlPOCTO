@@ -1,0 +1,10 @@
+Name: Kasumin 3rd Season
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 2003-10-01
+Genres: Детское, Фэнтези, 
+Rating limit: PG
+Rating: 6.4
+Rating numbers: 205
+Description: Нет описания

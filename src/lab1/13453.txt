@@ -1,0 +1,9 @@
+Name: Gunners
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Экшен, Меха, 
+Rating limit: PG-13
+Rating: 5.23
+Rating numbers: 196
+Description: Нет описания

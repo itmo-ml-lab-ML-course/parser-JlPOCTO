@@ -1,0 +1,8 @@
+Name: Binggrae Me2ker Leul Wihayeo
+Type: video.tv_show
+Episodes: 3
+Episode length: 300
+Last episode date release: 2023-10-20
+Genres: Экшен, Комедия, Фэнтези, 
+Rating limit: G
+Description: Нет описания

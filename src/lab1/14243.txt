@@ -1,0 +1,8 @@
+Name: Oi Pii-tan!!
+Type: video.tv_show
+Episodes: 1
+Genres: Дзёсей, 
+Rating limit: G
+Rating: 4.63
+Rating numbers: 412
+Description: Нет описания

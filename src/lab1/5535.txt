@@ -1,0 +1,9 @@
+Name: Good-by Elvis and USA
+Type: video.movie
+Episodes: 1
+Episode length: 420
+Genres: Безумие, Музыка, 
+Rating limit: R+
+Rating: 3.01
+Rating numbers: 360
+Description: Нет описания

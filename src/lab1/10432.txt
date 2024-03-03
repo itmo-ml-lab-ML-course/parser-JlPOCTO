@@ -1,0 +1,9 @@
+Name: Hakuouki Movie 1: Kyoto Ranbu
+Type: video.movie
+Episodes: 1
+Episode length: 5700
+Genres: Дзёсей, Экшен, Драма, Сверхъестественное, Исторический, Самураи, 
+Rating limit: PG-13
+Rating: 7.6
+Rating numbers: 10960
+Description: Первый фильм дилогии.

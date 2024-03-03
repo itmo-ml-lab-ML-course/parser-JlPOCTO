@@ -1,0 +1,8 @@
+Name: Chaohu Chuanshuo
+Type: video.tv_show
+Episodes: 11
+Episode length: 600
+Last episode date release: 2012-12-01
+Genres: Приключения, Исторический, Детское, 
+Rating limit: PG
+Description: Нет описания

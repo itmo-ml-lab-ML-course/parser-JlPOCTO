@@ -1,0 +1,10 @@
+Name: Fabre-sensei wa Meitantei
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 2000-10-17
+Genres: Детектив, 
+Rating limit: PG
+Rating: 6.58
+Rating numbers: 196
+Description: Нет описания

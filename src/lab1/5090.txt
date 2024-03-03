@@ -1,0 +1,10 @@
+Name: Masou Kishin Cybuster
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Last episode date release: 1999-10-25
+Genres: Сёнен, Приключения, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.03
+Rating numbers: 316
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Shoujo Shuumatsu Jugyou
+Type: video.tv_show
+Episodes: 12
+Episode length: 60
+Last episode date release: 2017-12-22
+Genres: Комедия, Пародия, Школа, 
+Rating limit: G
+Rating: 6.47
+Rating numbers: 3426
+Description: Серия коротких комедийных роликов с тиби-версиями персонажей из аниме «Девушки в последнем путешествии», попавших в школу.

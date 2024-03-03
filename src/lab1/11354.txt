@@ -1,0 +1,10 @@
+Name: Hakugei Densetsu
+Type: video.tv_show
+Episodes: 26
+Episode length: 1380
+Last episode date release: 1999-05-12
+Genres: Приключения, Фантастика, Космос, 
+Rating limit: PG-13
+Rating: 6.57
+Rating numbers: 745
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Chainsaw Bunny
+Type: video.tv_show
+Episodes: 1
+Episode length: 360
+Genres: Комедия, Ужасы, Сверхъестественное, Триллер, 
+Rating limit: R+
+Rating: 5.1
+Rating numbers: 1667
+Description: В бар, где работают горничные-зайки, приходит страшный и опасный гость.

@@ -1,0 +1,8 @@
+Name: Bakujuu Gasshin Ziguru Hazeru
+Type: video.tv_show
+Episodes: 6
+Episode length: 120
+Last episode date release: 2013-12-01
+Genres: Экшен, Меха, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Da Erduo Tutu
+Type: video.tv_show
+Episodes: 26
+Episode length: 720
+Genres: Комедия, Детское, 
+Rating limit: PG
+Description: Нет описания

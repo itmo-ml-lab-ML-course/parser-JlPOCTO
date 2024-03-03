@@ -1,0 +1,9 @@
+Name: Futon
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 5.02
+Rating numbers: 277
+Description: Нет описания

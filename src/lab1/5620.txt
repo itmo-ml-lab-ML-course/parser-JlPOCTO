@@ -1,0 +1,7 @@
+Name: Shunyo to Watashi
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Сверхъестественное, 
+Rating limit: PG-13
+Description: Нет описания

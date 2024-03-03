@@ -1,0 +1,7 @@
+Name: Mietchi Cuisine
+Type: video.tv_show
+Episodes: 1
+Episode length: 240
+Genres: Гурман, 
+Rating limit: G
+Description: Нет описания

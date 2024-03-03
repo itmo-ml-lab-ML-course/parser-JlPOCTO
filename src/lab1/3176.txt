@@ -1,0 +1,10 @@
+Name: Flag
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2007-03-02
+Genres: Меха, Военное, 
+Rating limit: PG-13
+Rating: 7.13
+Rating numbers: 2344
+Description: Нет описания

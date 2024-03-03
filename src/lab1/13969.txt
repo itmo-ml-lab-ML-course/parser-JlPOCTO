@@ -1,0 +1,9 @@
+Name: Ki-No-Ko
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Безумие, Ужасы, 
+Rating limit: PG-13
+Rating: 4.9
+Rating numbers: 165
+Description: Нет описания

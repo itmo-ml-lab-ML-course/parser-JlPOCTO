@@ -1,0 +1,7 @@
+Name: Tarou no Tomodachi
+Type: video.other
+Episodes: 2
+Episode length: 780
+Genres: Приключения, Детское, 
+Rating limit: G
+Description: Нет описания

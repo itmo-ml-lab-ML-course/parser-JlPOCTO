@@ -1,0 +1,8 @@
+Name: Taeko no Nichijou 2nd Season
+Type: video.tv_show
+Episodes: 132
+Episode length: 60
+Last episode date release: 2020-12-31
+Genres: Повседневность, Работа, 
+Rating limit: G
+Description: Нет описания

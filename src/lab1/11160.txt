@@ -1,0 +1,10 @@
+Name: Seton Doubutsuki
+Type: video.tv_show
+Episodes: 45
+Episode length: 1500
+Last episode date release: 1990-12-22
+Genres: Приключения, Фэнтези, 
+Rating limit: G
+Rating: 6.61
+Rating numbers: 247
+Description: Нет описания

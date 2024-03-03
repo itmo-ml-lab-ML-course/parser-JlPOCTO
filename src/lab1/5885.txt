@@ -1,0 +1,7 @@
+Name: Tabeta no Daare
+Type: video.other
+Episodes: 4
+Episode length: 360
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

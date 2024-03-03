@@ -1,0 +1,10 @@
+Name: Jidao Long Shen
+Type: video.tv_show
+Episodes: 40
+Episode length: 660
+Last episode date release: 2022-11-12
+Genres: Экшен, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.35
+Rating numbers: 730
+Description: Нет описания

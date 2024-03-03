@@ -1,0 +1,10 @@
+Name: Fushigi na Koala Blinky
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 1984-12-28
+Genres: Детское, Приключения, Комедия, Фэнтези, 
+Rating limit: G
+Rating: 6.04
+Rating numbers: 213
+Description: Нет описания

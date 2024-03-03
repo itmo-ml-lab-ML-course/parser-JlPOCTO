@@ -1,0 +1,9 @@
+Name: 1/100 Train Station
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Повседневность, 
+Rating limit: G
+Rating: 5.06
+Rating numbers: 570
+Description: Нет описания

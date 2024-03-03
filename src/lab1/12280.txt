@@ -1,0 +1,9 @@
+Name: Golden Douga Gekijou
+Type: video.tv_show
+Episodes: 46
+Last episode date release: 2023-06-27
+Genres: Комедия, 
+Rating limit: R-17
+Rating: 6.4
+Rating numbers: 4081
+Description: Ряд дополнительных короткометражных эпизодов аниме-сериала «Золотое божество», транслировавшихся на официальном сайте.

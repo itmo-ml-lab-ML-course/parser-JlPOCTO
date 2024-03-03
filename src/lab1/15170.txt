@@ -1,0 +1,8 @@
+Name: Nyankamuchu
+Type: video.tv_show
+Episodes: 6
+Episode length: 120
+Last episode date release: 2022-04-18
+Genres: 
+Rating limit: G
+Description: Нет описания

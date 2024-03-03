@@ -1,0 +1,9 @@
+Name: Zenchuu Maite
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.64
+Rating numbers: 238
+Description: Нет описания

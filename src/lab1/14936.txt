@@ -1,0 +1,8 @@
+Name: Nae Chingu Baninbaneo
+Type: video.tv_show
+Episodes: 13
+Episode length: 720
+Last episode date release: 2023-03-22
+Genres: Приключения, Фэнтези, Супер сила, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Princess Principal: Crown Handler Movie 3
+Type: video.movie
+Episodes: 1
+Episode length: 3600
+Genres: Экшен, Детектив, Исторический, 
+Rating limit: R-17
+Rating: 7.61
+Rating numbers: 2623
+Description: Нет описания

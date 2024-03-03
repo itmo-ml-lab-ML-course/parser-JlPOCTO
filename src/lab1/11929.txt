@@ -1,0 +1,10 @@
+Name: Da Zhu Zai
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2019-10-17
+Genres: Экшен, Приключения, Фэнтези, Романтика, Исторический, Боевые искусства, 
+Rating limit: PG-13
+Rating: 6.46
+Rating numbers: 4421
+Description: Нет описания

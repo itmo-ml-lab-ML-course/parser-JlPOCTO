@@ -1,0 +1,9 @@
+Name: Appaga Piryohae
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Фэнтези, 
+Rating limit: PG
+Rating: 6.22
+Rating numbers: 413
+Description: Короткометражная история, которая повествует о волке-писателе и его необычной семье, которая состоит из шестилетней девочки Ян-Хи, кролика, черепахи и оленя.

@@ -1,0 +1,8 @@
+Name: Saru Kani Gassen (Yokoku)
+Type: video.tv_show
+Episodes: 1
+Genres: Исторический, 
+Rating limit: G
+Rating: 4.95
+Rating numbers: 154
+Description: Нет описания

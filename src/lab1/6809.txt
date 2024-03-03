@@ -1,0 +1,7 @@
+Name: Xiao Tianshi Yu Boss Zhang
+Type: video.tv_show
+Episodes: 8
+Episode length: 480
+Genres: Комедия, Детское, 
+Rating limit: PG
+Description: Нет описания

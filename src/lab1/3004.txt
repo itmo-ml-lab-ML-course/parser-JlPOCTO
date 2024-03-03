@@ -1,0 +1,10 @@
+Name: Chibi Revenger
+Type: video.tv_show
+Episodes: 24
+Episode length: 120
+Last episode date release: 2021-09-20
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 7.16
+Rating numbers: 3168
+Description: Нет описания

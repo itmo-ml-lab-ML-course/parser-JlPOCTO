@@ -1,0 +1,10 @@
+Name: Kidou Senshi Gundam-san
+Type: video.tv_show
+Episodes: 13
+Episode length: 120
+Last episode date release: 2014-09-28
+Genres: Комедия, Меха, Пародия, 
+Rating limit: PG-13
+Rating: 6.17
+Rating numbers: 1392
+Description: Нет описания

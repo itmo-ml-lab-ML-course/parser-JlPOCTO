@@ -1,0 +1,9 @@
+Name: Kaze no Tairiku
+Type: video.movie
+Episodes: 1
+Episode length: 3240
+Genres: Экшен, Приключения, Фэнтези, Сверхъестественное, 
+Rating limit: PG-13
+Rating: 6.18
+Rating numbers: 1247
+Description: Нет описания

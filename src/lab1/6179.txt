@@ -1,0 +1,8 @@
+Name: Tomodachi 8-nin
+Type: video.tv_show
+Episodes: 398
+Episode length: 60
+Last episode date release: 2019-01-05
+Genres: Детское, Комедия, 
+Rating limit: G
+Description: Нет описания

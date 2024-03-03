@@ -1,0 +1,8 @@
+Name: Gan to Gon
+Type: video.tv_show
+Episodes: 260
+Episode length: 300
+Last episode date release: 1975-08-13
+Genres: Детское, Комедия, 
+Rating limit: G
+Description: Нет описания

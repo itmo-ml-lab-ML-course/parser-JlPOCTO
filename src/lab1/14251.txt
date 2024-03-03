@@ -1,0 +1,9 @@
+Name: Arigatou Gomennasai
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: 
+Rating limit: G
+Rating: 4.61
+Rating numbers: 143
+Description: Нет описания

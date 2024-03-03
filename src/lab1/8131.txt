@@ -1,0 +1,7 @@
+Name: Dongbei Yijia Ren
+Type: video.tv_show
+Episodes: 240
+Episode length: 780
+Genres: Комедия, Детское, 
+Rating limit: G
+Description: Нет описания

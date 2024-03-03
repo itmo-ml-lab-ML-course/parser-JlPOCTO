@@ -1,0 +1,7 @@
+Name: Doraon Yeongung Hong Gildong
+Type: video.movie
+Episodes: 1
+Episode length: 4560
+Genres: Экшен, Приключения, Исторический, Боевые искусства, 
+Rating limit: PG
+Description: Нет описания

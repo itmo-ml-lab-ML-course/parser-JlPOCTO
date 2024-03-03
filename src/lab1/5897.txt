@@ -1,0 +1,8 @@
+Name: Tai Hao Fuxi
+Type: video.tv_show
+Episodes: 26
+Episode length: 780
+Last episode date release: 2011-02-01
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

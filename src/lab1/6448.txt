@@ -1,0 +1,7 @@
+Name: Wangpai Erha
+Type: video.movie
+Episodes: 1
+Episode length: 5580
+Genres: Комедия, Детектив, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: G2.5
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Фантастика, 
+Rating limit: R+
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Xiyu Chuanqi
+Type: video.movie
+Episodes: 1
+Episode length: 7200
+Genres: Приключения, 
+Rating limit: G
+Description: Нет описания

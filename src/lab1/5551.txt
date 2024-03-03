@@ -1,0 +1,8 @@
+Name: Zonmi-chan: Halloween☆Special Movie!
+Type: video.tv_show
+Episodes: 1
+Genres: Комедия, Ужасы, 
+Rating limit: PG-13
+Rating: 4.49
+Rating numbers: 489
+Description: Минутный специальный эпизод в стиле шутера про зомби-апокалипсис с Зомми-тян и Дай-куном в главных ролях, выпущенный ко дню празднования Хэллоуина.

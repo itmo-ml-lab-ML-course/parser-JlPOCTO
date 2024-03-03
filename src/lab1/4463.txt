@@ -1,0 +1,9 @@
+Name: Tales of Luminaria: The Fateful Crossroad
+Type: video.tv_show
+Episodes: 2
+Episode length: 1620
+Genres: Фэнтези, 
+Rating limit: PG-13
+Rating: 6.16
+Rating numbers: 1667
+Description: Нет описания

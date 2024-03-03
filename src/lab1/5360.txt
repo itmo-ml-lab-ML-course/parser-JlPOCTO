@@ -1,0 +1,9 @@
+Name: Shiroi Unabara
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Драма, 
+Rating limit: G
+Rating: 5.98
+Rating numbers: 187
+Description: Нет описания

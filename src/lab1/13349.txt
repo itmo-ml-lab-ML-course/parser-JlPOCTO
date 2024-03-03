@@ -1,0 +1,9 @@
+Name: Space Neko Theater
+Type: video.tv_show
+Episodes: 1
+Episode length: 480
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 5.28
+Rating numbers: 263
+Description: Нет описания

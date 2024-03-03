@@ -1,0 +1,8 @@
+Name: Okojo to Yamane
+Type: video.tv_show
+Episodes: 26
+Episode length: 60
+Last episode date release: 2019-01-08
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Description: Нет описания

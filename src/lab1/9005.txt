@@ -1,0 +1,7 @@
+Name: Hong Mao Lan Tu: A Muxing
+Type: video.tv_show
+Episodes: 30
+Episode length: 960
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

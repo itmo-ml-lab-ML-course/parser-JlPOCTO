@@ -1,0 +1,10 @@
+Name: Ginga Tetsudou Monogatari
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Last episode date release: 2004-04-11
+Genres: Экшен, Приключения, Драма, Фантастика, Космос, 
+Rating limit: PG-13
+Rating: 7.06
+Rating numbers: 2027
+Description: Нет описания

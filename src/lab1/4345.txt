@@ -1,0 +1,9 @@
+Name: Lupin III 3DCG
+Type: video.other
+Episodes: 1
+Episode length: 120
+Genres: Экшен, Триллер, 
+Rating limit: PG-13
+Rating: 6.18
+Rating numbers: 675
+Description: Нет описания

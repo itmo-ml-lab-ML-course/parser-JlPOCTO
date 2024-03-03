@@ -1,0 +1,6 @@
+Name: Yeon-ui Pyeonji PV
+Type: video.other
+Episodes: 1
+Genres: Приключения, Драма, Детектив, Школа, 
+Rating limit: PG-13
+Description: Нет описания

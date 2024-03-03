@@ -1,0 +1,9 @@
+Name: Good Morning Call
+Type: video.other
+Episodes: 1
+Episode length: 1140
+Genres: Сёдзё, Комедия, Драма, Романтика, Школа, 
+Rating limit: PG
+Rating: 6.04
+Rating numbers: 817
+Description: Нет описания

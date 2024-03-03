@@ -1,0 +1,9 @@
+Name: Hi no Youjin
+Type: video.movie
+Episodes: 1
+Episode length: 720
+Genres: Повседневность, Исторический, 
+Rating limit: PG-13
+Rating: 6.3
+Rating numbers: 2069
+Description: Короткометражное аниме о людях, тушивших пожары, бушевавшие в эпоху Эдо в Японии.Одна из четырёх короткометражных работ под общим названием «Хрупкий мир» (Short Peace).

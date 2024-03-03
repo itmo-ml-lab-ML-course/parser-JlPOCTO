@@ -1,0 +1,9 @@
+Name: Recorder
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 4.98
+Rating numbers: 355
+Description: Нет описания

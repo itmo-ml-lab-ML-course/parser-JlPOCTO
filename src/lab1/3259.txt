@@ -1,0 +1,10 @@
+Name: Kaginado
+Type: video.tv_show
+Episodes: 12
+Episode length: 240
+Last episode date release: 2021-12-29
+Genres: Комедия, Повседневность, 
+Rating limit: PG-13
+Rating: 7.11
+Rating numbers: 2062
+Description: Нет описания

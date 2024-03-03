@@ -1,0 +1,9 @@
+Name: Ichigeki Sacchuu!! Hoihoi-san: Legacy
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Комедия, Фантастика, 
+Rating limit: G
+Rating: 4.79
+Rating numbers: 551
+Description: Нет описания

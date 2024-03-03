@@ -1,0 +1,7 @@
+Name: Ponkotsu Quest Specials
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Комедия, Фэнтези, Пародия, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Channel 5.5 3rd Season Prologue
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 5.22
+Rating numbers: 196
+Description: Нет описания

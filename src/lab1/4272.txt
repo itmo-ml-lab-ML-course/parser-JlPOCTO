@@ -1,0 +1,10 @@
+Name: Chang Jian Feng Yun
+Type: video.tv_show
+Episodes: 10
+Episode length: 1140
+Last episode date release: 2021-03-19
+Genres: Экшен, Драма, 
+Rating limit: PG-13
+Rating: 6.2
+Rating numbers: 1018
+Description: Нет описания

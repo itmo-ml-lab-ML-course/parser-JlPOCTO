@@ -1,0 +1,10 @@
+Name: Youkai Watch: Shadow Side
+Type: video.tv_show
+Episodes: 49
+Episode length: 1440
+Last episode date release: 2019-03-29
+Genres: Комедия, Сверхъестественное, Детское, 
+Rating limit: G
+Rating: 6.66
+Rating numbers: 1259
+Description: Нет описания

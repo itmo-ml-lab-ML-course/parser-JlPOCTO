@@ -1,0 +1,8 @@
+Name: Bubaga
+Type: video.tv_show
+Episodes: 8
+Episode length: 300
+Last episode date release: 1997-01-08
+Genres: Детское, Приключения, 
+Rating limit: PG
+Description: Нет описания

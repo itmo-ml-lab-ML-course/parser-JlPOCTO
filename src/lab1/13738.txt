@@ -1,0 +1,9 @@
+Name: Kitsune to Circus
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Детское, Комедия, 
+Rating limit: G
+Rating: 5.07
+Rating numbers: 268
+Description: Нет описания

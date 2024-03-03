@@ -1,0 +1,9 @@
+Name: Chou no Sainan
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Экшен, 
+Rating limit: G
+Rating: 5.27
+Rating numbers: 343
+Description: Нет описания

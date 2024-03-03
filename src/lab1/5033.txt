@@ -1,0 +1,9 @@
+Name: Anime Tenchou
+Type: video.other
+Episodes: 1
+Episode length: 120
+Genres: Экшен, Пародия, 
+Rating limit: G
+Rating: 6.04
+Rating numbers: 2304
+Description: Нет описания

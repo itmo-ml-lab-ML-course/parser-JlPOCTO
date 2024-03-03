@@ -1,0 +1,9 @@
+Name: Trinity Seven Movie 2: Heavens Library to Crimson Lord
+Type: video.movie
+Episodes: 1
+Episode length: 3600
+Genres: Экшен, Комедия, Фэнтези, Романтика, Этти, Гарем, Школа, Сёнен, 
+Rating limit: PG-13
+Rating: 7.34
+Rating numbers: 17440
+Description: Нет описания

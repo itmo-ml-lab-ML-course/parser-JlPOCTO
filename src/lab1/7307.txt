@@ -1,0 +1,7 @@
+Name: Baobao Bashi: Qimiao Hanzi
+Type: video.tv_show
+Episodes: 48
+Episode length: 600
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

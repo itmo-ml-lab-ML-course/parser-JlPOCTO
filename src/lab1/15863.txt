@@ -1,0 +1,8 @@
+Name: Sabaku no Kaizoku! Captain Kuppa
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 2002-02-11
+Genres: Экшен, Приключения, 
+Rating limit: G
+Description: Нет описания

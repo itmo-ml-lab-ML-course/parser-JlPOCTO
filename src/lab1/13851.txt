@@ -1,0 +1,9 @@
+Name: Shukka Fuufu
+Type: video.other
+Episodes: 1
+Episode length: 180
+Genres: Музыка, 
+Rating limit: G
+Rating: 5.0
+Rating numbers: 132
+Description: Нет описания

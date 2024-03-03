@@ -1,0 +1,7 @@
+Name: Xiao Ban Long Shuxue Siwei Qimeng
+Type: video.tv_show
+Episodes: 30
+Episode length: 300
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

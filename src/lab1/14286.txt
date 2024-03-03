@@ -1,0 +1,9 @@
+Name: Manga
+Type: video.movie
+Episodes: 1
+Episode length: 420
+Genres: Комедия, 
+Rating limit: G
+Rating: 4.55
+Rating numbers: 291
+Description: Нет описания

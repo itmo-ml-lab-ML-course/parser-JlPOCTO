@@ -1,0 +1,9 @@
+Name: VERSEⁿ: Episodeⁿ - Kuusou
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Фэнтези, 
+Rating limit: PG-13
+Rating: 6.2
+Rating numbers: 924
+Description: Нет описания

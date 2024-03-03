@@ -1,0 +1,9 @@
+Name: Nine: Original-ban
+Type: video.movie
+Episodes: 1
+Episode length: 4200
+Genres: Сёнен, Романтика, Спорт, Школа, 
+Rating limit: PG-13
+Rating: 5.98
+Rating numbers: 251
+Description: Нет описания

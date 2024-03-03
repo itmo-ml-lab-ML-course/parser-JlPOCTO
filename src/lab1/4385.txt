@@ -1,0 +1,9 @@
+Name: Tetsuwan Atom: Uchuu no Yuusha
+Type: video.movie
+Episodes: 1
+Episode length: 5220
+Genres: Сёнен, Экшен, Приключения, Драма, Фантастика, Меха, 
+Rating limit: G
+Rating: 6.17
+Rating numbers: 589
+Description: Переиздание в виде фильма трёх эпизодов из оригинального телесериала «Могучий Атом»: «Робот-ракета» (46-й эпизод), «Войска обороны Земли» (56-й эпизод) и «Последний день Земли» (71-й эпизод).

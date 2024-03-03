@@ -1,0 +1,7 @@
+Name: Xinling Zhi Chuang
+Type: video.tv_show
+Episodes: 26
+Episode length: 900
+Genres: Драма, 
+Rating limit: G
+Description: Нет описания

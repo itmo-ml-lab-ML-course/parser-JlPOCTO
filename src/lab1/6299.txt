@@ -1,0 +1,7 @@
+Name: Tuolaji Siji
+Type: video.tv_show
+Episodes: 10
+Episode length: 480
+Genres: Приключения, Комедия, 
+Rating limit: PG
+Description: Нет описания

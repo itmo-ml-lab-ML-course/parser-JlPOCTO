@@ -1,0 +1,7 @@
+Name: Guli Guli: Yuanwang Ping
+Type: video.tv_show
+Episodes: 26
+Episode length: 180
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

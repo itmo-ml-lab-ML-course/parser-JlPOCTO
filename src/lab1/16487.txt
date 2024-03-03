@@ -1,0 +1,6 @@
+Name: Fate/strange Fake
+Type: video.tv_show
+Episodes: 1
+Genres: Экшен, Фэнтези, Сверхъестественное, 
+Rating limit: R-17
+Description: Нет описания

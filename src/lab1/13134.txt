@@ -1,0 +1,9 @@
+Name: Techno Police 21C
+Type: video.movie
+Episodes: 1
+Episode length: 4680
+Genres: Экшен, Фантастика, Меха, Полиция, 
+Rating limit: PG-13
+Rating: 5.36
+Rating numbers: 367
+Description: Нет описания

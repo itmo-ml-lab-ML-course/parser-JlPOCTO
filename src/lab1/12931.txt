@@ -1,0 +1,9 @@
+Name: Yogen-sha Ikusei Gakuen: Fortune Tellers Academy
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 5.48
+Rating numbers: 460
+Description: Нет описания

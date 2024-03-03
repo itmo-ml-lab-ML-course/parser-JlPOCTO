@@ -1,0 +1,9 @@
+Name: Osekisho
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Детское, 
+Rating limit: G
+Rating: 4.36
+Rating numbers: 263
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Bodhi Yu Haoyou: Chao Yuan Neng Xing Zhan
+Type: video.tv_show
+Episodes: 52
+Episode length: 720
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

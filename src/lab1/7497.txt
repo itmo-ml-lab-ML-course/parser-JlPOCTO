@@ -1,0 +1,7 @@
+Name: Bu Gu Niao Jiao Chi Le
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

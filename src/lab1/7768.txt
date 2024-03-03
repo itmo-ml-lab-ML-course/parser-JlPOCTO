@@ -1,0 +1,8 @@
+Name: Cholong-iui Yesnal-Yeohaeng
+Type: video.tv_show
+Episodes: 52
+Episode length: 900
+Last episode date release: 1994-10-21
+Genres: Детское, Фэнтези, Исторический, 
+Rating limit: PG
+Description: Нет описания

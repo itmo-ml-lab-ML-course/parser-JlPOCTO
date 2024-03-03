@@ -1,0 +1,10 @@
+Name: Play Ball 2nd
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2006-03-28
+Genres: Сёнен, Экшен, Спорт, 
+Rating limit: G
+Rating: 6.11
+Rating numbers: 220
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Pokemon Inai Inai Baa!
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Rating: 5.15
+Rating numbers: 415
+Description: Нет описания

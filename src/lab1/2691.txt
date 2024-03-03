@@ -1,0 +1,10 @@
+Name: Galaxy Angel 4
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2004-09-29
+Genres: Комедия, Фантастика, 
+Rating limit: PG
+Rating: 7.22
+Rating numbers: 926
+Description: Нет описания

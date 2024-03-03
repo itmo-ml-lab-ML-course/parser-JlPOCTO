@@ -1,0 +1,8 @@
+Name: Chao Shen Xueyuan: Shen yu Shen
+Type: video.tv_show
+Episodes: 10
+Episode length: 1140
+Last episode date release: 2015-10-23
+Genres: Экшен, Фантастика, 
+Rating limit: R-17
+Description: Нет описания

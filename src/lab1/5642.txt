@@ -1,0 +1,7 @@
+Name: Si Lu Chuanqi Dahai Tu
+Type: video.tv_show
+Episodes: 52
+Episode length: 1200
+Genres: Приключения, Детское, 
+Rating limit: PG
+Description: Нет описания

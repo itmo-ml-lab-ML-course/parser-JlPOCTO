@@ -1,0 +1,7 @@
+Name: Bai Hua Yuan Li De Gushi
+Type: video.tv_show
+Episodes: 20
+Episode length: 420
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

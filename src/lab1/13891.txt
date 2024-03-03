@@ -1,0 +1,9 @@
+Name: Ki Renka
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Драма, Демоны, 
+Rating limit: G
+Rating: 4.97
+Rating numbers: 282
+Description: Нет описания

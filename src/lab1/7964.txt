@@ -1,0 +1,6 @@
+Name: Daiki
+Type: video.other
+Episodes: 1
+Episode length: 900
+Genres: 
+Description: Нет описания

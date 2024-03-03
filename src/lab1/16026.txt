@@ -1,0 +1,8 @@
+Name: Semi wa Magic Cube 2nd Season
+Type: video.tv_show
+Episodes: 26
+Episode length: 780
+Last episode date release: 2020-05-26
+Genres: Экшен, Фэнтези, 
+Rating limit: PG-13
+Description: Нет описания

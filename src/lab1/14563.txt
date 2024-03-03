@@ -1,0 +1,7 @@
+Name: Meng Cai Yu Bao Ai Koucai
+Type: video.tv_show
+Episodes: 25
+Episode length: 180
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

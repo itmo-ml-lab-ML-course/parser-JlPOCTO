@@ -1,0 +1,10 @@
+Name: Psychic Academy
+Type: video.tv_show
+Episodes: 24
+Episode length: 660
+Last episode date release: 2002-09-13
+Genres: Комедия, Романтика, Сверхъестественное, 
+Rating limit: PG-13
+Rating: 6.19
+Rating numbers: 839
+Description: Нет описания

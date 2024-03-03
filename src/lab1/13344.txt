@@ -1,0 +1,8 @@
+Name: New My Tear CL Series
+Type: video.tv_show
+Episodes: 1
+Genres: Повседневность, 
+Rating limit: G
+Rating: 5.28
+Rating numbers: 1611
+Description: Рекламный ролик японских витаминных глазных капель New My Tear CL с участием персонажей аниме «Как смотреть фейерверк».

@@ -1,0 +1,9 @@
+Name: Koguma no Koro-chan
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Детское, 
+Rating limit: G
+Rating: 5.46
+Rating numbers: 263
+Description: Нет описания

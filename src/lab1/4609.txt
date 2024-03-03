@@ -1,0 +1,10 @@
+Name: Manga Hajimete Monogatari
+Type: video.tv_show
+Episodes: 305
+Episode length: 1500
+Last episode date release: 1984-03-31
+Genres: Приключения, Комедия, Исторический, 
+Rating limit: G
+Rating: 6.13
+Rating numbers: 268
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Hai Baolaile 3rd Season
+Type: video.tv_show
+Episodes: 104
+Episode length: 840
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

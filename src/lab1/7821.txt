@@ -1,0 +1,8 @@
+Name: Chuldong! Super Wings 4
+Type: video.tv_show
+Episodes: 40
+Episode length: 660
+Last episode date release: 2020-06-24
+Genres: Приключения, Детское, 
+Rating limit: PG
+Description: Нет описания

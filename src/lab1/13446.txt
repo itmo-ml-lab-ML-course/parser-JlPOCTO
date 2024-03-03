@@ -1,0 +1,10 @@
+Name: Itazuraguma no Gloomy
+Type: video.tv_show
+Episodes: 12
+Episode length: 60
+Last episode date release: 2021-06-28
+Genres: Комедия, 
+Rating limit: R-17
+Rating: 5.24
+Rating numbers: 605
+Description: Нет описания

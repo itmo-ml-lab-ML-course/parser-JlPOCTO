@@ -1,0 +1,8 @@
+Name: Dango San Kyoudai Attoiuma Gekijou
+Type: video.tv_show
+Episodes: 50
+Episode length: 180
+Last episode date release: 2004-03-01
+Genres: Детское, Музыка, 
+Rating limit: G
+Description: Нет описания

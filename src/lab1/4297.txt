@@ -1,0 +1,9 @@
+Name: Bobobo-bo Bo-bobo Recap
+Type: video.other
+Episodes: 1
+Episode length: 1440
+Genres: Сёнен, Экшен, Комедия, Фантастика, Пародия, 
+Rating limit: PG
+Rating: 6.19
+Rating numbers: 285
+Description: Краткий пересказ событий 32 серий аниме-сериала «Бобобо-бо Бо-бобоБобобо-бо Бо-бобо».

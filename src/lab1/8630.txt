@@ -1,0 +1,7 @@
+Name: Goodme: Citron Tea
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Безумие, 
+Rating limit: G
+Description: Нет описания

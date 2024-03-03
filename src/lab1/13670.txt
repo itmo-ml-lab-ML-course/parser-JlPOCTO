@@ -1,0 +1,10 @@
+Name: Shiguang Guiyu
+Type: video.tv_show
+Episodes: 10
+Episode length: 780
+Last episode date release: 2016-03-08
+Genres: Драма, Сверхъестественное, 
+Rating limit: R-17
+Rating: 5.12
+Rating numbers: 385
+Description: Нет описания

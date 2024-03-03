@@ -1,0 +1,9 @@
+Name: Overlord Movie 1: Fushisha no Ou
+Type: video.movie
+Episodes: 1
+Episode length: 6120
+Genres: Экшен, Фэнтези, 
+Rating limit: R-17
+Rating: 7.61
+Rating numbers: 31433
+Description: Вышедший спустя два года после показа оригинального сериала, данный фильм напомнит нам, с чего же всё началось. Полнометражная версия первой половины одноимённого сериала.

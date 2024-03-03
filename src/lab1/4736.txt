@@ -1,0 +1,9 @@
+Name: Yukiwatari
+Type: video.movie
+Episodes: 1
+Episode length: 1320
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 6.12
+Rating numbers: 284
+Description: Нет описания

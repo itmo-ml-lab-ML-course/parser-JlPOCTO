@@ -1,0 +1,7 @@
+Name: Chao Neng Xiao Xing Tan
+Type: video.tv_show
+Episodes: 52
+Episode length: 780
+Genres: Приключения, Фэнтези, Фантастика, Детское, 
+Rating limit: PG
+Description: Нет описания

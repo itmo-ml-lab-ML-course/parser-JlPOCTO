@@ -1,0 +1,10 @@
+Name: Momoiro Sisters
+Type: video.tv_show
+Episodes: 23
+Episode length: 360
+Last episode date release: 1998-10-06
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.05
+Rating numbers: 442
+Description: Нет описания

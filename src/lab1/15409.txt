@@ -1,0 +1,7 @@
+Name: Peng Peng De Shijie
+Type: video.tv_show
+Episodes: 78
+Episode length: 480
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

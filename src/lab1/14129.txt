@@ -1,0 +1,9 @@
+Name: Deva Zan
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: Экшен, Фэнтези, 
+Rating limit: PG-13
+Rating: 4.75
+Rating numbers: 676
+Description: Нет описания

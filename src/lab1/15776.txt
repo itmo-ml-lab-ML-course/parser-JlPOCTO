@@ -1,0 +1,8 @@
+Name: Robokko Beeton
+Type: video.tv_show
+Episodes: 50
+Episode length: 1500
+Last episode date release: 1977-09-27
+Genres: Детское, Приключения, Комедия, Повседневность, 
+Rating limit: PG
+Description: Нет описания

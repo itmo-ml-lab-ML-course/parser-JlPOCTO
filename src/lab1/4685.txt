@@ -1,0 +1,9 @@
+Name: Umi kara no Shisha
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Экшен, Фантастика, Меха, Супер сила, 
+Rating limit: PG-13
+Rating: 6.11
+Rating numbers: 350
+Description: Нет описания

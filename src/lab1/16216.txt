@@ -1,0 +1,7 @@
+Name: Shi Jie Bei Xing Ci Yuan
+Type: video.tv_show
+Episodes: 3
+Episode length: 180
+Genres: Детское, Комедия, 
+Rating limit: G
+Description: Нет описания

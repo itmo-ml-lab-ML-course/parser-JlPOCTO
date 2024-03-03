@@ -1,0 +1,8 @@
+Name: Yi Shijie Zhongyao Pu 2nd Season
+Type: video.tv_show
+Episodes: 60
+Episode length: 720
+Last episode date release: 2021-11-09
+Genres: Драма, Фэнтези, 
+Rating limit: PG-13
+Description: Нет описания

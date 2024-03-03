@@ -1,0 +1,7 @@
+Name: Wuliao Shi She Fanwai Pian
+Type: video.tv_show
+Episodes: 7
+Episode length: 180
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

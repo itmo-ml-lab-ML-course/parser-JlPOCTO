@@ -1,0 +1,9 @@
+Name: Urashima Tarou (1931)
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: Экшен, 
+Rating limit: G
+Rating: 4.5
+Rating numbers: 397
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: LaLaLa, Brothers
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Безумие, 
+Rating limit: G
+Rating: 5.39
+Rating numbers: 126
+Description: Нет описания

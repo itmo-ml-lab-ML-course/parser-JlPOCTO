@@ -1,0 +1,7 @@
+Name: Xiao Rui Yu Da Mowang: Kuaile Leitai
+Type: video.tv_show
+Episodes: 52
+Episode length: 900
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

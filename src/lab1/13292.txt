@@ -1,0 +1,9 @@
+Name: Kangaroo no Tanjoubi
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Приключения, 
+Rating limit: G
+Rating: 5.3
+Rating numbers: 306
+Description: Нет описания

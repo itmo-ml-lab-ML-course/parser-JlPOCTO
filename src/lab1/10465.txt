@@ -1,0 +1,9 @@
+Name: Doraemon Movie 07: Nobita to Tetsujin Heidan
+Type: video.movie
+Episodes: 1
+Episode length: 6000
+Genres: Приключения, Комедия, Фэнтези, Меха, 
+Rating limit: PG
+Rating: 7.59
+Rating numbers: 697
+Description: Нет описания

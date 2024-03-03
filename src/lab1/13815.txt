@@ -1,0 +1,9 @@
+Name: Hwanggeum Nalgae 1.2.3.
+Type: video.movie
+Episodes: 1
+Episode length: 4260
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: G
+Rating: 5.03
+Rating numbers: 211
+Description: Нет описания

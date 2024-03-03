@@ -1,0 +1,9 @@
+Name: Gongitsune
+Type: video.movie
+Episodes: 1
+Episode length: 4200
+Genres: Детское, Драма, Повседневность, 
+Rating limit: PG
+Rating: 6.2
+Rating numbers: 471
+Description: Нет описания

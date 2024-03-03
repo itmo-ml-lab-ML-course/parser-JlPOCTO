@@ -1,0 +1,8 @@
+Name: ColoColo Animal 2
+Type: video.tv_show
+Episodes: 63
+Episode length: 60
+Last episode date release: 2015-03-30
+Genres: Детское, 
+Rating limit: G
+Description: Образовательная программа, знакомящая детей с геометрическими фигурами, начальной математикой, цветами и другой полезной информацией.

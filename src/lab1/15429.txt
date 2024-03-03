@@ -1,0 +1,8 @@
+Name: Phantomi: Mini Anime
+Type: video.tv_show
+Episodes: 18
+Episode length: 120
+Last episode date release: 2020-06-01
+Genres: 
+Rating limit: G
+Description: Нет описания

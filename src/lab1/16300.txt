@@ -1,0 +1,6 @@
+Name: Mahouka Koukou no Rettousei 3rd Season
+Type: video.tv_show
+Episodes: 1
+Genres: Экшен, Фэнтези, Романтика, Фантастика, Школа, 
+Rating limit: R-17
+Description: Нет описания

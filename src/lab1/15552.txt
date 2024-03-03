@@ -1,0 +1,8 @@
+Name: Puru Pom
+Type: video.tv_show
+Episodes: 9
+Episode length: 60
+Last episode date release: 2017-05-04
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

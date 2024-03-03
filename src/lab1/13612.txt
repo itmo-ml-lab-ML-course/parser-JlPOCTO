@@ -1,0 +1,10 @@
+Name: Agukaru
+Type: video.tv_show
+Episodes: 5
+Episode length: 720
+Last episode date release: 2014-04-01
+Genres: Повседневность, Сверхъестественное, 
+Rating limit: PG
+Rating: 5.14
+Rating numbers: 262
+Description: Нет описания

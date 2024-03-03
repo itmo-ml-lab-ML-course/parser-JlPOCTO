@@ -1,0 +1,10 @@
+Name: Meshimase Lodoss-tou Senki: Sorette Oishii no?
+Type: video.tv_show
+Episodes: 13
+Episode length: 120
+Last episode date release: 2014-06-29
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 5.41
+Rating numbers: 724
+Description: Анимационная пародия на события и героев OVA-сериала «Летопись войн острова Лодосс».

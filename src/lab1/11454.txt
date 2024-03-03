@@ -1,0 +1,10 @@
+Name: Uchuu Kuubo Blue Noah
+Type: video.tv_show
+Episodes: 24
+Episode length: 1560
+Last episode date release: 1980-03-30
+Genres: Экшен, Драма, Фантастика, Военное, Космос, 
+Rating limit: PG
+Rating: 6.55
+Rating numbers: 355
+Description: Нет описания

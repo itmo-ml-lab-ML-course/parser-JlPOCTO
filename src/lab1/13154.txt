@@ -1,0 +1,9 @@
+Name: Apartment!
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Комедия, Повседневность, 
+Rating limit: PG-13
+Rating: 5.36
+Rating numbers: 215
+Description: Нет описания

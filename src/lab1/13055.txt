@@ -1,0 +1,9 @@
+Name: Mochimochi no Ki
+Type: video.movie
+Episodes: 1
+Episode length: 960
+Genres: Детское, 
+Rating limit: G
+Rating: 5.39
+Rating numbers: 193
+Description: Нет описания

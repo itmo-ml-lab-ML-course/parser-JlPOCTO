@@ -1,0 +1,9 @@
+Name: Berserk Recap
+Type: video.other
+Episodes: 1
+Episode length: 1440
+Genres: Экшен, Приключения, Драма, Фэнтези, Ужасы, Военное, Сэйнэн, 
+Rating limit: R-17
+Rating: 6.04
+Rating numbers: 8424
+Description: Краткий пересказ событий аниме «Берсерк (2016)».

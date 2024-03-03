@@ -1,0 +1,10 @@
+Name: Kagaku Ninja-tai Gatchaman II
+Type: video.tv_show
+Episodes: 52
+Episode length: 1380
+Last episode date release: 1979-09-30
+Genres: Сёнен, Экшен, Приключения, Фантастика, 
+Rating limit: PG-13
+Rating: 6.44
+Rating numbers: 781
+Description: Нет описания

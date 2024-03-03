@@ -1,0 +1,9 @@
+Name: CCW: Crazy Clay Wrestling
+Type: video.tv_show
+Episodes: 1
+Episode length: 360
+Genres: Спорт, 
+Rating limit: PG-13
+Rating: 3.64
+Rating numbers: 511
+Description: Нет описания

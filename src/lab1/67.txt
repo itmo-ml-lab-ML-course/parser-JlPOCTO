@@ -1,0 +1,10 @@
+Name: Hajime no Ippo: New Challenger
+Type: video.tv_show
+Episodes: 26
+Episode length: 1380
+Last episode date release: 2009-07-01
+Genres: Спорт, Сёнен, 
+Rating limit: PG-13
+Rating: 8.66
+Rating numbers: 18481
+Description: Иппо Макуноучи продолжает заниматься боксом, надеясь ещё раз сразиться со своим кумиром Ичиро Миятой.Вместе с Иппо совершенствуются профессиональные боксёры Такамура, Аоки и Кимура, каждый из которых стремится к исполнению своей собственной мечты.

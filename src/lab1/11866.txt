@@ -1,0 +1,9 @@
+Name: UFO Robo Grendizer tai Great Mazinger
+Type: video.movie
+Episodes: 1
+Episode length: 1440
+Genres: Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.48
+Rating numbers: 510
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Tianyan Xiao Shentong
+Type: video.tv_show
+Episodes: 500
+Episode length: 480
+Genres: Фэнтези, Школа, Детское, 
+Rating limit: PG
+Description: Нет описания

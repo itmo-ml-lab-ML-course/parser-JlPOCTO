@@ -1,0 +1,9 @@
+Name: Believe in It
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 5.28
+Rating numbers: 198
+Description: «Ваша мечта сбудется, если вы в это верите».

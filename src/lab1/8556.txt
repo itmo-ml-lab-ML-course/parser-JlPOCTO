@@ -1,0 +1,8 @@
+Name: Genki Genki Non-tan (2006)
+Type: video.tv_show
+Episodes: 10
+Episode length: 360
+Last episode date release: 2006-10-13
+Genres: Детское, Музыка, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Doraemon: 2112-nen Doraemon Tanjou
+Type: video.movie
+Episodes: 1
+Episode length: 1800
+Genres: Детское, Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 7.26
+Rating numbers: 625
+Description: Нет описания

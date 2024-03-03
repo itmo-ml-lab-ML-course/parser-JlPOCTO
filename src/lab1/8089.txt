@@ -1,0 +1,8 @@
+Name: DJ Nobunaga
+Type: video.tv_show
+Episodes: 6
+Episode length: 60
+Last episode date release: 2017-09-08
+Genres: Исторический, Музыка, Самураи, 
+Rating limit: G
+Description: Нет описания

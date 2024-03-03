@@ -1,0 +1,9 @@
+Name: Paperman
+Type: video.tv_show
+Episodes: 1
+Episode length: 360
+Genres: Игры, 
+Rating limit: G
+Rating: 5.3
+Rating numbers: 141
+Description: Нет описания

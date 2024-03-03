@@ -1,0 +1,7 @@
+Name: Nori P-chan
+Type: video.other
+Episodes: 1
+Episode length: 1620
+Genres: Детское, Повседневность, 
+Rating limit: G
+Description: Нет описания

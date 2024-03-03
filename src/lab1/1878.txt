@@ -1,0 +1,9 @@
+Name: Shark&#39;d
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Комедия, Фэнтези, 
+Rating limit: PG-13
+Rating: 7.39
+Rating numbers: 1674
+Description: Нет описания

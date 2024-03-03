@@ -1,0 +1,7 @@
+Name: Wai Xing Da Caoyuan
+Type: video.tv_show
+Episodes: 12
+Episode length: 240
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

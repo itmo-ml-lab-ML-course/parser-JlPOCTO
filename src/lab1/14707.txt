@@ -1,0 +1,7 @@
+Name: Miniforce X Movie
+Type: video.movie
+Episodes: 1
+Episode length: 4080
+Genres: Экшен, Меха, Детское, 
+Rating limit: PG
+Description: Нет описания

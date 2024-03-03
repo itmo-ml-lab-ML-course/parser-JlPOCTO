@@ -1,0 +1,7 @@
+Name: Oshiri Tantei Movie 3: Sufure-tou no Himitsu
+Type: video.movie
+Episodes: 1
+Episode length: 2280
+Genres: Детское, Комедия, Фэнтези, Детектив, 
+Rating limit: PG
+Description: Нет описания

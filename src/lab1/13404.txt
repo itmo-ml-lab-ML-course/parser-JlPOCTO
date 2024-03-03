@@ -1,0 +1,9 @@
+Name: Chou Akuukan Bouheki Cheese Napolitan
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Музыка, 
+Rating limit: PG-13
+Rating: 5.25
+Rating numbers: 631
+Description: Двухминутный аниме-ролик японской компании «GMO Internet» с участием её двух девушек-маскотов.

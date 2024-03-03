@@ -1,0 +1,7 @@
+Name: Shucai Wangguo
+Type: video.tv_show
+Episodes: 32
+Episode length: 720
+Genres: Приключения, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Umi no Triton
+Type: video.tv_show
+Episodes: 27
+Episode length: 1380
+Last episode date release: 1972-09-30
+Genres: Сёнен, Приключения, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.39
+Rating numbers: 358
+Description: Нет описания

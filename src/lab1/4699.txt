@@ -1,0 +1,9 @@
+Name: Mao Zhi Ming Episode 5.5
+Type: video.tv_show
+Episodes: 1
+Episode length: 480
+Genres: Комедия, Фэнтези, 
+Rating limit: G
+Rating: 6.12
+Rating numbers: 483
+Description: Нет описания

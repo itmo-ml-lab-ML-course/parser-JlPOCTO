@@ -1,0 +1,8 @@
+Name: Bip to Bap
+Type: video.tv_show
+Episodes: 4
+Episode length: 300
+Last episode date release: 2005-04-18
+Genres: Детское, Приключения, 
+Rating limit: PG
+Description: Нет описания

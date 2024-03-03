@@ -1,0 +1,9 @@
+Name: Magic Knight Rayearth Pilot
+Type: video.other
+Episodes: 1
+Episode length: 240
+Genres: Фэнтези, Сёдзё, 
+Rating limit: PG-13
+Rating: 6.03
+Rating numbers: 336
+Description: Нет описания

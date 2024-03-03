@@ -1,0 +1,8 @@
+Name: Xianggu Teqin Dui: Huluobo Ruqin
+Type: video.tv_show
+Episodes: 42
+Episode length: 780
+Last episode date release: 2010-11-01
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

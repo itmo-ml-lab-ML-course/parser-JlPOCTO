@@ -1,0 +1,9 @@
+Name: Eizou (Kage)
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 4.97
+Rating numbers: 165
+Description: Нет описания

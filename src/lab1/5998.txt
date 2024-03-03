@@ -1,0 +1,8 @@
+Name: Tata Tu Ran Xiang Dao 2
+Type: video.tv_show
+Episodes: 12
+Episode length: 300
+Last episode date release: 2022-03-22
+Genres: Комедия, Детское, 
+Rating limit: G
+Description: Нет описания

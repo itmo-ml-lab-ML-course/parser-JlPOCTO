@@ -1,0 +1,9 @@
+Name: KanColle Movie
+Type: video.movie
+Episodes: 1
+Episode length: 5520
+Genres: Экшен, Драма, Фантастика, Военное, 
+Rating limit: PG-13
+Rating: 7.5
+Rating numbers: 9735
+Description: Нет описания

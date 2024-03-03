@@ -1,0 +1,9 @@
+Name: Kirin Hyoketsu: Atarashiku Ikou Animation Movie
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Повседневность, 
+Rating limit: G
+Rating: 5.22
+Rating numbers: 899
+Description: Реклама японского фруктового алкогольного напитка.

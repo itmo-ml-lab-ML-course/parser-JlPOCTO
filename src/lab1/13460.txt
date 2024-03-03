@@ -1,0 +1,9 @@
+Name: Nara Shika Monogatari
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.23
+Rating numbers: 185
+Description: Нет описания

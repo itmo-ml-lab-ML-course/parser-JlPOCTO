@@ -1,0 +1,10 @@
+Name: Lovely Movie: Itoshi no Muco Season 2
+Type: video.tv_show
+Episodes: 22
+Episode length: 120
+Last episode date release: 2014-10-05
+Genres: Повседневность, 
+Rating limit: PG
+Rating: 6.12
+Rating numbers: 284
+Description: Нет описания

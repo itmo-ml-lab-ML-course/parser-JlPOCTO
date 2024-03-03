@@ -1,0 +1,10 @@
+Name: Chen-Kuro Gakuen
+Type: video.movie
+Episodes: 3
+Episode length: 180
+Last episode date release: 2017-02-11
+Genres: Комедия, Пародия, Школа, 
+Rating limit: G
+Rating: 5.35
+Rating numbers: 183
+Description: Нет описания

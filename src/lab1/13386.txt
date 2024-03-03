@@ -1,0 +1,9 @@
+Name: Kozaru no Buranko
+Type: video.movie
+Episodes: 1
+Episode length: 660
+Genres: Детское, 
+Rating limit: G
+Rating: 5.26
+Rating numbers: 240
+Description: Нет описания

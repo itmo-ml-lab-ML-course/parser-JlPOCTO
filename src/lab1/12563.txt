@@ -1,0 +1,8 @@
+Name: Ginga Tetsudou 999 for Planetarium
+Type: video.movie
+Episodes: 1
+Genres: Приключения, Драма, Фантастика, Космос, 
+Rating limit: G
+Rating: 6.35
+Rating numbers: 725
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Miira no Yume
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.94
+Rating numbers: 316
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Tobacco wa Dasai
+Type: video.tv_show
+Episodes: 1
+Episode length: 420
+Genres: Повседневность, Школа, 
+Rating limit: PG-13
+Rating: 4.59
+Rating numbers: 361
+Description: Нет описания

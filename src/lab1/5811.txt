@@ -1,0 +1,8 @@
+Name: Star Ocean: Anamnesis
+Type: video.tv_show
+Episodes: 17
+Episode length: 60
+Last episode date release: 2020-04-04
+Genres: Экшен, Фэнтези, 
+Rating limit: PG-13
+Description: Трейлер мобильной RPG-игры «Star Ocean: Anamnesis» от компании Squre Enix, выпущенной для Android и iOS 5 декабря 2016 года.

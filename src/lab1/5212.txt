@@ -1,0 +1,10 @@
+Name: Mameneko
+Type: video.tv_show
+Episodes: 12
+Episode length: 180
+Last episode date release: 2018-03-27
+Genres: Повседневность, 
+Rating limit: PG
+Rating: 6.01
+Rating numbers: 938
+Description: Котята Адзуки и Дайдзу, сестрёнка с братиком, были приняты в большую семью, где их ждёт множество приключений и новых знакомств с окружающим миром!

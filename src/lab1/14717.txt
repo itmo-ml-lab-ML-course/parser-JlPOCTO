@@ -1,0 +1,8 @@
+Name: Minjian Gui Shu
+Type: video.tv_show
+Episodes: 50
+Episode length: 600
+Last episode date release: 2017-09-08
+Genres: Ужасы, 
+Rating limit: R-17
+Description: Нет описания

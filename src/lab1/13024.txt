@@ -1,0 +1,10 @@
+Name: Yawaraka Atom
+Type: video.tv_show
+Episodes: 7
+Episode length: 180
+Last episode date release: 2008-10-01
+Genres: Комедия, Пародия, 
+Rating limit: G
+Rating: 5.45
+Rating numbers: 165
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Oshiri Kajiri Mushi (TV) 4th Season
+Type: video.tv_show
+Episodes: 10
+Episode length: 300
+Last episode date release: 2015-12-07
+Genres: Детское, Комедия, 
+Rating limit: G
+Rating: 5.25
+Rating numbers: 265
+Description: Нет описания

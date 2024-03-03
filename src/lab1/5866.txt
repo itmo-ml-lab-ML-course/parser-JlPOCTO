@@ -1,0 +1,8 @@
+Name: Suzu 3 Tarou
+Type: video.tv_show
+Episodes: 24
+Episode length: 120
+Last episode date release: 2009-08-20
+Genres: Детское, Комедия, 
+Rating limit: G
+Description: Нет описания

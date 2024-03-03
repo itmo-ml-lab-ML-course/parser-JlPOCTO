@@ -1,0 +1,7 @@
+Name: Da Lu De Gushi
+Type: video.movie
+Episodes: 1
+Episode length: 2820
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

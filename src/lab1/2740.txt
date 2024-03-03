@@ -1,0 +1,9 @@
+Name: Saint Seiya: Shinku no Shounen Densetsu
+Type: video.movie
+Episodes: 1
+Episode length: 4500
+Genres: Сёнен, Приключения, Фэнтези, Фантастика, 
+Rating limit: PG-13
+Rating: 7.21
+Rating numbers: 1096
+Description: Нет описания

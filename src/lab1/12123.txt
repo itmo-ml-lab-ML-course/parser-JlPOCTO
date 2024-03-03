@@ -1,0 +1,9 @@
+Name: Inko Colors the Animation
+Type: video.tv_show
+Episodes: 1
+Episode length: 420
+Genres: Приключения, Повседневность, 
+Rating limit: G
+Rating: 6.43
+Rating numbers: 311
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Shinrabanshou: Tenchi Shinmei no Shou
+Type: video.tv_show
+Episodes: 1
+Episode length: 1320
+Genres: Сёнен, Экшен, Фэнтези, 
+Rating limit: PG-13
+Rating: 5.41
+Rating numbers: 403
+Description: Нет описания

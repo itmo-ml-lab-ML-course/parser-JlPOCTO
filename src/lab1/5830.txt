@@ -1,0 +1,7 @@
+Name: Suicide Squad x Taka no Tsume
+Type: video.tv_show
+Episodes: 3
+Episode length: 60
+Genres: Комедия, Спорт, Пародия, Супер сила, 
+Rating limit: PG-13
+Description: Нет описания

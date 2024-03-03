@@ -1,0 +1,8 @@
+Name: Aoshima Megu
+Type: video.tv_show
+Episodes: 1
+Genres: Приключения, 
+Rating limit: G
+Rating: 5.19
+Rating numbers: 349
+Description: Нет описания

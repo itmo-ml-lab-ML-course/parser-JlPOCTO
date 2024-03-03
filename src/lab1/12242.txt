@@ -1,0 +1,10 @@
+Name: Big X
+Type: video.tv_show
+Episodes: 59
+Episode length: 1500
+Last episode date release: 1965-09-27
+Genres: Сёнен, Экшен, Фантастика, Исторический, 
+Rating limit: G
+Rating: 6.41
+Rating numbers: 289
+Description: Нет описания

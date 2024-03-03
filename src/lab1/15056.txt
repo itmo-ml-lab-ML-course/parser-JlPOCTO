@@ -1,0 +1,8 @@
+Name: Ni Hao! Bu Bu
+Type: video.tv_show
+Episodes: 52
+Episode length: 300
+Last episode date release: 2021-01-01
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

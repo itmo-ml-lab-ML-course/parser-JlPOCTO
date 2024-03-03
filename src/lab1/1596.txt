@@ -1,0 +1,9 @@
+Name: Afro Samurai Movie
+Type: video.movie
+Episodes: 1
+Episode length: 6960
+Genres: Экшен, Приключения, Самураи, 
+Rating limit: R+
+Rating: 7.54
+Rating numbers: 19095
+Description: Полнометражный фильм, являющийся адаптацией ТВ-сериала.

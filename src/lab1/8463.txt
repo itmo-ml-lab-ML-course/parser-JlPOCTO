@@ -1,0 +1,8 @@
+Name: Fuusen Inu Tinny 2nd Season
+Type: video.tv_show
+Episodes: 26
+Episode length: 300
+Last episode date release: 2016-03-25
+Genres: Детское, Приключения, 
+Rating limit: G
+Description: Нет описания

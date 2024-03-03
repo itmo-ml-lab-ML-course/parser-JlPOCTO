@@ -1,0 +1,9 @@
+Name: Star Dust
+Type: video.other
+Episodes: 1
+Episode length: 1920
+Genres: Фантастика, Космос, 
+Rating limit: PG-13
+Rating: 4.83
+Rating numbers: 245
+Description: Нет описания

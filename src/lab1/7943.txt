@@ -1,0 +1,8 @@
+Name: Da Zhonghua Xunbao Ji
+Type: video.tv_show
+Episodes: 52
+Episode length: 540
+Last episode date release: 2019-01-01
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

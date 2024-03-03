@@ -1,0 +1,9 @@
+Name: Kidou Senshi Gundam 00: Tenshi-tachi no Kiseki
+Type: video.other
+Episodes: 1
+Episode length: 1440
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 7.16
+Rating numbers: 1546
+Description: Краткий пересказ событий первого сезона, в котором повествование ведется от лица Сэцуны.

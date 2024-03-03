@@ -1,0 +1,7 @@
+Name: Tonghua Wangguo Lixian Ji
+Type: video.tv_show
+Episodes: 80
+Episode length: 540
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

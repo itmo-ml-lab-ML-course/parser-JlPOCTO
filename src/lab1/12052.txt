@@ -1,0 +1,10 @@
+Name: Oh! Family
+Type: video.tv_show
+Episodes: 26
+Episode length: 1380
+Last episode date release: 1987-03-30
+Genres: Сёдзё, Комедия, Драма, Романтика, Повседневность, 
+Rating limit: G
+Rating: 6.44
+Rating numbers: 294
+Description: Нет описания

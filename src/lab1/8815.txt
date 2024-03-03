@@ -1,0 +1,7 @@
+Name: Hao Hao Wenzi Guo
+Type: video.tv_show
+Episodes: 130
+Episode length: 780
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

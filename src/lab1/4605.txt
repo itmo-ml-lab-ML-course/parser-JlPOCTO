@@ -1,0 +1,9 @@
+Name: Kurumiwari Ningyou
+Type: video.movie
+Episodes: 1
+Episode length: 5640
+Genres: Драма, Фэнтези, Романтика, 
+Rating limit: G
+Rating: 6.13
+Rating numbers: 295
+Description: Нет описания

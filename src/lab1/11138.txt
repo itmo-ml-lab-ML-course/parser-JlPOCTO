@@ -1,0 +1,10 @@
+Name: Teekyuu 7
+Type: video.tv_show
+Episodes: 12
+Episode length: 120
+Last episode date release: 2016-03-29
+Genres: Комедия, Сёнен, 
+Rating limit: PG-13
+Rating: 6.61
+Rating numbers: 3496
+Description: Возвращение энергичных теннисисток в новом сезоне аниме-франшизы. Вновь нам удастся посмотреть на жизнь весьма сумасбродного состава клуба любителей тенниса.

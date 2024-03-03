@@ -1,0 +1,10 @@
+Name: Bikkuriman
+Type: video.tv_show
+Episodes: 75
+Episode length: 1440
+Last episode date release: 1989-04-02
+Genres: Комедия, Фэнтези, 
+Rating limit: G
+Rating: 6.5
+Rating numbers: 272
+Description: Нет описания

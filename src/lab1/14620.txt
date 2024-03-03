@@ -1,0 +1,7 @@
+Name: Mi Duo De Tuya Riji
+Type: video.tv_show
+Episodes: 30
+Episode length: 600
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Si Hai Jing Qi 2nd Season
+Type: video.tv_show
+Episodes: 24
+Episode length: 900
+Last episode date release: 2020-03-12
+Genres: Экшен, Приключения, Фэнтези, Детектив, Исторический, Боевые искусства, Военное, 
+Rating limit: PG-13
+Rating: 6.18
+Rating numbers: 258
+Description: Нет описания

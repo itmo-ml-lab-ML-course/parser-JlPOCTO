@@ -1,0 +1,7 @@
+Name: Roku no Sekai
+Type: video.other
+Episodes: 1
+Episode length: 1260
+Genres: Приключения, 
+Rating limit: G
+Description: Нет описания

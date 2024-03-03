@@ -1,0 +1,7 @@
+Name: Mao Qiu Daya Qi Qu: Lu Zhi Zui Zhang De Lutu
+Type: video.tv_show
+Episodes: 50
+Episode length: 600
+Genres: Приключения, Детское, 
+Rating limit: PG
+Description: Нет описания

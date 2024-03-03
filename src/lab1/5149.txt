@@ -1,0 +1,10 @@
+Name: Mou Hitotsu no Mirai wo.
+Type: video.tv_show
+Episodes: 3
+Episode length: 420
+Last episode date release: 2014-03-13
+Genres: Фантастика, 
+Rating limit: PG-13
+Rating: 6.02
+Rating numbers: 2069
+Description: Короткая история, которая происходит в лаборатории KDDI R&amp;D, где учёные пытаются создать телефон, который мог бы звонить в будущее, но во время использования изобретения происходит неожиданный инцидент.

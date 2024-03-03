@@ -1,0 +1,8 @@
+Name: Heisei Matsue Kaidan: Ayashi
+Type: video.tv_show
+Episodes: 2
+Episode length: 540
+Last episode date release: 2018-04-01
+Genres: Комедия, Ужасы, Сверхъестественное, Исторический, Пародия, 
+Rating limit: G
+Description: Нет описания

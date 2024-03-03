@@ -1,0 +1,7 @@
+Name: Niger Monogatari
+Type: video.movie
+Episodes: 1
+Episode length: 1380
+Genres: Фэнтези, 
+Rating limit: G
+Description: Нет описания

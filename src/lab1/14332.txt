@@ -1,0 +1,9 @@
+Name: Haruwo
+Type: video.other
+Episodes: 1
+Episode length: 1800
+Genres: Экшен, 
+Rating limit: PG-13
+Rating: 4.46
+Rating numbers: 304
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Eden&#39;s Bowy
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Last episode date release: 1999-09-24
+Genres: Экшен, Приключения, Фэнтези, Романтика, Фантастика, 
+Rating limit: PG-13
+Rating: 6.54
+Rating numbers: 578
+Description: Нет описания

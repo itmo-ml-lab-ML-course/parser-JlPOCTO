@@ -1,0 +1,7 @@
+Name: Buleung! Buleung! Beulumijeu
+Type: video.tv_show
+Episodes: 78
+Episode length: 660
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

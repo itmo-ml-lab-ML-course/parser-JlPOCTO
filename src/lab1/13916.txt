@@ -1,0 +1,9 @@
+Name: Fujinkoron-senpai
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Комедия, 
+Rating limit: PG
+Rating: 4.95
+Rating numbers: 293
+Description: Нет описания

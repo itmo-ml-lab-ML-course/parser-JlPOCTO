@@ -1,0 +1,10 @@
+Name: Kaitou Joker 3rd Season
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2016-06-27
+Genres: Детское, Приключения, Комедия, Детектив, 
+Rating limit: PG
+Rating: 7.19
+Rating numbers: 1196
+Description: Нет описания

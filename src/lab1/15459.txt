@@ -1,0 +1,7 @@
+Name: Pipi Zhu: Conglin Shenghuo
+Type: video.tv_show
+Episodes: 20
+Episode length: 900
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

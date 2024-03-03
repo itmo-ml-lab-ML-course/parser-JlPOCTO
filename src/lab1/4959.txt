@@ -1,0 +1,9 @@
+Name: A New Journey
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Экшен, Игры, 
+Rating limit: PG-13
+Rating: 6.06
+Rating numbers: 603
+Description: Рекламный видеоролик, посвященный старту сезона «Season 2019: A New Journey» в игре League of Legends.

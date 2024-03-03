@@ -1,0 +1,9 @@
+Name: Miyako
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Психологическое, 
+Rating limit: PG-13
+Rating: 5.98
+Rating numbers: 533
+Description: Нет описания

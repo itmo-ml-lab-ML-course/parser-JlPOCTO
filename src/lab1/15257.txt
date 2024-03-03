@@ -1,0 +1,8 @@
+Name: Onigiri ni Naritai Cogimyun
+Type: video.tv_show
+Episodes: 10
+Episode length: 60
+Last episode date release: 2020-04-17
+Genres: Детское, Фэнтези, Школа, 
+Rating limit: G
+Description: Нет описания

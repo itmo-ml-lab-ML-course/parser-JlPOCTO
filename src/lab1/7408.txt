@@ -1,0 +1,7 @@
+Name: Bing Ji Chaoren Kuaidi Xia
+Type: video.tv_show
+Episodes: 6
+Episode length: 480
+Genres: Комедия, Супер сила, 
+Rating limit: G
+Description: Нет описания

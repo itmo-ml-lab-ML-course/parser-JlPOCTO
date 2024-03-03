@@ -1,0 +1,7 @@
+Name: Sushi Police Movie
+Type: video.movie
+Episodes: 1
+Episode length: 2700
+Genres: Комедия, Детектив, 
+Rating limit: PG-13
+Description: Нет описания

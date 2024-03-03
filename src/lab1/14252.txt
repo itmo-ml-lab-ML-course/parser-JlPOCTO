@@ -1,0 +1,10 @@
+Name: Chargeman Ken!
+Type: video.tv_show
+Episodes: 65
+Episode length: 360
+Last episode date release: 1974-06-28
+Genres: Экшен, Приключения, Фантастика, 
+Rating limit: PG
+Rating: 4.61
+Rating numbers: 326
+Description: Нет описания

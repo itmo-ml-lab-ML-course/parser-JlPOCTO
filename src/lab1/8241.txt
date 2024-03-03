@@ -1,0 +1,7 @@
+Name: Duchiwa Ppukku
+Type: video.tv_show
+Episodes: 26
+Last episode date release: 1996-07-12
+Genres: Комедия, Сверхъестественное, Детское, 
+Rating limit: PG
+Description: Нет описания

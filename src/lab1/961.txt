@@ -1,0 +1,9 @@
+Name: New Initial D Movie: Legend 1 - Kakusei
+Type: video.movie
+Episodes: 1
+Episode length: 3720
+Genres: Экшен, Сэйнэн, 
+Rating limit: PG-13
+Rating: 7.79
+Rating numbers: 10476
+Description: Первый фильм трилогии, показывающий битву против братьев Такахаши — Кэйскэ и Рёскэ.

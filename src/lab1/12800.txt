@@ -1,0 +1,9 @@
+Name: And2! And2!
+Type: video.tv_show
+Episodes: 1
+Episode length: 2040
+Genres: Повседневность, Музыка, 
+Rating limit: PG-13
+Rating: 5.48
+Rating numbers: 522
+Description: Нет описания

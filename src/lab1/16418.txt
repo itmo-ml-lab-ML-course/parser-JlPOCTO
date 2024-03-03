@@ -1,0 +1,6 @@
+Name: Mahoutsukai Precure! 2
+Type: video.tv_show
+Episodes: 1
+Genres: Экшен, Фэнтези, 
+Rating limit: G
+Description: Нет описания

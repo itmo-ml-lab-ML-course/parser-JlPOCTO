@@ -1,0 +1,10 @@
+Name: Master of Torque
+Type: video.tv_show
+Episodes: 4
+Episode length: 300
+Last episode date release: 2014-07-18
+Genres: Экшен, Фантастика, 
+Rating limit: G
+Rating: 4.83
+Rating numbers: 573
+Description: Нет описания

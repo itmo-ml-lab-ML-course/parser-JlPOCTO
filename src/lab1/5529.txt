@@ -1,0 +1,9 @@
+Name: Nendo no Tatakai 2
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Экшен, Комедия, 
+Rating limit: PG-13
+Rating: 3.21
+Rating numbers: 505
+Description: Нет описания

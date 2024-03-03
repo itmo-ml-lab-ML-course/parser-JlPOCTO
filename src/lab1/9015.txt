@@ -1,0 +1,7 @@
+Name: Hong Mao Lan Tu: Maoyan Kan Yuzhou
+Type: video.tv_show
+Episodes: 97
+Episode length: 300
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Bakemonogatari Recap
+Type: video.other
+Episodes: 1
+Episode length: 1440
+Genres: Детектив, Романтика, Сверхъестественное, 
+Rating limit: R-17
+Rating: 7.29
+Rating numbers: 20325
+Description: Краткое содержание первых пяти эпизодов «Bakemonogatari».

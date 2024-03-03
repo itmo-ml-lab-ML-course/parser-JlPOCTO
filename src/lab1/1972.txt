@@ -1,0 +1,10 @@
+Name: Flanders no Inu
+Type: video.tv_show
+Episodes: 52
+Episode length: 1560
+Last episode date release: 1975-12-28
+Genres: Драма, Повседневность, Исторический, 
+Rating limit: G
+Rating: 7.36
+Rating numbers: 1861
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Wakame Buildings
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 5.03
+Rating numbers: 112
+Description: Нет описания

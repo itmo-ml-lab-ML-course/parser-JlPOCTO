@@ -1,0 +1,10 @@
+Name: Machikado Mazoku: 2-choume Mini
+Type: video.tv_show
+Episodes: 25
+Episode length: 60
+Last episode date release: 2022-10-05
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 5.97
+Rating numbers: 667
+Description: Нет описания

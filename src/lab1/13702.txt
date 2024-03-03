@@ -1,0 +1,9 @@
+Name: Nameless Flipbook
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Безумие, 
+Rating limit: G
+Rating: 5.1
+Rating numbers: 237
+Description: Нет описания

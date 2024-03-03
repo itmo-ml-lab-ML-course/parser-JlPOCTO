@@ -1,0 +1,9 @@
+Name: Zettai 15-byou Animation!
+Type: video.movie
+Episodes: 1
+Episode length: 960
+Genres: Безумие, Комедия, Музыка, 
+Rating limit: G
+Rating: 4.67
+Rating numbers: 850
+Description: Антология пятнадцатисекундных роликов, созданная Японской анимационной ассоциацией для фестиваля Into Animation 7, проходившего в Национальном центре искусств в Токио.

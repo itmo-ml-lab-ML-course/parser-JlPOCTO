@@ -1,0 +1,10 @@
+Name: Gyouten Ningen Batsealer
+Type: video.tv_show
+Episodes: 52
+Episode length: 1500
+Last episode date release: 2002-03-30
+Genres: Экшен, Приключения, Фэнтези, 
+Rating limit: PG
+Rating: 6.43
+Rating numbers: 196
+Description: Нет описания

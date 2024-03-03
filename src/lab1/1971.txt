@@ -1,0 +1,9 @@
+Name: Dotto Koni-chan
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 2001-05-29
+Genres: Комедия, 
+Rating: 7.36
+Rating numbers: 349
+Description: Нет описания

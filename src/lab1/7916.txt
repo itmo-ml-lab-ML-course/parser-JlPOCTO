@@ -1,0 +1,7 @@
+Name: Da Jili Chedui
+Type: video.tv_show
+Episodes: 89
+Episode length: 840
+Genres: Детское, Комедия, 
+Rating limit: G
+Description: Нет описания

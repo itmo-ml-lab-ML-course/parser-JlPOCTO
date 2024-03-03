@@ -1,0 +1,9 @@
+Name: Zap Cat
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Безумие, 
+Rating limit: R+
+Rating: 5.06
+Rating numbers: 145
+Description: Нет описания

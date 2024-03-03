@@ -1,0 +1,10 @@
+Name: Ketsuekigata-kun!
+Type: video.tv_show
+Episodes: 12
+Episode length: 120
+Last episode date release: 2013-06-23
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.47
+Rating numbers: 985
+Description: Ремейк корейской манги, главные герои которой, безликие и безымянные символы, — четыре типа крови. Они обсуждают популярные стереотипы о группах крови, получившие большое распространение в Японии и Корее.

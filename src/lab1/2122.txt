@@ -1,0 +1,10 @@
+Name: Wu Dong Qian Kun
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2019-04-07
+Genres: Экшен, Приключения, Фэнтези, Исторический, Боевые искусства, 
+Rating limit: PG-13
+Rating: 7.33
+Rating numbers: 3966
+Description: Нет описания

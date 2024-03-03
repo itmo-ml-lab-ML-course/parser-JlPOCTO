@@ -1,0 +1,10 @@
+Name: Pokemon Best Wishes! Season 2: Decolora Adventure
+Type: video.tv_show
+Episodes: 20
+Episode length: 1320
+Last episode date release: 2013-09-26
+Genres: Детское, Экшен, Приключения, Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 6.3
+Rating numbers: 3956
+Description: Приключение Сатоши в регионе Юнова подходит к концу, и теперь он собирается возвращаться домой, в регион Канто. Его новые друзья, Ирис и Дент, решают отправиться в новое путешествие вместе с ним. Теперь, чтобы добраться до Канто, им предстоит проплыть по архипелагу Деколора!

@@ -1,0 +1,9 @@
+Name: Saiki Kusuo no Ψ-nan Manner Movie
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.52
+Rating numbers: 1276
+Description: Нет описания

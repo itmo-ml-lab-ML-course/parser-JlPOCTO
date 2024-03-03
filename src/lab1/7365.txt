@@ -1,0 +1,7 @@
+Name: Beidou Linghang Mengxiang
+Type: video.tv_show
+Episodes: 11
+Episode length: 240
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Chengyu Donghua Lang
+Type: video.tv_show
+Episodes: 180
+Episode length: 180
+Last episode date release: 1988-01-01
+Genres: Детское, Исторический, 
+Rating limit: PG
+Description: Нет описания

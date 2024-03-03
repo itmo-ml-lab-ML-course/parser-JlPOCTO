@@ -1,0 +1,8 @@
+Name: Nanamental
+Type: video.tv_show
+Episodes: 20
+Episode length: 60
+Last episode date release: 2022-06-18
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

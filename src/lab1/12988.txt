@@ -1,0 +1,9 @@
+Name: Celebration and Chorale
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Музыка, 
+Rating limit: G
+Rating: 5.41
+Rating numbers: 177
+Description: Нет описания

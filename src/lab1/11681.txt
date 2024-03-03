@@ -1,0 +1,10 @@
+Name: Ling Yu 4th Season
+Type: video.tv_show
+Episodes: 12
+Episode length: 840
+Last episode date release: 2017-02-23
+Genres: Фэнтези, 
+Rating limit: PG-13
+Rating: 6.51
+Rating numbers: 1245
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Landlock
+Type: video.other
+Episodes: 2
+Episode length: 2700
+Last episode date release: 1996-09-27
+Genres: Приключения, Фэнтези, Фантастика, 
+Rating limit: PG-13
+Rating: 5.4
+Rating numbers: 384
+Description: Нет описания

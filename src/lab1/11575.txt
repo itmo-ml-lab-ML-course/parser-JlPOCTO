@@ -1,0 +1,10 @@
+Name: Wooser no Sono Higurashi: Mugen-hen
+Type: video.tv_show
+Episodes: 13
+Episode length: 420
+Last episode date release: 2015-09-25
+Genres: Комедия, Фэнтези, Повседневность, 
+Rating limit: G
+Rating: 6.53
+Rating numbers: 522
+Description: Симпатичный, но алчный и завистливый Вузер возвращается ещё на один сезон «Вузер сводит концы с концами». Вузер — существо, которое заботится только о трёх вещах в жизни: мясе, деньгах и девочках.

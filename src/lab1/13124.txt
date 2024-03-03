@@ -1,0 +1,9 @@
+Name: Cynical Hysterie Hour: Henshin!
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.37
+Rating numbers: 162
+Description: Нет описания

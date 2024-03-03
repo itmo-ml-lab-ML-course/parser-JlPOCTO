@@ -1,0 +1,10 @@
+Name: Shen Ming Zhi Zhou
+Type: video.tv_show
+Episodes: 12
+Episode length: 960
+Last episode date release: 2016-05-11
+Genres: Приключения, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.08
+Rating numbers: 659
+Description: Нет описания

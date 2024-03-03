@@ -1,0 +1,8 @@
+Name: Mochibei
+Type: video.movie
+Episodes: 1
+Genres: Безумие, 
+Rating limit: PG-13
+Rating: 3.02
+Rating numbers: 1020
+Description: Нет описания

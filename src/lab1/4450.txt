@@ -1,0 +1,10 @@
+Name: Dianqi Shaonu
+Type: video.tv_show
+Episodes: 12
+Episode length: 480
+Last episode date release: 2023-06-20
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.16
+Rating numbers: 1758
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Midori no Makibao
+Type: video.tv_show
+Episodes: 61
+Episode length: 1440
+Last episode date release: 1997-07-12
+Genres: Комедия, Сёнен, 
+Rating limit: G
+Rating: 7.05
+Rating numbers: 251
+Description: Нет описания

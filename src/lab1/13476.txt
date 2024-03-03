@@ -1,0 +1,9 @@
+Name: Joker: Marginal City
+Type: video.other
+Episodes: 1
+Episode length: 2160
+Genres: Экшен, Романтика, Фантастика, 
+Rating limit: R-17
+Rating: 5.22
+Rating numbers: 499
+Description: Нет описания

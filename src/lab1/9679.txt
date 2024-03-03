@@ -1,0 +1,10 @@
+Name: IDOLiSH7 Vibrato
+Type: video.tv_show
+Episodes: 8
+Episode length: 840
+Last episode date release: 2019-03-07
+Genres: Драма, Музыка, 
+Rating limit: PG-13
+Rating: 7.96
+Rating numbers: 5156
+Description: Сюжет уводит нас на 2 года назад от времени действия основных событий сериала «Семёрка идолов», раскрывая частичку истории создания коллектива «TRIGGER».

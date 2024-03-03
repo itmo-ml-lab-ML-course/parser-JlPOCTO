@@ -1,0 +1,8 @@
+Name: Xiaolan He Ta De Pengyou
+Type: video.tv_show
+Episodes: 13
+Episode length: 180
+Last episode date release: 2022-12-21
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

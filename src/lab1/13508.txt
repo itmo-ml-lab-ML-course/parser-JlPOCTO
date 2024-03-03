@@ -1,0 +1,9 @@
+Name: Go-hiki no Kozaru-tachi
+Type: video.movie
+Episodes: 1
+Episode length: 960
+Genres: Демоны, 
+Rating limit: G
+Rating: 5.2
+Rating numbers: 256
+Description: Нет описания

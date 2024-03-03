@@ -1,0 +1,10 @@
+Name: Kujira no Josephina
+Type: video.tv_show
+Episodes: 23
+Episode length: 1500
+Last episode date release: 1979-09-25
+Genres: Приключения, Фэнтези, 
+Rating limit: G
+Rating: 6.03
+Rating numbers: 238
+Description: Нет описания

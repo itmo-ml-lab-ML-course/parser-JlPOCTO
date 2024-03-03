@@ -1,0 +1,7 @@
+Name: Chao Shou Wuzhuang: Yongzhe Wu Ju
+Type: video.tv_show
+Episodes: 33
+Episode length: 1500
+Genres: Экшен, Приключения, Детское, 
+Rating limit: PG-13
+Description: Нет описания

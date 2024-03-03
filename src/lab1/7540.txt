@@ -1,0 +1,7 @@
+Name: Byeoljubu Haelo
+Type: video.movie
+Episodes: 1
+Episode length: 4500
+Genres: Приключения, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

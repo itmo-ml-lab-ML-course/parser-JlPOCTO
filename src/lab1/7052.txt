@@ -1,0 +1,7 @@
+Name: Xingyuan Xiao Bao
+Type: video.tv_show
+Episodes: 52
+Episode length: 1380
+Genres: Приключения, 
+Rating limit: PG
+Description: Нет описания

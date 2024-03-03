@@ -1,0 +1,6 @@
+Name: Ojarumaru: Mattari Planetarium
+Type: video.movie
+Episodes: 1
+Genres: Приключения, Комедия, Фэнтези, Фантастика, Космос, Детское, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Ling Yu 3rd Season
+Type: video.tv_show
+Episodes: 12
+Episode length: 840
+Last episode date release: 2016-10-06
+Genres: Фэнтези, 
+Rating limit: PG-13
+Rating: 6.48
+Rating numbers: 1327
+Description: Нет описания

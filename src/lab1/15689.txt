@@ -1,0 +1,8 @@
+Name: Quan Zhi Ming
+Type: video.tv_show
+Episodes: 11
+Episode length: 240
+Last episode date release: 2023-12-08
+Genres: Комедия, Фэнтези, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Doraemon Movie 33: Nobita no Himitsu Dougu Museum
+Type: video.movie
+Episodes: 1
+Episode length: 6240
+Genres: Приключения, Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 7.51
+Rating numbers: 618
+Description: Нет описания

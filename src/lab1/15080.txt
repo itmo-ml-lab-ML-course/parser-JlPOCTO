@@ -1,0 +1,7 @@
+Name: Nikoniko♪Connie-chan
+Type: video.tv_show
+Episodes: 5
+Episode length: 600
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

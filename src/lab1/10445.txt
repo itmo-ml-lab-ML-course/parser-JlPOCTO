@@ -1,0 +1,9 @@
+Name: Macross Δ Movie 2: Zettai Live!!!
+Type: video.movie
+Episodes: 1
+Episode length: 6540
+Genres: Экшен, Фантастика, Меха, Военное, Музыка, Космос, 
+Rating limit: PG-13
+Rating: 7.6
+Rating numbers: 2308
+Description: Нет описания

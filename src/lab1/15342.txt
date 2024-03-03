@@ -1,0 +1,7 @@
+Name: Pakkororin
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

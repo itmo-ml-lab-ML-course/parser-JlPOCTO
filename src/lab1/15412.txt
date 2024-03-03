@@ -1,0 +1,8 @@
+Name: Penguin no Mondai DX?
+Type: video.tv_show
+Episodes: 52
+Episode length: 600
+Last episode date release: 2012-03-31
+Genres: Детское, Комедия, 
+Rating limit: G
+Description: Нет описания

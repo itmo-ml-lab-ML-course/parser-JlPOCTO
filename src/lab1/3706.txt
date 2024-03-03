@@ -1,0 +1,10 @@
+Name: Machine Robo: Cronos no Dai Gyakushuu
+Type: video.tv_show
+Episodes: 47
+Episode length: 1440
+Last episode date release: 1987-05-28
+Genres: Экшен, Фантастика, Боевые искусства, Меха, Космос, 
+Rating limit: PG-13
+Rating: 6.31
+Rating numbers: 353
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Heya/Keitai
+Type: video.movie
+Episodes: 1
+Episode length: 360
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 5.51
+Rating numbers: 318
+Description: Нет описания

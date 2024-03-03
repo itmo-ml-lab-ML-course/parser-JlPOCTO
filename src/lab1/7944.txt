@@ -1,0 +1,7 @@
+Name: Da Zui Tu Shuo Gushi
+Type: video.tv_show
+Episodes: 48
+Episode length: 900
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Oyayubi-hime
+Type: video.movie
+Episodes: 1
+Episode length: 1140
+Genres: Детское, Фэнтези, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Clock
+Type: video.other
+Episodes: 1
+Episode length: 60
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.87
+Rating numbers: 226
+Description: Нет описания

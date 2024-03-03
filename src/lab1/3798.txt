@@ -1,0 +1,10 @@
+Name: Wansa-kun
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 1973-09-24
+Genres: Комедия, 
+Rating limit: PG
+Rating: 6.3
+Rating numbers: 257
+Description: Нет описания

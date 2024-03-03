@@ -1,0 +1,9 @@
+Name: Muku no Ki no Hanashi
+Type: video.movie
+Episodes: 1
+Episode length: 1200
+Genres: Детское, 
+Rating limit: G
+Rating: 5.26
+Rating numbers: 256
+Description: Нет описания

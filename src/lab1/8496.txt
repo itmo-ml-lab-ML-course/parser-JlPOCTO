@@ -1,0 +1,7 @@
+Name: Gan Bu Da Maoxian
+Type: video.tv_show
+Episodes: 52
+Episode length: 360
+Genres: Комедия, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

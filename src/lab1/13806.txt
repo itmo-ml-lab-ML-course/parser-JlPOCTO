@@ -1,0 +1,9 @@
+Name: Usagi
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Безумие, Ужасы, 
+Rating limit: PG-13
+Rating: 5.05
+Rating numbers: 131
+Description: Нет описания

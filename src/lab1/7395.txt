@@ -1,0 +1,7 @@
+Name: Bidulgi Habchang
+Type: video.other
+Episodes: 1
+Episode length: 4560
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Brain Powerd
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 1998-11-11
+Genres: Экшен, Приключения, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.17
+Rating numbers: 692
+Description: Нет описания

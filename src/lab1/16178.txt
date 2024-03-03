@@ -1,0 +1,7 @@
+Name: Shenmi Shijie Lixian Ji 2
+Type: video.movie
+Episodes: 1
+Episode length: 4800
+Genres: Приключения, Комедия, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Xuewen Mao Jiao Hanzi
+Type: video.tv_show
+Episodes: 52
+Episode length: 540
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

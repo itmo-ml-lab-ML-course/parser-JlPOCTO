@@ -1,0 +1,8 @@
+Name: Micchiri Wanko! Animation
+Type: video.tv_show
+Episodes: 24
+Episode length: 60
+Last episode date release: 2020-09-09
+Genres: Детское, Комедия, 
+Rating limit: G
+Description: Нет описания

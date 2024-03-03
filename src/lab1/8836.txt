@@ -1,0 +1,7 @@
+Name: Haru no Niji no Soushiki
+Type: video.tv_show
+Episodes: 1
+Episode length: 420
+Genres: Сверхъестественное, 
+Rating limit: PG-13
+Description: Нет описания

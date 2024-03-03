@@ -1,0 +1,7 @@
+Name: Motto Shitte Fukushima!
+Type: video.tv_show
+Episodes: 84
+Last episode date release: 2020-01-17
+Genres: Повседневность, Музыка, 
+Rating limit: G
+Description: Нет описания

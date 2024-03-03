@@ -1,0 +1,9 @@
+Name: Hand Soap
+Type: video.movie
+Episodes: 1
+Episode length: 900
+Genres: Безумие, Психологическое, 
+Rating limit: R+
+Rating: 4.83
+Rating numbers: 785
+Description: Атмосферное и мрачное видение подросткового возраста и семейной жизни.

@@ -1,0 +1,10 @@
+Name: Quanzhi Fashi IV
+Type: video.tv_show
+Episodes: 12
+Episode length: 1260
+Last episode date release: 2020-06-24
+Genres: Экшен, Фэнтези, Школа, 
+Rating limit: PG-13
+Rating: 7.31
+Rating numbers: 12705
+Description: Нет описания

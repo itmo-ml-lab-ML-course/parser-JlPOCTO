@@ -1,0 +1,8 @@
+Name: Nabiui Moheom
+Type: video.tv_show
+Episodes: 26
+Episode length: 900
+Last episode date release: 2023-10-28
+Genres: Комедия, Детское, 
+Rating limit: G
+Description: Нет описания

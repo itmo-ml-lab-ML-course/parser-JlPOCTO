@@ -1,0 +1,8 @@
+Name: Bubble Bubble Cook 2nd Season
+Type: video.tv_show
+Episodes: 52
+Episode length: 1380
+Last episode date release: 2012-10-01
+Genres: Гурман, Супер сила, Детское, 
+Rating limit: G
+Description: Нет описания

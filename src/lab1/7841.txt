@@ -1,0 +1,7 @@
+Name: Climbing
+Type: video.movie
+Episodes: 1
+Episode length: 4620
+Genres: Спорт, Триллер, 
+Rating limit: R-17
+Description: Нет описания

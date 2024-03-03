@@ -1,0 +1,10 @@
+Name: Love Kome: We Love Rice
+Type: video.tv_show
+Episodes: 12
+Episode length: 240
+Last episode date release: 2017-06-21
+Genres: Гурман, Повседневность, 
+Rating limit: PG-13
+Rating: 4.62
+Rating numbers: 1889
+Description: Нет описания

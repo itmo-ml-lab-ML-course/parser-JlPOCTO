@@ -1,0 +1,10 @@
+Name: Ai Zai Xiyuan Qian
+Type: video.tv_show
+Episodes: 12
+Episode length: 840
+Last episode date release: 2019-08-31
+Genres: Экшен, Фэнтези, Романтика, Фантастика, 
+Rating limit: PG-13
+Rating: 6.21
+Rating numbers: 2229
+Description: Нет описания

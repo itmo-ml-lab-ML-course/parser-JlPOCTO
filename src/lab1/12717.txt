@@ -1,0 +1,10 @@
+Name: Doudou
+Type: video.movie
+Episodes: 2
+Episode length: 420
+Last episode date release: 2003-01-01
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 5.51
+Rating numbers: 169
+Description: Нет описания

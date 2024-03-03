@@ -1,0 +1,7 @@
+Name: Meirenyu: Haidao Laixi
+Type: video.movie
+Episodes: 1
+Episode length: 5400
+Genres: Детское, Приключения, Фэнтези, 
+Rating limit: G
+Description: Нет описания

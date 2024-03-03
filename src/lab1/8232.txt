@@ -1,0 +1,7 @@
+Name: Du Du Xiao Bashi: Jiankang Pian
+Type: video.tv_show
+Episodes: 80
+Episode length: 360
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

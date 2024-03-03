@@ -1,0 +1,7 @@
+Name: Tansuo Diqiucun
+Type: video.tv_show
+Episodes: 100
+Episode length: 900
+Genres: Приключения, 
+Rating limit: PG
+Description: Нет описания

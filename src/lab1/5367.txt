@@ -1,0 +1,10 @@
+Name: Mini Van Large
+Type: video.tv_show
+Episodes: 26
+Episode length: 180
+Last episode date release: 2022-05-04
+Genres: Комедия, Игры, Пародия, 
+Rating limit: PG-13
+Rating: 5.98
+Rating numbers: 387
+Description: Нет описания

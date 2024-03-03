@@ -1,0 +1,9 @@
+Name: Suisei no Gargantia: Puchitto Furikaerintia
+Type: video.other
+Episodes: 1
+Episode length: 300
+Genres: Экшен, Приключения, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.17
+Rating numbers: 2330
+Description: Короткий рекап-эпизод, рассказывающий о жизни Ледо на Земле до событий, произошедших в «Гаргантия на просторах зелёной планеты: Морские тропы за горизонт».

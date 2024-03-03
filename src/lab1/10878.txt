@@ -1,0 +1,9 @@
+Name: Captain Tsubasa: Asu ni Mukatte Hashire!
+Type: video.movie
+Episodes: 1
+Episode length: 2100
+Genres: Сёнен, Экшен, Спорт, 
+Rating limit: G
+Rating: 6.66
+Rating numbers: 591
+Description: Нет описания

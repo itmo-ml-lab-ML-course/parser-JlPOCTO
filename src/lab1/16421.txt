@@ -1,0 +1,5 @@
+Name: Kinnikuman: Kanpeki Chоujin Shiso-hen
+Type: video.tv_show
+Episodes: 1
+Genres: Приключения, Комедия, Спорт, 
+Description: Нет описания

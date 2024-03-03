@@ -1,0 +1,9 @@
+Name: Lupin III: Episode 0 &quot;First Contact&quot;
+Type: video.other
+Episodes: 1
+Episode length: 5520
+Genres: Сэйнэн, Экшен, Приключения, Комедия, Детектив, 
+Rating limit: R-17
+Rating: 7.55
+Rating numbers: 2281
+Description: Нет описания

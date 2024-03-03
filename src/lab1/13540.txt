@@ -1,0 +1,9 @@
+Name: Usagi to Kame
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 5.19
+Rating numbers: 368
+Description: Нет описания

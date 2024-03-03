@@ -1,0 +1,8 @@
+Name: Bbasha Mecard S
+Type: video.tv_show
+Episodes: 26
+Episode length: 1320
+Last episode date release: 2020-04-07
+Genres: Детское, Игры, Меха, 
+Rating limit: PG
+Description: Нет описания

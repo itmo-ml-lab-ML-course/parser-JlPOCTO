@@ -1,0 +1,7 @@
+Name: Boshi Wa Dou Bianselong
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Mukashi Keibanashi 2nd Season
+Type: video.tv_show
+Episodes: 4
+Episode length: 300
+Last episode date release: 2020-05-30
+Genres: Комедия, Фэнтези, Спорт, Пародия, 
+Rating limit: G
+Description: Нет описания

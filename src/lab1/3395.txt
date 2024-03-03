@@ -1,0 +1,10 @@
+Name: Hyper Police
+Type: video.tv_show
+Episodes: 25
+Episode length: 1440
+Last episode date release: 1997-09-26
+Genres: Экшен, Комедия, Романтика, Фантастика, Полиция, 
+Rating limit: R-17
+Rating: 7.08
+Rating numbers: 2003
+Description: Нет описания

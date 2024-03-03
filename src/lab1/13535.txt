@@ -1,0 +1,9 @@
+Name: Kage
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Драма, Исторический, 
+Rating limit: G
+Rating: 5.19
+Rating numbers: 287
+Description: Нет описания

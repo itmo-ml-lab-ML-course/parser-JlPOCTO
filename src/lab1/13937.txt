@@ -1,0 +1,9 @@
+Name: Peeping Life Specials
+Type: video.other
+Episodes: 2
+Episode length: 300
+Genres: Комедия, Повседневность, 
+Rating limit: PG
+Rating: 4.93
+Rating numbers: 288
+Description: Нет описания

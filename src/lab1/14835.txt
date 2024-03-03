@@ -1,0 +1,8 @@
+Name: Mori no Ongakudan
+Type: video.tv_show
+Episodes: 13
+Episode length: 120
+Last episode date release: 2016-11-16
+Genres: Комедия, Музыка, 
+Rating limit: PG-13
+Description: Эта история о том, как Белка, Крыса и Енот пытаются создать свою рок-группу. Но все оказывается не так просто, как казалось на первый взгляд. Сумеют ли герои написать свою песню и сыграть первый концерт?

@@ -1,0 +1,10 @@
+Name: Giant Gorg
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 1984-09-27
+Genres: Экшен, Приключения, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 7.22
+Rating numbers: 495
+Description: Нет описания

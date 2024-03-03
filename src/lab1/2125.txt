@@ -1,0 +1,10 @@
+Name: Yeon-ae Halujeon 2
+Type: video.tv_show
+Episodes: 15
+Episode length: 120
+Last episode date release: 2018-07-06
+Genres: Романтика, Повседневность, 
+Rating limit: PG-13
+Rating: 7.33
+Rating numbers: 1636
+Description: Нет описания

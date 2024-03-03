@@ -1,0 +1,10 @@
+Name: Shining Star
+Type: video.tv_show
+Episodes: 52
+Episode length: 1260
+Last episode date release: 2018-12-03
+Genres: Детское, Музыка, 
+Rating limit: PG
+Rating: 6.43
+Rating numbers: 325
+Description: Нет описания

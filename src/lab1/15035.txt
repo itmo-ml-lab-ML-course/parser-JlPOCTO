@@ -1,0 +1,7 @@
+Name: Neko to Mata
+Type: video.tv_show
+Episodes: 88
+Last episode date release: 2020-09-17
+Genres: Сверхъестественное, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,6 @@
+Name: Wander Burabura Bakkamu
+Type: video.tv_show
+Episodes: 1
+Episode length: 420
+Genres: Драма, Фантастика, 
+Description: Нет описания

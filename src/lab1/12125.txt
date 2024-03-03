@@ -1,0 +1,10 @@
+Name: Jiandao Di Yi Xian
+Type: video.tv_show
+Episodes: 20
+Episode length: 480
+Last episode date release: 2022-08-16
+Genres: Экшен, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.43
+Rating numbers: 721
+Description: Нет описания

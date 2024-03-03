@@ -1,0 +1,8 @@
+Name: SofyRuby
+Type: video.tv_show
+Episodes: 52
+Episode length: 720
+Last episode date release: 2017-08-20
+Genres: Детское, Комедия, 
+Rating limit: G
+Description: Нет описания

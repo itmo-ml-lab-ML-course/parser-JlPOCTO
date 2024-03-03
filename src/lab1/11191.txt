@@ -1,0 +1,10 @@
+Name: Girls Bravo: Second Season
+Type: video.tv_show
+Episodes: 13
+Episode length: 1380
+Last episode date release: 2005-04-21
+Genres: Сёнен, Комедия, Фэнтези, Романтика, Этти, Гарем, Школа, 
+Rating limit: R+
+Rating: 6.6
+Rating numbers: 3407
+Description: Нет описания

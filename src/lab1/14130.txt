@@ -1,0 +1,9 @@
+Name: Genki-kun no Christmas @ Tokyo-eki
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Повседневность, 
+Rating limit: G
+Rating: 4.75
+Rating numbers: 188
+Description: Нет описания

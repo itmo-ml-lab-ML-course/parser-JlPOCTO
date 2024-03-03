@@ -1,0 +1,9 @@
+Name: Pokemon XY SP: Road to Kalos
+Type: video.other
+Episodes: 1
+Episode length: 1440
+Genres: Детское, Экшен, Приключения, Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 6.45
+Rating numbers: 2107
+Description: Нет описания

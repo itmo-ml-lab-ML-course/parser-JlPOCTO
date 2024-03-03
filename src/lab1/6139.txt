@@ -1,0 +1,7 @@
+Name: Ting Ting Zhishi Chengbao Lixian Ji
+Type: video.tv_show
+Episodes: 75
+Episode length: 780
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

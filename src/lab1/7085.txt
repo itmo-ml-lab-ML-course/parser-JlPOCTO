@@ -1,0 +1,7 @@
+Name: Xiong Chumo: Xiongxiong Huanle Song
+Type: video.tv_show
+Episodes: 13
+Episode length: 180
+Genres: Музыка, Детское, 
+Rating limit: PG
+Description: Нет описания

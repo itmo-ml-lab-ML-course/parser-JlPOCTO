@@ -1,0 +1,9 @@
+Name: Chikai
+Type: video.tv_show
+Episodes: 1
+Episode length: 360
+Genres: Повседневность, 
+Rating limit: G
+Rating: 6.04
+Rating numbers: 297
+Description: Нет описания

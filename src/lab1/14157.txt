@@ -1,0 +1,8 @@
+Name: Factory
+Type: video.tv_show
+Episodes: 2
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.73
+Rating numbers: 170
+Description: Нет описания

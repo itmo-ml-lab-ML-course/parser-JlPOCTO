@@ -1,0 +1,8 @@
+Name: DiDi Bang Bang Zongdongyuan
+Type: video.tv_show
+Episodes: 104
+Episode length: 540
+Last episode date release: 2011-05-01
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

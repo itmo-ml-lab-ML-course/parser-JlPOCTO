@@ -1,0 +1,10 @@
+Name: Hamster Club
+Type: video.tv_show
+Episodes: 140
+Episode length: 300
+Last episode date release: 2001-03-30
+Genres: Детское, 
+Rating limit: G
+Rating: 6.36
+Rating numbers: 362
+Description: Нет описания

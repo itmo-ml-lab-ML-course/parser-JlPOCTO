@@ -1,0 +1,8 @@
+Name: Waochi! Short Anime
+Type: video.tv_show
+Episodes: 24
+Episode length: 240
+Last episode date release: 2019-09-04
+Genres: Приключения, Фантастика, Детское, 
+Rating limit: G
+Description: Нет описания

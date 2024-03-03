@@ -1,0 +1,10 @@
+Name: Fate/Zero Cafe
+Type: video.movie
+Episodes: 2
+Episode length: 600
+Last episode date release: 2016-03-19
+Genres: Комедия, Пародия, 
+Rating limit: G
+Rating: 6.01
+Rating numbers: 5929
+Description: История рассказывает о героях Fate/Zero, перевоплотившихся в чиби. Они создают кафе, которым управляет Сейбер в роли менеджера.

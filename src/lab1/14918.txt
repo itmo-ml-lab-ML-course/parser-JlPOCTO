@@ -1,0 +1,7 @@
+Name: My Crossroad
+Type: video.other
+Episodes: 1
+Episode length: 900
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

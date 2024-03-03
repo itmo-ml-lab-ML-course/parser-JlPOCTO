@@ -1,0 +1,7 @@
+Name: Dianji Xiaozi 2nd Season
+Type: video.tv_show
+Episodes: 26
+Episode length: 1380
+Genres: Экшен, Приключения, Детское, 
+Rating limit: PG
+Description: Нет описания

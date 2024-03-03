@@ -1,0 +1,7 @@
+Name: Mother Teresa
+Type: video.other
+Episodes: 1
+Episode length: 1200
+Genres: Детское, Драма, Исторический, 
+Rating limit: G
+Description: Биографическое аниме о Матери Терезе.

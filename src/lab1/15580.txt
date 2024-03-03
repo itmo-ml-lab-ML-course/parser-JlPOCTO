@@ -1,0 +1,7 @@
+Name: Qi Qu Baodian Julebu
+Type: video.tv_show
+Episodes: 499
+Episode length: 1200
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

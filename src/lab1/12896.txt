@@ -1,0 +1,9 @@
+Name: Dokidoki Ghost Mansion
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Rating: 5.46
+Rating numbers: 412
+Description: Нет описания

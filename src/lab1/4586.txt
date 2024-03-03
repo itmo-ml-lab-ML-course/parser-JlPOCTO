@@ -1,0 +1,10 @@
+Name: Yu☆Gi☆Oh! Sevens
+Type: video.tv_show
+Episodes: 92
+Episode length: 1440
+Last episode date release: 2022-03-27
+Genres: Сёнен, Экшен, Фэнтези, Игры, 
+Rating limit: PG-13
+Rating: 6.15
+Rating numbers: 1359
+Description: Нет описания

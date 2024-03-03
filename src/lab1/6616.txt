@@ -1,0 +1,8 @@
+Name: Wu Zhan Dao
+Type: video.tv_show
+Episodes: 52
+Episode length: 1500
+Last episode date release: 2013-10-23
+Genres: Меха, Детское, 
+Rating limit: PG
+Description: Нет описания

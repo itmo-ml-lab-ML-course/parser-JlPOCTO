@@ -1,0 +1,8 @@
+Name: Jigazou
+Type: video.movie
+Episodes: 1
+Genres: Комедия, 
+Rating limit: G
+Rating: 4.67
+Rating numbers: 469
+Description: Нет описания

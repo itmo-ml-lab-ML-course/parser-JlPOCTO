@@ -1,0 +1,8 @@
+Name: Oni Sara
+Type: video.tv_show
+Episodes: 3
+Episode length: 300
+Last episode date release: 2019-08-26
+Genres: Сверхъестественное, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Moyashimon Returns
+Type: video.tv_show
+Episodes: 11
+Episode length: 1380
+Last episode date release: 2012-09-14
+Genres: Сэйнэн, Комедия, Гурман, Сверхъестественное, Школа, 
+Rating limit: PG-13
+Rating: 7.21
+Rating numbers: 3618
+Description: Нет описания

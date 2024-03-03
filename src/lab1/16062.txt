@@ -1,0 +1,7 @@
+Name: Shan Yang He Lang
+Type: video.movie
+Episodes: 1
+Episode length: 900
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Neko Neko Nihonshi
+Type: video.tv_show
+Episodes: 32
+Episode length: 540
+Last episode date release: 2017-02-22
+Genres: Детское, Исторический, Пародия, Самураи, 
+Rating limit: G
+Rating: 6.22
+Rating numbers: 554
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Long She Yanyi
+Type: video.tv_show
+Episodes: 16
+Episode length: 1140
+Last episode date release: 2022-04-29
+Genres: Экшен, Боевые искусства, 
+Rating limit: PG-13
+Rating: 7.06
+Rating numbers: 727
+Description: Нет описания

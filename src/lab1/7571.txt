@@ -1,0 +1,8 @@
+Name: Canzhuo Shang de Shi Shuo Xin Yu
+Type: video.tv_show
+Episodes: 12
+Episode length: 120
+Last episode date release: 2019-03-15
+Genres: Комедия, Гурман, Исторический, 
+Rating limit: PG-13
+Description: Нет описания

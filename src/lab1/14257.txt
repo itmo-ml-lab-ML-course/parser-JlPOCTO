@@ -1,0 +1,9 @@
+Name: Under the Dog: Anthea-chan
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Экшен, Комедия, Пародия, 
+Rating limit: PG-13
+Rating: 4.61
+Rating numbers: 1115
+Description: Нет описания

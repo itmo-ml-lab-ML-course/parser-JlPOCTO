@@ -1,0 +1,10 @@
+Name: World Dai Star
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2023-06-25
+Genres: 
+Rating limit: PG-13
+Rating: 7.35
+Rating numbers: 2485
+Description: Нет описания

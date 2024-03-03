@@ -1,0 +1,10 @@
+Name: Zero Tester
+Type: video.tv_show
+Episodes: 38
+Episode length: 1440
+Last episode date release: 1974-06-17
+Genres: Экшен, Приключения, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.16
+Rating numbers: 262
+Description: Нет описания

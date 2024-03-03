@@ -1,0 +1,10 @@
+Name: Show By Rock!! x Joysound
+Type: video.tv_show
+Episodes: 4
+Episode length: 60
+Last episode date release: 2016-05-15
+Genres: Комедия, Музыка, 
+Rating limit: G
+Rating: 5.46
+Rating numbers: 1059
+Description: Нет описания

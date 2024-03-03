@@ -1,0 +1,9 @@
+Name: Meitantei Pikachu: Kareinaru Morning Routine
+Type: video.tv_show
+Episodes: 1
+Episode length: 360
+Genres: Комедия, Фэнтези, Детское, 
+Rating limit: PG
+Rating: 6.11
+Rating numbers: 270
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Eizouken Mini Anime
+Type: video.tv_show
+Episodes: 13
+Episode length: 60
+Last episode date release: 2020-03-24
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 5.53
+Rating numbers: 780
+Description: Мини-эпизоды с чиби-версиями персонажей, вышедшие в официальном аккаунте Twitter и вошедшие в Blu-ray издание аниме.

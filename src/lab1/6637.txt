@@ -1,0 +1,7 @@
+Name: Wuxia Liezhuan
+Type: video.tv_show
+Episodes: 237
+Episode length: 600
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

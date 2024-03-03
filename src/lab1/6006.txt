@@ -1,0 +1,7 @@
+Name: Tayo-ui Jangnangam Adventure
+Type: video.other
+Episodes: 1
+Episode length: 960
+Genres: Детское, Приключения, Машины, 
+Rating limit: G
+Description: Нет описания

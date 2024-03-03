@@ -1,0 +1,7 @@
+Name: Nae Ireumeun Dokgotak
+Type: video.movie
+Episodes: 1
+Episode length: 4320
+Genres: Спорт, 
+Rating limit: G
+Description: Нет описания

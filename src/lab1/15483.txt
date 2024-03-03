@@ -1,0 +1,7 @@
+Name: Pochi Hana
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Повседневность, 
+Rating limit: G
+Description: Нет описания

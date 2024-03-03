@@ -1,0 +1,7 @@
+Name: Sheng Shi Qibing
+Type: video.tv_show
+Episodes: 52
+Episode length: 780
+Genres: Приключения, 
+Rating limit: PG
+Description: Нет описания

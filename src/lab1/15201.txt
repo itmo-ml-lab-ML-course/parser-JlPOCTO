@@ -1,0 +1,8 @@
+Name: Ohiru no Shocker-san
+Type: video.tv_show
+Episodes: 50
+Episode length: 60
+Last episode date release: 2023-01-06
+Genres: Комедия, 
+Rating limit: PG-13
+Description: Нет описания

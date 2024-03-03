@@ -1,0 +1,9 @@
+Name: Imagination of Marathon Runners
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Комедия, Спорт, 
+Rating limit: R+
+Rating: 4.98
+Rating numbers: 108
+Description: Нет описания

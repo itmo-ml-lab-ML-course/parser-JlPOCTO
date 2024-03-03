@@ -1,0 +1,7 @@
+Name: Bei Ken Xiong 2: Jinpai Tegong
+Type: video.movie
+Episodes: 1
+Episode length: 5460
+Genres: Детское, Экшен, Комедия, Полиция, 
+Rating limit: G
+Description: Нет описания

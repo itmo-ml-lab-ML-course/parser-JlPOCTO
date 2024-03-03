@@ -1,0 +1,7 @@
+Name: Shen Shou Jin Gang
+Type: video.tv_show
+Episodes: 46
+Episode length: 900
+Genres: Детское, Экшен, Фантастика, Меха, 
+Rating limit: G
+Description: Нет описания

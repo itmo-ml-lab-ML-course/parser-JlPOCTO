@@ -1,0 +1,10 @@
+Name: Shadowverse Recaps
+Type: video.other
+Episodes: 3
+Episode length: 1440
+Last episode date release: 2021-03-30
+Genres: Фэнтези, Игры, 
+Rating limit: PG-13
+Rating: 5.47
+Rating numbers: 427
+Description: Краткий пересказ первых двенадцати эпизодов аниме-сериала «Поэзия теней».

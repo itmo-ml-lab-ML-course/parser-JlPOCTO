@@ -1,0 +1,10 @@
+Name: B-Project: Netsuretsu*Love Call
+Type: video.tv_show
+Episodes: 12
+Episode length: 1380
+Last episode date release: 2023-12-18
+Genres: Музыка, 
+Rating limit: PG-13
+Rating: 6.32
+Rating numbers: 936
+Description: Нет описания

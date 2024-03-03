@@ -1,0 +1,10 @@
+Name: Neko mo, Onda-ke
+Type: video.tv_show
+Episodes: 12
+Episode length: 60
+Last episode date release: 2016-06-17
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Rating: 4.99
+Rating numbers: 312
+Description: Нет описания

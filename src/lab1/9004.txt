@@ -1,0 +1,7 @@
+Name: Hong Mao Lan Tu MTV
+Type: video.tv_show
+Episodes: 65
+Episode length: 120
+Genres: Фэнтези, Музыка, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Ganbare Chibi Godzilla
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Детское, 
+Rating limit: G
+Rating: 5.07
+Rating numbers: 336
+Description: Нет описания

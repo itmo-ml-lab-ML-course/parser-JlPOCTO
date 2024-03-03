@@ -1,0 +1,9 @@
+Name: Rainbow
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 4.77
+Rating numbers: 171
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Hana no Kakarichou
+Type: video.tv_show
+Episodes: 25
+Episode length: 1500
+Last episode date release: 1977-03-27
+Genres: Сэйнэн, Комедия, Повседневность, 
+Rating limit: R+
+Description: Нет описания

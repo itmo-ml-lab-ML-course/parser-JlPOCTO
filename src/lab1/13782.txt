@@ -1,0 +1,9 @@
+Name: Inunaki-mura x Taka no Tsumedan
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Комедия, Ужасы, Пародия, 
+Rating limit: PG-13
+Rating: 5.05
+Rating numbers: 391
+Description: Нет описания

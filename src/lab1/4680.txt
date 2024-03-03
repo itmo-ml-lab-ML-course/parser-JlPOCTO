@@ -1,0 +1,9 @@
+Name: Tenrankai no E
+Type: video.movie
+Episodes: 1
+Episode length: 1920
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 6.11
+Rating numbers: 485
+Description: Нет описания

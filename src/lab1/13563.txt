@@ -1,0 +1,10 @@
+Name: 2.43 Mini Anime: Inside Story
+Type: video.tv_show
+Episodes: 10
+Episode length: 60
+Last episode date release: 2021-03-13
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 5.17
+Rating numbers: 668
+Description: Юни Куроба знакомит Кимитику Хайдзиму, который впервые за долгое время вернулся в Фукуи, с городом Мондай.

@@ -1,0 +1,10 @@
+Name: MapleStory
+Type: video.tv_show
+Episodes: 25
+Episode length: 1500
+Last episode date release: 2008-03-30
+Genres: Экшен, Приключения, Комедия, Фэнтези, Детское, 
+Rating limit: PG
+Rating: 5.18
+Rating numbers: 292
+Description: Нет описания

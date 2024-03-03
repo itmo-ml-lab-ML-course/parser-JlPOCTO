@@ -1,0 +1,7 @@
+Name: Bo Lulu Wen Shijie
+Type: video.tv_show
+Episodes: 16
+Episode length: 120
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

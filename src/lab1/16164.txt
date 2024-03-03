@@ -1,0 +1,7 @@
+Name: Shengwu Wangguo Qihuan Zhi Lu
+Type: video.tv_show
+Episodes: 80
+Episode length: 480
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

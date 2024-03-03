@@ -1,0 +1,9 @@
+Name: SF Shinseiki Lensman
+Type: video.movie
+Episodes: 1
+Episode length: 6420
+Genres: Экшен, Приключения, Фантастика, Космос, 
+Rating limit: PG-13
+Rating: 6.13
+Rating numbers: 634
+Description: Нет описания

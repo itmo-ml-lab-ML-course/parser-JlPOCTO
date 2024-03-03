@@ -1,0 +1,10 @@
+Name: 47 Todoufuken
+Type: video.tv_show
+Episodes: 26
+Episode length: 60
+Last episode date release: 2011-09-29
+Genres: Детское, Комедия, 
+Rating limit: G
+Rating: 5.34
+Rating numbers: 200
+Description: Нет описания

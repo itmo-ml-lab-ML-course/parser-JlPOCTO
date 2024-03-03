@@ -1,0 +1,9 @@
+Name: Loups=Garous #Overture
+Type: video.other
+Episodes: 2
+Episode length: 600
+Genres: Детектив, Фантастика, 
+Rating limit: PG-13
+Rating: 5.41
+Rating numbers: 550
+Description: Нет описания

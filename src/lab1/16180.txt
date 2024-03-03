@@ -1,0 +1,7 @@
+Name: Shenqi Tushu Guan
+Type: video.tv_show
+Episodes: 1
+Episode length: 720
+Genres: Приключения, Фантастика, Фэнтези, Детское, 
+Rating limit: G
+Description: Нет описания

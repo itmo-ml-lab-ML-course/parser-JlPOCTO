@@ -1,0 +1,7 @@
+Name: Xing Mao Lixian Ji: Meishi Pian
+Type: video.tv_show
+Episodes: 26
+Episode length: 720
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Sangsil-ui Jib
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Безумие, Триллер, Психологическое, 
+Rating limit: PG-13
+Description: Нет описания

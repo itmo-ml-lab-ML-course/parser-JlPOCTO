@@ -1,0 +1,9 @@
+Name: MiniGARO
+Type: video.tv_show
+Episodes: 2
+Last episode date release: 2014-03-06
+Genres: Комедия, 
+Rating limit: G
+Rating: 5.16
+Rating numbers: 253
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Wo Shi Na Zha
+Type: video.movie
+Episodes: 1
+Episode length: 4920
+Genres: Детское, Фэнтези, 
+Rating limit: PG-13
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Gou Gou Xiongxiong Le Fantian
+Type: video.tv_show
+Episodes: 70
+Episode length: 300
+Genres: Детское, Фэнтези, 
+Rating limit: PG
+Description: Нет описания

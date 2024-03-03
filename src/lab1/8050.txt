@@ -1,0 +1,7 @@
+Name: Devilman Pilot Film
+Type: video.other
+Episodes: 1
+Episode length: 120
+Genres: Экшен, Ужасы, Сверхъестественное, 
+Rating limit: R-17
+Description: Нет описания

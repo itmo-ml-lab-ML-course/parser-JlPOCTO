@@ -1,0 +1,9 @@
+Name: Rebecca
+Type: video.tv_show
+Episodes: 1
+Episode length: 1440
+Genres: Повседневность, 
+Rating limit: G
+Rating: 6.32
+Rating numbers: 652
+Description: Нет описания

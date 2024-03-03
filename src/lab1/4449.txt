@@ -1,0 +1,10 @@
+Name: D4 Princess
+Type: video.tv_show
+Episodes: 24
+Episode length: 480
+Last episode date release: 1999-09-28
+Genres: Экшен, Комедия, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.16
+Rating numbers: 487
+Description: Нет описания

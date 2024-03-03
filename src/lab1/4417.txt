@@ -1,0 +1,9 @@
+Name: Doraemon Anniversary 25
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Комедия, Фантастика, 
+Rating limit: G
+Rating: 6.17
+Rating numbers: 450
+Description: Короткометражный ролик, показанный в японских кинотеатрах вместе с 25-м полнометражным фильмом «Дораэмон: Ван-нян измерение».

@@ -1,0 +1,10 @@
+Name: Musashino!
+Type: video.tv_show
+Episodes: 12
+Episode length: 180
+Last episode date release: 2022-09-17
+Genres: Комедия, Школа, 
+Rating limit: PG
+Rating: 4.65
+Rating numbers: 2089
+Description: Нет описания

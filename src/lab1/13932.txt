@@ -1,0 +1,9 @@
+Name: Sushi
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 4.93
+Rating numbers: 163
+Description: Нет описания

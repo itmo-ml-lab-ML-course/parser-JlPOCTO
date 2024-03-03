@@ -1,0 +1,10 @@
+Name: Pucca (TV) 2nd Season
+Type: video.tv_show
+Episodes: 13
+Episode length: 1380
+Last episode date release: 2008-07-24
+Genres: Экшен, Комедия, Романтика, Пародия, 
+Rating limit: G
+Rating: 6.55
+Rating numbers: 1885
+Description: Нет описания

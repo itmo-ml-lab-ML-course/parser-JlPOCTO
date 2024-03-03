@@ -1,0 +1,7 @@
+Name: Nyancos: Hello! Our Brilliant Future Digest
+Type: video.other
+Episodes: 1
+Episode length: 240
+Genres: Фантастика, Космос, 
+Rating limit: G
+Description: Эпизод-обобщение оригинальной истории «Нянкос: Здравствуй! Наше блестящее будущее».

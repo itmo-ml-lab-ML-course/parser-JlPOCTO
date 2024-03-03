@@ -1,0 +1,7 @@
+Name: Haha Xiyou Xing
+Type: video.tv_show
+Episodes: 40
+Episode length: 1200
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

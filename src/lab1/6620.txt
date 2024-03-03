@@ -1,0 +1,7 @@
+Name: Wudi Xiaolu
+Type: video.tv_show
+Episodes: 72
+Episode length: 180
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

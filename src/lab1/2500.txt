@@ -1,0 +1,10 @@
+Name: Kaitou Joker 2nd Season
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2015-06-29
+Genres: Детское, Приключения, Комедия, Детектив, 
+Rating limit: PG
+Rating: 7.25
+Rating numbers: 1218
+Description: Нет описания

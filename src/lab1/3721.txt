@@ -1,0 +1,9 @@
+Name: Shiyakusho
+Type: video.tv_show
+Episodes: 1
+Episode length: 660
+Genres: Сэйнэн, Повседневность, 
+Rating limit: PG-13
+Rating: 6.31
+Rating numbers: 627
+Description: Нет описания

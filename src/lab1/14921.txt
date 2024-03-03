@@ -1,0 +1,7 @@
+Name: My Shelter
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Безумие, 
+Rating limit: G
+Description: Нет описания

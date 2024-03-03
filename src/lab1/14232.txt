@@ -1,0 +1,9 @@
+Name: TANK S.W.A.T. 01
+Type: video.other
+Episodes: 1
+Episode length: 1740
+Genres: Меха, Полиция, 
+Rating limit: PG-13
+Rating: 4.65
+Rating numbers: 847
+Description: Нет описания

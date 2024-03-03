@@ -1,0 +1,7 @@
+Name: Duo Bao Xingyun Xing 4
+Type: video.tv_show
+Episodes: 104
+Episode length: 480
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

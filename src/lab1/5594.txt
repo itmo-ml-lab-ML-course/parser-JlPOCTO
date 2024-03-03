@@ -1,0 +1,7 @@
+Name: Shuimu Donghua Xuetang
+Type: video.tv_show
+Episodes: 420
+Episode length: 300
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

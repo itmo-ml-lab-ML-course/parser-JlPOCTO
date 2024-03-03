@@ -1,0 +1,9 @@
+Name: Kimama ni Idol
+Type: video.other
+Episodes: 1
+Episode length: 3000
+Genres: Музыка, 
+Rating limit: R+
+Rating: 5.33
+Rating numbers: 299
+Description: Нет описания

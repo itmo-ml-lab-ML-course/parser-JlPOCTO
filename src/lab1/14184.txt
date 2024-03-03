@@ -1,0 +1,9 @@
+Name: Tsuru Shitae Waka Kan
+Type: video.movie
+Episodes: 1
+Episode length: 60
+Genres: 
+Rating limit: G
+Rating: 4.71
+Rating numbers: 196
+Description: Нет описания

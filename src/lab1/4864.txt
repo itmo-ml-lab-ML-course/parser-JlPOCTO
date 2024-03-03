@@ -1,0 +1,10 @@
+Name: Mini Van 2nd Season
+Type: video.tv_show
+Episodes: 26
+Episode length: 180
+Last episode date release: 2016-03-26
+Genres: Комедия, Повседневность, Игры, Пародия, 
+Rating limit: PG-13
+Rating: 6.08
+Rating numbers: 803
+Description: Нет описания

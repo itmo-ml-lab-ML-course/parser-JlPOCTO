@@ -1,0 +1,8 @@
+Name: Miniforce Part 2
+Type: video.tv_show
+Episodes: 26
+Episode length: 780
+Last episode date release: 2015-05-25
+Genres: Экшен, Меха, Детское, 
+Rating limit: PG
+Description: Нет описания

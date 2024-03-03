@@ -1,0 +1,7 @@
+Name: Fu Wawa Kaixin Youji
+Type: video.tv_show
+Episodes: 21
+Episode length: 660
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

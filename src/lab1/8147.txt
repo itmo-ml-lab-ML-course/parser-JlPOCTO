@@ -1,0 +1,7 @@
+Name: Dongwu Jiuyuan Dui
+Type: video.tv_show
+Episodes: 20
+Episode length: 240
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

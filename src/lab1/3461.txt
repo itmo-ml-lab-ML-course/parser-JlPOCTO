@@ -1,0 +1,9 @@
+Name: Escaflowne
+Type: video.movie
+Episodes: 1
+Episode length: 5820
+Genres: Сёдзё, Приключения, Драма, Фэнтези, Романтика, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 7.06
+Rating numbers: 4198
+Description: Нет описания

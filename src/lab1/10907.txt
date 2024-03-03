@@ -1,0 +1,10 @@
+Name: Time Bokan Series: Yatterman
+Type: video.tv_show
+Episodes: 108
+Episode length: 1320
+Last episode date release: 1979-01-27
+Genres: Экшен, Приключения, Комедия, Меха, 
+Rating limit: G
+Rating: 6.66
+Rating numbers: 587
+Description: Нет описания

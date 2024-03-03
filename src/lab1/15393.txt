@@ -1,0 +1,8 @@
+Name: Patta Potta Monta
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 2007-01-30
+Genres: Детское, Комедия, Повседневность, 
+Rating limit: G
+Description: Нет описания

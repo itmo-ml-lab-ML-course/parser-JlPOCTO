@@ -1,0 +1,7 @@
+Name: Wanhua Jing
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Исторический, 
+Rating limit: G
+Description: Нет описания

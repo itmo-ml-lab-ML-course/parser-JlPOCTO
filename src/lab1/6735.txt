@@ -1,0 +1,7 @@
+Name: Xiao Fuzi: Qi Yu Da Maoxian
+Type: video.tv_show
+Episodes: 26
+Episode length: 1440
+Genres: Приключения, 
+Rating limit: G
+Description: Нет описания

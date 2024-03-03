@@ -1,0 +1,9 @@
+Name: Straw-saurus Neo
+Type: video.other
+Episodes: 1
+Episode length: 300
+Genres: Детское, Приключения, Фэнтези, Фантастика, 
+Rating limit: G
+Rating: 5.38
+Rating numbers: 195
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Bastions
+Type: video.tv_show
+Episodes: 5
+Episode length: 840
+Last episode date release: 2023-06-10
+Genres: Экшен, Комедия, Музыка, Супер сила, 
+Rating limit: PG-13
+Description: Нет описания

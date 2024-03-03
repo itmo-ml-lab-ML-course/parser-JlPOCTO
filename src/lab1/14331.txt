@@ -1,0 +1,10 @@
+Name: Onyankopon
+Type: video.tv_show
+Episodes: 12
+Episode length: 180
+Last episode date release: 2017-12-22
+Genres: Комедия, Музыка, Школа, 
+Rating limit: G
+Rating: 4.47
+Rating numbers: 401
+Description: Нет описания

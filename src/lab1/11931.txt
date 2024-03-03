@@ -1,0 +1,9 @@
+Name: Doraemon: Ganbare! Gian!!
+Type: video.movie
+Episodes: 1
+Episode length: 1560
+Genres: Приключения, Комедия, Фэнтези, 
+Rating limit: PG
+Rating: 6.46
+Rating numbers: 513
+Description: Нет описания

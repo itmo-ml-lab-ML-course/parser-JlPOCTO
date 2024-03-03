@@ -1,0 +1,8 @@
+Name: Oh! 96-kku
+Type: video.tv_show
+Episodes: 1
+Genres: Повседневность, Музыка, 
+Rating limit: G
+Rating: 5.32
+Rating numbers: 153
+Description: Нет описания

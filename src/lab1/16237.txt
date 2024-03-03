@@ -1,0 +1,7 @@
+Name: Shi Yi Nanhai
+Type: video.movie
+Episodes: 1
+Episode length: 840
+Genres: Драма, 
+Rating limit: PG-13
+Description: Нет описания

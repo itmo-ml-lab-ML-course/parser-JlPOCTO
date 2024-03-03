@@ -1,0 +1,10 @@
+Name: Ojamajo Doremi: Owarai Gekijou
+Type: video.tv_show
+Episodes: 26
+Episode length: 60
+Last episode date release: 2020-03-22
+Genres: Комедия, 
+Rating limit: G
+Rating: 6.32
+Rating numbers: 488
+Description: Нет описания

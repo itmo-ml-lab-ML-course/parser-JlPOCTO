@@ -1,0 +1,9 @@
+Name: Fastening Days 2
+Type: video.tv_show
+Episodes: 1
+Episode length: 540
+Genres: Детское, 
+Rating limit: G
+Rating: 6.16
+Rating numbers: 181
+Description: Нет описания

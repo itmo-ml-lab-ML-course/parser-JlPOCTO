@@ -1,0 +1,9 @@
+Name: Usawaltz
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Безумие, Музыка, 
+Rating limit: PG-13
+Rating: 4.75
+Rating numbers: 278
+Description: Нет описания

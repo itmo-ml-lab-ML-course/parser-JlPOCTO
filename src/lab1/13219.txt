@@ -1,0 +1,9 @@
+Name: Idol Fantasy
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Музыка, 
+Rating limit: G
+Rating: 5.34
+Rating numbers: 432
+Description: Нет описания

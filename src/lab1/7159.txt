@@ -1,0 +1,8 @@
+Name: Youjo Shachou R
+Type: video.tv_show
+Episodes: 13
+Episode length: 180
+Last episode date release: 2023-09-23
+Genres: Комедия, Работа, 
+Rating limit: PG-13
+Description: Нет описания

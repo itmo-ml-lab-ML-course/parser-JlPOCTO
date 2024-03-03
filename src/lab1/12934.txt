@@ -1,0 +1,10 @@
+Name: Mugen no Ryvius: Illusion
+Type: video.tv_show
+Episodes: 6
+Episode length: 420
+Last episode date release: 2000-01-01
+Genres: Комедия, 
+Rating limit: PG-13
+Rating: 5.43
+Rating numbers: 387
+Description: Нет описания

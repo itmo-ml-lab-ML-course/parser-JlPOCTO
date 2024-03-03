@@ -1,0 +1,7 @@
+Name: Banjiui Bimil-ilgi Movie
+Type: video.movie
+Episodes: 1
+Episode length: 4320
+Genres: Приключения, Комедия, Детское, 
+Rating limit: PG
+Description: Нет описания

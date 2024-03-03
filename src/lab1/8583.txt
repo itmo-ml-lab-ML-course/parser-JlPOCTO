@@ -1,0 +1,8 @@
+Name: Giga Tribe
+Type: video.tv_show
+Episodes: 39
+Episode length: 1200
+Last episode date release: 2009-02-04
+Genres: Сёнен, Комедия, Пародия, Супер сила, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Pescadool
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Повседневность, Музыка, 
+Rating limit: PG-13
+Description: Нет описания

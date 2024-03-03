@@ -1,0 +1,9 @@
+Name: Hoero! Bun Bun (Movie)
+Type: video.movie
+Episodes: 1
+Episode length: 3900
+Genres: Детское, 
+Rating limit: G
+Rating: 6.08
+Rating numbers: 213
+Description: Нет описания

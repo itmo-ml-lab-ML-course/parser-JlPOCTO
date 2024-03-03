@@ -1,0 +1,8 @@
+Name: Origami of Landscape
+Type: video.tv_show
+Episodes: 1
+Genres: Безумие, 
+Rating limit: G
+Rating: 5.05
+Rating numbers: 198
+Description: Нет описания

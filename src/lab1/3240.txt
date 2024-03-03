@@ -1,0 +1,10 @@
+Name: Otaku no Video
+Type: video.other
+Episodes: 2
+Episode length: 2880
+Last episode date release: 1991-12-20
+Genres: Комедия, Драма, Фантастика, Исторический, Меха, 
+Rating limit: R+
+Rating: 7.11
+Rating numbers: 2817
+Description: Нет описания

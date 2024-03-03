@@ -1,0 +1,9 @@
+Name: Devilman: Crybaby - Digest Eizou
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Экшен, Ужасы, Сверхъестественное, Демоны, 
+Rating limit: PG-13
+Rating: 6.13
+Rating numbers: 3745
+Description: Краткий пересказ событий аниме «Человек-дьявол: Плакса», размещённый на официальном канале «YouTube Aniplex».

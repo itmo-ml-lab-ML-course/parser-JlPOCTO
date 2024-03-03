@@ -1,0 +1,9 @@
+Name: Momotaros no Natsuyasumi
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Детское, Экшен, Комедия, Пародия, Супер сила, 
+Rating limit: G
+Rating: 5.28
+Rating numbers: 161
+Description: Нет описания

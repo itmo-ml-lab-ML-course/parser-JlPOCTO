@@ -1,0 +1,8 @@
+Name: Mianju Zhanshen
+Type: video.tv_show
+Episodes: 26
+Episode length: 1140
+Last episode date release: 2015-07-01
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

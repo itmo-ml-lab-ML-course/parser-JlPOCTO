@@ -1,0 +1,7 @@
+Name: Geisya Wars
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Экшен, Комедия, Фантастика, Пародия, 
+Rating limit: G
+Description: Нет описания

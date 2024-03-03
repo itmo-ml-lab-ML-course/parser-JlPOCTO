@@ -1,0 +1,9 @@
+Name: Nendo no Tatakai (2019)
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Экшен, Комедия, 
+Rating limit: PG
+Rating: 3.71
+Rating numbers: 460
+Description: Нет описания

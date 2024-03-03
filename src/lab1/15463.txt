@@ -1,0 +1,8 @@
+Name: Pittanko! Nekozakana
+Type: video.tv_show
+Episodes: 50
+Episode length: 300
+Last episode date release: 2017-09-17
+Genres: Детское, Комедия, 
+Rating limit: G
+Description: Нет описания

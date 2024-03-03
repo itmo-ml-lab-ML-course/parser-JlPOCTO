@@ -1,0 +1,7 @@
+Name: Bang Bang Long Chudong: Chuanshuo Zhong De Longwang
+Type: video.tv_show
+Episodes: 16
+Episode length: 300
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

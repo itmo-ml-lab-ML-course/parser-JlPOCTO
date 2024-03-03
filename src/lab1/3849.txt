@@ -1,0 +1,9 @@
+Name: Daikaijuu Gamenya Shuurai
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Комедия, 
+Rating limit: G
+Rating: 6.28
+Rating numbers: 379
+Description: Нет описания

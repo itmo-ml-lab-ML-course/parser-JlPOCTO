@@ -1,0 +1,9 @@
+Name: Santa Company: Manatsu no Merry Christmas
+Type: video.movie
+Episodes: 1
+Episode length: 1560
+Genres: Фэнтези, 
+Rating limit: PG
+Rating: 5.26
+Rating numbers: 516
+Description: Нет описания

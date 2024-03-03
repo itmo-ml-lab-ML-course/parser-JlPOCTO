@@ -1,0 +1,10 @@
+Name: Yumeria
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2004-03-26
+Genres: Экшен, Комедия, Этти, Гарем, Супер сила, 
+Rating limit: PG-13
+Rating: 6.08
+Rating numbers: 1429
+Description: Нет описания

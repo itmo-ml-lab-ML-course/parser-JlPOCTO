@@ -1,0 +1,9 @@
+Name: Hakubunchou no Shiro
+Type: video.tv_show
+Episodes: 1
+Episode length: 240
+Genres: Повседневность, 
+Rating limit: G
+Rating: 6.16
+Rating numbers: 244
+Description: Нет описания

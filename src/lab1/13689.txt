@@ -1,0 +1,10 @@
+Name: W-Tails Cat: A Strange Presence
+Type: video.tv_show
+Episodes: 7
+Episode length: 300
+Last episode date release: 2013-10-24
+Genres: Экшен, Военное, Фантастика, Полиция, Меха, 
+Rating limit: PG-13
+Rating: 5.11
+Rating numbers: 401
+Description: Гейм-рип с 3D игры от великого мастера Масамунэ Широ (автор сюжета Призрак в доспехах , Яблочное зёрнышко ).Спец агент Сирил Брооклин провалила задание, и попала в лапы противнику.

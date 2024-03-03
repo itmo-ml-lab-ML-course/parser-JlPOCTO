@@ -1,0 +1,9 @@
+Name: Meitantei Conan Movie 05: Tengoku e no Countdown
+Type: video.movie
+Episodes: 1
+Episode length: 6000
+Genres: Сёнен, Приключения, Комедия, Детектив, Полиция, 
+Rating limit: PG-13
+Rating: 8.12
+Rating numbers: 3424
+Description: Нет описания

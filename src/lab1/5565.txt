@@ -1,0 +1,8 @@
+Name: Yomiuri Shimbun
+Type: video.other
+Episodes: 1
+Genres: Исторический, 
+Rating limit: G
+Rating: 4.45
+Rating numbers: 575
+Description: Рекламный ролик длительностью пятнадцать секунд, созданный для газеты Yomiuri Shimbun.

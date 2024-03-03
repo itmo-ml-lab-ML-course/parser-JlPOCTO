@@ -1,0 +1,8 @@
+Name: Shirobako Movie: C96 Gentei Gekijou Maeuriken Kokuchi Eizou
+Type: video.tv_show
+Episodes: 1
+Genres: 
+Rating limit: G
+Rating: 5.55
+Rating numbers: 251
+Description: Нет описания

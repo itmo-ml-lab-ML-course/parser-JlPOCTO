@@ -1,0 +1,10 @@
+Name: Shaman King Specials
+Type: video.other
+Episodes: 5
+Episode length: 2100
+Last episode date release: 2003-07-24
+Genres: Сёнен, Экшен, Комедия, Сверхъестественное, 
+Rating limit: PG-13
+Rating: 7.23
+Rating numbers: 10262
+Description: Пять дополнительных эпизодов, кратко пересказывающих события аниме-сериала «Шаман Кинг».

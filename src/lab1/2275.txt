@@ -1,0 +1,10 @@
+Name: Zoku Touken Ranbu: Hanamaru
+Type: video.tv_show
+Episodes: 12
+Episode length: 1440
+Last episode date release: 2018-03-26
+Genres: Экшен, Комедия, Фэнтези, Исторический, 
+Rating limit: PG-13
+Rating: 7.3
+Rating numbers: 7557
+Description: Нет описания

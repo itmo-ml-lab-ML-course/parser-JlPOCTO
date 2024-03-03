@@ -1,0 +1,7 @@
+Name: Wo Shi Da Xiongmao
+Type: video.movie
+Episodes: 1
+Episode length: 5340
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

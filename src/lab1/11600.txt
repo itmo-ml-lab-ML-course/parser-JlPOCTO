@@ -1,0 +1,10 @@
+Name: Cardfight!! Vanguard: will+Dress Season 3
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2023-10-07
+Genres: Экшен, 
+Rating limit: PG-13
+Rating: 6.53
+Rating numbers: 708
+Description: Нет описания

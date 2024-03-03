@@ -1,0 +1,9 @@
+Name: Selector Destructed WIXOSS Movie
+Type: video.movie
+Episodes: 1
+Episode length: 5340
+Genres: Триллер, Психологическое, 
+Rating limit: R-17
+Rating: 7.19
+Rating numbers: 5330
+Description: Фильм представляет собой пересказ основных событий двух сезонов сериала — «Заражение WIXOSS» и «Распространение WIXOSS» — с добавлением нескольких новых сцен.Также «Разрушение» более подробно рассказывает о Руко Коминато, Улит и новом персонаже Сати Тогасаки.

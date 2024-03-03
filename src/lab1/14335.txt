@@ -1,0 +1,9 @@
+Name: B.B. Fish
+Type: video.other
+Episodes: 1
+Episode length: 1740
+Genres: Сэйнэн, Драма, Романтика, 
+Rating limit: R+
+Rating: 4.45
+Rating numbers: 620
+Description: Нет описания

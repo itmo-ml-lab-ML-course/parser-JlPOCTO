@@ -1,0 +1,6 @@
+Name: Mao Mi De Hu Zi
+Type: video.movie
+Episodes: 1
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

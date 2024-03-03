@@ -1,0 +1,9 @@
+Name: Muybridge no Ito
+Type: video.movie
+Episodes: 1
+Episode length: 780
+Genres: Драма, 
+Rating limit: R+
+Rating: 6.07
+Rating numbers: 351
+Description: Нет описания

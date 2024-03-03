@@ -1,0 +1,7 @@
+Name: Niu Lang Zhi Nu
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Романтика, Исторический, 
+Rating limit: G
+Description: Нет описания

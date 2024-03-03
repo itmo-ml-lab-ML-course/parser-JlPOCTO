@@ -1,0 +1,8 @@
+Name: Mouretsu Atarou (1990)
+Type: video.tv_show
+Episodes: 34
+Episode length: 1440
+Last episode date release: 1990-12-22
+Genres: Детское, Комедия, Повседневность, 
+Rating limit: G
+Description: Нет описания

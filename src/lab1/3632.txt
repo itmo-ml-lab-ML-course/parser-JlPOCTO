@@ -1,0 +1,10 @@
+Name: Renjian Zui Deyi
+Type: video.tv_show
+Episodes: 60
+Episode length: 720
+Last episode date release: 2022-05-11
+Genres: Экшен, Фэнтези, Боевые искусства, 
+Rating limit: PG-13
+Rating: 6.34
+Rating numbers: 867
+Description: Нет описания

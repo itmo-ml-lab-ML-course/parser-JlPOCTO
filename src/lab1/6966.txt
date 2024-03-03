@@ -1,0 +1,7 @@
+Name: Xin Zhuang De Men Ling
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

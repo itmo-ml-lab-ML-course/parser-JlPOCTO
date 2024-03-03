@@ -1,0 +1,9 @@
+Name: Chinkoroheibei Tamatebako
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Детское, Комедия, Фэнтези, 
+Rating limit: G
+Rating: 5.08
+Rating numbers: 306
+Description: Нет описания

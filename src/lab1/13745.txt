@@ -1,0 +1,9 @@
+Name: Izakaya no Ichiya
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Экшен, 
+Rating limit: G
+Rating: 5.07
+Rating numbers: 313
+Description: Нет описания

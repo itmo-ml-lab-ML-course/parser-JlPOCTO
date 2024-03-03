@@ -1,0 +1,7 @@
+Name: Taka no Tsumedan, Toyama
+Type: video.tv_show
+Episodes: 12 / ?
+Episode length: 240
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

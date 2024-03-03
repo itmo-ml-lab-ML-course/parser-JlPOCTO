@@ -1,0 +1,7 @@
+Name: Qin Shi Mingyue: Xiao Chuangjianghu
+Type: video.tv_show
+Episodes: 52
+Episode length: 240
+Genres: Комедия, Фэнтези, 
+Rating limit: G
+Description: Нет описания

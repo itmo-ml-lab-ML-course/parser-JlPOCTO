@@ -1,0 +1,7 @@
+Name: Tawamure Kobako
+Type: video.movie
+Episodes: 1
+Episode length: 480
+Genres: Безумие, 
+Rating limit: G
+Description: Нет описания

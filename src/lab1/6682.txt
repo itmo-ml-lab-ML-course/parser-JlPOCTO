@@ -1,0 +1,7 @@
+Name: Xi Yue Hui
+Type: video.tv_show
+Episodes: 1
+Episode length: 5580
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

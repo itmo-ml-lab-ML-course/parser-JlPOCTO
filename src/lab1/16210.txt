@@ -1,0 +1,7 @@
+Name: Shi Er Shengxiao: Tianxia Shu Tu
+Type: video.tv_show
+Episodes: 40
+Episode length: 900
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

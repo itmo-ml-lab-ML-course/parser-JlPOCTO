@@ -1,0 +1,9 @@
+Name: Kangaeru Jikan
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 4.98
+Rating numbers: 147
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Donkikko
+Type: video.tv_show
+Episodes: 21
+Episode length: 1500
+Last episode date release: 1968-01-25
+Genres: Сёнен, Комедия, 
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Guaishou Chufang
+Type: video.tv_show
+Episodes: 26
+Episode length: 180
+Genres: Комедия, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Haier Xiongdi Yuzhou Da Maoxian
+Type: video.tv_show
+Episodes: 54
+Episode length: 300
+Genres: Приключения, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Baka Mukashibanashi Movie: Jijii Wars
+Type: video.movie
+Episodes: 1
+Episode length: 3300
+Genres: Комедия, Фэнтези, Исторический, 
+Rating limit: G
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Play Jazz
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.37
+Rating numbers: 230
+Description: Нет описания

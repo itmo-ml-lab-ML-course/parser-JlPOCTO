@@ -1,0 +1,9 @@
+Name: Shinmai &#39;FUREAI&#39; Net. Concept Movie
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Повседневность, 
+Rating limit: G
+Rating: 5.0
+Rating numbers: 154
+Description: Нет описания

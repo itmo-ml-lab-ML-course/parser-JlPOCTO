@@ -1,0 +1,9 @@
+Name: Dragon Ball Super: Super Hero
+Type: video.movie
+Episodes: 1
+Episode length: 5940
+Genres: Сёнен, Экшен, Приключения, Фэнтези, Боевые искусства, Супер сила, 
+Rating limit: PG-13
+Rating: 7.56
+Rating numbers: 2038
+Description: Нет описания

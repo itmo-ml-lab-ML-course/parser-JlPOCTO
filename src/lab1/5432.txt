@@ -1,0 +1,9 @@
+Name: Chicken Papa
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Комедия, 
+Rating limit: G
+Rating: 4.2
+Rating numbers: 246
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: New Hal &amp; Bons
+Type: video.other
+Episodes: 9
+Episode length: 360
+Genres: Комедия, Повседневность, 
+Rating limit: PG-13
+Rating: 5.13
+Rating numbers: 173
+Description: Нет описания

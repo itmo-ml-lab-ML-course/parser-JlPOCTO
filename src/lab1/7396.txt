@@ -1,0 +1,8 @@
+Name: Bie Re Liumang Tu Ma Xiu
+Type: video.tv_show
+Episodes: 70
+Episode length: 180
+Last episode date release: 2018-10-19
+Genres: Комедия, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

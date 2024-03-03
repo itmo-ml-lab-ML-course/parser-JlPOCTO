@@ -1,0 +1,7 @@
+Name: Cike Nieyinniang Qianchuan
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Экшен, 
+Rating limit: PG
+Description: Нет описания

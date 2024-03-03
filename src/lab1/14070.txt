@@ -1,0 +1,9 @@
+Name: Nyancos: Hello! Our Brilliant Future
+Type: video.other
+Episodes: 1
+Episode length: 1500
+Genres: Фантастика, Космос, 
+Rating limit: G
+Rating: 4.81
+Rating numbers: 161
+Description: Нет описания

@@ -1,0 +1,6 @@
+Name: Mizu no Oto
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Безумие, Музыка, 
+Description: Нет описания

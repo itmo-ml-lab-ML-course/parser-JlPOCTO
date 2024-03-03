@@ -1,0 +1,9 @@
+Name: Yakitori
+Type: video.tv_show
+Episodes: 6
+Episode length: 1860
+Genres: Экшен, Фантастика, Военное, Космос, 
+Rating limit: R-17
+Rating: 6.44
+Rating numbers: 807
+Description: Нет описания

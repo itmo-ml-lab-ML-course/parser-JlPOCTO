@@ -1,0 +1,9 @@
+Name: Kuma ni Kuwarenu Otoko
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Приключения, Музыка, 
+Rating limit: G
+Rating: 4.92
+Rating numbers: 312
+Description: Нет описания

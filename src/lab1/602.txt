@@ -1,0 +1,10 @@
+Name: Pui Pui Molcar
+Type: video.tv_show
+Episodes: 12
+Episode length: 120
+Last episode date release: 2021-03-23
+Genres: Детское, Комедия, Машины, 
+Rating limit: G
+Rating: 8.0
+Rating numbers: 1321
+Description: Нет описания

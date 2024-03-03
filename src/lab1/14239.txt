@@ -1,0 +1,9 @@
+Name: Natsu no Shisen 1942
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, 
+Rating limit: PG-13
+Rating: 4.64
+Rating numbers: 219
+Description: Нет описания

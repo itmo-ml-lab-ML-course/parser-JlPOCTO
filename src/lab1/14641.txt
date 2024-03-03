@@ -1,0 +1,7 @@
+Name: Miao Xingren
+Type: video.tv_show
+Episodes: 24
+Episode length: 420
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

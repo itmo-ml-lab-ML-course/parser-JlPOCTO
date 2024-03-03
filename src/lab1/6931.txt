@@ -1,0 +1,8 @@
+Name: Xin Datou Er Zi He Xiao Tou Baba
+Type: video.tv_show
+Episodes: 50
+Episode length: 720
+Last episode date release: 2014-01-01
+Genres: Повседневность, Детское, 
+Rating limit: G
+Description: Нет описания

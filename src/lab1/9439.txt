@@ -1,0 +1,10 @@
+Name: Dr. Stone: New World
+Type: video.tv_show
+Episodes: 11
+Episode length: 1440
+Last episode date release: 2023-06-15
+Genres: Сёнен, Приключения, Комедия, Фантастика, 
+Rating limit: PG-13
+Rating: 8.15
+Rating numbers: 47390
+Description: Нет описания

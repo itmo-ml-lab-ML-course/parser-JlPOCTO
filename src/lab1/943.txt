@@ -1,0 +1,9 @@
+Name: New Initial D Movie: Legend 2 - Tousou
+Type: video.movie
+Episodes: 1
+Episode length: 3660
+Genres: Сэйнэн, 
+Rating limit: PG-13
+Rating: 7.8
+Rating numbers: 9383
+Description: Второй фильм трилогии, показывающий битву Такуми против Такэши и Шинго.

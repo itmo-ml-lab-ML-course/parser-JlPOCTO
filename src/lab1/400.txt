@@ -1,0 +1,9 @@
+Name: Meitantei Conan Movie 20: Junkoku no Nightmare
+Type: video.movie
+Episodes: 1
+Episode length: 6720
+Genres: Сёнен, Экшен, Детектив, Полиция, 
+Rating limit: G
+Rating: 8.17
+Rating numbers: 3169
+Description: Конан с друзьями идёт в новый Токийский аквариум. Там, под колесом обозрения, он замечает девушку с разноцветными глазами. Она не помнит ни своего имени, ни своего прошлого. Конан обещает помочь девушке и вернуть её воспоминания.

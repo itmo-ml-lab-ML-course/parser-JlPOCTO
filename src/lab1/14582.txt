@@ -1,0 +1,7 @@
+Name: Menghuan Maomi Wu
+Type: video.tv_show
+Episodes: 52
+Episode length: 420
+Genres: Фэнтези, Детское, 
+Rating limit: G
+Description: Нет описания

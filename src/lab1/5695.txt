@@ -1,0 +1,7 @@
+Name: Sollo Talchul Gwi
+Type: video.movie
+Episodes: 1
+Episode length: 5040
+Genres: Романтика, Сверхъестественное, 
+Rating limit: PG-13
+Description: Нет описания

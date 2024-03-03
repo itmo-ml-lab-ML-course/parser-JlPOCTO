@@ -1,0 +1,7 @@
+Name: Shuimu Youjiao Xuetang Xilie: Sanzijing
+Type: video.tv_show
+Episodes: 116
+Episode length: 300
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Neko no Robu
+Type: video.tv_show
+Episodes: 10
+Episode length: 60
+Last episode date release: 2018-03-16
+Genres: Комедия, Повседневность, 
+Rating limit: G
+Description: Нет описания

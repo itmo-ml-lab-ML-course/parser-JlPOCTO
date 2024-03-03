@@ -1,0 +1,7 @@
+Name: Tico Dongji Pian
+Type: video.tv_show
+Episodes: 57
+Episode length: 600
+Genres: Детское, 
+Rating limit: PG
+Description: Нет описания

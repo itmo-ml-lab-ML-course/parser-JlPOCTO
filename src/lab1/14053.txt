@@ -1,0 +1,8 @@
+Name: Uchuu Seibutsu Jirou
+Type: video.tv_show
+Episodes: 1
+Genres: Детское, Музыка, Космос, 
+Rating limit: G
+Rating: 4.83
+Rating numbers: 312
+Description: Нет описания

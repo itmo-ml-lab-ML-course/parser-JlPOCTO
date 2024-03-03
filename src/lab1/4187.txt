@@ -1,0 +1,9 @@
+Name: Ple Ple Pleiades Special Edition
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Комедия, Пародия, 
+Rating limit: PG-13
+Rating: 6.23
+Rating numbers: 2229
+Description: Нет описания

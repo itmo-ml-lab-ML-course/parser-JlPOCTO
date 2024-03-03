@@ -1,0 +1,7 @@
+Name: Restart
+Type: video.movie
+Episodes: 1
+Episode length: 840
+Genres: Безумие, Музыка, 
+Rating limit: R+
+Description: Нет описания

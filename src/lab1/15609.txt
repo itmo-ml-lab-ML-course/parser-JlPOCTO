@@ -1,0 +1,8 @@
+Name: Qianfang Gaoneng: La Ji
+Type: video.tv_show
+Episodes: 16
+Episode length: 420
+Last episode date release: 2017-09-22
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

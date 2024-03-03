@@ -1,0 +1,8 @@
+Name: Pinch to Punch
+Type: video.tv_show
+Episodes: 156
+Episode length: 300
+Last episode date release: 1970-03-28
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

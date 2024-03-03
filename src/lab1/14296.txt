@@ -1,0 +1,9 @@
+Name: Tonari no Yarou
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Комедия, 
+Rating limit: G
+Rating: 4.54
+Rating numbers: 325
+Description: Нет описания

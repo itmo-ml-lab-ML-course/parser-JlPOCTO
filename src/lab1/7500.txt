@@ -1,0 +1,7 @@
+Name: Bu Lu Ke Zhandui: Yuan Xing Shi Shouwei
+Type: video.tv_show
+Episodes: 20
+Episode length: 720
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

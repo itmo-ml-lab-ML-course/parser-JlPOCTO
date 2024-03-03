@@ -1,0 +1,10 @@
+Name: Fushigi no Kuni no Alice
+Type: video.tv_show
+Episodes: 24
+Episode length: 1560
+Last episode date release: 1984-03-26
+Genres: Детское, Приключения, Фэнтези, 
+Rating limit: G
+Rating: 6.41
+Rating numbers: 368
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Build Divide: Code White
+Type: video.tv_show
+Episodes: 12
+Episode length: 1380
+Last episode date release: 2022-06-26
+Genres: Фэнтези, 
+Rating limit: PG-13
+Rating: 6.65
+Rating numbers: 4357
+Description: Нет описания

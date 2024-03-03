@@ -1,0 +1,9 @@
+Name: Tottoi
+Type: video.movie
+Episodes: 1
+Episode length: 4920
+Genres: Детское, Приключения, Драма, Повседневность, 
+Rating limit: G
+Rating: 6.11
+Rating numbers: 370
+Description: Нет описания

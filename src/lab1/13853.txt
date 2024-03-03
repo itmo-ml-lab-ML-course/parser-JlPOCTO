@@ -1,0 +1,9 @@
+Name: Toumei Ningen
+Type: video.movie
+Episodes: 1
+Episode length: 300
+Genres: Безумие, 
+Rating limit: G
+Rating: 5.0
+Rating numbers: 298
+Description: Нет описания

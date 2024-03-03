@@ -1,0 +1,10 @@
+Name: Macross Fufonfia
+Type: video.tv_show
+Episodes: 20
+Episode length: 60
+Last episode date release: 2008-10-08
+Genres: Комедия, Пародия, 
+Rating limit: G
+Rating: 5.5
+Rating numbers: 1029
+Description: Нет описания

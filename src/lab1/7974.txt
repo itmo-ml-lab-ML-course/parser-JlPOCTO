@@ -1,0 +1,8 @@
+Name: Dame Oyaji
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 1974-10-09
+Genres: Комедия, Повседневность, 
+Rating limit: PG-13
+Description: Нет описания

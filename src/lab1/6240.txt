@@ -1,0 +1,7 @@
+Name: Tsukin Daisensou
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Экшен, Комедия, Военное, 
+Rating limit: PG-13
+Description: Нет описания

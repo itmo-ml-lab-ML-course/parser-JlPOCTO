@@ -1,0 +1,9 @@
+Name: Suteki na Okurimono
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Романтика, Сверхъестественное, 
+Rating limit: G
+Rating: 6.1
+Rating numbers: 118
+Description: Нет описания

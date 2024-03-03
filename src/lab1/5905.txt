@@ -1,0 +1,8 @@
+Name: Taiban!
+Type: video.tv_show
+Episodes: 7
+Episode length: 1500
+Last episode date release: 2021-05-10
+Genres: Музыка, Школа, 
+Rating limit: PG-13
+Description: Нет описания

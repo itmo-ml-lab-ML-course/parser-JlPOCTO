@@ -1,0 +1,7 @@
+Name: Caribadix 2nd Season
+Type: video.tv_show
+Episodes: 39
+Last episode date release: 2019-01-06
+Genres: Комедия, Музыка, 
+Rating limit: PG
+Description: Короткометражное аниме, которое транслировалось во время телевизионной музыкальной программы «Japan Countdown»  в Осаке.

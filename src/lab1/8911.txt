@@ -1,0 +1,7 @@
+Name: Hello Carbot: Susanghan Masuldanui Bimil
+Type: video.movie
+Episodes: 1
+Episode length: 4740
+Genres: Экшен, Меха, Детское, 
+Rating limit: PG
+Description: Нет описания

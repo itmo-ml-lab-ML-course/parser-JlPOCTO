@@ -1,0 +1,7 @@
+Name: The House of Greed
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Комедия, 
+Rating limit: R-17
+Description: Нет описания

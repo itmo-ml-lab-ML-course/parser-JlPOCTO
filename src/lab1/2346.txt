@@ -1,0 +1,10 @@
+Name: YAT Anshin! Uchuu Ryokou
+Type: video.tv_show
+Episodes: 50
+Episode length: 1500
+Last episode date release: 1997-09-27
+Genres: Сёнен, Приключения, Комедия, Фантастика, 
+Rating limit: PG-13
+Rating: 7.28
+Rating numbers: 299
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Arad: Suming Zhi Men
+Type: video.tv_show
+Episodes: 20
+Episode length: 840
+Last episode date release: 2017-09-01
+Genres: Экшен, Приключения, Фэнтези, 
+Rating limit: PG-13
+Rating: 6.01
+Rating numbers: 1467
+Description: Нет описания

@@ -1,0 +1,10 @@
+Name: Tokusou Kihei Dorvack
+Type: video.tv_show
+Episodes: 36
+Episode length: 1440
+Last episode date release: 1984-07-06
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: R+
+Rating: 6.35
+Rating numbers: 289
+Description: Нет описания

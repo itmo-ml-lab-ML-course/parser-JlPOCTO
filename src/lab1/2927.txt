@@ -1,0 +1,10 @@
+Name: Lady Georgie
+Type: video.tv_show
+Episodes: 45
+Episode length: 1440
+Last episode date release: 1984-02-25
+Genres: Сёдзё, Драма, Романтика, Исторический, 
+Rating limit: PG-13
+Rating: 7.17
+Rating numbers: 941
+Description: Нет описания

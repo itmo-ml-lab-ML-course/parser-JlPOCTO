@@ -1,0 +1,9 @@
+Name: Aishen Qiaokeli-ing: Wanjie Jinian
+Type: video.tv_show
+Episodes: 1
+Episode length: 480
+Genres: Комедия, Романтика, Гарем, Школа, 
+Rating limit: PG-13
+Rating: 6.43
+Rating numbers: 2349
+Description: Краткий пересказ событий сериала «Шоколад Купидона».

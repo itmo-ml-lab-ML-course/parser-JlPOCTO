@@ -1,0 +1,9 @@
+Name: Uneasiness and Triangle
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 5.35
+Rating numbers: 502
+Description: Нет описания

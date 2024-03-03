@@ -1,0 +1,10 @@
+Name: Yamato Takeru
+Type: video.tv_show
+Episodes: 37
+Episode length: 1440
+Last episode date release: 1994-12-24
+Genres: Сёнен, Экшен, Приключения, Фэнтези, Фантастика, Меха, Космос, 
+Rating limit: PG-13
+Rating: 6.63
+Rating numbers: 489
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Gangtie Feilong 2: Long Hun Juexing
+Type: video.tv_show
+Episodes: 26
+Episode length: 720
+Genres: Экшен, Фантастика, 
+Rating limit: PG-13
+Description: Нет описания

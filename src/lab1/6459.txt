@@ -1,0 +1,8 @@
+Name: Wei Jiang
+Type: video.tv_show
+Episodes: 26
+Episode length: 1380
+Last episode date release: 2023-06-23
+Genres: Экшен, Фэнтези, 
+Rating limit: PG-13
+Description: Нет описания

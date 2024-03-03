@@ -1,0 +1,7 @@
+Name: Xiaonu Cao E
+Type: video.tv_show
+Episodes: 10
+Episode length: 540
+Genres: Фэнтези, Исторический, 
+Rating limit: G
+Description: Нет описания

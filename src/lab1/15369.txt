@@ -1,0 +1,8 @@
+Name: Pants Pankurou
+Type: video.tv_show
+Episodes: 85
+Episode length: 60
+Last episode date release: 2008-03-01
+Genres: Детское, Комедия, Повседневность, 
+Rating limit: G
+Description: Нет описания

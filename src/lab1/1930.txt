@@ -1,0 +1,9 @@
+Name: Tsurune Movie: Hajimari no Issha
+Type: video.movie
+Episodes: 1
+Episode length: 6120
+Genres: Спорт, Школа, 
+Rating limit: PG-13
+Rating: 7.37
+Rating numbers: 3542
+Description: Нет описания

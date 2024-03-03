@@ -1,0 +1,9 @@
+Name: The Tales of Rien Village #1: &quot;Toilet ni Ittokiya&quot;
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Фэнтези, 
+Rating limit: G
+Rating: 5.18
+Rating numbers: 188
+Description: Нет описания

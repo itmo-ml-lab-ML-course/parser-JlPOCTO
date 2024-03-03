@@ -1,0 +1,7 @@
+Name: Nono-chan Theater
+Type: video.tv_show
+Episodes: 85
+Last episode date release: 2001-12-28
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

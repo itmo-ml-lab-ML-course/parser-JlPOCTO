@@ -1,0 +1,9 @@
+Name: Juliet
+Type: video.other
+Episodes: 1
+Episode length: 1620
+Genres: Комедия, Сверхъестественное, Этти, 
+Rating limit: R+
+Rating: 4.2
+Rating numbers: 416
+Description: Нет описания

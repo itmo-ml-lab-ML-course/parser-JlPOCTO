@@ -1,0 +1,10 @@
+Name: Shingeki no Bahamut: Genesis - Short Story
+Type: video.tv_show
+Episodes: 2
+Episode length: 540
+Last episode date release: 2017-02-20
+Genres: Экшен, Приключения, Фэнтези, 
+Rating limit: PG-13
+Rating: 7.12
+Rating numbers: 12986
+Description: Дополнительные эпизоды, связывающие сюжеты «Ярость Бахамута: Генезис» и «Ярость Бахамута: Невинная душа».

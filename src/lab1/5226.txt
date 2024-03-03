@@ -1,0 +1,8 @@
+Name: MahoYome: Aisatsu
+Type: video.tv_show
+Episodes: 1
+Genres: Пародия, 
+Rating limit: G
+Rating: 6.0
+Rating numbers: 7751
+Description: Короткий эпизод, в котором Тисэ, Элиас и Рут решают, кто будет говорить, что аниме «Невеста чародея» начнёт выходить в Твиттере. В итоге представила его Тисэ.

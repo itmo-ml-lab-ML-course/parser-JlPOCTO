@@ -1,0 +1,10 @@
+Name: Minion
+Type: video.tv_show
+Episodes: 3
+Episode length: 120
+Last episode date release: 2019-09-09
+Genres: Фэнтези, Повседневность, Музыка, 
+Rating limit: G
+Rating: 5.47
+Rating numbers: 191
+Description: Нет описания

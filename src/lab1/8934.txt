@@ -1,0 +1,7 @@
+Name: Heungbuwa Nolbu
+Type: video.movie
+Episodes: 1
+Episode length: 4080
+Genres: Фэнтези, Повседневность, Детское, 
+Rating limit: G
+Description: Нет описания

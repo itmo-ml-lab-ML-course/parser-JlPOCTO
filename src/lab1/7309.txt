@@ -1,0 +1,7 @@
+Name: Baobao Bashi: Qimiao Jiuyuan Dui
+Type: video.tv_show
+Episodes: 32
+Episode length: 1800
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

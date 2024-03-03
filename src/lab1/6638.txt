@@ -1,0 +1,8 @@
+Name: Wuxian Shaonu 48
+Type: video.tv_show
+Episodes: 12
+Episode length: 1080
+Last episode date release: 2020-06-17
+Genres: Фэнтези, Музыка, 
+Rating limit: PG
+Description: Нет описания

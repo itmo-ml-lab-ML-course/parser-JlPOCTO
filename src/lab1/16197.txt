@@ -1,0 +1,7 @@
+Name: Shentan Dadang
+Type: video.tv_show
+Episodes: 26
+Episode length: 1080
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

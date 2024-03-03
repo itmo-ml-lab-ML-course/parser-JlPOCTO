@@ -1,0 +1,8 @@
+Name: Koi wa 1-nichi ni Shite Narazu
+Type: video.tv_show
+Episodes: 1
+Episode length: 360
+Genres: Повседневность, 
+Rating: 5.29
+Rating numbers: 404
+Description: Нет описания

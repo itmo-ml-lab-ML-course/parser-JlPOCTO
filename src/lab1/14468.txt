@@ -1,0 +1,7 @@
+Name: Maoxian Xiao Wangzi
+Type: video.tv_show
+Episodes: 52
+Episode length: 540
+Genres: Приключения, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

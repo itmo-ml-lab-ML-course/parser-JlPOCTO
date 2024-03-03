@@ -1,0 +1,10 @@
+Name: Tactical Roar
+Type: video.tv_show
+Episodes: 13
+Episode length: 1500
+Last episode date release: 2006-04-02
+Genres: Комедия, Романтика, Фантастика, Военное, 
+Rating limit: PG-13
+Rating: 6.41
+Rating numbers: 1273
+Description: Нет описания

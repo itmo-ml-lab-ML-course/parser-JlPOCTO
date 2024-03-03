@@ -1,0 +1,9 @@
+Name: Yes! Precure 5 Movie: Kagami no Kuni no Miracle Daibouken!
+Type: video.movie
+Episodes: 1
+Episode length: 4200
+Genres: Фэнтези, Романтика, Музыка, 
+Rating limit: G
+Rating: 7.29
+Rating numbers: 1081
+Description: Нет описания

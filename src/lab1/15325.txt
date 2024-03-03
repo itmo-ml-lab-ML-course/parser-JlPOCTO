@@ -1,0 +1,7 @@
+Name: Otsukare Oyasumi, Yumeko.
+Type: video.tv_show
+Episodes: 1
+Episode length: 180
+Genres: Безумие, Музыка, 
+Rating limit: G
+Description: Нет описания

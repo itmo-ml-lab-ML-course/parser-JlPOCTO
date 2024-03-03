@@ -1,0 +1,7 @@
+Name: Naohonghong de Huihua Ben
+Type: video.tv_show
+Episodes: 18
+Episode length: 420
+Genres: Фэнтези, 
+Rating limit: PG
+Description: Нет описания

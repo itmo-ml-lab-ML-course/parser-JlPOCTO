@@ -1,0 +1,9 @@
+Name: Shunga
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, 
+Rating limit: R+
+Rating: 4.2
+Rating numbers: 279
+Description: Нет описания

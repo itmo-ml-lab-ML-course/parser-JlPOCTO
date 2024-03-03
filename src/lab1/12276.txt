@@ -1,0 +1,9 @@
+Name: Gamera: Rebirth
+Type: video.tv_show
+Episodes: 6
+Episode length: 2640
+Genres: Фантастика, 
+Rating limit: PG-13
+Rating: 6.41
+Rating numbers: 1131
+Description: Нет описания

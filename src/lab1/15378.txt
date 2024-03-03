@@ -1,0 +1,6 @@
+Name: Papan Ga Panda!
+Type: video.tv_show
+Episodes: 665 / ?
+Genres: Детское, Музыка, 
+Rating limit: G
+Description: Нет описания

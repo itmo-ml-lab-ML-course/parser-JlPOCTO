@@ -1,0 +1,9 @@
+Name: Koukyoushihen Eureka Seven Hi-Evolution 2: Anemone
+Type: video.movie
+Episodes: 1
+Episode length: 5400
+Genres: Приключения, Драма, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.63
+Rating numbers: 3408
+Description: Второй фильм в трилогии, действия которого происходят после оригинальной «Эврики 7», но до «Эврики 7 АО».

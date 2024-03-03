@@ -1,0 +1,7 @@
+Name: Yuan Shi Qi Zhuan Qianzhuan: Gloria
+Type: video.tv_show
+Episodes: 2
+Episode length: 960
+Genres: Драма, Фэнтези, Сверхъестественное, 
+Rating limit: PG-13
+Description: Нет описания

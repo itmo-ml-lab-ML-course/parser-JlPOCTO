@@ -1,0 +1,7 @@
+Name: San Xiaoqiang
+Type: video.movie
+Episodes: 1
+Episode length: 4620
+Genres: Комедия, Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

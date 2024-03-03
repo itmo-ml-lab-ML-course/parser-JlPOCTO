@@ -1,0 +1,8 @@
+Name: Space Donguibogam
+Type: video.tv_show
+Episodes: 26
+Episode length: 1500
+Last episode date release: 2022-01-26
+Genres: Приключения, Детское, 
+Rating limit: PG
+Description: Нет описания

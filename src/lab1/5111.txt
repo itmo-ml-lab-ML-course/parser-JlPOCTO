@@ -1,0 +1,9 @@
+Name: Cyborg 009: Kaijuu Sensou
+Type: video.movie
+Episodes: 1
+Episode length: 3600
+Genres: Экшен, Приключения, Фантастика, 
+Rating limit: PG
+Rating: 6.03
+Rating numbers: 664
+Description: Нет описания

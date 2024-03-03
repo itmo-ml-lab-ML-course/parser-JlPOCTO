@@ -1,0 +1,10 @@
+Name: Zo Zo Zo Zombie-kun
+Type: video.tv_show
+Episodes: 2
+Episode length: 180
+Last episode date release: 2017-03-25
+Genres: Детское, Комедия, 
+Rating limit: PG
+Rating: 5.14
+Rating numbers: 243
+Description: Нет описания

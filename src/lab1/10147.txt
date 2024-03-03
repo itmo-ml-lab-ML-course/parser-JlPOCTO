@@ -1,0 +1,9 @@
+Name: Meitantei Conan Movie 19: Gouka no Himawari
+Type: video.movie
+Episodes: 1
+Episode length: 6720
+Genres: Сёнен, Экшен, Детектив, Полиция, 
+Rating limit: PG-13
+Rating: 7.72
+Rating numbers: 2234
+Description: Нет описания

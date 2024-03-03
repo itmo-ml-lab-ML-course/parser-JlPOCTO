@@ -1,0 +1,7 @@
+Name: Wuliao Shi She
+Type: video.tv_show
+Episodes: 15
+Episode length: 240
+Genres: Детское, 
+Rating limit: G
+Description: Нет описания

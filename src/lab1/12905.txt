@@ -1,0 +1,9 @@
+Name: Kagaku Manga Survival
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Сёнен, Экшен, Комедия, 
+Rating limit: PG
+Rating: 5.45
+Rating numbers: 332
+Description: Нет описания

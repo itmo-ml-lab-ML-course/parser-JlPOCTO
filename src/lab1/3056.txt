@@ -1,0 +1,10 @@
+Name: Muteki Koujin Daitarn 3
+Type: video.tv_show
+Episodes: 40
+Episode length: 1500
+Last episode date release: 1979-03-31
+Genres: Фантастика, Меха, 
+Rating limit: PG
+Rating: 7.15
+Rating numbers: 460
+Description: Нет описания

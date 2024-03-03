@@ -1,0 +1,6 @@
+Name: Redai Fuyan
+Type: video.movie
+Episodes: 1
+Episode length: 1020
+Genres: Безумие, Драма, 
+Description: Нет описания

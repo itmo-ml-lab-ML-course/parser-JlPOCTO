@@ -1,0 +1,10 @@
+Name: Kyoukai Senki
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2021-12-28
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: PG-13
+Rating: 6.32
+Rating numbers: 3118
+Description: Нет описания

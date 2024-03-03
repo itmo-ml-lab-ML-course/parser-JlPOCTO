@@ -1,0 +1,9 @@
+Name: Ao Oni The Animation (Movie)
+Type: video.movie
+Episodes: 1
+Episode length: 3600
+Genres: Ужасы, Детектив, 
+Rating limit: R-17
+Rating: 4.06
+Rating numbers: 2387
+Description: Нет описания

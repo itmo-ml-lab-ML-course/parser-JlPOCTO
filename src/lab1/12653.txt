@@ -1,0 +1,9 @@
+Name: Jakusansei Million Arthur: Forever Kakusansei Million Arthur
+Type: video.tv_show
+Episodes: 1
+Episode length: 120
+Genres: Комедия, Фэнтези, Этти, Пародия, 
+Rating limit: PG-13
+Rating: 5.53
+Rating numbers: 626
+Description: Нет описания

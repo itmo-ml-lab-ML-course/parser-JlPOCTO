@@ -1,0 +1,9 @@
+Name: MahoYome
+Type: video.tv_show
+Episodes: 24
+Last episode date release: 2018-03-24
+Genres: Пародия, 
+Rating limit: G
+Rating: 6.64
+Rating numbers: 8830
+Description: Нет описания

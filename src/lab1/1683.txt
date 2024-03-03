@@ -1,0 +1,10 @@
+Name: Akazukin Chacha
+Type: video.tv_show
+Episodes: 74
+Episode length: 1440
+Last episode date release: 1995-06-30
+Genres: Сёдзё, Приключения, Комедия, Фэнтези, Романтика, 
+Rating limit: G
+Rating: 7.52
+Rating numbers: 1025
+Description: Нет описания

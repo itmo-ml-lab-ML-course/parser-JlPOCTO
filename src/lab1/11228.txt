@@ -1,0 +1,10 @@
+Name: Wonder Beat Scramble
+Type: video.tv_show
+Episodes: 26
+Episode length: 1320
+Last episode date release: 1986-11-19
+Genres: Экшен, Фантастика, Космос, 
+Rating limit: PG-13
+Rating: 6.59
+Rating numbers: 560
+Description: Нет описания

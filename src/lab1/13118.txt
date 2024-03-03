@@ -1,0 +1,9 @@
+Name: Beer Mukashi Mukashi
+Type: video.movie
+Episodes: 1
+Episode length: 720
+Genres: Исторический, 
+Rating limit: G
+Rating: 5.37
+Rating numbers: 323
+Description: Нет описания

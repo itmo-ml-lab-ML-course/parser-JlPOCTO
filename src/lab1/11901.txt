@@ -1,0 +1,9 @@
+Name: Atashin&#39;chi Movie
+Type: video.movie
+Episodes: 1
+Episode length: 5700
+Genres: Комедия, Супер сила, 
+Rating limit: G
+Rating: 6.47
+Rating numbers: 213
+Description: Нет описания

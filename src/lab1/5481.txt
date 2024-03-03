@@ -1,0 +1,9 @@
+Name: Usatalk
+Type: video.tv_show
+Episodes: 1
+Episode length: 60
+Genres: Безумие, 
+Rating limit: G
+Rating: 3.91
+Rating numbers: 276
+Description: Нет описания

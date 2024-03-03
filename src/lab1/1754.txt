@@ -1,0 +1,9 @@
+Name: Doraemon Movie 40: Nobita no Shin Kyouryuu
+Type: video.movie
+Episodes: 1
+Episode length: 6600
+Genres: Приключения, Комедия, Фантастика, 
+Rating limit: PG
+Rating: 7.5
+Rating numbers: 530
+Description: Нет описания

@@ -1,0 +1,5 @@
+Name: Ramen Akaneko
+Type: video.tv_show
+Episodes: 1
+Genres: Комедия, Работа, Сёнен, 
+Description: Нет описания

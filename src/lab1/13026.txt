@@ -1,0 +1,8 @@
+Name: Burutabu-chan
+Type: video.tv_show
+Episodes: 1
+Genres: Комедия, Фэнтези, 
+Rating limit: PG-13
+Rating: 5.4
+Rating numbers: 178
+Description: Нет описания

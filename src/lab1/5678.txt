@@ -1,0 +1,7 @@
+Name: Sittakaman!
+Type: video.tv_show
+Episodes: 8
+Episode length: 60
+Genres: Комедия, 
+Rating limit: PG
+Description: Нет описания

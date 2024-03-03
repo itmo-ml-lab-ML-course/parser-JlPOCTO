@@ -1,0 +1,7 @@
+Name: Hello! Pu Xingren: Ji Xun Tegong
+Type: video.tv_show
+Episodes: 26
+Episode length: 840
+Genres: Комедия, Детское, 
+Rating limit: PG
+Description: Нет описания

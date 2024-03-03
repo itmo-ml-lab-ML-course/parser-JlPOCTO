@@ -1,0 +1,8 @@
+Name: Midori-chan
+Type: video.tv_show
+Episodes: 6
+Episode length: 360
+Last episode date release: 2018-04-02
+Genres: Игры, Музыка, 
+Rating limit: G
+Description: Нет описания

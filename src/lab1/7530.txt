@@ -1,0 +1,8 @@
+Name: Buonomo
+Type: video.tv_show
+Episodes: 13
+Episode length: 120
+Last episode date release: 2006-01-01
+Genres: Повседневность, 
+Rating limit: G
+Description: Нет описания

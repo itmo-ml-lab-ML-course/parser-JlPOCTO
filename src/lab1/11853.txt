@@ -1,0 +1,10 @@
+Name: Dokaben
+Type: video.tv_show
+Episodes: 163
+Episode length: 1500
+Last episode date release: 1979-12-26
+Genres: Сёнен, Экшен, Спорт, Школа, 
+Rating limit: PG-13
+Rating: 6.48
+Rating numbers: 311
+Description: Нет описания

@@ -1,0 +1,7 @@
+Name: Rotary Park
+Type: video.tv_show
+Episodes: 3
+Episode length: 300
+Genres: Комедия, Фэнтези, 
+Rating limit: G
+Description: Нет описания

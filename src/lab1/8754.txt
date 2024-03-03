@@ -1,0 +1,7 @@
+Name: Hahajing Hua Yuan
+Type: video.tv_show
+Episodes: 13
+Episode length: 1320
+Genres: Комедия, Фэнтези, Исторический, Детское, 
+Rating limit: G
+Description: Нет описания

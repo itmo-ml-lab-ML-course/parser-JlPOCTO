@@ -1,0 +1,7 @@
+Name: Hong Haier Chuanqi
+Type: video.tv_show
+Episodes: 26
+Episode length: 1260
+Genres: Приключения, Фэнтези, Исторический, Детское, 
+Rating limit: PG
+Description: Нет описания

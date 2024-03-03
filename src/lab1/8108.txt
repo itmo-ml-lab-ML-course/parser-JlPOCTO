@@ -1,0 +1,7 @@
+Name: Dogra Magra
+Type: video.other
+Episodes: 1
+Episode length: 3960
+Genres: Детектив, Фантастика, 
+Rating limit: R-17
+Description: Нет описания

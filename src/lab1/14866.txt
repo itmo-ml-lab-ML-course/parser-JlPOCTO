@@ -1,0 +1,8 @@
+Name: Mu Guang Xiawu Cha
+Type: video.tv_show
+Episodes: 12
+Episode length: 300
+Last episode date release: 2018-09-20
+Genres: Комедия, Сверхъестественное, Вампиры, 
+Rating limit: PG-13
+Description: Нет описания

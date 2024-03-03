@@ -1,0 +1,9 @@
+Name: Kappo
+Type: video.movie
+Episodes: 1
+Episode length: 240
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 4.24
+Rating numbers: 299
+Description: Нет описания

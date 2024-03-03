@@ -1,0 +1,9 @@
+Name: 4.Eyes
+Type: video.movie
+Episodes: 1
+Episode length: 540
+Genres: Безумие, 
+Rating limit: R+
+Rating: 3.52
+Rating numbers: 272
+Description: Нет описания

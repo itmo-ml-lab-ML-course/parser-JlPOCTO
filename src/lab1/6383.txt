@@ -1,0 +1,7 @@
+Name: UP Miao Zhiwu Kepu 2nd Season
+Type: video.tv_show
+Episodes: 26
+Episode length: 120
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

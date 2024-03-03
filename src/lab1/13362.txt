@@ -1,0 +1,9 @@
+Name: &quot;Parade&quot; de Satie
+Type: video.movie
+Episodes: 1
+Episode length: 840
+Genres: Безумие, Музыка, 
+Rating limit: G
+Rating: 5.27
+Rating numbers: 289
+Description: Нет описания

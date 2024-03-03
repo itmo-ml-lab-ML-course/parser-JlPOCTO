@@ -1,0 +1,10 @@
+Name: Mao Zhi Ming Specials
+Type: video.tv_show
+Episodes: 5
+Episode length: 300
+Last episode date release: 2022-03-10
+Genres: Комедия, 
+Rating limit: G
+Rating: 6.19
+Rating numbers: 537
+Description: Нет описания

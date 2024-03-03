@@ -1,0 +1,10 @@
+Name: BanG Dream! It&#39;s MyGO!!!!!
+Type: video.tv_show
+Episodes: 13
+Episode length: 1440
+Last episode date release: 2023-09-14
+Genres: Музыка, 
+Rating limit: PG-13
+Rating: 8.24
+Rating numbers: 2132
+Description: Нет описания

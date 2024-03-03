@@ -1,0 +1,9 @@
+Name: Afternoon Class
+Type: video.movie
+Episodes: 1
+Episode length: 180
+Genres: Комедия, Школа, 
+Rating limit: PG-13
+Rating: 6.47
+Rating numbers: 103
+Description: Нет описания

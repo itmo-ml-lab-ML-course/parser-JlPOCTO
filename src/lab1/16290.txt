@@ -1,0 +1,5 @@
+Name: Wu Tian Yu Shang 2035
+Type: video.tv_show
+Episodes: 1
+Genres: Экшен, Фантастика, Меха, 
+Description: Нет описания

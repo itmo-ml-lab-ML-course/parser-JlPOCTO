@@ -1,0 +1,8 @@
+Name: Otanoshimi Anime Gekijou
+Type: video.tv_show
+Episodes: 26
+Episode length: 3240
+Last episode date release: 1970-09-27
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

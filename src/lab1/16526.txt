@@ -1,0 +1,6 @@
+Name: BanG Dream! Ave Mujica
+Type: video.tv_show
+Episodes: 1
+Genres: Музыка, 
+Rating limit: PG-13
+Description: Нет описания

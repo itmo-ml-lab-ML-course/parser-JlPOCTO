@@ -1,0 +1,9 @@
+Name: Denshin Denrei Denwa
+Type: video.movie
+Episodes: 1
+Episode length: 600
+Genres: Детское, 
+Rating limit: G
+Rating: 5.14
+Rating numbers: 250
+Description: Нет описания

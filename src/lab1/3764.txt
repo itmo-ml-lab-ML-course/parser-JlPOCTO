@@ -1,0 +1,10 @@
+Name: Geneshaft
+Type: video.tv_show
+Episodes: 13
+Episode length: 1380
+Last episode date release: 2001-06-28
+Genres: Приключения, Фантастика, Меха, Космос, 
+Rating limit: PG-13
+Rating: 6.3
+Rating numbers: 1548
+Description: Нет описания

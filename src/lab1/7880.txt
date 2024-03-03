@@ -1,0 +1,7 @@
+Name: Convenience Store Senki Purin-tai
+Type: video.tv_show
+Episodes: 8
+Episode length: 60
+Genres: Комедия, 
+Rating limit: G
+Description: Нет описания

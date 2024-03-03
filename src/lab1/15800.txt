@@ -1,0 +1,7 @@
+Name: Romi Xiong Yu Dami Tu 2nd Season
+Type: video.tv_show
+Episodes: 13
+Episode length: 180
+Genres: Фэнтези, Детское, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,6 @@
+Name: Super Titans 15
+Type: video.movie
+Episodes: 1
+Episode length: 4200
+Genres: Сёнен, Экшен, Меха, 
+Description: Нет описания

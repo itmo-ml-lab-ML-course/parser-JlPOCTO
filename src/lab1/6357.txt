@@ -1,0 +1,6 @@
+Name: Uli Sai Jjang-Iya
+Type: video.movie
+Episodes: 1
+Episode length: 1800
+Genres: Школа, 
+Description: Нет описания

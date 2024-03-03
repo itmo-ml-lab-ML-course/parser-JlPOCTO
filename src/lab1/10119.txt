@@ -1,0 +1,9 @@
+Name: Bishoujo Senshi Sailor Moon Eternal Movie 2
+Type: video.movie
+Episodes: 1
+Episode length: 4800
+Genres: Фэнтези, Романтика, Сёдзё, 
+Rating limit: PG-13
+Rating: 7.73
+Rating numbers: 4279
+Description: Нет описания

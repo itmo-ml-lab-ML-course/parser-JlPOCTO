@@ -1,0 +1,9 @@
+Name: Aldnoah.Zero Extra Archives
+Type: video.other
+Episodes: 1
+Episode length: 2880
+Genres: Экшен, Фантастика, Меха, 
+Rating limit: R-17
+Rating: 6.6
+Rating numbers: 5191
+Description: Краткое содержание первого сезона «Альдноа.Зеро».

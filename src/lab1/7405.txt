@@ -1,0 +1,8 @@
+Name: Binfen Baobao
+Type: video.tv_show
+Episodes: 200
+Episode length: 420
+Last episode date release: 2012-02-01
+Genres: Детское, Приключения, 
+Rating limit: PG
+Description: Нет описания

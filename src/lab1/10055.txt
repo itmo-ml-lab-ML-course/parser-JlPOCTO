@@ -1,0 +1,10 @@
+Name: BanG Dream! Garupa☆Pico
+Type: video.tv_show
+Episodes: 26
+Episode length: 180
+Last episode date release: 2018-12-27
+Genres: Комедия, Музыка, 
+Rating limit: PG-13
+Rating: 7.75
+Rating numbers: 3630
+Description: Нет описания

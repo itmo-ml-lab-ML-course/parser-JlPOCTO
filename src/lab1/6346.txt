@@ -1,0 +1,7 @@
+Name: Ugoku Ehon
+Type: video.other
+Episodes: 13
+Episode length: 600
+Genres: Фэнтези, Исторический, Детское, 
+Rating limit: G
+Description: Нет описания

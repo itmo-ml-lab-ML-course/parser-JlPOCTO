@@ -1,0 +1,10 @@
+Name: Kubbe no Ongakukai
+Type: video.tv_show
+Episodes: 2
+Episode length: 60
+Last episode date release: 2019-03-05
+Genres: Фэнтези, Музыка, 
+Rating limit: G
+Rating: 5.36
+Rating numbers: 166
+Description: Промо-видео ко второй книжке норвежской писательницы и художницы Осхиль Канстад Юнсен, в которой Полеш с другом Йолкой устроили в лесу музыкальный концерт.

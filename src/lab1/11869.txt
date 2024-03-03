@@ -1,0 +1,9 @@
+Name: Street Fighter Alpha: Generations
+Type: video.movie
+Episodes: 1
+Episode length: 2520
+Genres: Сёнен, Приключения, 
+Rating limit: PG-13
+Rating: 6.47
+Rating numbers: 949
+Description: Нет описания

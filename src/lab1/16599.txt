@@ -1,0 +1,5 @@
+Name: Youkai Gakkou no Sensei Hajimemashita!
+Type: video.tv_show
+Episodes: 1
+Genres: Комедия, Фэнтези, Школа, Работа, Сёнен, 
+Description: Нет описания

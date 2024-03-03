@@ -1,0 +1,10 @@
+Name: Takoyaki Mant-Man
+Type: video.tv_show
+Episodes: 77
+Episode length: 1440
+Last episode date release: 1999-09-05
+Genres: Комедия, Фантастика, 
+Rating limit: PG
+Rating: 6.1
+Rating numbers: 177
+Description: Нет описания

@@ -1,0 +1,6 @@
+Name: Rennyo Monogatari
+Type: video.movie
+Episodes: 1
+Episode length: 5160
+Genres: Драма, Исторический, 
+Description: Нет описания

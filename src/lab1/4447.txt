@@ -1,0 +1,9 @@
+Name: Catman Series II
+Type: video.tv_show
+Episodes: 8
+Episode length: 240
+Genres: Комедия, Фэнтези, Повседневность, 
+Rating limit: PG-13
+Rating: 6.16
+Rating numbers: 346
+Description: Нет описания

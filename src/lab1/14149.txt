@@ -1,0 +1,9 @@
+Name: Hakuchuu Meikyuu
+Type: video.tv_show
+Episodes: 1
+Episode length: 300
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.74
+Rating numbers: 189
+Description: Нет описания

@@ -1,0 +1,8 @@
+Name: Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu (ONA)
+Type: video.tv_show
+Episodes: 7
+Episode length: 900
+Last episode date release: 2018-07-21
+Genres: Приключения, Фантастика, Меха, Полиция, 
+Rating limit: PG
+Description: Нет описания

@@ -1,0 +1,9 @@
+Name: Yume
+Type: video.movie
+Episodes: 1
+Episode length: 120
+Genres: Безумие, 
+Rating limit: G
+Rating: 4.86
+Rating numbers: 222
+Description: Нет описания
